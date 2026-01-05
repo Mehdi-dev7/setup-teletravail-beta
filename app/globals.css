@@ -1,26 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Audiowide&family=Sora:wght@400;700&family=Golos+Text:wght@400..900&display=swap");
+
 @import "tailwindcss";
 
+@import "bootstrap-icons/font/bootstrap-icons.css";
+@import "remixicon/fonts/remixicon.css";
+
 :root {
-  --background: #ffffff;
-  --foreground: #171717;
+  --prim: #caa05c;
+	--text: #1c1c1d;
+	--body: #f6f6f6;
+	--white: #fff;
+	--black: #000;
+
+  --CalSans: "Sora", sans-serif;
+	--GolosText: "Golos Text", sans-serif;
+	--AudioWide: "Audiowide", sans-serif;
+
+	--transition-regular: 0.3s;
+	--transition-slow: 0.6s;
 }
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  background-color: var(--body);
+}
+
+.AudioWide {
+	font-family: var(--AudioWide);
+}
+.CalSans {
+	font-family: var(--CalSans);
+}
+.GolosText {
+	font-family: var(--GolosText);
 }
