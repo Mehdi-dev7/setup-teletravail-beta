@@ -174,6 +174,21 @@ export default function Navbar() {
             </div>
           ))}
 
+          {/* Guides et Comparatifs */}
+          <div className="flex gap-3 pt-2">
+            {rightLinks.map((link) => (
+              <Link
+                key={link.label}
+                href={link.href}
+                className="flex-1 flex items-center justify-center gap-2 px-4 py-3 sm:py-4 border border-gray-700/50 rounded-lg text-(--text) font-medium hover:text-(--prim) transition"
+                onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+              >
+                <i className={link.icon}></i>
+                {link.label}
+              </Link>
+            ))}
+          </div>
+
         </div>
       </div>
 		</nav>
