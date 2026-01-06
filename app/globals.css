@@ -6,13 +6,13 @@
 @import "remixicon/fonts/remixicon.css";
 
 :root {
-  --prim: #caa05c;
+	--prim: #caa05c;
 	--text: #1c1c1d;
 	--body: #f6f6f6;
 	--white: #fff;
 	--black: #000;
 
-  --Sora: "Sora", sans-serif;
+	--Sora: "Sora", sans-serif;
 	--GolosText: "Golos Text", sans-serif;
 	--AudioWide: "Audiowide", sans-serif;
 
@@ -20,10 +20,8 @@
 	--transition-slow: 0.6s;
 }
 
-
-
 body {
-  background-color: var(--body);
+	background-color: var(--body);
 }
 
 .AudioWide {
@@ -35,4 +33,17 @@ body {
 
 .GolosText {
 	font-family: var(--GolosText);
+}
+
+nav,
+header,
+.navbar,
+[class*="navbar"] {
+	z-index: 9999 !important;
+}
+
+.menu-link a {
+	font-weight: 500;
+	font-family: var(--GolosText);
+	z-index: 1
 }
