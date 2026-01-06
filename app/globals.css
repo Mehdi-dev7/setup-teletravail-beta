@@ -12,7 +12,7 @@
 	--white: #fff;
 	--black: #000;
 
-  --CalSans: "Sora", sans-serif;
+  --Sora: "Sora", sans-serif;
 	--GolosText: "Golos Text", sans-serif;
 	--AudioWide: "Audiowide", sans-serif;
 
@@ -29,9 +29,10 @@ body {
 .AudioWide {
 	font-family: var(--AudioWide);
 }
-.CalSans {
-	font-family: var(--CalSans);
+.Sora {
+	font-family: var(--Sora);
 }
+
 .GolosText {
 	font-family: var(--GolosText);
 }
