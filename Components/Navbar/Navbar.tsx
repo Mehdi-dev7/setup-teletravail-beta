@@ -19,7 +19,7 @@ const links: NavLink[] = [
 		],
 	},
 	{ label: "Ecrans", href: "/ecrans" },
-	{ label: "Sieges Ergonomiques", href: "/chaises" },
+	{ label: "Chaises Ergonomiques", href: "/chaises" },
 
 	{
 		label: "Périphériques",
