@@ -1,6 +1,7 @@
 import Image from "next/image";
 
-import HeroImg from "@/public/img-1.jpg";
+import HeroImg2 from "@/public/img-2.jpg";
+
 
 export default function Hero() {
 	return (
@@ -28,7 +29,7 @@ export default function Hero() {
 						<div className="w-full lg:w-1/2 z-10">
 							<div className="mt-20">
 								<Image
-									src={HeroImg}
+									src={HeroImg2}
 									alt="hero-img"
 									className="w-full h-full rounded-2xl"
 								/>
