@@ -46,10 +46,10 @@ export default function Statistique() {
 					<div className="w-full lg:w-2/3">
 						<h1 className="Sora text-4xl md:text-7xl">
 							{" "}
-							lorem <span className="text-(--prim)">
-								ipsum dolor sit amet
+							Le Télétravail <span className="text-(--prim)">
+								améliore la productivité
 							</span>{" "}
-							consectetur adipiscing elit
+							à condition d&apos;avoir le bon équipement
 						</h1>
 					</div>
 				</div>

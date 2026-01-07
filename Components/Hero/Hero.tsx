@@ -6,11 +6,11 @@ import "swiper/css/autoplay";
 import { Autoplay } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
-import Partners1 from "@/public/huuger-logo.png";
-import Partners2 from "@/public/Samsung/Samsung_idkTmfps1i_0.svg";
-import Partners3 from "@/public/LG Electronics_Logo_Alternative_0.svg";
 import Partners4 from "@/public/Dell/Dell_Logo_Alternative_0.svg";
+import Partners1 from "@/public/huuger-logo.png";
+import Partners3 from "@/public/LG Electronics_Logo_Alternative_0.svg";
 import Partners5 from "@/public/Logitech/Logitech_idOOoZgFHQ_1.svg";
+import Partners2 from "@/public/Samsung/Samsung_idkTmfps1i_0.svg";
 
 import HeroImg2 from "@/public/img-2.jpg";
 
@@ -70,7 +70,6 @@ export default function Hero() {
 					slidesPerView={2}
 					spaceBetween={10}
 					loop={true}
-					loopAdditionalSlides={Partners.length}
 					autoplay={{ delay: 1500, disableOnInteraction: false }}
 					modules={[Autoplay]}
 					breakpoints={{

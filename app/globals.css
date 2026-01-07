@@ -80,7 +80,7 @@ header,
 /* Hero background elements - responsif */
 .hero-bg-elm {
 	position: absolute;
-	top: -50px;
+	top: 0px;
 	left: 30%;
 	transform: translate(-50%, -50%);
 	width: clamp(200px, 40vw, 400px);
@@ -94,7 +94,7 @@ header,
 
 .hero-bg-elm2 {
 	position: absolute;
-	bottom: -100px;
+	bottom: 0px;
 	left: -200px;
 	transform: translate(0, 0);
 	width: clamp(300px, 60vw, 700px);
