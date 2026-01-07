@@ -1,6 +1,26 @@
+"use client";
+
 import Image from "next/image";
+import "swiper/css";
+import "swiper/css/autoplay";
+import { Autoplay } from "swiper/modules";
+import { Swiper, SwiperSlide } from "swiper/react";
+
+import Partners1 from "@/public/huuger-logo.png";
+import Partners2 from "@/public/Samsung/Samsung_idkTmfps1i_0.svg";
+import Partners3 from "@/public/LG Electronics_Logo_Alternative_0.svg";
+import Partners4 from "@/public/Dell/Dell_Logo_Alternative_0.svg";
+import Partners5 from "@/public/Logitech/Logitech_idOOoZgFHQ_1.svg";
 
 import HeroImg2 from "@/public/img-2.jpg";
+
+const Partners = [
+	{ src: Partners1, name: "huuger" },
+	{ src: Partners2, name: "samsung" },
+	{ src: Partners3, name: "lg" },
+	{ src: Partners4, name: "dell" },
+	{ src: Partners5, name: "logitech" },
+];
 
 export default function Hero() {
 	return (
@@ -44,6 +64,38 @@ export default function Hero() {
 						</div>
 					</div>
 				</div>
+			</div>
+			<div className="w-full px-4 sm:px-[8%] lg:px-[12%] pb-10">
+				<Swiper
+					slidesPerView={2}
+					spaceBetween={10}
+					loop={true}
+					loopAdditionalSlides={Partners.length}
+					autoplay={{ delay: 1500, disableOnInteraction: false }}
+					modules={[Autoplay]}
+					breakpoints={{
+						1200: { slidesPerView: 4, spaceBetween: 15 },
+						991: { slidesPerView: 3, spaceBetween: 12 },
+						768: { slidesPerView: 3, spaceBetween: 10 },
+						575: { slidesPerView: 2, spaceBetween: 8 },
+						0: { slidesPerView: 2, spaceBetween: 5 },
+					}}
+					className="partner-swiper"
+				>
+					{Partners.map((partner, index) => (
+						<SwiperSlide key={index}>
+							<div className="partner-logo-container">
+								<Image
+									src={partner.src}
+									alt="PartnerImage"
+									className={`partner-img ${
+										partner.name === "dell" ? "partner-img-dell" : ""
+									} ${partner.name === "lg" ? "partner-img-lg" : ""}`}
+								/>
+							</div>
+						</SwiperSlide>
+					))}
+				</Swiper>
 			</div>
 		</>
 	);
