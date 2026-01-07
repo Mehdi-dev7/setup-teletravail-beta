@@ -32,10 +32,10 @@ export default function Hero() {
 					<div className="flex flex-col lg:flex-row gap-8 lg:gap-8 justify-between items-center">
 						<div className="w-full lg:w-1/2 relative">
 							<div className="">
-								<span className="hero-span border border-gray-400 GolosText font-bold px-6 sm:px-5 py-2 rounded-full text-sm md:text-base">
+								<span className="hero-span border border-gray-400 GolosText uppercase font-bold px-6 sm:px-5 py-2 rounded-full text-sm md:text-base">
 									Guide Expert 2026
 								</span>
-								<h1 className="text-4xl sm:text-4xl md:text-6xl lg:text-7xl 2xl:text-8xl Sora my-4 sm:my-5 leading-tight">
+								<h1 className="text-4xl sm:text-4xl md:text-6xl lg:text-7xl   Sora my-4 sm:my-5 leading-tight">
 									Trouvez votre Setup{" "}
 									<span className="text-(--prim)">Télétravail idéal</span>
 								</h1>

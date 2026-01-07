@@ -89,7 +89,7 @@ header,
 	border-radius: 100%;
 	box-shadow: 0 0 40px rgba(131, 131, 131, 0.1);
 	z-index: -1;
-	display: none;
+	/* display: none; */
 }
 
 .hero-bg-elm2 {
@@ -288,6 +288,27 @@ header,
 	margin-left: 2px;
 }
 
+/* Categories */
+.service-img {
+	transform: scale(0);
+	opacity: 0;
+	transition: var(--transition-slow);
+}
+
+.service-card:hover .service-img {
+	transform: scale(0.9);
+	opacity: 1;
+
+}
+
+.service-card:hover i {
+	transform: rotate(45deg);
+	background-color: var(--prim);
+	color: var(--white);
+	padding: 6px 10px;
+	border-radius: 50%;
+}
+
 /* Footer */
 .footer {
 	background-image: url(../public/img-9.jpg);
@@ -319,6 +340,11 @@ header,
 
 	.about {
 		background-position: top center;
+	}
+	.service-img {
+		transform: scale(1);
+		opacity: 1;
+		transition: var(--transition-slow);
 	}
 }
 

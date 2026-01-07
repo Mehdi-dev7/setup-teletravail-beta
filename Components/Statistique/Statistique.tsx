@@ -22,13 +22,13 @@ const statsData = [
 	{
 		value: 76,
 		suffix: "%",
-		title: "sans espace dédié adapté",
+		title: "n'ont pas d'espace dédié adapté",
 		desc: "Seulement 1 télétravailleur sur 4 dispose d'une pièce dédiée avec équipement ergonomique. La majorité travaille depuis la table de cuisine ou le canapé.",
 	},
 	{
 		value: 2,
 		suffix: "j",
-		title: "par semaine en moyenne",
+		title: "de télétravail par semaine en moyenne",
 		desc: "Le modèle hybride s'est imposé : 46% des entreprises autorisent 2 jours de télétravail hebdomadaire. Un équilibre parfait entre flexibilité et cohésion d'équipe.",
 	},
 ];
@@ -39,12 +39,12 @@ export default function Statistique() {
 			<div className="px-4 sm:px-[8%] lg:px-[12%] py-10 about">
 				<div className="flex flex-col lg:flex-row gap-8">
 					<div className="w-full lg:w-1/3 title pt-8">
-						<span className="rounded-full title-span border border-gray-400 px-6 sm:px-5 GolosText font-bold py-2 text-sm md:text-base">
+						<span className="rounded-full title-span border border-gray-400 px-6 sm:px-5 GolosText uppercase font-bold py-2 text-sm md:text-base">
 							Stats Tele-Travail
 						</span>
 					</div>
 					<div className="w-full lg:w-2/3">
-						<h1 className="Sora text-4xl md:text-7xl">
+						<h1 className="Sora text-4xl md:text-7xl ">
 							{" "}
 							Le Télétravail <span className="text-(--prim)">
 								améliore la productivité
