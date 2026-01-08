@@ -50,7 +50,7 @@ export default function Blog() {
 												{blog.postby}
 											</span>
 										</p>
-										<h2 className="text-3xl xl:text-4xl 2xl:text-5xl Sora my-5 hover:text-(--prim) transition-all duration-300">
+										<h2 className="text-3xl xl:text-4xl 2xl:text-5xl leading-tight Sora my-5 hover:text-(--prim) transition-all duration-300">
 											{blog.title}
 										</h2>
 										<p className="text-gray-500 GolosText">{blog.desc}</p>

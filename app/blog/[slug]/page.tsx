@@ -5,6 +5,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { useParams } from "next/navigation";
 import { useEffect, useState } from "react";
+import ReactMarkdown from "react-markdown";
 
 export default function BlogDetails() {
 	const params = useParams<{ slug: string }>();
@@ -104,55 +105,63 @@ export default function BlogDetails() {
 								/>
 							</div>
 						)}
-						<p className="text-gray-500 GolosText mt-5 leading-relaxed">
-							{blog?.desc}
-						</p>
-						<h2 className="text-4xl md:text-4xl Sora my-5">{blog?.title}</h2>
-						<p className="text-gray-500 GolosText mt-5 leading-relaxed">
-							Start by eliminating unnecessary elements. Lorem ipsum dolor sit
-							amet, consectetur adipiscing elit. Sed do eiusmod tempor
-							incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-							veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-							ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-							voluptate velit esse cillum dolore eu fugiat nulla pariatur
-						</p>
-						<div className="grid grid-cols-1 md:grid-cols-2 gap-5 mt-10"></div>
-						<h2 className="text-4xl md:text-4xl my-5">
-							Exploring Design Styles
-						</h2>
-						<p className="text-gray-500 GolosText mt-5 leading-relaxed">
-							Modern interior design is all creating a sleek, lorem ipsum dolor
-							sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
-							incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-							veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-							ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-							voluptate velit esse cillum dolore eu fugiat nulla pariatur
-						</p>
-						<div className="my-5">
-							<div className="bg-[#efebe8] rounded-2xl flex flex-col justify-center items-center text-center py-8 px-10">
-								<p className="GolosText text-2xl mb-3">
-									&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-									Sed do eiusmod tempor incididunt ut labore et dolore magna
-									aliqua.&quot; Ut enim ad minim veniam, quis nostrud
-									exercitation ullamco laboris nisi ut aliquip ex ea commodo
-									consequat. Duis aute irure dolor in reprehenderit in voluptate
-									velit esse cillum dolore eu fugiat nulla pariatur.&quot;
+						
+						{/* ========== CONTENU DE L'ARTICLE (MARKDOWN) ========== */}
+						{blog.content ? (
+							<article className="prose prose-lg max-w-none mt-10 
+								prose-headings:font-bold prose-headings:Sora
+								prose-h1:text-5xl prose-h1:mb-6 prose-h1:mt-12
+								prose-h2:text-4xl prose-h2:mb-5 prose-h2:mt-10
+								prose-h3:text-3xl prose-h3:mb-4 prose-h3:mt-8
+								prose-h4:text-2xl prose-h4:mb-3 prose-h4:mt-6
+								prose-p:text-gray-600 prose-p:leading-relaxed prose-p:mb-4 prose-p:GolosText
+								prose-ul:my-6 prose-ul:list-disc prose-ul:pl-6
+								prose-ol:my-6 prose-ol:list-decimal prose-ol:pl-6
+								prose-li:text-gray-600 prose-li:my-2 prose-li:GolosText
+								prose-strong:text-gray-900 prose-strong:font-semibold
+								prose-a:text-(--prim) prose-a:font-semibold prose-a:no-underline hover:prose-a:underline
+								prose-blockquote:border-l-4 prose-blockquote:border-(--prim) prose-blockquote:pl-4 prose-blockquote:italic prose-blockquote:text-gray-700
+								prose-code:text-(--prim) prose-code:bg-blue-50 prose-code:px-1 prose-code:rounded prose-code:text-sm
+							">
+								<ReactMarkdown>{blog.content}</ReactMarkdown>
+							</article>
+						) : (
+							// Fallback si pas de content (tes anciens articles)
+							<>
+								<p className="text-gray-500 GolosText mt-5 leading-relaxed">
+									{blog?.desc}
 								</p>
-								<h4 className="GolosText font-bold">Aaliyah Brown</h4>
-							</div>
-						</div>
-						<h2 className="text-4xl md:text-4xl Sora my-5">
-							Bringing Modern Interior Design
-						</h2>
-						<p className="text-gray-500 GolosText mt-5 leading-relaxed">
-							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do
-							eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut
-							enim ad minim veniam, quis nostrud exercitation ullamco laboris
-							nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-							reprehenderit in voluptate velit esse cillum dolore eu fugiat
-							nulla pariatur.
-						</p>
+								<h2 className="text-4xl md:text-4xl Sora my-5">{blog?.title}</h2>
+								<p className="text-gray-500 GolosText mt-5 leading-relaxed">
+									Start by eliminating unnecessary elements. Lorem ipsum dolor sit
+									amet, consectetur adipiscing elit. Sed do eiusmod tempor
+									incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+									veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
+									ex ea commodo consequat.
+								</p>
+								<div className="grid grid-cols-1 md:grid-cols-2 gap-5 mt-10"></div>
+								<h2 className="text-4xl md:text-4xl my-5">
+									Exploring Design Styles
+								</h2>
+								<p className="text-gray-500 GolosText mt-5 leading-relaxed">
+									Modern interior design is all creating a sleek, lorem ipsum dolor
+									sit amet, consectetur adipiscing elit.
+								</p>
+								<div className="my-5">
+									<div className="bg-[#efebe8] rounded-2xl flex flex-col justify-center items-center text-center py-8 px-10">
+										<p className="GolosText text-2xl mb-3">
+											&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+											Sed do eiusmod tempor incididunt ut labore et dolore magna
+											aliqua.&quot;
+										</p>
+										<h4 className="GolosText font-bold">Aaliyah Brown</h4>
+									</div>
+								</div>
+							</>
+						)}
 					</div>
+					
+					{/* Sidebar Recent Posts */}
 					<div className="w-full lg:w-1/3">
 						<div>
 							<h2 className="text-4xl md:text-4xl Sora mb-5 mt-10 lg:mt-0">

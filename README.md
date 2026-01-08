@@ -1,24 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Setup Télétravail Beta
 
-## Getting Started
+Site web pour Setup Télétravail - Guides et conseils pour optimiser votre espace de télétravail.
 
-First, run the development server:
+Ce projet est construit avec [Next.js](https://nextjs.org) et utilise TypeScript, Tailwind CSS, et React Markdown.
+
+## 🚀 Démarrage rapide
+
+### Installation
+
+```bash
+npm install
+```
+
+### Développement
+
+Lancez le serveur de développement :
 
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Ouvrez [http://localhost:3000](http://localhost:3000) dans votre navigateur.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 📝 Gestion des articles de blog
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+### Créer un nouvel article
+
+1. **Créez un fichier Markdown** dans `content/blog/` :
+
+```bash
+content/blog/mon-article.md
+```
+
+2. **Ajoutez les métadonnées** au début du fichier :
+
+```markdown
+---
+id: mon-article-unique
+title: "Titre de mon article"
+desc: "Description courte pour la prévisualisation"
+tag: "Guide Complet"
+postby: "L'équipe Setup Télétravail"
+date: "8 janvier 2026"
+image: "/blog/mon-image.jpg"
+imageDet: "/blog/mon-image.jpg"
+---
+
+# Contenu de votre article
+
+Écrivez votre contenu en Markdown ici...
+```
+
+3. **Générez le JSON** :
+
+```bash
+npm run generate:blog
+```
+
+4. **Vérifiez le résultat** sur http://localhost:3000/blog
+
+📚 **Documentation complète** : Voir `content/blog/README.md`
+
+### Commandes disponibles
+
+```bash
+npm run dev              # Démarrer le serveur de développement
+npm run build           # Builder pour la production
+npm run start           # Démarrer en production
+npm run generate:blog   # Générer BlogData.json depuis les fichiers Markdown
+```
 
 ## Learn More
 
