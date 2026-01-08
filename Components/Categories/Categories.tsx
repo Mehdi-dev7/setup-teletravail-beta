@@ -19,7 +19,7 @@ export default function Categories() {
 						</span>
 					</div>
 					<div className="w-full lg:w-2/3">
-						<h1 className="Sora text-4xl sm:text-4xl md:text-6xl lg:text-7xl  mb-5 leading-tight my-4 sm:my-5">
+						<h1 className="Sora text-4xl sm:text-5xl md:text-5xl 2xl:text-7xl  mb-5 leading-tight my-4 sm:my-5">
 							{" "}
 							Découvrez nos{" "}
 							<span className="text-(--prim)">Catégories de produits</span> pour
@@ -42,7 +42,7 @@ export default function Categories() {
 							<h4 className="text-4xl Sora">01</h4>
 							<div className="service-content">
 								<h2 className="mb-3 text-4xl CalSans">Bureaux Réglables</h2>
-								<p className="GolosText text-gray-400">
+								<p className="GolosText text-gray-400 mb-5 2xl:mb-0">
 									Un bureau réglable en hauteur révolutionne votre posture et
 									votre santé. Alternez entre position assise et debout pour
 									réduire les maux de dos, améliorer votre circulation sanguine
@@ -70,7 +70,7 @@ export default function Categories() {
 							<h4 className="text-4xl Sora">02</h4>
 							<div className="service-content">
 								<h2 className="mb-3 text-4xl CalSans">Écrans</h2>
-								<p className="GolosText text-gray-400">
+								<p className="GolosText text-gray-400 mb-5 2xl:mb-0">
 									Un bon écran réduit la fatigue oculaire et booste votre
 									efficacité. Résolution 4K pour une netteté parfaite, dalle IPS
 									pour des angles de vision larges, USB-C pour simplifier vos
@@ -99,7 +99,7 @@ export default function Categories() {
 							<h4 className="text-4xl Sora">03</h4>
 							<div className="service-content">
 								<h2 className="mb-3 text-4xl CalSans">Chaises Ergonomiques</h2>
-								<p className="GolosText text-gray-400">
+								<p className="GolosText text-gray-400 mb-5 2xl:mb-0">
 									Votre chaise est l&apos;investissement santé le plus important
 									de votre setup. Un bon siège ergonomique prévient les troubles
 									musculo-squelettiques, soutient votre colonne vertébrale et
@@ -128,7 +128,7 @@ export default function Categories() {
 							<h4 className="text-4xl Sora">04</h4>
 							<div className="service-content">
 								<h2 className="mb-3 text-4xl CalSans">Claviers & Souris</h2>
-								<p className="GolosText text-gray-400">
+								<p className="GolosText text-gray-400 mb-5 2xl:mb-0">
 									Des périphériques inadaptés provoquent tendinites, syndrome du
 									canal carpien et douleurs chroniques. Un clavier ergonomique
 									split, une souris verticale ou un trackball réduisent
@@ -159,7 +159,7 @@ export default function Categories() {
 								<h2 className="mb-3 text-4xl CalSans">
 									Éclairage LED & Lampes
 								</h2>
-								<p className="GolosText text-gray-400">
+								<p className="GolosText text-gray-400 mb-5 2xl:mb-0">
 									Un éclairage inadapté fatigue vos yeux, provoque des maux de
 									tête et réduit votre productivité. Les lampes LED avec
 									température réglable (lumière chaude le soir, froide le matin)
@@ -190,7 +190,7 @@ export default function Categories() {
 								<h2 className="mb-3 text-4xl CalSans">
 									Audio & Visioconférence
 								</h2>
-								<p className="GolosText text-gray-400">
+								<p className="GolosText text-gray-400 mb-5 2xl:mb-0">
 									La qualité audio et vidéo est essentielle pour les appels
 									professionnels. Un casque avec micro antibruit, une webcam 4K
 									et des haut-parleurs stéréo transforment vos réunions
@@ -221,7 +221,7 @@ export default function Categories() {
 								<h2 className="mb-3 text-4xl CalSans">
 									Accessoires & Rangements
 								</h2>
-								<p className="GolosText text-gray-400">
+								<p className="GolosText text-gray-400 mb-5 2xl:mb-0">
 									Les petits détails qui optimisent votre productivité. Supports
 									d&apos;écran ajustables, repose-poignets ergonomiques,
 									organiseurs de câbles, tapis de souris XXL : chaque accessoire

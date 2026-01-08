@@ -298,7 +298,6 @@ header,
 .service-card:hover .service-img {
 	transform: scale(0.9);
 	opacity: 1;
-
 }
 
 .service-card:hover i {
@@ -307,6 +306,46 @@ header,
 	color: var(--white);
 	padding: 6px 10px;
 	border-radius: 50%;
+}
+
+/* Blog - Responsive adjustments */
+@media (min-width: 1020px) and (max-width: 1250px) {
+	.blog-right-section {
+		display: flex;
+		flex-direction: column;
+		gap: 1.25rem;
+	}
+
+	.blog-right-section .group {
+		width: 100%;
+	}
+
+	.blog-right-section .flex {
+		flex-direction: column !important;
+		gap: 0 !important;
+	}
+
+	.blog-right-section .blog-image {
+		width: 300px !important;
+		height: 300px !important;
+		margin-bottom: 0;
+	}
+
+	.blog-right-section .blog-info {
+		width: 100% !important;
+		margin-top: 0.75rem !important;
+	}
+
+	.blog-right-section h2 {
+		margin-top: 0.75rem;
+		margin-bottom: 0.5rem;
+	}
+
+	.blog-right-section p {
+		font-size: 0.875rem;
+	}
+
+	
 }
 
 /* Footer */

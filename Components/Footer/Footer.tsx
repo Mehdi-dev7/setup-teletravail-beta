@@ -9,7 +9,7 @@ export default function Footer() {
 					<div className="footer-content">
 						<Link
 							href="/"
-							className="text-3xl lg:text-4xl font-bold AudioWide text-white"
+							className="text-3xl lg:text-3xl xl:text-4xl font-bold AudioWide text-white"
 						>
 							Setup-<span className="text-(--prim)">Teletravail</span>
 						</Link>

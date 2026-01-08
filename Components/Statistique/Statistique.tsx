@@ -44,7 +44,7 @@ export default function Statistique() {
 						</span>
 					</div>
 					<div className="w-full lg:w-2/3">
-						<h1 className="Sora text-4xl md:text-7xl ">
+						<h1 className="Sora text-4xl sm:text-5xl md:text-5xl 2xl:text-7xl leading-tight">
 							{" "}
 							Le Télétravail <span className="text-(--prim)">
 								améliore la productivité

@@ -1,0 +1,43 @@
+[
+  {
+    "id": "1",
+    "image": "/img-1.jpg",
+    "imageDet": "/img-1.jpg",
+    "tag": "Télétravail",
+    "postby": "Admin",
+    "date": "7 janvier 2026",
+    "title": "Comment choisir le bon écran pour votre télétravail ?",
+    "desc": "Choisir le bon écran pour votre télétravail est essentiel pour maximiser votre productivité. Voici un guide pour choisir le bon écran pour votre télétravail."
+  },
+  {
+    "id": "2",
+    "image": "/img-2.jpg",
+    "imageDet": "/img-2.jpg",
+    "tag": "Guide d'achat",
+    "postby": "Admin",
+    "date": "7 janvier 2026",
+    "title": "Guide d'achat pour choisir le bon écran pour votre télétravail",
+    "desc": "Choisir le bon écran pour votre télétravail est essentiel pour maximiser votre productivité. Voici un guide pour choisir le bon écran pour votre télétravail."
+  },
+  {
+    "id": "3",
+    "image": "/img-3.jpg",
+    "imageDet": "/img-3.jpg",
+    "tag": "Télétravail",
+    "postby": "Admin",
+    "date": "7 janvier 2026",
+    "title": "Comment choisir le bon écran pour votre télétravail ?",
+    "desc": "Choisir le bon écran pour votre télétravail est essentiel pour maximiser votre productivité. Voici un guide pour choisir le bon écran pour votre télétravail."
+  },
+  {
+    "id": "4",
+    "image": "/img-4.jpg",
+    "imageDet": "/img-4.jpg",
+    "tag": "Télétravail",
+    "postby": "Admin",
+    "date": "7 janvier 2026",
+    "title": "Comment choisir le bon écran pour votre télétravail ?",
+    "desc": "Choisir le bon écran pour votre télétravail est essentiel pour maximiser votre productivité. Voici un guide pour choisir le bon écran pour votre télétravail."
+  }
+  
+]
