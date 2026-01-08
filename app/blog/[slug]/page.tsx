@@ -105,25 +105,89 @@ export default function BlogDetails() {
 								/>
 							</div>
 						)}
-						
+
 						{/* ========== CONTENU DE L'ARTICLE (MARKDOWN) ========== */}
 						{blog.content ? (
-							<article className="prose prose-lg max-w-none mt-10 
-								prose-headings:font-bold prose-headings:Sora
-								prose-h1:text-5xl prose-h1:mb-6 prose-h1:mt-12
-								prose-h2:text-4xl prose-h2:mb-5 prose-h2:mt-10
-								prose-h3:text-3xl prose-h3:mb-4 prose-h3:mt-8
-								prose-h4:text-2xl prose-h4:mb-3 prose-h4:mt-6
-								prose-p:text-gray-600 prose-p:leading-relaxed prose-p:mb-4 prose-p:GolosText
-								prose-ul:my-6 prose-ul:list-disc prose-ul:pl-6
-								prose-ol:my-6 prose-ol:list-decimal prose-ol:pl-6
-								prose-li:text-gray-600 prose-li:my-2 prose-li:GolosText
-								prose-strong:text-gray-900 prose-strong:font-semibold
-								prose-a:text-(--prim) prose-a:font-semibold prose-a:no-underline hover:prose-a:underline
-								prose-blockquote:border-l-4 prose-blockquote:border-(--prim) prose-blockquote:pl-4 prose-blockquote:italic prose-blockquote:text-gray-700
-								prose-code:text-(--prim) prose-code:bg-blue-50 prose-code:px-1 prose-code:rounded prose-code:text-sm
-							">
-								<ReactMarkdown>{blog.content}</ReactMarkdown>
+							<article className="max-w-none mt-10">
+								<div className="markdown-content">
+									<ReactMarkdown
+										components={{
+											h1: ({ children }) => (
+												<h1 className="text-5xl md:text-6xl font-bold Sora text-gray-900 mb-8 mt-16 leading-tight">
+													{children}
+												</h1>
+											),
+											h2: ({ children }) => (
+												<h2 className="text-4xl md:text-5xl font-bold Sora text-gray-900 mb-6 mt-12 leading-tight">
+													{children}
+												</h2>
+											),
+											h3: ({ children }) => (
+												<h3 className="text-3xl md:text-4xl font-semibold Sora text-gray-800 mb-5 mt-10">
+													{children}
+												</h3>
+											),
+											h4: ({ children }) => (
+												<h4 className="text-2xl md:text-3xl font-semibold Sora text-gray-800 mb-4 mt-8">
+													{children}
+												</h4>
+											),
+											p: ({ children }) => (
+												<p className="text-lg text-gray-600 leading-relaxed mb-6 GolosText">
+													{children}
+												</p>
+											),
+											ul: ({ children }) => (
+												<ul className="list-disc pl-6 mb-6 space-y-3">
+													{children}
+												</ul>
+											),
+											ol: ({ children }) => (
+												<ol className="list-decimal pl-6 mb-6 space-y-3">
+													{children}
+												</ol>
+											),
+											li: ({ children }) => (
+												<li className="text-lg text-gray-600 GolosText leading-relaxed">
+													{children}
+												</li>
+											),
+											strong: ({ children }) => (
+												<strong className="font-bold text-gray-900">
+													{children}
+												</strong>
+											),
+											em: ({ children }) => (
+												<em className="italic text-gray-700">{children}</em>
+											),
+											blockquote: ({ children }) => (
+												<blockquote className="border-l-4 border-[#caa05c] bg-gray-50 pl-6 pr-4 py-4 my-6 italic text-gray-700 GolosText text-lg">
+													{children}
+												</blockquote>
+											),
+											code: ({ children }) => (
+												<code className="bg-blue-50 text-[#caa05c] px-2 py-1 rounded text-base font-mono">
+													{children}
+												</code>
+											),
+											a: ({ children, href }) => (
+												<a
+													href={href}
+													className="text-[#caa05c] font-semibold underline-offset-4 hover:underline transition-all duration-300"
+													target="_blank"
+													rel="noopener noreferrer"
+												>
+													{children}
+												</a>
+											),
+											hr: () => (
+												<hr className="my-12 border-t-2 border-gray-200" />
+											),
+										}}
+									>
+										{blog.content}
+									</ReactMarkdown>
+								</div>
 							</article>
 						) : (
 							// Fallback si pas de content (tes anciens articles)
@@ -131,28 +195,30 @@ export default function BlogDetails() {
 								<p className="text-gray-500 GolosText mt-5 leading-relaxed">
 									{blog?.desc}
 								</p>
-								<h2 className="text-4xl md:text-4xl Sora my-5">{blog?.title}</h2>
+								<h2 className="text-4xl md:text-4xl Sora my-5">
+									{blog?.title}
+								</h2>
 								<p className="text-gray-500 GolosText mt-5 leading-relaxed">
-									Start by eliminating unnecessary elements. Lorem ipsum dolor sit
-									amet, consectetur adipiscing elit. Sed do eiusmod tempor
+									Start by eliminating unnecessary elements. Lorem ipsum dolor
+									sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
 									incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-									veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip
-									ex ea commodo consequat.
+									veniam, quis nostrud exercitation ullamco laboris nisi ut
+									aliquip ex ea commodo consequat.
 								</p>
 								<div className="grid grid-cols-1 md:grid-cols-2 gap-5 mt-10"></div>
 								<h2 className="text-4xl md:text-4xl my-5">
 									Exploring Design Styles
 								</h2>
 								<p className="text-gray-500 GolosText mt-5 leading-relaxed">
-									Modern interior design is all creating a sleek, lorem ipsum dolor
-									sit amet, consectetur adipiscing elit.
+									Modern interior design is all creating a sleek, lorem ipsum
+									dolor sit amet, consectetur adipiscing elit.
 								</p>
 								<div className="my-5">
 									<div className="bg-[#efebe8] rounded-2xl flex flex-col justify-center items-center text-center py-8 px-10">
 										<p className="GolosText text-2xl mb-3">
-											&quot;Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-											Sed do eiusmod tempor incididunt ut labore et dolore magna
-											aliqua.&quot;
+											&quot;Lorem ipsum dolor sit amet, consectetur adipiscing
+											elit. Sed do eiusmod tempor incididunt ut labore et dolore
+											magna aliqua.&quot;
 										</p>
 										<h4 className="GolosText font-bold">Aaliyah Brown</h4>
 									</div>
@@ -160,7 +226,7 @@ export default function BlogDetails() {
 							</>
 						)}
 					</div>
-					
+
 					{/* Sidebar Recent Posts */}
 					<div className="w-full lg:w-1/3">
 						<div>
