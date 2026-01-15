@@ -25,35 +25,46 @@ export default function Ecrans() {
 				{/* Introduction */}
 				<div className="max-w-4xl mb-16">
 					<span className="inline-block border border-gray-400 text-(--text) px-4 py-2 rounded-full text-sm md:text-base font-bold mb-4">
-						<i className="ri-award-line mr-2 text-(--prim)"></i>Notre sélection 2026
+						<i className="ri-award-line mr-2 text-(--prim)"></i>Notre sélection
+						2026
 					</span>
 					<h2 className="Sora text-4xl sm:text-5xl md:text-5xl 2xl:text-6xl  mb-5 leading-tight my-4 sm:my-5">
-						Les meilleurs écrans pour <span className="text-(--prim)">le télétravail</span>
+						Les meilleurs écrans pour{" "}
+						<span className="text-(--prim)">le télétravail</span>
 					</h2>
 					<p className="md:text-lg text-base text-gray-600 leading-relaxed mb-4">
-						Découvrez notre classement des écrans les plus adaptés au télétravail.
-						Après des heures de tests et de comparaisons, nous avons sélectionné
-						pour vous les modèles offrant le <strong>meilleur rapport qualité/prix</strong>,
-						une <strong>ergonomie optimale</strong> et des <strong>fonctionnalités essentielles</strong> comme
-						l&apos;USB-C avec Power Delivery.
+						Découvrez notre classement des écrans les plus adaptés au
+						télétravail. Après des heures de tests et de comparaisons, nous
+						avons sélectionné pour vous les modèles offrant le{" "}
+						<strong>meilleur rapport qualité/prix</strong>, une{" "}
+						<strong>ergonomie optimale</strong> et des{" "}
+						<strong>fonctionnalités essentielles</strong> comme l&apos;USB-C
+						avec Power Delivery.
 					</p>
 					<p className="text-lg text-gray-600 leading-relaxed">
-						Que vous cherchiez un écran 4K pour le travail de précision, un ultrawide
-						pour le multitâche ou un modèle budget pour débuter, vous trouverez
-						ici l&apos;écran idéal pour votre setup.
+						Que vous cherchiez un écran 4K pour le travail de précision, un
+						ultrawide pour le multitâche ou un modèle budget pour débuter, vous
+						trouverez ici l&apos;écran idéal pour votre setup.
 					</p>
 				</div>
 
 				{/* Section Écrans Classiques */}
 				<div className="mb-20">
-					<div className="flex items-center gap-3 mb-8">
-						<div className="w-1 h-10 bg-(--prim) rounded-full"></div>
-						<h3 className="text-3xl md:text-4xl Sora font-semibold">
-							Écrans Classiques <span className="text-xl Sora font-normal text-gray-500">(idéal en double écran)</span>
-						</h3>
-						<span className="bg-gray-100 text-gray-600 px-3 py-1 rounded-full text-sm">
-							{EcranData.classiques.length} modèles
-						</span>
+					<div className="flex items-start gap-3 mb-8">
+						<div className="w-1 h-12 md:h-14 bg-(--prim) rounded-full mt-1"></div>
+						<div className="flex flex-col flex-1">
+							<div className="flex items-center justify-between">
+								<h3 className="text-2xl md:text-4xl Sora font-semibold">
+									Écrans Classiques
+								</h3>
+								<span className="bg-gray-100 text-gray-600 px-3 py-1 rounded-full text-sm">
+									{EcranData.classiques.length} modèles
+								</span>
+							</div>
+							<span className="text-base md:text-lg text-gray-500 mt-1">
+								Idéal en double écran
+							</span>
+						</div>
 					</div>
 
 					<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
@@ -114,7 +125,9 @@ export default function Ecrans() {
 												{[...Array(5)].map((_, i) => (
 													<i
 														key={i}
-														className={`ri-star-${i < Math.floor(ecran.note) ? "fill" : "line"} text-yellow-400`}
+														className={`ri-star-${
+															i < Math.floor(ecran.note) ? "fill" : "line"
+														} text-yellow-400`}
 													></i>
 												))}
 											</div>
@@ -146,7 +159,7 @@ export default function Ecrans() {
 				<div>
 					<div className="flex items-center gap-3 mb-8">
 						<div className="w-1 h-10 bg-(--prim) rounded-full"></div>
-						<h3 className="text-3xl md:text-4xl Sora font-semibold">
+						<h3 className="text-2xl sm:text-4xl Sora font-semibold">
 							Écrans Ultrawide
 						</h3>
 						<span className="bg-gray-100 text-gray-600 px-3 py-1 rounded-full text-sm">
@@ -215,7 +228,9 @@ export default function Ecrans() {
 												{[...Array(5)].map((_, i) => (
 													<i
 														key={i}
-														className={`ri-star-${i < Math.floor(ecran.note) ? "fill" : "line"} text-yellow-400`}
+														className={`ri-star-${
+															i < Math.floor(ecran.note) ? "fill" : "line"
+														} text-yellow-400`}
 													></i>
 												))}
 											</div>

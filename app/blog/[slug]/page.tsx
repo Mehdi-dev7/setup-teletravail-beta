@@ -67,10 +67,10 @@ export default function BlogDetails() {
 						href="/blog"
 						className="hover:text-(--prim) transition-all duration-300"
 					>
-						Blog / Articles
+					 Notre Blog
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
-					<h2 className="GolosText text-white">{blog.title}</h2>
+					<h2 className="GolosText text-white truncate max-w-37.5 sm:max-w-50 lg:max-w-none">{blog.title}</h2>
 				</div>
 			</div>
 
@@ -89,7 +89,7 @@ export default function BlogDetails() {
 								</span>{" "}
 								- <span>{blog.date}</span>
 							</p>
-							<h2 className="text-4xl md:text-6xl GolosText mb-3">{blog.title}</h2>
+							<h2 className="text-4xl md:text-5xl GolosText mb-3 leading-tight">{blog.title}</h2>
 							<p className="GolosText text-gray-500 leading-relaxed">
 								{blog.desc}
 							</p>
@@ -113,17 +113,17 @@ export default function BlogDetails() {
 									<ReactMarkdown
 										components={{
 											h1: ({ children }) => (
-												<h1 className="text-5xl md:text-6xl Sora text-gray-900 mb-8 mt-16 leading-tight">
+												<h1 className="text-4xl md:text-5xl Sora text-gray-900 mb-8 mt-16 leading-tight">
 													{children}
 												</h1>
 											),
 											h2: ({ children }) => (
-												<h2 className="text-4xl md:text-5xl AudioWide text-gray-900 mb-6 mt-12 leading-tight">
+												<h2 className="text-3xl md:text-4xl AudioWide text-gray-900 mb-6 mt-12 leading-tight">
 													{children}
 												</h2>
 											),
 											h3: ({ children }) => (
-												<h3 className="text-3xl md:text-4xl GolosText font-semibold text-(--prim) mb-5 mt-10">
+												<h3 className="text-2xl md:text-3xl GolosText font-semibold text-(--prim) mb-5 mt-10">
 													{children}
 												</h3>
 											),

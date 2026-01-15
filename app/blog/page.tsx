@@ -13,7 +13,7 @@ export default function Blog() {
 	return (
 		<>
 			<div className="section-bg text-white flex flex-col">
-				<h1 className="text-8xl GolosText pt-10">Notre Blog</h1>
+				<h1 className="text-6xl sm:text-7xl xl:text-8xl GolosText pt-10">Notre Blog</h1>
 				<div className="flex items-center text-xl mt-3">
 					<Link
 						href="/"
@@ -22,10 +22,10 @@ export default function Blog() {
 						Accueil
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
-					<h2 className="GolosText">Blog / Articles</h2>
+					<h2 className="GolosText">Articles</h2>
 				</div>
 			</div>
-			<div className="px-[8%] lg:px-[12%] py-30">
+			<div className="px-[4%] sm:px-[8%] lg:px-[12%] py-30">
 				<div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5">
 					{visbleBlogs.map((blog, index) => (
 						<div key={index} className="group cursor-pointer">
@@ -38,7 +38,7 @@ export default function Blog() {
 										height={4000}
 										className="w-full h-full object-cover rounded-2xl group-hover:scale-110 transition-all duration-500"
 									/>
-									<span className="absolute top-5 left-5 bg-(--prim) px-4 py-1 font-semibold rounded-full hover:bg-(--text) text-white GolosText">
+									<span className="absolute top-5 left-5 bg-(--prim) px-2 sm:px-4 py-1 text-sm sm:text-base font-semibold rounded-full hover:bg-(--text) text-white GolosText">
 										{blog.tag}
 									</span>
 								</div>
