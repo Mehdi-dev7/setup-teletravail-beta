@@ -54,7 +54,7 @@ export default function BlogDetails() {
 	return (
 		<>
 			<div className="section-bg text-white flex flex-col">
-				<h1 className="text-6xl md:text-8xl GolosText mt-15">Blog Details</h1>
+				<h1 className="text-6xl md:text-8xl GolosText mt-15">Blog </h1>
 				<div className="flex items-center text-xl mt-3">
 					<Link
 						href="/"
@@ -217,7 +217,7 @@ export default function BlogDetails() {
 					<div className="w-full lg:w-1/3">
 						<div>
 							<h2 className="text-4xl md:text-4xl Sora mb-5 mt-10 lg:mt-0">
-								Recent Articles
+								Recents Articles
 							</h2>
 							<div className="flex flex-col gap-5">
 								{BlogData.map(

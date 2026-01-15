@@ -6,7 +6,19 @@
       "marque": "Dell",
       "prix": 750,
       "promo": null,
-      "image": "/images/ecrans/dell-u2723qe.jpg",
+      "image": "/Img-Ecran/Dell-Ultrasharp/Dell-img-1.avif",
+      "images": [
+        "/Img-Ecran/Dell-Ultrasharp/Dell-img-1.avif",
+        "/Img-Ecran/Dell-Ultrasharp/monitor-u2723qe-gallery-2.avif",
+        "/Img-Ecran/Dell-Ultrasharp/monitor-u2723qe-gallery-3.avif",
+        "/Img-Ecran/Dell-Ultrasharp/monitor-u2723qe-gallery-7.avif",
+        "/Img-Ecran/Dell-Ultrasharp/monitor-u2723qe-gallery-6.avif"
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/dp/B09RSTWVTP", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/dell-u2723qe", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/dell-u2723qe", "logo": "/logos/fnac.svg" }
+      ],
       "taille": "27 pouces",
       "resolution": "4K UHD (3840x2160)",
       "dalle": "IPS Black",
@@ -48,7 +60,7 @@
       "marque": "BenQ",
       "prix": 450,
       "promo": null,
-      "image": "/images/ecrans/benq-ew3270u.jpg",
+      "image": "/Img-Ecran/Benq-EW3270U/61wpDrsxnkL._AC_SL1200_.jpg",
       "taille": "31.5 pouces",
       "resolution": "4K UHD (3840x2160)",
       "dalle": "VA",
@@ -84,7 +96,7 @@
       "cdiscountURL": "",
       "note": 4.3,
       "nbAvis": 1523,
-      "badge": "Meilleur rapport qualité/prix 4K"
+      "badge": "Top Qualité/Prix"
     },
     {
       "id": 3,
@@ -92,7 +104,7 @@
       "marque": "Dell",
       "prix": 280,
       "promo": null,
-      "image": "/images/ecrans/dell-s2722dc.jpg",
+      "image": "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00000ff090_gy.avif",
       "taille": "27 pouces",
       "resolution": "QHD (2560x1440)",
       "dalle": "IPS",
@@ -127,7 +139,7 @@
       "cdiscountURL": "",
       "note": 4.4,
       "nbAvis": 3241,
-      "badge": "Meilleur rapport qualité/prix QHD"
+      "badge": "Top Qualité/Prix"
     },
     {
       "id": 4,
@@ -135,7 +147,7 @@
       "marque": "LG",
       "prix": 300,
       "promo": null,
-      "image": "/images/ecrans/lg-27up550.jpg",
+      "image": "/Img-Ecran/LG-27UP550/DZ-1.avif",
       "taille": "27 pouces",
       "resolution": "4K UHD (3840x2160)",
       "dalle": "IPS",
@@ -171,7 +183,7 @@
       "cdiscountURL": "",
       "note": 4.2,
       "nbAvis": 987,
-      "badge": "Bon compromis 4K"
+      "badge": "Bon compromis"
     },
     {
       "id": 5,
@@ -179,7 +191,7 @@
       "marque": "AOC",
       "prix": 180,
       "promo": null,
-      "image": "/images/ecrans/aoc-u27b3af.jpg",
+      "image": "/Img-Ecran/AOC-U27B3AF/71CXOAMPPWL._AC_SL1500_.jpg",
       "taille": "27 pouces",
       "resolution": "4K UHD (3840x2160)",
       "dalle": "IPS",
@@ -216,18 +228,68 @@
       "cdiscountURL": "",
       "note": 4.1,
       "nbAvis": 654,
-      "badge": "Entry-level 4K"
+      "badge": "Entry-level"
     }
   ],
 
   "ultrawide": [
     {
       "id": 6,
+      "nom": "Samsung Odyssey G9 49\"",
+      "marque": "Samsung",
+      "prix": 950,
+      "promo": null,
+      "image": "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-546004902.avif",
+      "taille": "49 pouces",
+      "resolution": "DQHD (5120x1440)",
+      "ratio": "32:9",
+      "dalle": "VA Incurvée 1000R",
+      "frequence": "240 Hz",
+      "tempsReponse": "1 ms (GTG)",
+      "usbc": false,
+      "usbcWatt": 0,
+      "hdmi": 2,
+      "displayport": 1,
+      "hautParleurs": false,
+      "reglableHauteur": true,
+      "pivot": false,
+      "vesa": "100x100",
+      "description": "Le Samsung Odyssey G9 49 pouces est un mastodonte gaming qui repousse les limites de l'immersion. Sa résolution Dual QHD (5120x1440) en format 32:9 équivaut littéralement à deux écrans 27 pouces QHD côte à côte sans bordure centrale. La courbure extrême 1000R enveloppe complètement votre champ de vision périphérique pour une immersion totale dans les jeux et simulations. Avec un taux de rafraîchissement de 240Hz et un temps de réponse de 1ms, c'est l'écran gaming ultime pour les compétiteurs exigeants. La certification HDR1000 (1000 cd/m² en pic) offre un contraste époustouflant et des highlights éclatants. Le Quantum Dot (QLED) couvre 95% de l'espace DCI-P3 pour des couleurs vibrantes. AMD FreeSync Premium Pro et G-Sync Compatible éliminent toute déchirure. L'éclairage arrière Infinity Core Lighting s'adapte au contenu à l'écran. Le pied métallique robuste permet un réglage en hauteur et inclinaison. Attention : cet écran nécessite un bureau profond (80cm min) et une carte graphique puissante (RTX 3080+ recommandée pour exploiter les 240Hz en 5120x1440). Un investissement conséquent mais une expérience gaming inégalée.",
+      "pointsForts": [
+        "Format 32:9 unique : équivalent 2 écrans 27\" QHD sans bordure",
+        "240Hz + 1ms GTG : performances gaming exceptionnelles",
+        "Courbure 1000R extrême : immersion totale champ vision",
+        "HDR1000 certifié : 1000 cd/m² en pic, contraste époustouflant",
+        "Quantum Dot 95% DCI-P3 : couleurs vibrantes et précises",
+        "FreeSync Premium Pro + G-Sync Compatible",
+        "Infinity Core Lighting : éclairage arrière ambiance",
+        "Construction premium : pied métal réglable hauteur"
+      ],
+      "pointsFaibles": [
+        "Prix très élevé (~950€)",
+        "Nécessite bureau très profond (80cm min)",
+        "Carte graphique puissante obligatoire (RTX 3080+ pour 240Hz)",
+        "Pas d'USB-C ni de haut-parleurs",
+        "Consommation électrique élevée",
+        "Courbure 1000R peut nécessiter adaptation",
+        "Pas adapté au travail de précision (retouche photo pro)"
+      ],
+      "pourQui": "Gamers hardcore, streamers professionnels, pilotes sim racing/flight sim, joueurs compétitifs FPS/MOBA qui veulent l'immersion et les performances ultimes. Nécessite setup puissant et espace bureau conséquent.",
+      "amazonASIN": "B088HH6MT1",
+      "amazonURL": "",
+      "cdiscountURL": "",
+      "note": 4.5,
+      "nbAvis": 3842,
+      "badge": "Gaming Ultime"
+    },
+  
+    {
+      "id": 7,
       "nom": "Dell S3423DWC",
       "marque": "Dell",
       "prix": 450,
       "promo": null,
-      "image": "/images/ecrans/dell-s3423dwc.jpg",
+      "image": "/Img-Ecran/Dell-S3423DWC/monitor-s3423dwc-gray-gallery-1.avif",
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
       "ratio": "21:9",
@@ -263,15 +325,15 @@
       "cdiscountURL": "",
       "note": 4.4,
       "nbAvis": 1876,
-      "badge": "Meilleur polyvalent ultrawide"
+      "badge": "Polyvalent"
     },
     {
-      "id": 7,
+      "id": 8,
       "nom": "Samsung Odyssey G5 34\"",
       "marque": "Samsung",
       "prix": 300,
       "promo": null,
-      "image": "/images/ecrans/samsung-g5-34.jpg",
+      "image": "/Img-Ecran/Samsung-g5/n-africa-odyssey-g5-34g5-lc34g55twwmxzn-422904076.avif",
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
       "ratio": "21:9",
@@ -309,15 +371,15 @@
       "cdiscountURL": "",
       "note": 4.3,
       "nbAvis": 2134,
-      "badge": "Meilleur rapport qualité/prix ultrawide"
+      "badge": "Top Qualité/Prix"
     },
     {
-      "id": 8,
+      "id": 9,
       "nom": "BenQ MOBIUZ EX3410R",
       "marque": "BenQ",
       "prix": 580,
       "promo": null,
-      "image": "/images/ecrans/benq-ex3410r.jpg",
+      "image": "/Img-Ecran/Benq-Mobiuz/81g4HO+DW6L._AC_SX679_.jpg",
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
       "ratio": "21:9",
@@ -354,15 +416,15 @@
       "cdiscountURL": "",
       "note": 4.6,
       "nbAvis": 743,
-      "badge": "Premium immersif"
+      "badge": "Premium"
     },
     {
-      "id": 9,
+      "id": 10,
       "nom": "LG 34WN650-W",
       "marque": "LG",
       "prix": 240,
       "promo": null,
-      "image": "/images/ecrans/lg-34wn650.jpg",
+      "image": "/Img-Ecran/LG-34WN650/71rWzZyWbtL._AC_SX679_.jpg",
       "taille": "34 pouces",
       "resolution": "UWFHD (2560x1080)",
       "ratio": "21:9",
@@ -400,7 +462,7 @@
       "cdiscountURL": "",
       "note": 4.2,
       "nbAvis": 1456,
-      "badge": "Entry-level ultrawide"
+      "badge": "Entry-level"
     }
   ],
 
@@ -444,7 +506,7 @@
       "cdiscountURL": "",
       "note": 4.3,
       "nbAvis": 5432,
-      "badge": "Meilleur rapport qualité/prix"
+      "badge": "Top Qualité/Prix"
     },
     {
       "id": 11,
