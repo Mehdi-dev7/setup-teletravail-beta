@@ -735,6 +735,6 @@ Ne négligez plus votre assise. Votre corps vous remerciera chaque jour pendant 
 
 ---
 
-**Dernière mise à jour :** Janvier 2025
+**Dernière mise à jour :** Janvier 2026
 
 *Cet article contient des liens d'affiliation. Si vous achetez via ces liens, nous pouvons percevoir une petite commission sans surcoût pour vous. Cela nous aide à continuer de produire du contenu de qualité gratuitement.*

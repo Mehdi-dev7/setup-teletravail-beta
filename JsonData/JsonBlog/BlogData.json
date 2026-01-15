@@ -1,16 +1,5 @@
 [
   {
-    "id": "exemple-article-teletravail",
-    "image": "/blog/img-8.jpg",
-    "imageDet": "/blog/img-8.jpg",
-    "tag": "Guide",
-    "postby": "L'équipe Setup Télétravail",
-    "date": "8 janvier 2026",
-    "title": "Mon Premier Article en Markdown",
-    "desc": "Ceci est un exemple d'article pour vous montrer comment créer vos articles de blog facilement en Markdown.",
-    "content": "# Mon Premier Article en Markdown\n\n## Introduction\n\nBienvenue dans votre premier article écrit en Markdown ! Ce format est **beaucoup plus facile** à utiliser que du JSON.\n\n## Pourquoi utiliser Markdown ?\n\nVoici quelques avantages :\n\n- **Simplicité** : Écriture naturelle et intuitive\n- **Lisibilité** : Le texte reste lisible même en mode brut\n- **Rapidité** : Pas besoin de gérer les caractères d'échappement JSON\n- **Productivité** : Focus sur le contenu, pas sur le formatage\n\n## Formatage de base\n\n### Texte en gras et italique\n\nVous pouvez écrire en **gras** avec `**texte**` ou en *italique* avec `*texte*`.\n\n### Listes\n\n#### Liste à puces :\n- Premier élément\n- Deuxième élément\n- Troisième élément\n\n#### Liste numérotée :\n1. Première étape\n2. Deuxième étape\n3. Troisième étape\n\n### Citations\n\n> Ceci est une citation importante. Le Markdown permet de formater facilement du contenu professionnel.\n\n### Code\n\nPour du code inline : `const variable = \"valeur\"`\n\n### Liens\n\nCréez des [liens facilement](https://example.com)\n\n## Conclusion\n\nC'est aussi simple que ça ! Écrivez votre contenu en Markdown, sauvegardez le fichier, et lancez la commande de génération.\n\n---\n\n**Dernière mise à jour :** Janvier 2026"
-  },
-  {
     "id": "guide-ecran-teletravail-2025",
     "image": "/blog/img-8.jpg",
     "imageDet": "/blog/img-8.jpg",

@@ -11,16 +11,14 @@ type NavLink = {
 
 const links: NavLink[] = [
 	{
-		label: "Bureaux",
-		href: "/bureaux",
+		label: "Espace de travail",
+		href: "/espace-de-travail",
 		dropdown: [
-			{ label: "Bureaux éléctriques", href: "/bureaux/bureauxElectriques" },
-			{ label: "Bureaux classiques", href: "/bureaux/bureauxFix" },
+			{ label: "Bureaux", href: "/bureaux" },
+			{ label: "Ecrans", href: "/ecrans" },
+			{ label: "Chaises Ergonomiques", href: "/chaises" },
 		],
 	},
-	{ label: "Ecrans", href: "/ecrans" },
-	{ label: "Chaises Ergonomiques", href: "/chaises" },
-
 	{
 		label: "Périphériques",
 		href: "/peripheriques",
@@ -39,6 +37,11 @@ const links: NavLink[] = [
 			{ label: "Gestion de cables ", href: "/accessoires/gestionCables" },
 		],
 	},
+	{
+		label: "Blog",
+		href: "/blog",
+		
+	}
 ];
 
 // Liens de la section droite

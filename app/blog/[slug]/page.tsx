@@ -89,7 +89,7 @@ export default function BlogDetails() {
 								</span>{" "}
 								- <span>{blog.date}</span>
 							</p>
-							<h2 className="text-4xl md:text-6xl Sora mb-3">{blog.title}</h2>
+							<h2 className="text-4xl md:text-6xl GolosText mb-3">{blog.title}</h2>
 							<p className="GolosText text-gray-500 leading-relaxed">
 								{blog.desc}
 							</p>
@@ -113,22 +113,22 @@ export default function BlogDetails() {
 									<ReactMarkdown
 										components={{
 											h1: ({ children }) => (
-												<h1 className="text-5xl md:text-6xl font-bold Sora text-gray-900 mb-8 mt-16 leading-tight">
+												<h1 className="text-5xl md:text-6xl Sora text-gray-900 mb-8 mt-16 leading-tight">
 													{children}
 												</h1>
 											),
 											h2: ({ children }) => (
-												<h2 className="text-4xl md:text-5xl font-bold Sora text-gray-900 mb-6 mt-12 leading-tight">
+												<h2 className="text-4xl md:text-5xl AudioWide text-gray-900 mb-6 mt-12 leading-tight">
 													{children}
 												</h2>
 											),
 											h3: ({ children }) => (
-												<h3 className="text-3xl md:text-4xl font-semibold Sora text-gray-800 mb-5 mt-10">
+												<h3 className="text-3xl md:text-4xl GolosText font-semibold text-(--prim) mb-5 mt-10">
 													{children}
 												</h3>
 											),
 											h4: ({ children }) => (
-												<h4 className="text-2xl md:text-3xl font-semibold Sora text-gray-800 mb-4 mt-8">
+												<h4 className="text-2xl md:text-3xl GolosText text-gray-800 mb-4 mt-8">
 													{children}
 												</h4>
 											),
@@ -190,40 +190,26 @@ export default function BlogDetails() {
 								</div>
 							</article>
 						) : (
-							// Fallback si pas de content (tes anciens articles)
-							<>
-								<p className="text-gray-500 GolosText mt-5 leading-relaxed">
-									{blog?.desc}
-								</p>
-								<h2 className="text-4xl md:text-4xl Sora my-5">
-									{blog?.title}
-								</h2>
-								<p className="text-gray-500 GolosText mt-5 leading-relaxed">
-									Start by eliminating unnecessary elements. Lorem ipsum dolor
-									sit amet, consectetur adipiscing elit. Sed do eiusmod tempor
-									incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-									veniam, quis nostrud exercitation ullamco laboris nisi ut
-									aliquip ex ea commodo consequat.
-								</p>
-								<div className="grid grid-cols-1 md:grid-cols-2 gap-5 mt-10"></div>
-								<h2 className="text-4xl md:text-4xl my-5">
-									Exploring Design Styles
-								</h2>
-								<p className="text-gray-500 GolosText mt-5 leading-relaxed">
-									Modern interior design is all creating a sleek, lorem ipsum
-									dolor sit amet, consectetur adipiscing elit.
-								</p>
-								<div className="my-5">
-									<div className="bg-[#efebe8] rounded-2xl flex flex-col justify-center items-center text-center py-8 px-10">
-										<p className="GolosText text-2xl mb-3">
-											&quot;Lorem ipsum dolor sit amet, consectetur adipiscing
-											elit. Sed do eiusmod tempor incididunt ut labore et dolore
-											magna aliqua.&quot;
-										</p>
-										<h4 className="GolosText font-bold">Aaliyah Brown</h4>
-									</div>
+							// Fallback si pas de content (anciens articles)
+							<div className="mt-10 p-8 bg-gray-50 rounded-2xl border border-gray-200">
+								<div className="flex items-center gap-3 mb-4">
+									<i className="ri-article-line text-3xl text-(--prim)"></i>
+									<h3 className="text-2xl GolosText font-semibold text-gray-800">
+										Article en cours de rédaction
+									</h3>
 								</div>
-							</>
+								<p className="text-lg text-gray-600 GolosText leading-relaxed mb-6">
+									Le contenu complet de cet article sera bientôt disponible.
+									En attendant, voici un résumé :
+								</p>
+								<blockquote className="border-l-4 border-(--prim) bg-white pl-6 pr-4 py-4 italic text-gray-700 GolosText text-lg rounded-r-lg">
+									{blog.desc}
+								</blockquote>
+								<div className="mt-6 flex items-center gap-2 text-gray-500">
+									<i className="ri-time-line"></i>
+									<span className="GolosText">Revenez bientôt pour lire l&apos;article complet !</span>
+								</div>
+							</div>
 						)}
 					</div>
 
@@ -231,7 +217,7 @@ export default function BlogDetails() {
 					<div className="w-full lg:w-1/3">
 						<div>
 							<h2 className="text-4xl md:text-4xl Sora mb-5 mt-10 lg:mt-0">
-								Recent Posts
+								Recent Articles
 							</h2>
 							<div className="flex flex-col gap-5">
 								{BlogData.map(
@@ -250,7 +236,7 @@ export default function BlogDetails() {
 													</div>
 													<div className="flex flex-col justify-between grow">
 														<p className="text-gray-400 text-sm">{item.date}</p>
-														<h3 className="GolosText text-lg md:text-xl group-hover:text-(--prim) cursor-pointer font-semibold transition-all duration-300">
+														<h3 className="GolosText text-lg md:text-xl group-hover:text-(--prim) cursor-pointer transition-all duration-300">
 															{item.title}
 														</h3>
 													</div>

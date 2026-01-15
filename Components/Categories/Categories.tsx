@@ -36,7 +36,7 @@ export default function Categories() {
 						</p>
 					</div>
 				</div>
-				<Link href="/bureaux/bureauxElectriques">
+				<Link href="/bureaux">
 					<div className="service-card border-b border-gray-400 cursor-pointer py-3 sm:py-2 flex flex-col md:flex-row justify-between items-start md:items-center gap-3 sm:gap-5 mt-4 sm:mt-6">
 						<div className="flex flex-col md:flex-row w-full md:w-[70%] gap-2 sm:gap-3 md:gap-8">
 							<h4 className="text-4xl Sora">01</h4>

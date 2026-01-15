@@ -44,13 +44,13 @@ export default function Blog() {
 								</div>
 								<div className="blog-info mt-3">
 									<p className="GolosText text-gray-400">
-										by{" "}
+										par{" "}
 										<span className="font-semibold text-(--prim)">
 											{blog.postby}
 										</span>{" "}
 										- <span>{blog.date}</span>
 									</p>
-									<h2 className="text-4xl md:text-3xl CalSans my-5 hover:text-(--prim) transition-all duration-300">
+									<h2 className="text-4xl md:text-3xl Sora my-5 hover:text-(--prim) transition-all duration-300">
 										{blog.title}
 									</h2>
 									<p className="text-gray-500 GolosText">{blog.desc}</p>

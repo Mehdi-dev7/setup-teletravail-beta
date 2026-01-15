@@ -351,9 +351,10 @@ header,
 .section-bg {
 	height: 500px;
 	width: 100%;
+
 	align-items: center;
 	justify-content: center;
-	background-image: url(../public/img-10.jpg);
+	background-image: url(../public/img-4.jpg);
 	background-size: cover;
 	background-position: center center;
 	background-repeat: no-repeat;
