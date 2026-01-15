@@ -81,7 +81,7 @@ export default function Navbar() {
 			<div className="navbar-content flex items-center justify-between px-[8%] lg:px-[5%] 2xl:px-[10%] py-5">
 				{/* Logo */}
 				<div className="flex items-center gap-2 xl:gap-4 2xl:gap-5">
-					<Link href="/" className="text-3xl lg:text-2xl xl:text-3xl 2xl:text-4xl font-bold AudioWide whitespace-nowrap">
+					<Link href="/" className="text-2xl sm:text-3xl lg:text-2xl xl:text-3xl 2xl:text-4xl font-bold AudioWide whitespace-nowrap">
 						Setup-<span className="text-(--prim) ">Teletravail</span>
 					</Link>
 

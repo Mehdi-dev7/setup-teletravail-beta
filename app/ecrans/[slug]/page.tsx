@@ -119,7 +119,7 @@ export default function EcranDetails() {
 						>
 							{ecran.badge && (
 								<div className="absolute top-4 left-4 z-10">
-									<span className="bg-(--prim) text-white px-4 py-2 rounded-full text-sm font-semibold">
+									<span className="bg-(--prim) text-white px-4 py-2 rounded-full text-xs md:text-sm font-semibold">
 										{ecran.badge}
 									</span>
 								</div>
@@ -148,7 +148,7 @@ export default function EcranDetails() {
 									<button
 										key={index}
 										onClick={() => setSelectedImage(index)}
-										className={`relative w-20 h-20 sm:w-24 sm:h-24 rounded-xl overflow-hidden flex-shrink-0 border-2 transition-all duration-300 ${
+										className={`relative w-20 h-20 sm:w-24 sm:h-24 rounded-xl overflow-hidden shrink-0 border-2 transition-all duration-300 ${
 											selectedImage === index ? "border-(--prim)" : "border-gray-200 hover:border-gray-400"
 										}`}
 									>
@@ -168,7 +168,7 @@ export default function EcranDetails() {
 					<div className="w-full lg:w-1/2">
 						{/* Marque et nom */}
 						<p className="text-gray-500 text-lg mb-1">{ecran.marque}</p>
-						<h1 className="text-3xl sm:text-4xl lg:text-5xl Sora font-semibold mb-4">{ecran.nom}</h1>
+						<h1 className="text-3xl sm:text-4xl lg:text-5xl Sora mb-4">{ecran.nom}</h1>
 
 						{/* Note */}
 						<div className="flex items-center gap-3 mb-6">
@@ -176,43 +176,43 @@ export default function EcranDetails() {
 								{[...Array(5)].map((_, i) => (
 									<i
 										key={i}
-										className={`ri-star-${i < Math.floor(ecran.note) ? "fill" : "line"} text-xl text-yellow-400`}
+										className={`ri-star-${i < Math.floor(ecran.note) ? "fill" : "line"} text-lg sm:text-xl text-yellow-400`}
 									></i>
 								))}
 							</div>
-							<span className="text-lg text-gray-600">
+							<span className="text-sm sm:text-lg text-gray-600">
 								{ecran.note}/5 <span className="text-gray-400">({ecran.nbAvis} avis)</span>
 							</span>
 						</div>
 
 						{/* Specs rapides */}
-						<div className="flex flex-wrap gap-2 mb-6">
-							<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-sm font-medium">
+						<div className="flex flex-wrap gap-2 mb-10 sm:mb-6">
+							<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
 								<i className="ri-ruler-line mr-1"></i>{ecran.taille}
 							</span>
-							<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-sm font-medium">
+							<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
 								<i className="ri-computer-line mr-1"></i>{ecran.resolution.split(" ")[0]}
 							</span>
-							<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-sm font-medium">
+							<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
 								{ecran.dalle}
 							</span>
-							<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-sm font-medium">
+							<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
 								<i className="ri-speed-line mr-1"></i>{ecran.frequence}
 							</span>
 							{ecran.usbc && (
-								<span className="bg-blue-100 text-blue-700 px-3 py-2 rounded-lg text-sm font-medium">
+								<span className="bg-blue-100 text-blue-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
 									<i className="ri-usb-line mr-1"></i>USB-C {ecran.usbcWatt ? `${ecran.usbcWatt}W` : ""}
 								</span>
 							)}
 							{ecran.ratio && (
-								<span className="bg-purple-100 text-purple-700 px-3 py-2 rounded-lg text-sm font-medium">
+								<span className="bg-purple-100 text-purple-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
 									{ecran.ratio}
 								</span>
 							)}
 						</div>
 
 						{/* Prix enseignes */}
-						<div className="bg-gray-50 rounded-2xl p-5 mb-6">
+						<div className="bg-gray-50 rounded-2xl p-0 sm:p-4  mb-6">
 							<h3 className="text-lg font-semibold mb-4 flex items-center gap-2">
 								<i className="ri-price-tag-3-line text-(--prim)"></i>
 								Comparer les prix
@@ -224,10 +224,10 @@ export default function EcranDetails() {
 										href={item.url}
 										target="_blank"
 										rel="noopener noreferrer"
-										className="flex items-center justify-between p-4 bg-white rounded-xl border border-gray-200 hover:border-(--prim) hover:shadow-md transition-all duration-300 group"
+										className="flex items-center justify-between p-3 sm:p-4 bg-white rounded-xl border border-gray-200 hover:border-(--prim) hover:shadow-md transition-all duration-300 group"
 									>
 										<div className="flex items-center gap-3">
-											<div className="w-24 h-8 flex items-center justify-center">
+											<div className="w-24 h-8 flex items-center sm:justify-center">
 												<span className="font-bold text-gray-700">{item.enseigne}</span>
 											</div>
 											{index === 0 && (
@@ -237,7 +237,7 @@ export default function EcranDetails() {
 											)}
 										</div>
 										<div className="flex items-center gap-3">
-											<span className="text-2xl font-bold text-(--prim)">{item.prix}€</span>
+											<span className="text-xl sm:text-2xl font-bold text-(--prim)">{item.prix}€</span>
 											<i className="ri-external-link-line text-gray-400 group-hover:text-(--prim) transition-colors"></i>
 										</div>
 									</a>
@@ -246,12 +246,12 @@ export default function EcranDetails() {
 						</div>
 
 						{/* Pour qui */}
-						<div className="bg-blue-50 rounded-2xl p-5">
+						<div className="bg-blue-50 rounded-2xl p-0 sm:p-4">
 							<h3 className="text-lg font-semibold mb-2 flex items-center gap-2">
 								<i className="ri-user-star-line text-blue-600"></i>
 								Pour qui ?
 							</h3>
-							<p className="text-gray-700 leading-relaxed">{ecran.pourQui}</p>
+							<p className="text-gray-700 text-sm sm:text-base leading-relaxed">{ecran.pourQui}</p>
 						</div>
 					</div>
 				</div>
@@ -260,7 +260,7 @@ export default function EcranDetails() {
 				<div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mt-12">
 					{/* Caractéristiques techniques */}
 					<div className="lg:col-span-1">
-						<div className="bg-white border border-gray-200 rounded-2xl p-6">
+						<div className="bg-white border border-gray-200 rounded-2xl p-3 sm:p-6">
 							<h2 className="text-2xl Sora font-semibold mb-6 flex items-center gap-2">
 								<i className="ri-settings-3-line text-(--prim)"></i>
 								Caractéristiques
@@ -323,7 +323,7 @@ export default function EcranDetails() {
 					{/* Points forts et faibles */}
 					<div className="lg:col-span-2 space-y-6">
 						{/* Points forts */}
-						<div className="bg-green-50 rounded-2xl p-6">
+						<div className="bg-green-50 rounded-2xl p-3 sm:p-6">
 							<h2 className="text-2xl Sora font-semibold mb-6 flex items-center gap-2 text-green-800">
 								<i className="ri-thumb-up-fill text-green-600"></i>
 								Points forts
@@ -339,7 +339,7 @@ export default function EcranDetails() {
 						</div>
 
 						{/* Points faibles */}
-						<div className="bg-red-50 rounded-2xl p-6">
+						<div className="bg-red-50 rounded-2xl p-3 sm:p-6">
 							<h2 className="text-2xl Sora font-semibold mb-6 flex items-center gap-2 text-red-800">
 								<i className="ri-thumb-down-fill text-red-500"></i>
 								Points faibles
@@ -358,17 +358,17 @@ export default function EcranDetails() {
 
 				{/* Description complète */}
 				<div className="mt-12">
-					<div className="bg-white border border-gray-200 rounded-2xl p-6 md:p-8">
-						<h2 className="text-2xl md:text-3xl Sora font-semibold mb-6 flex items-center gap-2">
+					<div className="bg-white border border-gray-200 rounded-2xl p-3 sm:p-6 md:p-8">
+						<h2 className="text-2xl md:text-3xl Sora  mb-6 flex items-center gap-2">
 							<i className="ri-file-text-line text-(--prim)"></i>
 							Notre avis détaillé
 						</h2>
-						<p className="text-gray-700 text-lg leading-relaxed">{ecran.description}</p>
+						<p className="text-gray-700 text-base sm:text-lg leading-relaxed">{ecran.description}</p>
 					</div>
 				</div>
 
 				{/* CTA final */}
-				<div className="mt-12 bg-gradient-to-r from-gray-900 to-gray-800 rounded-2xl p-8 md:p-12 text-white text-center">
+				<div className="mt-12 bg-linear-to-l from-gray-900 to-gray-700 rounded-2xl p-4 sm:p-8 md:p-12 text-white text-center">
 					<h2 className="text-2xl md:text-3xl Sora font-semibold mb-4">
 						Convaincu par le {ecran.nom} ?
 					</h2>
