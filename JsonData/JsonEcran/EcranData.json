@@ -61,6 +61,18 @@
       "prix": 450,
       "promo": null,
       "image": "/Img-Ecran/Benq-EW3270U/61wpDrsxnkL._AC_SL1200_.jpg",
+      "images": [
+        "/Img-Ecran/Benq-EW3270U/61wpDrsxnkL._AC_SL1200_.jpg",
+        "/Img-Ecran/Benq-EW3270U/51wV57ilvaL._AC_SL1200_.jpg",
+        "/Img-Ecran/Benq-EW3270U/41n9pBQBJ3L._AC_SL1000_.jpg",
+        "/Img-Ecran/Benq-EW3270U/416VsgJW3ZL._AC_SL1024_.jpg",
+        "/Img-Ecran/Benq-EW3270U/712u8jRK19L._AC_SL1500_.jpg"
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/BenQ-EW3270U-Pouces-Compatible-MacBook/dp/B07BBRLTRH", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/benq-ew3270u", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/benq-ew3270u", "logo": "/logos/fnac.svg" }
+      ],
       "taille": "31.5 pouces",
       "resolution": "4K UHD (3840x2160)",
       "dalle": "VA",
