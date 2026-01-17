@@ -117,6 +117,18 @@
       "prix": 280,
       "promo": null,
       "image": "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00000ff090_gy.avif",
+      "images": [
+        "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00025lf095_gy.avif",
+        "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00060lb090_gy.avif",
+        "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00180bf090_gy.avif",
+        "/Img-Ecran/Dell-S2722DC/s2722dc_xfp_02_gy.avif",
+        "/Img-Ecran/Dell-S2722DC/s2722dc_xfp_04_gy.avif"
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/Dell-S2722DC-2560x1440-FreeSync-haut-parleurs/dp/B09CGYHJ84", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-dell-s2722dc-27-qhd-argent/f-10732-del5397184567609.html", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-Dell-S2722DC-27-QHD-Argent/a16383041/w-4", "logo": "/logos/fnac.svg" }
+      ],
       "taille": "27 pouces",
       "resolution": "QHD (2560x1440)",
       "dalle": "IPS",
@@ -160,6 +172,18 @@
       "prix": 300,
       "promo": null,
       "image": "/Img-Ecran/LG-27UP550/DZ-1.avif",
+      "images": [
+        "/Img-Ecran/LG-27UP550/DZ-3.avif",
+        "/Img-Ecran/LG-27UP550/DZ-5.avif",
+        "/Img-Ecran/LG-27UP550/DZ-6.avif",
+        "/Img-Ecran/LG-27UP550/DZ-8.avif",
+        "/Img-Ecran/LG-27UP550/DZ-10.avif"
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/LG-27UP550-W-Moniteur-Polyvalent-Diagnostic/dp/B09WJB6ZDF", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/LG-27UL550P-W-27-4K", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-LG-27UL550P-W-27-4K-UHD-Blanc-et-Noir/a17866930/w-4", "logo": "/logos/fnac.svg" }
+      ],
       "taille": "27 pouces",
       "resolution": "4K UHD (3840x2160)",
       "dalle": "IPS",
@@ -204,6 +228,18 @@
       "prix": 180,
       "promo": null,
       "image": "/Img-Ecran/AOC-U27B3AF/71CXOAMPPWL._AC_SL1500_.jpg",
+      "images": [
+        "/Img-Ecran/AOC-U27B3AF/71TKdP53wbL._AC_SL1500_.jpg",
+        "/Img-Ecran/AOC-U27B3AF/61OwkDPP4mL._AC_SL1500_.jpg",
+        "/Img-Ecran/AOC-U27B3AF/51pIPO-yfmL._AC_SL1500_.jpg",
+        "/Img-Ecran/AOC-U27B3AF/51GUix4ufZL._AC_SL1500_.jpg"
+        
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/AOC-U27B3AF-Haut-parleurs-3840x2160-DisplayPort/dp/B0D7CPG879?th=1", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-27-pouces-full-hd-processeur-rapide-design/f-10732-aoc1719796094756.html", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/mp50891470/Ecran-PC-AOC-U27B3AF-27-LED-IPS-UltraHD-4K/w-4", "logo": "/logos/fnac.svg" }
+      ],
       "taille": "27 pouces",
       "resolution": "4K UHD (3840x2160)",
       "dalle": "IPS",
@@ -252,6 +288,18 @@
       "prix": 950,
       "promo": null,
       "image": "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-546004902.avif",
+      "images": [
+        "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-545895952.avif",
+        "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-545895884.avif",
+        "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-545895889.avif",
+        "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-545896167.avif"
+        
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/Samsung-LS49CG954EUXEN-SAMSUNG-Odyssey-S49CG954EU/dp/B0CDTVTFFS/ref=sr_1_1?dib=eyJ2IjoiMSJ9.r3j2XtYpwTtYI5Dn6xXbv24j7uCO_fZXyCiE6VAajjtn0sbmtc5pcuqaA4jBu-hiXoj3u3QzLbr57NFtODeweEeomDp3IPxVVu0FE-UJxUfu-jYuHkoWbDVuELpSGd_wHhkyYqROdZzKVZIrIWQhpst3B_viUCigEEY2oKsb751OYm03EHQecw0T4owkrUd7hCaz8m7ynwd4mutaZ3OyoOTUOy28uQAP0xqzifyWTfsdFLHW-2Y8wL42DhgLcuMQoqRz4AeCp5T3KOGLKcxLjLNeUDCwt5XRAc_WGLEUn7I.JgUk_YixiSqIY644akXBiZVQnfRAsyr_auYZlOu8DNg&dib_tag=se&keywords=samsung%2Bg9&qid=1768673746&sr=8-1&th=1", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-gamer-incurve-samsung-49-dual-qhd/f-10732-sam1736554516206.html#mpos=1|mp", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-Samsung-Odyssey-G9-49-Incurve-QLED-Noir/a15695128/w-4", "logo": "/logos/fnac.svg" }
+      ],
       "taille": "49 pouces",
       "resolution": "DQHD (5120x1440)",
       "ratio": "32:9",
@@ -302,6 +350,19 @@
       "prix": 450,
       "promo": null,
       "image": "/Img-Ecran/Dell-S3423DWC/monitor-s3423dwc-gray-gallery-1.avif",
+      "images": [
+        "/Img-Ecran/Dell-S3423DWC/monitor-s3423dwc-gray-gallery-3.avif",
+        "/Img-Ecran/Dell-S3423DWC/monitor-s3423dwc-gray-gallery-4.avif",
+        "/Img-Ecran/Dell-S3423DWC/monitor-s3423dwc-gray-gallery-6.avif",
+        "/Img-Ecran/Dell-S3423DWC/monitor-s3423dwc-gray-gallery-7.avif",
+        "/Img-Ecran/Dell-S3423DWC/monitor-s3423dwc-gray-gallery-8.avif"
+        
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/Dell-S3423Dwc-Pixels-W128273773-Black/dp/B0BQNGV8Z4?th=1", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-dell-s3423dwc-34-incurve-wqhd-noir-et-ar/f-10732-del5397184656891.html", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-Dell-S3423DWC-34-Incurve-WQHD-Noir-et-argent/a16959809/w-4", "logo": "/logos/fnac.svg" }
+      ],
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
       "ratio": "21:9",
@@ -346,6 +407,17 @@
       "prix": 300,
       "promo": null,
       "image": "/Img-Ecran/Samsung-g5/n-africa-odyssey-g5-34g5-lc34g55twwmxzn-422904076.avif",
+      "images": [
+        "/Img-Ecran/Samsung-g5/n-africa-odyssey-g5-34g5-lc34g55twwmxzn-422904061.avif",
+        "/Img-Ecran/Samsung-g5/n-africa-odyssey-g5-34g5-lc34g55twwmxzn-422904063.png",
+        "/Img-Ecran/Samsung-g5/n-africa-odyssey-g5-34g5-lc34g55twwmxzn-422904060.avif"
+        
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/SAMSUNG-ODYSSEY-Incurv%C3%A9-R%C3%A9solution-FreeSync/dp/B08SW435V5?th=1", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-gamer-incurve-samsung-34-uwqhd-1/f-10732-sam8806094796315.html#mpos=1|cd", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-Samsung-Odyssey-G5-G55T-34-Incurve-UWQHD-Noir/a17601761/w-4", "logo": "/logos/fnac.svg" }
+      ],
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
       "ratio": "21:9",
@@ -392,6 +464,19 @@
       "prix": 580,
       "promo": null,
       "image": "/Img-Ecran/Benq-Mobiuz/81g4HO+DW6L._AC_SX679_.jpg",
+      "images": [
+        "/Img-Ecran/Benq-Mobiuz/71B7l+wSe1L._AC_SX679_.jpg",
+        "/Img-Ecran/Benq-Mobiuz/61YRvbV6PkL._AC_SX679_.jpg",
+        "/Img-Ecran/Benq-Mobiuz/61NO8rupvWL._AC_SX679_.jpg",
+        "/Img-Ecran/Benq-Mobiuz/61gENwBFWkL._AC_SX679_.jpg",
+        "/Img-Ecran/Benq-Mobiuz/816IF93l4CL._AC_SX679_.jpg"
+        
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/BenQ-EX3410R-Ultrawide-FreeSync-t%C3%A9l%C3%A9commande/dp/B09R6W6F8X?th=1", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/benq-mobiuz-ex3210u-moniteur-de-jeu-32-4k-144hz/f-10732-ben4718755077098.html#mpos=1|mp", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/mp46659244/BenQ-Mobiuz-EX3410R-Ecran-LED-incurve-34-3440-x-1440-UWQHD-144-Hz-VA-350-cd-m-3000-1-DisplayHDR-400-1-ms-2xHDMI-DisplayPort-haut-parleurs-avec-subwoofer/w-4", "logo": "/logos/fnac.svg" }
+      ],
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
       "ratio": "21:9",
@@ -437,6 +522,19 @@
       "prix": 240,
       "promo": null,
       "image": "/Img-Ecran/LG-34WN650/71rWzZyWbtL._AC_SX679_.jpg",
+      "images": [
+        "/Img-Ecran/LG-34WN650/51cPDse3B1L._AC_SL1012_.jpg",
+        "/Img-Ecran/LG-34WN650/51loj4paPZL._AC_SX679_.jpg",
+        "/Img-Ecran/LG-34WN650/51vZ80FV3AL._AC_SX679_.jpg",
+        "/Img-Ecran/LG-34WN650/61f-S+l1uiL._AC_SX679_.jpg",
+        "/Img-Ecran/LG-34WN650/61SVkEvSxtL._AC_SX679_.jpg"
+        
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/LG-UltraWide-34WN650-W-Moniteur-2560x1080/dp/B086BJ6PWZ?th=1", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/lg-ultrawide-monitor-34wq650-w-34wq650w-34wq650-w/f-10732-lg1750171559982.html", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-LG-UltraWide-34WN650-W-34-LED-UWFHD-Blanc/a14998259/w-4", "logo": "/logos/fnac.svg" }
+      ],
       "taille": "34 pouces",
       "resolution": "UWFHD (2560x1080)",
       "ratio": "21:9",
@@ -476,209 +574,6 @@
       "nbAvis": 1456,
       "badge": "Entry-level"
     }
-  ],
-
-  "supports": [
-    {
-      "id": 10,
-      "nom": "Amazon Basics Support Double Écran",
-      "marque": "Amazon Basics",
-      "prix": 90,
-      "promo": null,
-      "image": "/images/supports/amazon-basics-dual.jpg",
-      "type": "Bras double articulé",
-      "capacite": "2 écrans 13-27 pouces",
-      "poidsMax": "11 kg par écran",
-      "vesa": "75x75 / 100x100",
-      "fixation": "Pince bureau (10-100mm) ou grommet",
-      "ressortGaz": true,
-      "gestionCables": true,
-      "rotation360": true,
-      "pivot": true,
-      "description": "Le support double écran Amazon Basics offre un excellent rapport qualité/prix pour libérer l'espace de votre bureau. Ses deux bras articulés à ressort à gaz permettent un ajustement fluide et précis de la hauteur, l'angle et la profondeur de chaque écran indépendamment. Compatible avec la plupart des écrans de 13 à 27 pouces pesant jusqu'à 11kg chacun via les fixations VESA 75x75mm ou 100x100mm standard. Le système de fixation offre deux options : soit par pince robuste sur le bord du bureau (épaisseur 10-100mm), soit par passage à travers un trou (grommet) pour une installation permanente. La gestion des câbles intégrée dans les bras et le support vertical maintient un bureau propre et organisé. Chaque écran peut pivoter à 360° et basculer en mode portrait ou paysage selon vos besoins. Le montage est relativement simple avec les instructions fournies et tous les outils nécessaires inclus. Le seul bémol concerne la finition en plastique de certaines pièces qui peut sembler fragile, mais qui tient bien dans le temps pour un usage bureautique normal.",
-      "pointsForts": [
-        "Excellent rapport qualité/prix (~45€ par bras)",
-        "Installation simple, outils et visserie fournis",
-        "Stabilité très bonne pour écrans jusqu'à 27 pouces",
-        "Ressorts à gaz fluides pour ajustement facile",
-        "Gestion câbles intégrée pour bureau propre",
-        "Compatible VESA 75/100 : large compatibilité écrans",
-        "2 modes fixation : pince bureau ou grommet",
-        "Rotation 360° + pivot portrait/paysage"
-      ],
-      "pointsFaibles": [
-        "Finitions plastique moyennes sur certains caches",
-        "Peut nécessiter ajustement tension ressorts après installation",
-        "Instructions parfois peu claires (point rotation VESA)",
-        "Clips gestion câbles en plastique fragiles"
-      ],
-      "pourQui": "Télétravail bureautique, développeurs, traders, analystes qui veulent une solution double écran fiable sans se ruiner. Parfait pour setup productivité avec écrans 24-27 pouces.",
-      "amazonASIN": "B076B3Q8JR",
-      "amazonURL": "",
-      "cdiscountURL": "",
-      "note": 4.3,
-      "nbAvis": 5432,
-      "badge": "Top Qualité/Prix"
-    },
-    {
-      "id": 11,
-      "nom": "BONTEC Support Double Bras Articulé",
-      "marque": "BONTEC",
-      "prix": 50,
-      "promo": null,
-      "image": "/images/supports/bontec-dual.jpg",
-      "type": "Bras double articulé",
-      "capacite": "2 écrans 13-27 pouces",
-      "poidsMax": "10 kg par écran",
-      "vesa": "75x75 / 100x100",
-      "fixation": "Pince bureau (10-100mm) ou grommet",
-      "ressortGaz": false,
-      "gestionCables": true,
-      "rotation360": true,
-      "pivot": true,
-      "description": "Le support double écran BONTEC représente l'entrée de gamme accessible pour libérer l'espace de votre bureau. Compatible avec des écrans de 13 à 27 pouces pesant jusqu'à 10kg chacun, il offre une grande flexibilité d'installation grâce aux fixations VESA 75x75mm et 100x100mm standard. Les deux bras indépendants permettent un ajustement sur 6 axes : rotation horizontale 360°, inclinaison verticale 180°, extension jusqu'à 43cm et pivot pour passage mode portrait. Le système de fixation par pince robuste s'adapte aux bureaux de 10 à 100mm d'épaisseur, ou via un trou traversant avec le grommet fourni. La gestion des câbles intégrée maintient un environnement de travail ordonné. L'installation est simple avec tous les outils fournis et des instructions claires. Point d'attention : sans ressort à gaz, les bras sont moins fluides à ajuster qu'un modèle premium et peuvent s'affaisser légèrement avec le temps si les vis ne sont pas bien serrées. Pour le prix, c'est un excellent choix pour un premier setup double écran.",
-      "pointsForts": [
-        "Prix mini : meilleur rapport qualité/prix du marché",
-        "Installation simple, outils et fixations fournis",
-        "Réglages multiples : 6 axes d'ajustement",
-        "Rotation 360° + inclinaison 180° + pivot",
-        "Extension 43cm : grande amplitude mouvement",
-        "Compatible VESA 75/100 : large compatibilité",
-        "Gestion câbles intégrée",
-        "2 modes fixation : pince ou grommet"
-      ],
-      "pointsFaibles": [
-        "Pas de ressort à gaz : ajustement moins fluide",
-        "Peut s'affaisser avec temps si mal serré",
-        "Construction correcte mais pas premium",
-        "Clips câbles en plastique basique",
-        "Ne supporte pas écrans lourds (max 10kg)"
-      ],
-      "pourQui": "Budget très serré, premier setup double écran, étudiants, télétravail occasionnel avec écrans légers (24 pouces max). Bon pour tester avant d'investir dans du premium.",
-      "amazonASIN": "B01MR397OH",
-      "amazonURL": "",
-      "cdiscountURL": "",
-      "note": 4.0,
-      "nbAvis": 3211,
-      "badge": "Budget"
-    },
-    {
-      "id": 12,
-      "nom": "Ergosolid Support Double Écran",
-      "marque": "Ergosolid",
-      "prix": 120,
-      "promo": null,
-      "image": "/images/supports/ergosolid-dual.jpg",
-      "type": "Bras double articulé ressort gaz",
-      "capacite": "2 écrans 17-32 pouces",
-      "poidsMax": "9 kg par écran",
-      "vesa": "75x75 / 100x100",
-      "fixation": "Pince bureau (10-90mm) ou grommet",
-      "ressortGaz": true,
-      "gestionCables": true,
-      "rotation360": true,
-      "pivot": true,
-      "description": "L'Ergosolid Support Double Écran représente le haut de gamme des bras articulés avec une qualité de construction exceptionnelle. Chaque bras est équipé d'un ressort à gaz calibrable qui offre un ajustement ultra-fluide et maintient parfaitement la position des écrans même lourds (jusqu'à 9kg). Compatible avec des écrans de 17 à 32 pouces via fixations VESA 75x75mm et 100x100mm, il peut même supporter des ultrawides 34 pouces légers. La structure en aluminium brossé offre une finition premium et une robustesse à toute épreuve. Les articulations multiples permettent un ajustement millimétrique sur tous les axes : hauteur, profondeur, inclinaison, rotation 360° et pivot. Le système de gestion des câbles est particulièrement soigné avec des passages intégrés discrets tout le long des bras. L'installation est aisée avec le système de fixation par pince renforcée (10-90mm) ou grommet. La calibration du ressort à gaz se fait avec la clé Allen fournie pour adapter la tension au poids exact de vos écrans. Un investissement qui dure des années.",
-      "pointsForts": [
-        "Qualité construction premium : aluminium brossé",
-        "Ressorts à gaz fluides et précis, réglage optimal",
-        "Supporte écrans lourds : jusqu'à 32 pouces",
-        "Compatible ultrawides 34 pouces légers",
-        "Ajustement millimétrique sur tous les axes",
-        "Gestion câbles soignée, passages intégrés discrets",
-        "Stabilité parfaite : aucun affaissement dans temps",
-        "Finition premium, design élégant"
-      ],
-      "pointsFaibles": [
-        "Prix élevé (mais justifié par qualité)",
-        "Installation demande minutie pour calibration",
-        "Rotation parfois trop sensible (nécessite ajustement vis)"
-      ],
-      "pourQui": "Professionnels exigeants, setup long terme, utilisateurs avec écrans lourds ou ultrawides, ceux qui veulent le meilleur en ergonomie. Investissement durable qui améliore réellement le confort quotidien.",
-      "amazonASIN": "B091D2CKC7",
-      "amazonURL": "",
-      "cdiscountURL": "",
-      "note": 4.7,
-      "nbAvis": 1876,
-      "badge": "Premium"
-    }
-  ],
-
-  "setups": [
-    {
-      "id": 13,
-      "nom": "Setup Budget : Double 4K Entry-Level",
-      "prix": 430,
-      "image": "/images/setups/setup-budget.jpg",
-      "description": "Configuration double écran 4K accessible pour démarrer en télétravail avec une qualité d'image correcte. Deux écrans AOC U27B3AF 27 pouces 4K sur support BONTEC offrent une surface d'affichage totale équivalente à 54 pouces avec une densité de pixels optimale. Idéal pour la bureautique, le développement web et la navigation multi-fenêtres.",
-      "composition": [
-        {
-          "produitId": 5,
-          "quantite": 2,
-          "nom": "AOC U27B3AF 27\" 4K"
-        },
-        {
-          "produitId": 11,
-          "quantite": 1,
-          "nom": "BONTEC Support Double Bras"
-        }
-      ],
-      "prixDetail": {
-        "ecrans": 360,
-        "support": 50,
-        "total": 410
-      },
-      "pourQui": "Étudiants, premier setup télétravail, budget serré, bureautique standard, développement web débutant."
-    },
-    {
-      "id": 14,
-      "nom": "Setup Équilibré : Double QHD USB-C",
-      "prix": 650,
-      "image": "/images/setups/setup-equilibre.jpg",
-      "description": "Configuration professionnelle optimale avec deux Dell S2722DC offrant connectivité USB-C et résolution QHD parfaite pour 27 pouces. Les deux écrans peuvent charger et connecter des laptops via USB-C 65W, créant un setup minimaliste et efficace. Le support Amazon Basics garantit stabilité et ergonomie. Surface totale équivalente à 54 pouces en QHD haute définition.",
-      "composition": [
-        {
-          "produitId": 3,
-          "quantite": 2,
-          "nom": "Dell S2722DC 27\" QHD USB-C"
-        },
-        {
-          "produitId": 10,
-          "quantite": 1,
-          "nom": "Amazon Basics Dual Monitor Stand"
-        }
-      ],
-      "prixDetail": {
-        "ecrans": 560,
-        "support": 90,
-        "total": 650
-      },
-      "pourQui": "Télétravailleurs avec laptop, freelances, développeurs, designers web, usage intensif multi-applications."
-    },
-    {
-      "id": 15,
-      "nom": "Setup Premium : Double 4K Pro",
-      "prix": 1620,
-      "image": "/images/setups/setup-premium.jpg",
-      "description": "Configuration haut de gamme pour professionnels exigeants. Deux Dell UltraSharp U2723QE avec dalles IPS Black offrent un contraste exceptionnel de 2000:1 et une précision colorimétrique professionnelle (98% DCI-P3). Hub USB-C complet avec 90W PD et Ethernet sur chaque écran. Le support Ergosolid premium garantit une ergonomie parfaite avec ajustement fluide. Configuration totale équivalente à 54 pouces en 4K ultra-précis.",
-      "composition": [
-        {
-          "produitId": 1,
-          "quantite": 2,
-          "nom": "Dell UltraSharp U2723QE 27\" 4K"
-        },
-        {
-          "produitId": 12,
-          "quantite": 1,
-          "nom": "Ergosolid Support Double Premium"
-        }
-      ],
-      "prixDetail": {
-        "ecrans": 1500,
-        "support": 120,
-        "total": 1620
-      },
-      "pourQui": "Graphistes professionnels, photographes, monteurs vidéo, traders, analystes financiers, développeurs senior."
-    }
   ]
+
 }

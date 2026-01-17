@@ -1,0 +1,315 @@
+{
+  "bureaux_assis_debout": [
+    {
+      "id": 1,
+      "nom": "FlexiSpot E7 PRO",
+      "marque": "FlexiSpot",
+      "prix": 550,
+      "promo": 350,
+      "image": "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-main.jpg",
+      "images": [
+        "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-main.jpg",
+        "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-side.jpg",
+        "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-details.jpg",
+        "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-setup.jpg",
+        "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-panel.jpg"
+      ],
+      "prixEnseignes": [
+        {
+          "enseigne": "FlexiSpot",
+          "prix": 549,
+          "url": "https://www.flexispot.fr/nouvelle-generation-bureau-assis-debout-electrique-e7pro",
+          "logo": "/logos/flexispot.svg"
+        },
+        {
+          "enseigne": "Amazon",
+          "prix": 569,
+          "url": "https://www.amazon.fr/dp/B08FBR68RG",
+          "logo": "/logos/amazon.svg"
+        }
+      ],
+      "dimensions": "120x60 cm / 140x70 cm / 160x80 cm",
+      "hauteurReglable": "63,5 - 128,5 cm",
+      "capaciteCharge": "160 kg",
+      "moteurs": "3 (double moteur + colonne)",
+      "vitesse": "40 mm/s",
+      "niveauSonore": "< 50 dB",
+      "positions_memoire": 4,
+      "anti_collision": true,
+      "usb_integre": true,
+      "securite_enfant": true,
+      "garantie": "10 ans",
+      "description": "Le FlexiSpot E7 PRO représente le summum de l'innovation en matière de bureaux assis-debout. Ce modèle premium se distingue par sa construction exceptionnelle avec trois colonnes et un double moteur qui garantissent une stabilité inégalée même à hauteur maximale. Sa capacité de charge impressionnante de 160 kg permet d'accueillir les setups les plus lourds : plusieurs écrans, ordinateurs, équipements audio/vidéo professionnels. Le panneau de contrôle LED premium est un concentré de technologie : 4 positions mémorisables pour toute la famille, port USB intégré pour recharger vos appareils, rappel de sédentarité intelligent qui vous incite à changer de position régulièrement. La fonction sécurité enfant empêche les ajustements accidentels. Le système anti-collision détecte les obstacles et inverse automatiquement le mouvement pour éviter les dommages. La vitesse de déplacement de 40 mm/s est l'une des plus rapides du marché : passage de assis à debout en moins de 15 secondes. Le design inspiré de l'univers Star Wars avec sa finition mate noire apporte une touche premium et élégante à n'importe quel espace de travail. La goulotte horizontale intégrée sous le plateau avec cache magnétique permet une gestion des câbles impeccable. Les matériaux sont 100% recyclables, témoignant de l'engagement écologique de FlexiSpot. Avec une garantie de 10 ans sur les moteurs et 5 ans sur le cadre, c'est un investissement durable qui traversera les années sans faillir.",
+      "pointsForts": [
+        "Capacité de charge exceptionnelle : 160 kg pour setups lourds",
+        "Stabilité maximale : 3 colonnes + double moteur ultra-robuste",
+        "Plage de hauteur immense : 63,5-128,5 cm (convient à tous)",
+        "Vitesse record : 40 mm/s, assis→debout en 15 secondes",
+        "Panneau LED premium : 4 mémoires + USB + rappel sédentarité",
+        "Sécurité enfant + anti-collision intelligent",
+        "Gestion câbles premium avec goulotte et cache magnétique",
+        "Garantie 10 ans moteurs : durabilité exceptionnelle",
+        "Matériaux 100% recyclables, éco-responsable",
+        "Design premium finition mate inspiré Star Wars"
+      ],
+      "pointsFaibles": [
+        "Prix élevé (~550€, justifié par la qualité)",
+        "Poids important rend installation 2 personnes recommandée",
+        "Livraison en 2 colis séparés (peut arriver à dates différentes)"
+      ],
+      "pourQui": "Professionnels exigeants, télétravailleurs intensifs, créateurs de contenu avec setups lourds (multi-écrans, équipement pro), personnes cherchant le meilleur bureau longue durée. Investissement premium mais qui dure 10-15 ans minimum.",
+      "amazonASIN": "B08FBR68RG",
+      "amazonURL": "",
+      "cdiscountURL": "",
+      "note": 4.7,
+      "nbAvis": 4523,
+      "badge": "Premium"
+    },
+    {
+      "id": 2,
+      "nom": "FEZIBO 140x60 cm",
+      "marque": "FEZIBO",
+      "prix": 220,
+      "promo": null,
+      "image": "/Img-Bureaux/Fezibo-140/fezibo-140-main.jpg",
+      "images": [
+        "/Img-Bureaux/Fezibo-140/fezibo-140-main.jpg",
+        "/Img-Bureaux/Fezibo-140/fezibo-140-side.jpg",
+        "/Img-Bureaux/Fezibo-140/fezibo-140-details.jpg",
+        "/Img-Bureaux/Fezibo-140/fezibo-140-panel.jpg",
+        "/Img-Bureaux/Fezibo-140/fezibo-140-setup.jpg"
+      ],
+      "prixEnseignes": [
+        {
+          "enseigne": "Amazon",
+          "prix": 219,
+          "url": "https://www.amazon.fr/dp/B0C9JGVG61",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Cdiscount",
+          "prix": 239,
+          "url": "https://www.cdiscount.com/fezibo-bureau",
+          "logo": "/logos/cdiscount.svg"
+        }
+      ],
+      "dimensions": "140x60 cm",
+      "hauteurReglable": "70 - 120 cm",
+      "capaciteCharge": "80 kg",
+      "moteurs": "2 (double moteur)",
+      "vitesse": "30 mm/s",
+      "niveauSonore": "< 50 dB",
+      "positions_memoire": 4,
+      "anti_collision": true,
+      "usb_integre": false,
+      "securite_enfant": false,
+      "garantie": "3 ans",
+      "description": "Le FEZIBO 140x60 est le champion incontesté du rapport qualité/prix dans l'univers des bureaux assis-debout. Malgré son prix ultra-compétitif, il n'en oublie pas l'essentiel : un double moteur silencieux qui offre des transitions fluides entre les positions assise et debout. La plage de réglage de 70 à 120 cm convient à la majorité des utilisateurs mesurant entre 1m50 et 1m95. Le panneau de commande LED intègre 4 positions mémorisables, idéal pour les familles ou les espaces de coworking où plusieurs personnes utilisent le même bureau. Le système anti-collision intégré protège vos équipements en détectant les obstacles et en inversant automatiquement le mouvement. La structure en pieds T en acier de qualité industrielle supporte jusqu'à 80 kg, suffisant pour un setup standard avec 2 écrans, laptop, clavier, souris et accessoires. Le plateau en bois stratifié résiste aux rayures et taches du quotidien. La vitesse de déplacement de 30 mm/s permet de passer de assis à debout en environ 25 secondes, un peu plus lent que les modèles premium mais tout à fait correct. L'assemblage est simple et rapide, moins d'une heure avec des instructions claires en français. Le niveau sonore inférieur à 50 dB signifie que vous pouvez ajuster votre bureau pendant une visioconférence sans gêner vos interlocuteurs. Attention : le plateau arrive en deux parties qu'il faut assembler, ce qui peut être un léger inconfort pour certains mais garantit un prix accessible. Excellent choix pour découvrir les bénéfices d'un bureau assis-debout sans se ruiner.",
+      "pointsForts": [
+        "Prix mini : meilleur rapport qualité/prix du marché (~220€)",
+        "Double moteur fiable : transitions fluides et silencieuses",
+        "4 positions mémoire : parfait pour usage familial/partagé",
+        "Anti-collision intelligent : protection équipements",
+        "Plage hauteur correcte : 70-120 cm (1m50 à 1m95)",
+        "Assemblage simple : moins d'1h, instructions françaises",
+        "Structure acier industriel : stable jusqu'à 80 kg",
+        "Silencieux : < 50 dB, utilisable en visio"
+      ],
+      "pointsFaibles": [
+        "Plateau en deux parties (jonction visible au milieu)",
+        "Vitesse moyenne : 30 mm/s (25 sec assis→debout)",
+        "Capacité charge limitée à 80 kg (pas pour setups lourds)",
+        "Pas d'USB intégré ni de fonctions avancées",
+        "Garantie 3 ans (vs 10 ans premium)"
+      ],
+      "pourQui": "Budget serré, premier bureau assis-debout, étudiants, télétravail standard, gamers occasionnels, petits espaces. Parfait pour tester le concept sans investissement massif. Setup classique 1-2 écrans.",
+      "amazonASIN": "B0C9JGVG61",
+      "amazonURL": "",
+      "cdiscountURL": "",
+      "note": 4.4,
+      "nbAvis": 8932,
+      "badge": "Top Qualité/Prix"
+    },
+    {
+      "id": 3,
+      "nom": "SANODESK QS1",
+      "marque": "SANODESK",
+      "prix": 200,
+      "promo": null,
+      "image": "/Img-Bureaux/Sanodesk-QS1/sanodesk-qs1-main.jpg",
+      "images": [
+        "/Img-Bureaux/Sanodesk-QS1/sanodesk-qs1-main.jpg",
+        "/Img-Bureaux/Sanodesk-QS1/sanodesk-qs1-side.jpg",
+        "/Img-Bureaux/Sanodesk-QS1/sanodesk-qs1-panel.jpg",
+        "/Img-Bureaux/Sanodesk-QS1/sanodesk-qs1-setup.jpg"
+      ],
+      "prixEnseignes": [
+        {
+          "enseigne": "Amazon",
+          "prix": 199,
+          "url": "https://www.amazon.fr/dp/B08CVTTNN4",
+          "logo": "/logos/amazon.svg"
+        }
+      ],
+      "dimensions": "110x54 cm / 120x60 cm",
+      "hauteurReglable": "72 - 120 cm",
+      "capaciteCharge": "70 kg",
+      "moteurs": "2 (double moteur)",
+      "vitesse": "25 mm/s",
+      "niveauSonore": "< 50 dB",
+      "positions_memoire": 4,
+      "anti_collision": true,
+      "usb_integre": false,
+      "securite_enfant": false,
+      "garantie": "2 ans",
+      "description": "Le SANODESK QS1 est la porte d'entrée abordable vers l'univers des bureaux assis-debout électriques. Avec son prix très accessible, il rend l'ergonomie de poste accessible à tous les budgets. Son format compact (110x54 cm ou 120x60 cm) en fait le choix idéal pour les petits espaces : studios, chambres d'étudiant, coins bureau dans un salon. Malgré son positionnement entrée de gamme, SANODESK n'a pas lésié sur l'essentiel : le double moteur garantit une montée/descente stable et silencieuse, tandis que le panneau de contrôle moderne LED offre 4 positions mémoire. Le système anti-collision basique protège vos équipements des chocs. La capacité de charge de 70 kg est suffisante pour un setup minimal à modéré : laptop, écran externe, clavier, souris et quelques accessoires. La vitesse de 25 mm/s est la plus lente de notre sélection (environ 30 secondes pour passer d'assis à debout) mais reste acceptable pour un usage quotidien. L'assemblage est simple grâce aux instructions illustrées. Le plateau une pièce évite les jonctions visibles. Les coloris disponibles (blanc, noir, chêne) s'adaptent à tous les styles d'intérieur. Le cadre en acier assure une bonne stabilité même si elle n'égale pas les modèles premium. Attention : avec seulement 70 kg de charge max, ce bureau n'est pas adapté aux setups multi-écrans lourds ou équipements professionnels volumineux. Garantie limitée à 2 ans. Excellent compromis pour découvrir les bénéfices ergonomiques sans grever son budget étudiant ou premier salaire.",
+      "pointsForts": [
+        "Prix mini : ~200€, le plus accessible du marché",
+        "Format compact : parfait petits espaces (110-120 cm)",
+        "4 positions mémoire malgré prix entry-level",
+        "Plateau une pièce : pas de jonction visible",
+        "Double moteur silencieux : < 50 dB",
+        "Anti-collision basique mais fonctionnel",
+        "Plusieurs coloris : blanc, noir, chêne",
+        "Assemblage simple pour débutants"
+      ],
+      "pointsFaibles": [
+        "Capacité charge limitée : 70 kg max (setup léger)",
+        "Vitesse lente : 25 mm/s (30 sec assis→debout)",
+        "Stabilité correcte mais pas exceptionnelle",
+        "Garantie courte : 2 ans seulement",
+        "Dimensions petites : pas pour grands setups",
+        "Finitions basiques, construction économique"
+      ],
+      "pourQui": "Étudiants, premier emploi, petits budgets, petits espaces (studio, chambre), setup minimaliste laptop + 1 écran, télétravail occasionnel. Pas adapté aux professionnels avec setups lourds.",
+      "amazonASIN": "B08CVTTNN4",
+      "amazonURL": "",
+      "cdiscountURL": "",
+      "note": 4.1,
+      "nbAvis": 2156,
+      "badge": "Entry-level"
+    },
+    {
+      "id": 4,
+      "nom": "MAIDeSITe SN1",
+      "marque": "MAIDeSITe",
+      "prix": 350,
+      "promo": null,
+      "image": "/Img-Bureaux/MAIDeSITe-SN1/maidesite-main.jpg",
+      "images": [
+        "/Img-Bureaux/MAIDeSITe-SN1/maidesite-main.jpg",
+        "/Img-Bureaux/MAIDeSITe-SN1/maidesite-side.jpg",
+        "/Img-Bureaux/MAIDeSITe-SN1/maidesite-details.jpg",
+        "/Img-Bureaux/MAIDeSITe-SN1/maidesite-setup.jpg"
+      ],
+      "prixEnseignes": [
+        {
+          "enseigne": "Amazon",
+          "prix": 349,
+          "url": "https://www.amazon.fr/dp/B09RSTWVTP",
+          "logo": "/logos/amazon.svg"
+        }
+      ],
+      "dimensions": "120x60 cm / 140x70 cm",
+      "hauteurReglable": "72 - 120 cm",
+      "capaciteCharge": "125 kg",
+      "moteurs": "2 (double moteur puissant)",
+      "vitesse": "38 mm/s",
+      "niveauSonore": "< 50 dB",
+      "positions_memoire": 4,
+      "anti_collision": true,
+      "usb_integre": true,
+      "securite_enfant": false,
+      "garantie": "5 ans",
+      "description": "Le MAIDeSITe SN1 se positionne comme le sweet spot parfait entre performance et prix dans la gamme milieu de gamme. Ce bureau assis-debout offre un excellent équilibre : capacité de charge de 125 kg (supérieure à la plupart des concurrents à ce prix), double moteur puissant qui garantit transitions rapides et fluides à 38 mm/s, stabilité remarquable même en position haute. Le panneau de contrôle LED est complet avec 4 positions mémoire et port USB intégré pour recharger smartphones et tablettes. Le système anti-collision sophistiqué détecte précisément les obstacles. L'un des atouts majeurs du SN1 est sa fourniture complète d'accessoires : passe-câbles intégré, crochets pour casque audio, roulettes 360° amovibles qui permettent de déplacer facilement le bureau pour le ménage. Le plateau en bois de qualité résiste aux chocs et rayures. Les pieds en acier carbone offrent une robustesse à toute épreuve. La garantie de 5 ans témoigne de la confiance du fabricant dans la durabilité de son produit. Les dimensions généreuses (jusqu'à 140x70 cm) offrent un espace de travail confortable pour les setups exigeants. Le design élégant avec finitions soignées s'intègre parfaitement dans un bureau moderne. Montage simple en 30-40 minutes. L'équilibre parfait pour les professionnels qui veulent de la qualité sans exploser leur budget.",
+      "pointsForts": [
+        "Rapport qualité/prix optimal segment milieu de gamme",
+        "Capacité charge élevée : 125 kg (multi-écrans + équipements)",
+        "Vitesse rapide : 38 mm/s, proche des modèles premium",
+        "Accessoires complets : passe-câbles, crochets, roulettes",
+        "Port USB intégré : charge appareils pendant travail",
+        "Stabilité excellente : pieds acier carbone robustes",
+        "Garantie solide : 5 ans (gage durabilité)",
+        "4 positions mémoire + anti-collision avancé",
+        "Grandes dimensions : jusqu'à 140x70 cm"
+      ],
+      "pointsFaibles": [
+        "Prix intermédiaire : ni budget ni premium (~350€)",
+        "Design classique sans touches premium",
+        "Pas de sécurité enfant",
+        "Montage un peu plus complexe que entry-level"
+      ],
+      "pourQui": "Professionnels exigeants avec budget raisonnable, freelances, développeurs, designers, créateurs de contenu. Setup complet avec 2-3 écrans. Cherche durabilité sans payer premium. Usage intensif quotidien.",
+      "amazonASIN": "B09RSTWVTP",
+      "amazonURL": "",
+      "cdiscountURL": "",
+      "note": 4.5,
+      "nbAvis": 3421,
+      "badge": "Bon compromis"
+    },
+    {
+      "id": 5,
+      "nom": "FlexiSpot E5",
+      "marque": "FlexiSpot",
+      "prix": 380,
+      "promo": null,
+      "image": "/Img-Bureaux/Flexispot-E5/flexispot-e5-main.jpg",
+      "images": [
+        "/Img-Bureaux/Flexispot-E5/flexispot-e5-main.jpg",
+        "/Img-Bureaux/Flexispot-E5/flexispot-e5-side.jpg",
+        "/Img-Bureaux/Flexispot-E5/flexispot-e5-panel.jpg",
+        "/Img-Bureaux/Flexispot-E5/flexispot-e5-setup.jpg"
+      ],
+      "prixEnseignes": [
+        {
+          "enseigne": "FlexiSpot",
+          "prix": 379,
+          "url": "https://www.flexispot.fr/bureau-assis-debout-e5",
+          "logo": "/logos/flexispot.svg"
+        },
+        {
+          "enseigne": "Amazon",
+          "prix": 399,
+          "url": "https://www.amazon.fr/dp/B077JPC7PK",
+          "logo": "/logos/amazon.svg"
+        }
+      ],
+      "dimensions": "120x60 cm / 140x70 cm / 160x80 cm",
+      "hauteurReglable": "62 - 127 cm",
+      "capaciteCharge": "125 kg",
+      "moteurs": "2 (double moteur premium)",
+      "vitesse": "38 mm/s",
+      "niveauSonore": "< 45 dB",
+      "positions_memoire": 3,
+      "anti_collision": true,
+      "usb_integre": false,
+      "securite_enfant": true,
+      "garantie": "8 ans",
+      "description": "Le FlexiSpot E5 représente l'excellence de la marque leader du marché à un prix plus accessible que le E7 PRO. Ce modèle apporte la qualité FlexiSpot réputée avec une garantie exceptionnelle de 8 ans sur les moteurs, témoignage de leur fiabilité légendaire. Le double moteur premium offre des transitions ultra-silencieuses (moins de 45 dB) et fluides à 38 mm/s. La plage de réglage exceptionnelle de 62 à 127 cm convient à toutes les morphologies, des plus petites (1m40) aux plus grandes (2m+). La structure à 3 sections télescopiques garantit une stabilité remarquable même à hauteur maximale. Le panneau de contrôle intelligent intègre 3 positions mémoire et une fonction rappel de sédentarité. Le système anti-collision réactif protège efficacement. La sécurité enfant évite les ajustements accidentels. Le E5 se distingue par sa construction premium : pieds en forme de C en acier épais, finitions impeccables, plateau épais résistant. La gestion des câbles est facilitée par une goulotte incluse. Compatible avec l'écosystème d'accessoires FlexiSpot (tiroirs, supports). Les roulettes incluses permettent de déplacer le bureau facilement. Le E5 est le choix de raison pour ceux qui veulent la qualité FlexiSpot sans le prix du top modèle : fiabilité, durabilité, stabilité sont au rendez-vous. Test de résistance : 100 000 cycles de montée/descente validés.",
+      "pointsForts": [
+        "Qualité FlexiSpot légendaire : fiabilité éprouvée",
+        "Garantie exceptionnelle : 8 ans moteurs (durabilité)",
+        "Plage réglage immense : 62-127 cm (toutes tailles)",
+        "Ultra-silencieux : < 45 dB (le plus silencieux)",
+        "Stabilité premium : 3 sections télescopiques",
+        "Sécurité enfant + anti-collision intelligent",
+        "Rappel sédentarité : santé au quotidien",
+        "Construction premium : acier épais, finitions soignées",
+        "Testé 100 000 cycles : durabilité garantie"
+      ],
+      "pointsFaibles": [
+        "Prix élevé segment milieu : ~380€ (proche premium)",
+        "Seulement 3 positions mémoire (vs 4 concurrents)",
+        "Pas d'USB intégré (contrairement au E7 PRO)",
+        "Poids important : installation 2 personnes recommandée"
+      ],
+      "pourQui": "Ceux qui veulent qualité FlexiSpot sans prix E7 PRO, professionnels cherchant durabilité long terme, télétravail intensif quotidien, setups lourds jusqu'à 125 kg. Investissement raisonné : 380€ pour 10+ ans d'utilisation.",
+      "amazonASIN": "B077JPC7PK",
+      "amazonURL": "",
+      "cdiscountURL": "",
+      "note": 4.6,
+      "nbAvis": 6234,
+      "badge": "Recommandé"
+    }
+  ]
+}
