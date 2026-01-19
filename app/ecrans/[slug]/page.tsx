@@ -3,7 +3,7 @@
 import Link from "next/link";
 import Image from "next/image";
 import { useParams } from "next/navigation";
-import { useState } from "react";
+import { useState, useRef } from "react";
 import EcranData from "@/JsonData/JsonEcran/EcranData.json";
 
 // Type pour les écrans
@@ -53,6 +53,25 @@ export default function EcranDetails() {
 	const [selectedImage, setSelectedImage] = useState(0);
 	const [isZoomed, setIsZoomed] = useState(false);
 	const [zoomPosition, setZoomPosition] = useState({ x: 50, y: 50 });
+	const thumbnailsRef = useRef<HTMLDivElement>(null);
+
+	// Fonction pour naviguer entre les images (change l'image principale + défile les miniatures)
+	const navigateImage = (direction: "left" | "right", totalImages: number) => {
+		const newIndex = direction === "left"
+			? (selectedImage - 1 + totalImages) % totalImages
+			: (selectedImage + 1) % totalImages;
+
+		setSelectedImage(newIndex);
+
+		// Faire défiler les miniatures pour centrer sur l'image sélectionnée
+		if (thumbnailsRef.current) {
+			const thumbnailWidth = 96 + 12; // w-24 (96px) + gap-3 (12px)
+			thumbnailsRef.current.scrollTo({
+				left: newIndex * thumbnailWidth - thumbnailsRef.current.offsetWidth / 2 + thumbnailWidth / 2,
+				behavior: "smooth",
+			});
+		}
+	};
 
 	// Gestion de l'effet loupe
 	const handleMouseMove = (e: React.MouseEvent<HTMLDivElement>) => {
@@ -101,7 +120,7 @@ export default function EcranDetails() {
 						Écrans
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
-					<span className="GolosText text-white truncate max-w-[200px] sm:max-w-none">{ecran.nom}</span>
+					<span className="GolosText text-white truncate max-w-37.5 sm:max-w-50 lg:max-w-none">{ecran.nom}</span>
 				</div>
 			</div>
 
@@ -143,23 +162,45 @@ export default function EcranDetails() {
 
 						{/* Thumbnails */}
 						{imagesToShow.length > 1 && (
-							<div className="flex gap-3 overflow-x-auto pb-2">
-								{imagesToShow.map((img, index) => (
-									<button
-										key={index}
-										onClick={() => setSelectedImage(index)}
-										className={`relative w-20 h-20 sm:w-24 sm:h-24 rounded-xl overflow-hidden shrink-0 border-2 transition-all duration-300 ${
-											selectedImage === index ? "border-(--prim)" : "border-gray-200 hover:border-gray-400"
-										}`}
-									>
-										<Image
-											src={img}
-											alt={`${ecran.nom} - vue ${index + 1}`}
-											fill
-											className="object-contain p-2 bg-gray-50"
-										/>
-									</button>
-								))}
+							<div className="flex items-center gap-2">
+								{/* Flèche gauche - cachée sur mobile */}
+								<button
+									onClick={() => navigateImage("left", imagesToShow.length)}
+									className="hidden md:flex shrink-0 w-9 h-9 bg-white shadow-md rounded-full items-center justify-center hover:bg-gray-50 transition-all duration-300 border border-gray-200 cursor-pointer"
+								>
+									<i className="ri-arrow-left-s-line text-lg text-gray-600"></i>
+								</button>
+
+								<div
+									ref={thumbnailsRef}
+									className="flex gap-3 overflow-x-auto pb-2 scroll-smooth flex-1"
+									style={{ scrollbarWidth: "none", msOverflowStyle: "none" }}
+								>
+									{imagesToShow.map((img, index) => (
+										<button
+											key={index}
+											onClick={() => setSelectedImage(index)}
+											className={`relative w-20 h-20 sm:w-24 sm:h-24 rounded-xl overflow-hidden shrink-0 border-2 transition-all duration-300 ${
+												selectedImage === index ? "border-(--prim)" : "border-gray-200 hover:border-gray-400"
+											}`}
+										>
+											<Image
+												src={img}
+												alt={`${ecran.nom} - vue ${index + 1}`}
+												fill
+												className="object-contain p-2 bg-gray-50"
+											/>
+										</button>
+									))}
+								</div>
+
+								{/* Flèche droite - cachée sur mobile */}
+								<button
+									onClick={() => navigateImage("right", imagesToShow.length)}
+									className="hidden md:flex shrink-0 w-9 h-9 bg-white shadow-md rounded-full items-center justify-center hover:bg-gray-50 transition-all duration-300 border border-gray-200 cursor-pointer"
+								>
+									<i className="ri-arrow-right-s-line text-lg text-gray-600"></i>
+								</button>
 							</div>
 						)}
 					</div>

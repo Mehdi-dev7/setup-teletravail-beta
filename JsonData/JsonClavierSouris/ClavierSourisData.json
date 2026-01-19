@@ -6,10 +6,15 @@
       "category": "Clavier",
       "subcategory": "Clavier sans fil premium",
       "images": [
-        "/images/logitech-mx-keys-front.jpg",
-        "/images/logitech-mx-keys-backlight.jpg",
-        "/images/logitech-mx-keys-detail.jpg",
-        "/images/logitech-mx-keys-angle.jpg"
+        "/Img-Clavier&Souris/logitech-mx-keys/img-p.jpg",
+        "/Img-Clavier&Souris/logitech-mx-keys/img-2.jpg",
+        "/Img-Clavier&Souris/logitech-mx-keys/img-3.jpg",
+        "/Img-Clavier&Souris/logitech-mx-keys/img-4.jpg",
+        "/Img-Clavier&Souris/logitech-mx-keys/img-5.jpg",
+        "/Img-Clavier&Souris/logitech-mx-keys/img-6.jpg",
+        "/Img-Clavier&Souris/logitech-mx-keys/img-7.jpg",
+        "/Img-Clavier&Souris/logitech-mx-keys/img-8.jpg"
+        
       ],
       "price": {
         "amazon": {
@@ -91,10 +96,10 @@
       "category": "Clavier",
       "subcategory": "Clavier ergonomique courbé",
       "images": [
-        "/images/microsoft-sculpt-front.jpg",
-        "/images/microsoft-sculpt-curve.jpg",
-        "/images/microsoft-sculpt-wrist.jpg",
-        "/images/microsoft-sculpt-kit.jpg"
+        "/Img-Clavier&Souris/microsoft-sculpt-ergo/img-p.jpg",
+        "/Img-Clavier&Souris/microsoft-sculpt-ergo/img-2.jpg",
+        "/Img-Clavier&Souris/microsoft-sculpt-ergo/img-3.jpg",
+        "/Img-Clavier&Souris/microsoft-sculpt-ergo/img-4.jpg"
       ],
       "price": {
         "amazon": {
@@ -177,10 +182,10 @@
       "category": "Clavier",
       "subcategory": "Clavier mécanique sans fil compact",
       "images": [
-        "/images/keychron-k8-pro-front.jpg",
-        "/images/keychron-k8-pro-rgb.jpg",
-        "/images/keychron-k8-pro-switches.jpg",
-        "/images/keychron-k8-pro-angle.jpg"
+        "/Img-Clavier&Souris/keychron-K8-Pro/img-p.jpg",
+        "/Img-Clavier&Souris/keychron-K8-Pro/img-2.jpg",
+        "/Img-Clavier&Souris/keychron-K8-Pro/img-3.jpg",
+        "/Img-Clavier&Souris/keychron-K8-Pro/img-4.jpg"
       ],
       "price": {
         "amazon": {
@@ -264,10 +269,11 @@
       "category": "Clavier",
       "subcategory": "Clavier compact multi-devices portable",
       "images": [
-        "/images/logitech-k380-front.jpg",
-        "/images/logitech-k380-colors.jpg",
-        "/images/logitech-k380-devices.jpg",
-        "/images/logitech-k380-portable.jpg"
+        "/Img-Clavier&Souris/logitech-K380/img-p.jpg",
+        "/Img-Clavier&Souris/logitech-K380/img-2.jpg",
+        "/Img-Clavier&Souris/logitech-K380/img-3.jpg",
+        "/Img-Clavier&Souris/logitech-K380/img-4.jpg"
+        
       ],
       "price": {
         "amazon": {
@@ -352,10 +358,14 @@
       "category": "Souris",
       "subcategory": "Souris ergonomique sans fil premium",
       "images": [
-        "/images/logitech-mx-master-3s-side.jpg",
-        "/images/logitech-mx-master-3s-top.jpg",
-        "/images/logitech-mx-master-3s-buttons.jpg",
-        "/images/logitech-mx-master-3s-hand.jpg"
+        "/Img-Clavier&Souris/Logitech-MX-Master3/img-p.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Master3/img-2.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Master3/img-3.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Master3/img-4.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Master3/img-5.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Master3/img-6.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Master3/img-7.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Master3/img-8.jpg"
       ],
       "price": {
         "amazon": {
@@ -438,10 +448,13 @@
       "category": "Souris",
       "subcategory": "Trackball ergonomique sans fil",
       "images": [
-        "/images/logitech-mx-ergo-trackball.jpg",
-        "/images/logitech-mx-ergo-angle.jpg",
-        "/images/logitech-mx-ergo-hand.jpg",
-        "/images/logitech-mx-ergo-precision.jpg"
+        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-p.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-2.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-3.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-4.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-5.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-6.jpg",
+        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-7.jpg"
       ],
       "price": {
         "amazon": {
@@ -525,10 +538,15 @@
       "category": "Souris",
       "subcategory": "Souris verticale ergonomique",
       "images": [
-        "/images/logitech-lift-vertical.jpg",
-        "/images/logitech-lift-hand.jpg",
-        "/images/logitech-lift-angle.jpg",
-        "/images/logitech-lift-colors.jpg"
+        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-p.jpg",
+        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-2.jpg",
+        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-3.jpg",
+        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-4.jpg",
+        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-5.jpg",
+        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-6.jpg",
+        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-7.jpg",
+        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-8.jpg"
+        
       ],
       "price": {
         "amazon": {
@@ -612,10 +630,15 @@
       "category": "Souris",
       "subcategory": "Souris multi-devices compacte",
       "images": [
-        "/images/logitech-m720-front.jpg",
-        "/images/logitech-m720-devices.jpg",
-        "/images/logitech-m720-hand.jpg",
-        "/images/logitech-m720-detail.jpg"
+        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-p.jpg",
+        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-2.jpg",
+        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-3.jpg",
+        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-4.jpg",
+        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-5.jpg",
+        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-6.jpg",
+        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-7.jpg",
+        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-8.jpg"
+        
       ],
       "price": {
         "amazon": {
