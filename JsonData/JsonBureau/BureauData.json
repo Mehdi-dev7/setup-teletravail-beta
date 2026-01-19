@@ -6,13 +6,16 @@
       "marque": "FlexiSpot",
       "prix": 550,
       "promo": 350,
-      "image": "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-main.jpg",
+      "image": "/Img-Bureau/Flexispot-E7/img-p.avif",
       "images": [
-        "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-main.jpg",
-        "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-side.jpg",
-        "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-details.jpg",
-        "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-setup.jpg",
-        "/Img-Bureaux/Flexispot-E7-PRO/flexispot-e7-pro-panel.jpg"
+        "/Img-Bureau/Flexispot-E7/img-p.avif",
+        "/Img-Bureau/Flexispot-E7/img-1.avif",
+        "/Img-Bureau/Flexispot-E7/img-2.avif",
+        "/Img-Bureau/Flexispot-E7/img-3.avif",
+        "/Img-Bureau/Flexispot-E7/img-4.avif",
+        "/Img-Bureau/Flexispot-E7/img-5.avif",
+        "/Img-bureau/Flexispot-E7/1028_file_e7b-pro-2026-5.avif"
+        
       ],
       "prixEnseignes": [
         {
@@ -71,13 +74,14 @@
       "marque": "FEZIBO",
       "prix": 220,
       "promo": null,
-      "image": "/Img-Bureaux/Fezibo-140/fezibo-140-main.jpg",
+      "image": "/Img-Bureau/Fezibo-140/img-p.jpg",
       "images": [
-        "/Img-Bureaux/Fezibo-140/fezibo-140-main.jpg",
-        "/Img-Bureaux/Fezibo-140/fezibo-140-side.jpg",
-        "/Img-Bureaux/Fezibo-140/fezibo-140-details.jpg",
-        "/Img-Bureaux/Fezibo-140/fezibo-140-panel.jpg",
-        "/Img-Bureaux/Fezibo-140/fezibo-140-setup.jpg"
+        "/Img-Bureau/Fezibo-140/img-p.jpg",
+        "/img-Bureau/Fezibo-140/img-2.jpg",
+        "/img-Bureau/Fezibo-140/img-3.jpg",
+        "/img-Bureau/Fezibo-140/img-4.jpg",
+        "/img-Bureau/Fezibo-140/img-5.jpg",
+        "/img-Bureau/Fezibo-140/img-6.jpg"
       ],
       "prixEnseignes": [
         {
@@ -136,12 +140,13 @@
       "marque": "SANODESK",
       "prix": 200,
       "promo": null,
-      "image": "/Img-Bureaux/Sanodesk-QS1/sanodesk-qs1-main.jpg",
+      "image": "/Img-Bureau/Sanodesk-QS1/img-p.jpg",
       "images": [
-        "/Img-Bureaux/Sanodesk-QS1/sanodesk-qs1-main.jpg",
-        "/Img-Bureaux/Sanodesk-QS1/sanodesk-qs1-side.jpg",
-        "/Img-Bureaux/Sanodesk-QS1/sanodesk-qs1-panel.jpg",
-        "/Img-Bureaux/Sanodesk-QS1/sanodesk-qs1-setup.jpg"
+        "/Img-Bureau/Sanodesk-QS1/img-p.jpg",
+        "/Img-Bureau/Sanodesk-QS1/img-4.jpg",
+        "/Img-Bureau/Sanodesk-QS1/img-2.jpg",
+        "/Img-Bureau/Sanodesk-QS1/img-3.jpg",
+        "/Img-Bureau/Sanodesk-QS1/img-5.jpg"
       ],
       "prixEnseignes": [
         {
@@ -187,7 +192,7 @@
       "cdiscountURL": "",
       "note": 4.1,
       "nbAvis": 2156,
-      "badge": "Entry-level"
+      "badge": "Entrée de gamme"
     },
     {
       "id": 4,
@@ -195,12 +200,11 @@
       "marque": "MAIDeSITe",
       "prix": 350,
       "promo": null,
-      "image": "/Img-Bureaux/MAIDeSITe-SN1/maidesite-main.jpg",
+      "image": "/Img-Bureau/Maidesite-SN1/img-p.jpg",
       "images": [
-        "/Img-Bureaux/MAIDeSITe-SN1/maidesite-main.jpg",
-        "/Img-Bureaux/MAIDeSITe-SN1/maidesite-side.jpg",
-        "/Img-Bureaux/MAIDeSITe-SN1/maidesite-details.jpg",
-        "/Img-Bureaux/MAIDeSITe-SN1/maidesite-setup.jpg"
+        "/Img-Bureau/Maidesite-SN1/img-p.jpg",
+        "/Img-Bureau/Maidesite-SN1/img-2.jpg",
+        "/Img-Bureau/Maidesite-SN1/img-3.jpg"
       ],
       "prixEnseignes": [
         {
@@ -253,12 +257,13 @@
       "marque": "FlexiSpot",
       "prix": 380,
       "promo": null,
-      "image": "/Img-Bureaux/Flexispot-E5/flexispot-e5-main.jpg",
+      "image": "/Img-Bureau/Flexispot-E5/img-5.avif",
       "images": [
-        "/Img-Bureaux/Flexispot-E5/flexispot-e5-main.jpg",
-        "/Img-Bureaux/Flexispot-E5/flexispot-e5-side.jpg",
-        "/Img-Bureaux/Flexispot-E5/flexispot-e5-panel.jpg",
-        "/Img-Bureaux/Flexispot-E5/flexispot-e5-setup.jpg"
+        "/Img-Bureau/Flexispot-E5/img-p.avif",
+        "/Img-Bureau/Flexispot-E5/img-2.avif",
+        "/Img-Bureau/Flexispot-E5/img-3.avif",
+        "/Img-Bureau/Flexispot-E5/img-4.avif",
+        "/Img-Bureau/Flexispot-E5/img-5.avif"
       ],
       "prixEnseignes": [
         {

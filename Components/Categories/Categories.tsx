@@ -1,5 +1,5 @@
 import service6 from "@/public/img-casque.jpg";
-import service7 from "@/public/img-accesoire.jpg";
+import service7 from "@/public/img-disk.jpg";
 import service1 from "@/public/img-bureau1.jpg";
 import service3 from "@/public/img-chaiseErgo.jpg";
 import service4 from "@/public/img-clavier.jpg";
