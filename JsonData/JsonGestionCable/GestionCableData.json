@@ -1,0 +1,420 @@
+{
+  "rangements_cables": [
+    {
+      "id": "cable-001",
+      "name": "Bluelounge CableBox",
+      "category": "Rangement câbles",
+      "subcategory": "Boîte cache-multiprise premium",
+      "images": [
+        "/images/bluelounge-cablebox-closed.jpg",
+        "/images/bluelounge-cablebox-open.jpg",
+        "/images/bluelounge-cablebox-setup.jpg",
+        "/images/bluelounge-cablebox-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 34.99,
+          "original": 44.99,
+          "currency": "EUR",
+          "asin": "B0019T0J9S",
+          "url": "https://www.amazon.fr/dp/B0019T0J9S"
+        },
+        "cdiscount": {
+          "current": 37.99,
+          "original": 44.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/maison/decoration-accessoires/bluelounge-cablebox/f-117600101-blu0852106003003.html"
+        },
+        "fnac": {
+          "current": 39.99,
+          "original": 44.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Bluelounge-CableBox-Rangement/a6789234/w-4"
+        }
+      },
+      "features": {
+        "type": "Boîte cache-multiprise",
+        "capacite": "Multiprise 6 prises + adaptateurs",
+        "dimensions": "310 x 124 x 132 mm",
+        "sorties": "5 fentes latérales pour câbles",
+        "materiaux": "Plastique ABS ignifuge",
+        "pieds": "4 pieds antidérapants en caoutchouc",
+        "couvercle": "Amovible avec système de clips",
+        "couleurs": "Blanc, noir",
+        "poids": "680g",
+        "certification": "Sécurité incendie"
+      },
+      "description": "La Bluelounge CableBox est LA solution élégante et sécurisée pour cacher votre multiprise et l'enchevêtrement de câbles qui l'accompagne. Cette boîte design transforme instantanément le chaos de câbles sous votre bureau en une installation propre et minimaliste.\n\nLa boîte accueille une multiprise standard 6 prises ainsi que tous les adaptateurs secteur encombrants (laptop, écrans, hub USB, etc.). Les 5 fentes latérales permettent aux câbles de sortir proprement vers vos périphériques. Le couvercle amovible facilite l'accès pour brancher/débrancher sans tout démonter.\n\nLe plastique ABS ignifuge certifié garantit sécurité totale même avec multiprise en charge. Les pieds antidérapants maintiennent la boîte stable sur le sol. Le design épuré blanc ou noir s'intègre parfaitement à tout bureau moderne. Fini les câbles qui traînent au sol, la multiprise visible, et le risque de trébucher. Pour 35€, c'est l'investissement le plus rentable pour un bureau propre et sécurisé.",
+      "prosAndCons": {
+        "pros": [
+          "Cache multiprise + adaptateurs complètement",
+          "Design élégant minimaliste",
+          "Plastique ignifuge sécurisé",
+          "5 sorties câbles organisées",
+          "Couvercle amovible pratique",
+          "Pieds antidérapants stables",
+          "Installation instantanée",
+          "Prix abordable (35€)"
+        ],
+        "cons": [
+          "Taille limitée (multiprise 6 prises max)",
+          "Pas de fixation murale",
+          "Encombrement au sol",
+          "Couvercle peut se détacher",
+          "Plastique peut jaunir avec temps",
+          "Pas de système aération (chauffe possible)"
+        ]
+      },
+      "targetAudience": [
+        "Minimalistes valorisant esthétique",
+        "Bureaux avec multiprise au sol",
+        "Personnes avec enfants/animaux (sécurité)",
+        "Home office propre",
+        "Budget raisonnable (< 40€)"
+      ],
+      "ratings": {
+        "overall": 4.6,
+        "design": 4.8,
+        "functionality": 4.5,
+        "buildQuality": 4.4,
+        "easeOfUse": 4.7,
+        "valueForMoney": 4.6,
+        "reviewCount": 8945
+      },
+      "badges": ["Design", "Ignifuge", "Bestseller", "Sécurisé"]
+    },
+    {
+      "id": "cable-002",
+      "name": "JOTO Goulotte Cache-Câbles",
+      "category": "Rangement câbles",
+      "subcategory": "Goulotte murale/bureau adhésive",
+      "images": [
+        "/images/joto-goulotte-wall.jpg",
+        "/images/joto-goulotte-desk.jpg",
+        "/images/joto-goulotte-detail.jpg",
+        "/images/joto-goulotte-install.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 19.99,
+          "original": 29.99,
+          "currency": "EUR",
+          "asin": "B0B2QP7YB8",
+          "url": "https://www.amazon.fr/dp/B0B2QP7YB8"
+        },
+        "cdiscount": {
+          "current": 21.99,
+          "original": 29.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/maison/decoration-accessoires/joto-goulotte-cache-cables/f-117600101-jot0745125464404.html"
+        },
+        "fnac": {
+          "current": 24.99,
+          "original": 29.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/JOTO-Goulotte-Cache-Cables/a17456892/w-4"
+        }
+      },
+      "features": {
+        "type": "Goulotte adhésive flexible",
+        "longueur": "4x 40cm = 160cm total",
+        "capacite": "10-12 câbles standard",
+        "largeur": "3.5cm intérieur",
+        "profondeur": "2cm intérieur",
+        "installation": "Adhésif 3M double-face puissant",
+        "decoupage": "Scie fine (découpage sur mesure)",
+        "materiaux": "PVC ignifuge",
+        "couleurs": "Blanc, noir, gris, bois",
+        "poids": "580g (4 pièces)",
+        "accessoires": "Coudes et raccords inclus"
+      },
+      "description": "La JOTO Goulotte Cache-Câbles est la solution professionnelle pour masquer élégamment tous vos câbles le long des murs, plinthes ou bord de bureau. Ce système de goulottes adhésives transforme instantanément un enchevêtrement de câbles visible en une installation propre et discrète.\n\nLe kit comprend 4 sections de 40cm (160cm total) connectables, suffisant pour gérer tous les câbles d'un setup complet : écrans, PC, lampe, chargeurs. La largeur 3.5cm accueille confortablement 10-12 câbles standard. L'adhésif 3M double-face ultra-puissant maintient les goulottes fermement sur murs, plinthes, dessous de bureau sans percer.\n\nLes coudes et raccords inclus permettent de négocier les angles et créer un parcours propre. Le PVC ignifuge certifié garantit sécurité. Les goulottes sont découpables sur mesure à la scie fine. Disponible en 4 coloris (blanc, noir, gris, effet bois) pour s'assortir à votre décoration. Installation en 30 minutes pour un bureau transformé. Pour 20€, c'est le meilleur rapport qualité-prix en gestion de câbles murale.",
+      "prosAndCons": {
+        "pros": [
+          "Prix imbattable (20€)",
+          "160cm total généreux",
+          "Adhésif 3M puissant - sans percer",
+          "Capacité 10-12 câbles",
+          "Coudes et raccords inclus",
+          "4 coloris disponibles",
+          "PVC ignifuge",
+          "Installation 30 min"
+        ],
+        "cons": [
+          "Adhésif permanent (marques mur)",
+          "Nécessite découpage propre",
+          "Ouverture/fermeture répétée use clips",
+          "Visible (pas totalement caché)",
+          "Plastique cheap",
+          "Capacité limitée gros câbles",
+          "Difficile réajustement après pose"
+        ]
+      },
+      "targetAudience": [
+        "Câbles le long des murs/plinthes",
+        "Location (sans perçage)",
+        "Budget très limité (< 25€)",
+        "Installation DIY rapide",
+        "Besoin discrétion visuelle"
+      ],
+      "ratings": {
+        "overall": 4.4,
+        "design": 4.2,
+        "functionality": 4.5,
+        "buildQuality": 4.0,
+        "easeOfUse": 4.6,
+        "valueForMoney": 4.8,
+        "reviewCount": 12456
+      },
+      "badges": ["Budget", "160cm", "Adhésif 3M", "Sans perçage"]
+    },
+    {
+      "id": "cable-003",
+      "name": "IKEA SIGNUM Chemin de câbles",
+      "category": "Rangement câbles",
+      "subcategory": "Chemin de câbles sous bureau",
+      "images": [
+        "/images/ikea-signum-mounted.jpg",
+        "/images/ikea-signum-cables.jpg",
+        "/images/ikea-signum-desk.jpg",
+        "/images/ikea-signum-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 12.99,
+          "original": 14.99,
+          "currency": "EUR",
+          "asin": "B07WQXG3VS",
+          "url": "https://www.amazon.fr/dp/B07WQXG3VS"
+        },
+        "cdiscount": {
+          "current": 13.99,
+          "original": 14.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/maison/decoration-accessoires/ikea-signum-chemin-cables/f-117600101-ike8710774312298.html"
+        },
+        "fnac": {
+          "current": 14.99,
+          "original": 14.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/IKEA-SIGNUM-Chemin-Cables/a16892456/w-4"
+        }
+      },
+      "features": {
+        "type": "Chemin de câbles mesh sous bureau",
+        "longueur": "70 cm",
+        "largeur": "14 cm",
+        "capacite": "Jusqu'à 15-20 câbles",
+        "installation": "Vissage sous bureau (vis incluses)",
+        "materiaux": "Acier galvanisé mesh",
+        "finition": "Galvanisé argenté",
+        "poids": "450g",
+        "compatibilite": "Bureaux IKEA et standards",
+        "vis": "Incluses + rondelles"
+      },
+      "description": "Le IKEA SIGNUM Chemin de câbles est la solution minimaliste et ultra-abordable pour organiser tous vos câbles sous le bureau, les rendant totalement invisibles. Ce mesh métallique se visse sous le plateau de bureau et transforme instantanément le chaos de câbles en une installation propre et organisée.\n\nLe mesh 70x14cm accueille généreusement tous les câbles d'un setup complet : alimentation PC, écrans, périphériques USB, chargeurs, multiprise. Les câbles reposent librement dans le chemin, permettant ajouts/retraits faciles sans démontage. La structure mesh ventilée évite accumulation de chaleur.\n\nL'installation nécessite 4 vis (incluses) sous le bureau, prenant 10 minutes. L'acier galvanisé garantit robustesse et durabilité 10+ ans. Le design mesh industriel est invisible une fois installé sous le bureau. Compatible avec tous bureaux standards épais de 18-30mm. Pour 13€, c'est probablement le meilleur investissement possible pour un bureau propre - chaque setup devrait en avoir un.",
+      "prosAndCons": {
+        "pros": [
+          "Prix mini (13€)",
+          "Câbles 100% invisibles sous bureau",
+          "Capacité généreuse 15-20 câbles",
+          "Mesh ventilé (pas de chaleur)",
+          "Acier galvanisé robuste",
+          "Installation 10 minutes",
+          "Ajout/retrait câbles facile",
+          "Durabilité 10+ ans"
+        ],
+        "cons": [
+          "Nécessite perçage bureau",
+          "Longueur fixe 70cm",
+          "Pas extensible",
+          "Finition industrielle basique",
+          "Vis apparentes dessous",
+          "Capacité gros adaptateurs limitée"
+        ]
+      },
+      "targetAudience": [
+        "Propriétaires bureau (perçage OK)",
+        "Budget minimal (< 15€)",
+        "Câbles sous bureau à cacher",
+        "Solution permanente",
+        "Tous setups"
+      ],
+      "ratings": {
+        "overall": 4.7,
+        "design": 4.3,
+        "functionality": 4.9,
+        "buildQuality": 4.7,
+        "easeOfUse": 4.8,
+        "valueForMoney": 5.0,
+        "reviewCount": 23456
+      },
+      "badges": ["Bestseller IKEA", "Prix mini", "Invisible", "Robuste"]
+    },
+    {
+      "id": "cable-004",
+      "name": "Anker Magnetic Cable Clips",
+      "category": "Rangement câbles",
+      "subcategory": "Clips magnétiques organiseurs",
+      "images": [
+        "/images/anker-clips-desk.jpg",
+        "/images/anker-clips-magnetic.jpg",
+        "/images/anker-clips-detail.jpg",
+        "/images/anker-clips-use.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 9.99,
+          "original": 14.99,
+          "currency": "EUR",
+          "asin": "B08L3ZQHJJ",
+          "url": "https://www.amazon.fr/dp/B08L3ZQHJJ"
+        },
+        "cdiscount": {
+          "current": 11.99,
+          "original": 14.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/anker-magnetic-cable-clips/f-10717-ank0194644092696.html"
+        },
+        "fnac": {
+          "current": 12.99,
+          "original": 14.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Anker-Magnetic-Cable-Clips/a17892345/w-4"
+        }
+      },
+      "features": {
+        "type": "Clips magnétiques câbles",
+        "quantite": "3 clips + 3 bases magnétiques",
+        "capacite": "1-3 câbles par clip",
+        "installation": "Adhésif 3M nano sur base",
+        "aimant": "Néodyme puissant",
+        "materiaux": "Silicone + aimant",
+        "dimensions": "30 x 15 x 8 mm par clip",
+        "couleurs": "Noir, gris",
+        "poids": "25g total",
+        "garantie": "18 mois Anker"
+      },
+      "description": "Les Anker Magnetic Cable Clips révolutionnent la gestion de câbles sur bureau grâce à leur système magnétique ingénieux. Ces petits clips maintiennent vos câbles à portée de main tout en les gardant organisés et démêlés, éliminant le problème des câbles qui tombent derrière le bureau.\n\nChaque clip silicone peut accueillir 1-3 câbles (USB-C, Lightning, micro-USB) et se détache magnétiquement de sa base pour un accès ultra-rapide. Les 3 bases adhésives 3M nano se collent solidement sur le bord du bureau, mur, ou côté d'écran. Branchez/débranchez vos câbles sans qu'ils ne tombent au sol : le clip magnétique les maintient toujours en place.\n\nIdéal pour câbles de charge smartphone, câbles USB périphériques, ou câbles audio. Le silicone doux ne raye pas les câbles. L'aimant néodyme puissant maintient fermement même avec 3 câbles. Installation en 2 minutes sans outils. Pour 10€, c'est l'accessoire le plus intelligent pour garder vos câbles les plus utilisés à portée de main.",
+      "prosAndCons": {
+        "pros": [
+          "Prix mini (10€)",
+          "Système magnétique ingénieux",
+          "Câbles toujours à portée",
+          "Empêche chute derrière bureau",
+          "Installation 2 min",
+          "Silicone doux câbles",
+          "Aimant néodyme puissant",
+          "Qualité Anker"
+        ],
+        "cons": [
+          "Seulement 3 clips (insuffisant gros setup)",
+          "Adhésif permanent",
+          "Capacité limitée 3 câbles/clip",
+          "Pas pour gros câbles alimentation",
+          "Esthétique plastique basique",
+          "Aimant peut se desaimanter (rare)"
+        ]
+      },
+      "targetAudience": [
+        "Câbles souvent branchés/débranchés",
+        "Charge smartphone sur bureau",
+        "Petits câbles USB/Lightning",
+        "Budget très limité (10€)",
+        "Complément autres solutions"
+      ],
+      "ratings": {
+        "overall": 4.5,
+        "design": 4.3,
+        "functionality": 4.7,
+        "buildQuality": 4.4,
+        "easeOfUse": 4.8,
+        "valueForMoney": 4.7,
+        "reviewCount": 6789
+      },
+      "badges": ["Magnétique", "Prix mini", "Anker", "Pratique"]
+    },
+    {
+      "id": "cable-005",
+      "name": "D-Line Micro Cache-Câbles Adhésif",
+      "category": "Rangement câbles",
+      "subcategory": "Clips adhésifs micro câbles",
+      "images": [
+        "/images/dline-micro-clips.jpg",
+        "/images/dline-micro-desk.jpg",
+        "/images/dline-micro-detail.jpg",
+        "/images/dline-micro-use.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 8.99,
+          "original": 12.99,
+          "currency": "EUR",
+          "asin": "B07PBKJ91D",
+          "url": "https://www.amazon.fr/dp/B07PBKJ91D"
+        },
+        "cdiscount": {
+          "current": 9.99,
+          "original": 12.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/maison/decoration-accessoires/d-line-micro-cache-cables/f-117600101-dli5055796921508.html"
+        },
+        "fnac": {
+          "current": 10.99,
+          "original": 12.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/D-Line-Micro-Cache-Cables/a17345678/w-4"
+        }
+      },
+      "features": {
+        "type": "Clips adhésifs micro câbles",
+        "quantite": "Pack de 8 clips",
+        "capacite": "1-2 câbles fins par clip",
+        "installation": "Adhésif permanent",
+        "materiaux": "Plastique ABS",
+        "dimensions": "15 x 10 x 6 mm par clip",
+        "couleurs": "Blanc, noir, transparent",
+        "poids": "20g total",
+        "applications": "Bureau, mur, plinthe, voiture"
+      },
+      "description": "Les D-Line Micro Cache-Câbles sont les clips adhésifs ultra-discrets parfaits pour guider et fixer des câbles fins le long de surfaces. Ce pack de 8 clips minuscules maintient vos câbles de charge, USB, audio ou réseau proprement plaqués contre bureau, mur ou plinthe.\n\nChaque clip accueille 1-2 câbles fins et se colle solidement via adhésif permanent sur n'importe quelle surface lisse. Idéal pour router un câble Lightning le long du bord de bureau jusqu'à votre zone de charge smartphone, ou pour plaquer un câble réseau Ethernet le long d'une plinthe jusqu'à votre PC.\n\nLa taille micro (15x10mm) rend les clips quasi-invisibles une fois installés. Disponible en blanc, noir ou transparent pour s'adapter à toute surface. Installation ultra-rapide : nettoyez surface, collez, insérez câble. Pour 9€, c'est la solution la plus économique pour guider proprement quelques câbles spécifiques sans installation lourde.",
+      "prosAndCons": {
+        "pros": [
+          "Prix imbattable (9€)",
+          "8 clips généreux",
+          "Ultra-discrets micro taille",
+          "Installation instantanée",
+          "3 couleurs disponibles",
+          "Polyvalent (bureau/mur/plinthe)",
+          "Adhésif permanent solide",
+          "Parfait petits câbles"
+        ],
+        "cons": [
+          "Capacité très limitée (1-2 câbles fins)",
+          "Pas pour câbles épais",
+          "Adhésif permanent (trace)",
+          "Plastique cheap",
+          "Peut casser si forcé",
+          "Difficile retirer proprement"
+        ]
+      },
+      "targetAudience": [
+        "Quelques câbles fins à guider",
+        "Budget ultra-limité (< 10€)",
+        "Solution ponctuelle locale",
+        "Câbles charge/USB/audio",
+        "Complément autres systèmes"
+      ],
+      "ratings": {
+        "overall": 4.3,
+        "design": 4.0,
+        "functionality": 4.4,
+        "buildQuality": 3.9,
+        "easeOfUse": 4.7,
+        "valueForMoney": 4.6,
+        "reviewCount": 4567
+      },
+      "badges": ["Prix mini", "8 clips", "Discret", "Basique"]
+    }
+  ]
+}

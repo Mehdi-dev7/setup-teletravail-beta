@@ -1,0 +1,680 @@
+{
+  "tapis_larges": [
+    {
+      "id": "tapis-large-001",
+      "name": "SteelSeries QcK 3XL",
+      "category": "Tapis de souris",
+      "subcategory": "Tapis XXL gaming/bureautique",
+      "images": [
+        "/images/steelseries-qck-3xl-front.jpg",
+        "/images/steelseries-qck-3xl-desk.jpg",
+        "/images/steelseries-qck-3xl-surface.jpg",
+        "/images/steelseries-qck-3xl-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 39.99,
+          "original": 54.99,
+          "currency": "EUR",
+          "asin": "B08F2TGPB6",
+          "url": "https://www.amazon.fr/dp/B08F2TGPB6"
+        },
+        "cdiscount": {
+          "current": 42.99,
+          "original": 54.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/steelseries-qck-3xl/f-10717-ste5707119047739.html"
+        },
+        "fnac": {
+          "current": 44.99,
+          "original": 54.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/SteelSeries-QcK-3XL-Tapis/a14567892/w-4"
+        }
+      },
+      "features": {
+        "dimensions": "1220 x 590 x 4 mm",
+        "surface": "Micro-texture tissu gaming",
+        "base": "Caoutchouc naturel antidérapant",
+        "epaisseur": "4mm",
+        "materiaux": "Tissu haute performance + caoutchouc",
+        "couture": "Bords cousus anti-effilochage",
+        "lavage": "Lavable en machine 30°C",
+        "compatibilite": "Souris optique et laser",
+        "couleurs": "Noir",
+        "poids": "1100g",
+        "garantie": "1 an SteelSeries"
+      },
+      "description": "Le SteelSeries QcK 3XL est le tapis XXL de référence pour créer une surface de travail uniforme et confortable couvrant tout votre bureau. Avec 122cm de large sur 59cm de profondeur, ce tapis géant accommode clavier mécanique full-size, souris avec grand espace de mouvement, smartphone, documents et même une tasse de café.\n\nLa surface micro-texture en tissu haute performance offre un glissement optimal pour tous types de souris (optique, laser, gaming) tout en offrant contrôle et précision. Vos poignets et avant-bras reposent confortablement sur le tissu doux lors de longues sessions de travail. La base en caoutchouc naturel ultra-adhérente maintient le tapis absolument immobile même lors de mouvements souris rapides.\n\nLes bords cousus garantissent durabilité de 3+ ans sans effilochage. L'épaisseur 4mm offre confort optimal sans être trop épais. Le tapis est lavable en machine 30°C pour maintenir hygiène parfaite. La qualité SteelSeries gaming garantit résistance intense 8h/jour. Pour 40€, c'est le meilleur investissement pour transformer votre bureau en surface de travail premium uniforme.",
+      "prosAndCons": {
+        "pros": [
+          "Taille XXL 122x59cm - couvre tout bureau",
+          "Surface micro-texture parfaite",
+          "Base antidérapante ultra-efficace",
+          "Bords cousus durables",
+          "Lavable machine 30°C",
+          "Épaisseur 4mm confortable",
+          "Qualité gaming SteelSeries",
+          "Prix correct (40€) pour taille"
+        ],
+        "cons": [
+          "Lourd (1.1kg) - difficile transport",
+          "Nécessite grand bureau (>120cm)",
+          "Séchage long après lavage",
+          "Peut garder plis au déballage",
+          "Noir uniquement",
+          "Accumule poussière (tissu)"
+        ]
+      },
+      "targetAudience": [
+        "Setup clavier mécanique + souris gaming",
+        "Grands bureaux (>120cm)",
+        "Gamers et professionnels",
+        "Valorisant surface uniforme",
+        "Longues sessions travail"
+      ],
+      "ratings": {
+        "overall": 4.7,
+        "surfaceQuality": 4.8,
+        "comfort": 4.7,
+        "durability": 4.8,
+        "nonSlip": 4.9,
+        "valueForMoney": 4.6,
+        "reviewCount": 12456
+      },
+      "badges": ["XXL 122cm", "Gaming Pro", "Lavable", "Bords cousus"]
+    },
+    {
+      "id": "tapis-large-002",
+      "name": "Extended Office Desk Mat Cork & Leather",
+      "category": "Tapis de souris",
+      "subcategory": "Tapis bureau premium liège et cuir",
+      "images": [
+        "/images/cork-leather-mat-front.jpg",
+        "/images/cork-leather-mat-desk.jpg",
+        "/images/cork-leather-mat-texture.jpg",
+        "/images/cork-leather-mat-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 49.99,
+          "original": 69.99,
+          "currency": "EUR",
+          "asin": "B09HLMN6K7",
+          "url": "https://www.amazon.fr/dp/B09HLMN6K7"
+        },
+        "cdiscount": {
+          "current": 54.99,
+          "original": 69.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/maison/decoration-accessoires/extended-office-desk-mat/f-117600101-ext0745125464404.html"
+        },
+        "fnac": {
+          "current": 59.99,
+          "original": 69.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Extended-Office-Desk-Mat/a17892456/w-4"
+        }
+      },
+      "features": {
+        "dimensions": "900 x 450 x 2 mm",
+        "surface": "Liège naturel + PU cuir vegan",
+        "base": "Caoutchouc recyclé antidérapant",
+        "epaisseur": "2mm",
+        "materiaux": "Liège naturel écologique + PU",
+        "finitions": "Bords arrondis cuir cousu",
+        "entretien": "Chiffon humide",
+        "compatibilite": "Souris optique",
+        "couleurs": "Naturel liège/marron, noir",
+        "poids": "420g",
+        "eco": "Matériaux durables et recyclés"
+      },
+      "description": "L'Extended Office Desk Mat Cork & Leather est le tapis premium par excellence pour bureaux professionnels et home offices design. Ce tapis 90x45cm combine esthétique naturelle du liège, douceur du cuir vegan et responsabilité écologique, transformant votre bureau en espace de travail haut de gamme.\n\nLa surface double-face offre 2 textures : côté liège naturel pour grip optimal souris + aspect chaleureux naturel, ou côté PU cuir vegan pour look luxueux et toucher doux. Le liège naturel est antibactérien, résistant à l'eau et aux taches, facile à nettoyer d'un coup de chiffon. Les bords en cuir cousu ajoutent finition premium.\n\nL'épaisseur 2mm fine maintient votre bureau à niveau optimal pour frappe clavier confortable. La base caoutchouc recyclé antidérapante maintient le tapis parfaitement immobile. Matériaux écologiques : liège naturel renouvelable, PU vegan, caoutchouc recyclé. Pour 50€, c'est le tapis idéal pour bureaux professionnels soignés valorisant design naturel et éco-responsabilité.",
+      "prosAndCons": {
+        "pros": [
+          "Design naturel liège premium",
+          "Double-face liège/cuir vegan",
+          "Matériaux écologiques responsables",
+          "Antibactérien naturel (liège)",
+          "Résistant eau et taches",
+          "Bords cuir cousus luxueux",
+          "Épaisseur 2mm optimale",
+          "Facile entretien chiffon"
+        ],
+        "cons": [
+          "Taille 90x45cm moyenne (pas XXL)",
+          "Prix élevé (50€)",
+          "Liège peut s'émietter bords (rare)",
+          "Pas lavable machine",
+          "Pas idéal souris gaming rapide",
+          "Poids léger (peut glisser si mal placé)"
+        ]
+      },
+      "targetAudience": [
+        "Bureaux design et épurés",
+        "Professionnels valorisant esthétique",
+        "Éco-conscients",
+        "Home office haut de gamme",
+        "Bureaux 90-110cm"
+      ],
+      "ratings": {
+        "overall": 4.6,
+        "surfaceQuality": 4.7,
+        "comfort": 4.5,
+        "durability": 4.4,
+        "nonSlip": 4.3,
+        "valueForMoney": 4.3,
+        "reviewCount": 3456
+      },
+      "badges": ["Premium", "Éco-responsable", "Liège naturel", "Design"]
+    },
+    {
+      "id": "tapis-large-003",
+      "name": "JIALONG Extended Gaming Mouse Pad",
+      "category": "Tapis de souris",
+      "subcategory": "Tapis XXL RGB gaming",
+      "images": [
+        "/images/jialong-rgb-front.jpg",
+        "/images/jialong-rgb-lit.jpg",
+        "/images/jialong-rgb-desk.jpg",
+        "/images/jialong-rgb-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 24.99,
+          "original": 39.99,
+          "currency": "EUR",
+          "asin": "B08YWQB5H3",
+          "url": "https://www.amazon.fr/dp/B08YWQB5H3"
+        },
+        "cdiscount": {
+          "current": 27.99,
+          "original": 39.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/jialong-extended-gaming-mouse-pad/f-10717-jia0745125464404.html"
+        },
+        "fnac": {
+          "current": 29.99,
+          "original": 39.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/JIALONG-Extended-Gaming-Mouse-Pad/a17456823/w-4"
+        }
+      },
+      "features": {
+        "dimensions": "800 x 300 x 4 mm",
+        "surface": "Micro-texture lisse gaming",
+        "base": "Caoutchouc antidérapant",
+        "epaisseur": "4mm",
+        "rgb": "14 modes RGB LED sur pourtour",
+        "alimentation": "USB (câble 1.5m inclus)",
+        "controle": "Bouton tactile modes RGB",
+        "materiaux": "Tissu polyester + caoutchouc",
+        "couture": "Bords cousus LED étanches",
+        "couleurs": "Noir avec RGB multicolore",
+        "poids": "650g",
+        "garantie": "6 mois"
+      },
+      "description": "Le JIALONG Extended Gaming Mouse Pad combine tapis XXL fonctionnel et éclairage RGB spectaculaire pour créer un setup gaming immersif à petit prix. Les 80x30cm accommodent clavier gaming + souris avec espace généreux, tandis que l'éclairage LED RGB sur tout le pourtour transforme votre bureau en poste de combat lumineux.\n\nLa surface micro-texture lisse optimisée gaming offre glisse parfaite pour mouvements souris rapides et précis lors de vos sessions intensives. L'épaisseur 4mm confortable amortit poignets et avant-bras. Les 14 modes RGB (statique, respiration, vague, spectre, etc.) se contrôlent via bouton tactile intégré. Synchronisez avec votre setup RGB existant.\n\nLa base caoutchouc ultra-adhérente maintient le tapis immobile même pendant sessions gaming frénétiques. Les bords cousus avec LED étanches garantissent durabilité et protection électronique. Alimentation simple via USB. Pour 25€, c'est le meilleur rapport qualité-prix en tapis large RGB, parfait pour gamers budget limité ou premier setup RGB.",
+      "prosAndCons": {
+        "pros": [
+          "Prix imbattable (25€) avec RGB",
+          "14 modes RGB personnalisables",
+          "Taille 80x30cm généreuse",
+          "Surface gaming optimisée",
+          "Épaisseur 4mm confortable",
+          "Bords cousus LED étanches",
+          "Base antidérapante efficace",
+          "Installation plug & play USB"
+        ],
+        "cons": [
+          "Qualité build moyenne",
+          "LED peuvent être éblouissantes (nuit)",
+          "Nécessite port USB dédié",
+          "Consommation électrique continue",
+          "RGB peut lasser avec temps",
+          "Durabilité LED limitée (2-3 ans)",
+          "Pas lavable machine (électronique)"
+        ]
+      },
+      "targetAudience": [
+        "Gamers setup RGB",
+        "Budget limité (< 30€)",
+        "Streamers (esthétique)",
+        "Jeunes professionnels créatifs",
+        "Premiers pas RGB"
+      ],
+      "ratings": {
+        "overall": 4.4,
+        "surfaceQuality": 4.3,
+        "comfort": 4.4,
+        "durability": 4.0,
+        "nonSlip": 4.5,
+        "valueForMoney": 4.8,
+        "reviewCount": 8945
+      },
+      "badges": ["RGB 14 modes", "Budget", "Gaming", "XXL"]
+    }
+  ],
+  "tapis_souris_ergonomiques": [
+    {
+      "id": "souris-ergo-001",
+      "name": "3M Precise Mousing Surface Gel Wrist Rest",
+      "category": "Tapis souris ergonomique",
+      "subcategory": "Tapis souris avec repose-poignet gel",
+      "images": [
+        "/images/3m-precise-gel-front.jpg",
+        "/images/3m-precise-gel-wrist.jpg",
+        "/images/3m-precise-gel-side.jpg",
+        "/images/3m-precise-gel-desk.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 24.99,
+          "original": 34.99,
+          "currency": "EUR",
+          "asin": "B0002J1K2Y",
+          "url": "https://www.amazon.fr/dp/B0002J1K2Y"
+        },
+        "cdiscount": {
+          "current": 27.99,
+          "original": 34.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/3m-precise-mousing-surface/f-10717-3mm0051141320953.html"
+        },
+        "fnac": {
+          "current": 29.99,
+          "original": 34.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/3M-Precise-Mousing-Surface/a8234567/w-4"
+        }
+      },
+      "features": {
+        "dimensions": "230 x 190 mm (zone souris) + repose-poignet",
+        "surface": "Bitmap précision microscopique 3M",
+        "reposePoignet": "Gel souple Precise 3M",
+        "hauteur": "Repose-poignet 25mm épais",
+        "base": "Caoutchouc antidérapant",
+        "materiaux": "Surface bitmap + gel souple + lycra",
+        "antimicrobien": "Oui - traitement intégré",
+        "lavage": "Surface lavable savon doux",
+        "garantie": "1 an 3M",
+        "couleurs": "Noir, gris",
+        "poids": "280g"
+      },
+      "description": "Le 3M Precise Mousing Surface Gel Wrist Rest est LA référence professionnelle en tapis souris ergonomique pour prévenir syndrome du canal carpien et douleurs au poignet. La combinaison de la surface bitmap précision 3M et du repose-poignet gel Precise garantit confort optimal lors de sessions 8h+ quotidiennes.\n\nLe repose-poignet gel souple 25mm épouse parfaitement la forme de votre poignet, maintenant position neutre qui élimine pression sur le canal carpien. Le gel ne s'affaisse jamais et retrouve sa forme instantanément. La housse lycra douce respire et évacue humidité. Le traitement antimicrobien intégré maintient hygiène parfaite.\n\nLa surface bitmap brevetée 3M offre précision microscopique pour souris optiques et laser, garantissant contrôle pixel-perfect. La base caoutchouc maintient l'ensemble absolument immobile. Recommandé par ergonomes et médecins du travail. Pour 25€, c'est l'investissement santé indispensable si vous utilisez souris 4h+ par jour.",
+      "prosAndCons": {
+        "pros": [
+          "Référence professionnelle 3M",
+          "Repose-poignet gel 25mm optimal",
+          "Prévention syndrome canal carpien",
+          "Surface bitmap précision micro",
+          "Antimicrobien intégré",
+          "Gel ne s'affaisse jamais",
+          "Recommandé ergonomes",
+          "Lavable"
+        ],
+        "cons": [
+          "Taille modeste (23x19cm)",
+          "Prix élevé (25€) pour taille",
+          "Gel peut chauffer été",
+          "Lycra accumule poils/poussière",
+          "Design sobre professionnel",
+          "Pas pour souris gaming rapide"
+        ]
+      },
+      "targetAudience": [
+        "Douleurs poignet existantes",
+        "Prévention TMS",
+        "Utilisation souris 4h+ quotidien",
+        "Professionnels ergonomie",
+        "Bureautique intensive"
+      ],
+      "ratings": {
+        "overall": 4.6,
+        "comfort": 4.8,
+        "surfaceQuality": 4.7,
+        "wristSupport": 4.9,
+        "durability": 4.5,
+        "valueForMoney": 4.3,
+        "reviewCount": 6789
+      },
+      "badges": ["Référence 3M", "Gel Precise", "Antimicrobien", "Pro Ergo"]
+    },
+    {
+      "id": "souris-ergo-002",
+      "name": "Gimars Memory Foam Wrist Rest Mouse Pad",
+      "category": "Tapis souris ergonomique",
+      "subcategory": "Tapis souris mousse mémoire budget",
+      "images": [
+        "/images/gimars-memory-foam-front.jpg",
+        "/images/gimars-memory-foam-wrist.jpg",
+        "/images/gimars-memory-foam-side.jpg",
+        "/images/gimars-memory-foam-desk.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 12.99,
+          "original": 19.99,
+          "currency": "EUR",
+          "asin": "B01MR4II3C",
+          "url": "https://www.amazon.fr/dp/B01MR4II3C"
+        },
+        "cdiscount": {
+          "current": 14.99,
+          "original": 19.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/gimars-memory-foam-wrist-rest/f-10717-gim0745125464404.html"
+        },
+        "fnac": {
+          "current": 16.99,
+          "original": 19.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Gimars-Memory-Foam-Wrist-Rest/a16789234/w-4"
+        }
+      },
+      "features": {
+        "dimensions": "260 x 220 mm total",
+        "surface": "Tissu lycra lisse",
+        "reposePoignet": "Mousse mémoire de forme slow-rebound",
+        "hauteur": "Repose-poignet 25mm épais",
+        "base": "PU antidérapant",
+        "materiaux": "Mousse mémoire + lycra + PU",
+        "lavage": "Housse amovible lavable",
+        "couleurs": "Noir, gris, bleu",
+        "poids": "210g",
+        "garantie": "1 an"
+      },
+      "description": "Le Gimars Memory Foam Wrist Rest Mouse Pad offre une alternative économique au 3M pour découvrir les bienfaits d'un repose-poignet ergonomique sans se ruiner. La mousse mémoire de forme à effet slow-rebound épouse parfaitement votre poignet, redistribuant pression et maintenant position neutre confortable.\n\nLa mousse mémoire haute densité ne s'affaisse pas avec le temps et retrouve lentement sa forme après utilisation. Le repose-poignet 25mm épais supporte votre main à hauteur optimale, éliminant angle poignet néfaste. La surface lycra lisse offre glisse correcte pour souris optique standard.\n\nLa base PU antidérapante maintient l'ensemble stable. La housse lycra amovible se lave en machine pour hygiène parfaite. Disponible en 3 coloris. Pour 13€, c'est le point d'entrée idéal en tapis ergonomique souris, parfait pour tester le concept avant investissement premium ou pour budget très serré.",
+      "prosAndCons": {
+        "pros": [
+          "Prix imbattable (13€)",
+          "Mousse mémoire confortable",
+          "Repose-poignet 25mm optimal",
+          "Housse amovible lavable",
+          "3 coloris disponibles",
+          "Bon pour découverte ergo",
+          "Léger et transportable",
+          "Slow-rebound agréable"
+        ],
+        "cons": [
+          "Qualité inférieure à 3M",
+          "Surface lycra basique",
+          "Mousse peut s'affaisser (1-2 ans)",
+          "Pas antimicrobien",
+          "PU peut se détériorer",
+          "Accumule chaleur été",
+          "Coutures cheap"
+        ]
+      },
+      "targetAudience": [
+        "Premier tapis ergonomique",
+        "Budget très limité (< 15€)",
+        "Découverte repose-poignet",
+        "Utilisation occasionnelle",
+        "Bureautique standard"
+      ],
+      "ratings": {
+        "overall": 4.3,
+        "comfort": 4.4,
+        "surfaceQuality": 4.0,
+        "wristSupport": 4.2,
+        "durability": 3.8,
+        "valueForMoney": 4.8,
+        "reviewCount": 12456
+      },
+      "badges": ["Budget", "Mémoire de forme", "Lavable", "Découverte"]
+    }
+  ],
+  "tapis_clavier_ergonomiques": [
+    {
+      "id": "clavier-ergo-001",
+      "name": "3M Gel Wrist Rest for Keyboards",
+      "category": "Repose-poignet clavier",
+      "subcategory": "Repose-poignet gel premium clavier",
+      "images": [
+        "/images/3m-keyboard-gel-front.jpg",
+        "/images/3m-keyboard-gel-wrists.jpg",
+        "/images/3m-keyboard-gel-side.jpg",
+        "/images/3m-keyboard-gel-desk.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 29.99,
+          "original": 39.99,
+          "currency": "EUR",
+          "asin": "B000J4HJL4",
+          "url": "https://www.amazon.fr/dp/B000J4HJL4"
+        },
+        "cdiscount": {
+          "current": 32.99,
+          "original": 39.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/3m-gel-wrist-rest-keyboards/f-10717-3mm0051141320922.html"
+        },
+        "fnac": {
+          "current": 34.99,
+          "original": 39.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/3M-Gel-Wrist-Rest-Keyboards/a10234567/w-4"
+        }
+      },
+      "features": {
+        "dimensions": "460 x 89 x 25 mm (clavier full-size)",
+        "type": "Repose-poignet gel",
+        "hauteur": "25mm (hauteur standard clavier)",
+        "materiaux": "Gel souple Precise 3M + lycra + caoutchouc",
+        "antimicrobien": "Oui - traitement intégré",
+        "base": "Caoutchouc antidérapant épais",
+        "lavage": "Surface lavable savon doux",
+        "compatibilite": "Claviers standard et mécaniques",
+        "couleurs": "Noir, gris",
+        "poids": "420g",
+        "garantie": "1 an 3M"
+      },
+      "description": "Le 3M Gel Wrist Rest for Keyboards est LA référence professionnelle en repose-poignet clavier pour prévenir syndrome du canal carpien, tendinites et douleurs chroniques lors de frappe intensive. Le gel souple Precise 3M de 25mm maintient vos deux poignets en position neutre optimale, éliminant totalement la flexion néfaste.\n\nLe gel haute qualité épouse parfaitement la forme de vos avant-bras, redistribuant uniformément la pression sur surface généreuse. Le gel ne s'affaisse JAMAIS et retrouve instantanément sa forme après chaque utilisation, garantissant support constant années après années. La housse lycra douce respire et évacue transpiration lors de longues sessions.\n\nLe traitement antimicrobien intégré maintient hygiène parfaite en environnement partagé. La base caoutchouc ultra-épaisse maintient le repose-poignet absolument immobile devant votre clavier. Compatible tous claviers full-size standards et mécaniques. Recommandé par ergonomes, médecins du travail et ostéopathes. Pour 30€, c'est l'investissement santé N°1 si vous tapez 4h+ quotidiennement.",
+      "prosAndCons": {
+        "pros": [
+          "Référence professionnelle 3M",
+          "Gel Precise 25mm ne s'affaisse JAMAIS",
+          "Prévention TMS et canal carpien",
+          "46cm - full-size keyboard",
+          "Antimicrobien intégré",
+          "Base ultra-antidérapante",
+          "Recommandé ergonomes médicaux",
+          "Durabilité 5+ ans garantie"
+        ],
+        "cons": [
+          "Prix élevé (30€)",
+          "Gel peut chauffer été prolongé",
+          "Lycra accumule peluches",
+          "Encombrant (46cm large)",
+          "Hauteur 25mm fixe (pas ajustable)",
+          "Design sobre professionnel uniquement"
+        ]
+      },
+      "targetAudience": [
+        "Douleurs poignets existantes (frappe)",
+        "Développeurs, writers, data entry",
+        "Frappe 4h+ quotidienne",
+        "Prévention TMS sérieuse",
+        "Professionnels ergonomie"
+      ],
+      "ratings": {
+        "overall": 4.7,
+        "comfort": 4.9,
+        "wristSupport": 5.0,
+        "durability": 4.8,
+        "nonSlip": 4.7,
+        "valueForMoney": 4.4,
+        "reviewCount": 9876
+      },
+      "badges": ["Référence 3M", "Gel Precise", "Antimicrobien", "Médical"]
+    },
+    {
+      "id": "clavier-ergo-002",
+      "name": "HyperX Wrist Rest Keyboard",
+      "category": "Repose-poignet clavier",
+      "subcategory": "Repose-poignet mousse gaming",
+      "images": [
+        "/images/hyperx-wrist-rest-front.jpg",
+        "/images/hyperx-wrist-rest-foam.jpg",
+        "/images/hyperx-wrist-rest-keyboard.jpg",
+        "/images/hyperx-wrist-rest-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 19.99,
+          "original": 29.99,
+          "currency": "EUR",
+          "asin": "B07PYZFPHP",
+          "url": "https://www.amazon.fr/dp/B07PYZFPHP"
+        },
+        "cdiscount": {
+          "current": 21.99,
+          "original": 29.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/hyperx-wrist-rest-keyboard/f-10717-hyp0740617292633.html"
+        },
+        "fnac": {
+          "current": 24.99,
+          "original": 29.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/HyperX-Wrist-Rest-Keyboard/a15678924/w-4"
+        }
+      },
+      "features": {
+        "dimensions": "445 x 90 x 22 mm (clavier full-size)",
+        "type": "Repose-poignet mousse memory foam cool gel",
+        "hauteur": "22mm (claviers gaming/mécaniques)",
+        "materiaux": "Cool gel + memory foam + simili-cuir",
+        "base": "Caoutchouc antidérapant texturé",
+        "lavage": "Surface essuyable chiffon humide",
+        "compatibilite": "Claviers gaming mécaniques",
+        "couleurs": "Noir HyperX red",
+        "poids": "340g",
+        "garantie": "2 ans HyperX"
+      },
+      "description": "Le HyperX Wrist Rest Keyboard est le repose-poignet premium pour gamers et utilisateurs de claviers mécaniques. La technologie cool gel combinée à la mousse mémoire offre confort optimal lors de longues sessions gaming ou coding marathons, tout en maintenant température fraîche.\n\nLa mousse memory foam haute densité s'adapte parfaitement à la forme de vos avant-bras, offrant support personnalisé. La couche cool gel infusée évacue chaleur et maintient fraîcheur même après 8 heures d'utilisation intensive. La surface simili-cuir texturée HyperX résiste aux taches et se nettoie facilement.\n\nLa hauteur 22mm est optimisée pour claviers gaming mécaniques surélevés. La base caoutchouc texturée ultra-adhérente empêche tout glissement même lors de frappes gaming rapides. La construction robuste HyperX garantit durabilité 3+ ans usage intensif. Pour 20€, c'est le meilleur rapport qualité-prix en repose-poignet gaming.",
+      "prosAndCons": {
+        "pros": [
+          "Cool gel - reste frais",
+          "Memory foam confortable",
+          "Prix correct (20€)",
+          "Surface simili-cuir résistante",
+          "Hauteur 22mm claviers mécaniques",
+          "Base ultra-antidérapante",
+          "Qualité HyperX gaming",
+          "Garantie 2 ans"
+        ],
+        "cons": [
+          "Simili-cuir peut craqueler (3+ ans)",
+          "Memory foam s'affaisse légèrement",
+          "Pas antimicrobien",
+          "Design gaming (pas pro sobre)",
+          "Hauteur 22mm pas ajustable",
+          "Cool gel effet limité canicule"
+        ]
+      },
+      "targetAudience": [
+        "Gamers claviers mécaniques",
+        "Développeurs gaming setups",
+        "Sessions longues frappe/gaming",
+        "Budget moyen (20€)",
+        "Valorisant fraîcheur cool gel"
+      ],
+      "ratings": {
+        "overall": 4.6,
+        "comfort": 4.7,
+        "wristSupport": 4.5,
+        "durability": 4.4,
+        "nonSlip": 4.8,
+        "valueForMoney": 4.7,
+        "reviewCount": 6543
+      },
+      "badges": ["Cool Gel", "Gaming", "HyperX", "Bon rapport Q/P"]
+    },
+    {
+      "id": "clavier-ergo-003",
+      "name": "Fellowes PlushTouch Wrist Rest",
+      "category": "Repose-poignet clavier",
+      "subcategory": "Repose-poignet mousse budget",
+      "images": [
+        "/images/fellowes-plushtouch-front.jpg",
+        "/images/fellowes-plushtouch-foam.jpg",
+        "/images/fellowes-plushtouch-keyboard.jpg",
+        "/images/fellowes-plushtouch-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 14.99,
+          "original": 22.99,
+          "currency": "EUR",
+          "asin": "B000BQQP9M",
+          "url": "https://www.amazon.fr/dp/B000BQQP9M"
+        },
+        "cdiscount": {
+          "current": 16.99,
+          "original": 22.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/fellowes-plushtouch-wrist-rest/f-10717-fel0043859490691.html"
+        },
+        "fnac": {
+          "current": 18.99,
+          "original": 22.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Fellowes-PlushTouch-Wrist-Rest/a9876543/w-4"
+        }
+      },
+      "features": {
+        "dimensions": "455 x 92 x 24 mm (clavier standard)",
+        "type": "Repose-poignet mousse FoamFusion",
+        "hauteur": "24mm",
+        "materiaux": "Mousse FoamFusion + lycra + caoutchouc",
+        "base": "Caoutchouc antidérapant",
+        "lavage": "Surface essuyable",
+        "couleurs": "Noir, graphite",
+        "poids": "290g",
+        "garantie": "1 an Fellowes"
+      },
+      "description": "Le Fellowes PlushTouch Wrist Rest est la solution économique et efficace pour ajouter un repose-poignet confortable à votre clavier sans investissement majeur. La mousse FoamFusion brevetée Fellowes offre support doux mais ferme qui réduit fatigue et tension lors de frappe prolongée.\n\nLa mousse haute densité maintient support constant sans s'affaisser rapidement. La surface lycra douce respire et reste confortable même après plusieurs heures. La hauteur 24mm s'adapte à la plupart des claviers standards. La base caoutchouc antidérapante maintient le repose-poignet en place.\n\nPour 15€, c'est le point d'entrée idéal pour découvrir les bienfaits d'un repose-poignet clavier sans engagement financier majeur. Parfait pour premier achat, bureau secondaire, ou budget très serré. La qualité Fellowes garantit durabilité acceptable 1-2 ans usage bureautique standard.",
+      "prosAndCons": {
+        "pros": [
+          "Prix mini (15€)",
+          "Mousse FoamFusion confortable",
+          "Hauteur 24mm polyvalente",
+          "Bon pour découverte",
+          "Marque Fellowes reconnue",
+          "Léger et transportable",
+          "Base antidérapante fonctionnelle",
+          "Disponibilité excellente"
+        ],
+        "cons": [
+          "Qualité inférieure 3M/HyperX",
+          "Mousse s'affaisse (1-2 ans)",
+          "Pas antimicrobien",
+          "Lycra accumule saleté",
+          "Pas de cool gel",
+          "Durabilité limitée usage intensif",
+          "Design très basique"
+        ]
+      },
+      "targetAudience": [
+        "Premier repose-poignet",
+        "Budget très limité (< 20€)",
+        "Découverte ergonomie clavier",
+        "Bureautique occasionnelle",
+        "Bureau secondaire/voyage"
+      ],
+      "ratings": {
+        "overall": 4.2,
+        "comfort": 4.3,
+        "wristSupport": 4.1,
+        "durability": 3.7,
+        "nonSlip": 4.3,
+        "valueForMoney": 4.7,
+        "reviewCount": 7890
+      },
+      "badges": ["Budget", "FoamFusion", "Fellowes", "Découverte"]
+    }
+  ]
+}

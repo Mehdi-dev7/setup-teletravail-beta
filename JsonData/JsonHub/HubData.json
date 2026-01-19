@@ -1,0 +1,599 @@
+{
+  "hubs_stations": [
+    {
+      "id": "hub-001",
+      "name": "CalDigit TS4 Thunderbolt 4 Dock",
+      "category": "Station d'accueil",
+      "subcategory": "Station Thunderbolt 4 premium pour MacBook",
+      "images": [
+        "/images/caldigit-ts4-front.jpg",
+        "/images/caldigit-ts4-ports.jpg",
+        "/images/caldigit-ts4-setup-macbook.jpg",
+        "/images/caldigit-ts4-dual-monitor.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 379.99,
+          "original": 429.99,
+          "currency": "EUR",
+          "asin": "B09GK8LBWS",
+          "url": "https://www.amazon.fr/dp/B09GK8LBWS"
+        },
+        "fnac": {
+          "current": 399.99,
+          "original": 429.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/CalDigit-TS4-Thunderbolt-4-Dock/a16789345/w-4"
+        }
+      },
+      "features": {
+        "connexionPc": "1x Thunderbolt 4 (câble 1m inclus)",
+        "sortiesVideo": "3x vidéo (2x Thunderbolt 4 + 1x DisplayPort 1.4)",
+        "resolutionMax": "2x 6K@60Hz ou 1x 8K@30Hz",
+        "compatibiliteMac": "M1/M2/M3 MacBook - 2 écrans 4K@60Hz",
+        "portsUsb": "5x USB-A 3.2 (10Gbps), 3x USB-C (10Gbps)",
+        "ethernet": "2.5 Gigabit Ethernet",
+        "audio": "Jack 3.5mm combo + sortie optique",
+        "lecteurCartes": "UHS-II SD & microSD",
+        "puissance": "98W Power Delivery (charge MacBook)",
+        "alimentationSupp": "1x port USB-C 20W pour périphériques",
+        "dimensions": "230 x 90 x 34 mm",
+        "poids": "544g",
+        "garantie": "2 ans"
+      },
+      "description": "La CalDigit TS4 est LA station d'accueil Thunderbolt 4 ultime pour utilisateurs MacBook Pro/Air exigeants. Avec un seul câble Thunderbolt 4, elle transforme votre laptop en véritable poste de travail professionnel : 2 écrans 4K@60Hz, charge 98W, réseau Gigabit, et 18 ports au total.\n\nSpécifiquement optimisée pour les MacBook M1/M2/M3, elle contourne la limitation Apple des puces M en permettant réellement 2 écrans externes via DisplayLink. Les 3 sorties vidéo (2x Thunderbolt 4 + 1x DisplayPort) supportent jusqu'à 2 écrans 6K ou 1 écran 8K. Les 5 ports USB-A 10Gbps permettent de connecter tous vos périphériques legacy sans adaptateurs.\n\nLe port Ethernet 2.5Gb garantit une connexion réseau ultra-stable et rapide, essentielle pour visioconférences et transferts de fichiers volumineux. Les lecteurs de cartes SD/microSD UHS-II intégrés sont parfaits pour photographes et vidéastes. La charge 98W maintient votre MacBook 16\" à pleine puissance. Construction aluminium premium assortie aux MacBook. Investissement pro mais qui transforme totalement votre setup.",
+      "prosAndCons": {
+        "pros": [
+          "2 écrans pour MacBook M1/M2/M3",
+          "18 ports au total - exhaustif",
+          "98W Power Delivery (charge MacBook 16\")",
+          "Thunderbolt 4 - 40Gbps bidirectionnel",
+          "Ethernet 2.5Gb ultra-rapide",
+          "Lecteurs SD/microSD UHS-II intégrés",
+          "Build quality aluminium premium",
+          "Câble Thunderbolt 4 1m inclus"
+        ],
+        "cons": [
+          "Prix très élevé (380€)",
+          "Surchauffe possible sous charge lourde",
+          "Gros bloc secteur externe",
+          "Ventilateur audible sous charge",
+          "Overkill pour besoins basiques",
+          "Windows : nécessite pilotes Thunderbolt"
+        ]
+      },
+      "targetAudience": [
+        "Utilisateurs MacBook M1/M2/M3 Pro/Max",
+        "Setup double écran 4K+ obligatoire",
+        "Professionnels créatifs (photo/vidéo/dev)",
+        "Budget confortable (> 350€)",
+        "Besoin de TOUS les ports"
+      ],
+      "ratings": {
+        "overall": 4.8,
+        "portSelection": 5.0,
+        "macCompatibility": 4.9,
+        "buildQuality": 4.9,
+        "powerDelivery": 4.8,
+        "valueForMoney": 4.2,
+        "reviewCount": 2456
+      },
+      "badges": ["MacBook Pro", "Double écran M1/M2/M3", "Thunderbolt 4", "98W PD"]
+    },
+    {
+      "id": "hub-002",
+      "name": "Anker 777 Thunderbolt 4 Dock",
+      "category": "Station d'accueil",
+      "subcategory": "Station Thunderbolt 4 pour MacBook",
+      "images": [
+        "/images/anker-777-front.jpg",
+        "/images/anker-777-ports.jpg",
+        "/images/anker-777-macbook.jpg",
+        "/images/anker-777-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 269.99,
+          "original": 349.99,
+          "currency": "EUR",
+          "asin": "B09MDB5GJD",
+          "url": "https://www.amazon.fr/dp/B09MDB5GJD"
+        },
+        "cdiscount": {
+          "current": 279.99,
+          "original": 349.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/anker-777-thunderbolt-4-dock/f-10717-ank0194644092696.html"
+        },
+        "fnac": {
+          "current": 289.99,
+          "original": 349.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Anker-777-Thunderbolt-4-Dock/a16234891/w-4"
+        }
+      },
+      "features": {
+        "connexionPc": "1x Thunderbolt 4 (câble 0.7m inclus)",
+        "sortiesVideo": "2x Thunderbolt 4 (40Gbps) + 1x HDMI 2.0",
+        "resolutionMax": "MacBook M1/M2: 2x 4K@60Hz via DisplayLink",
+        "compatibiliteMac": "M1/M2/M3 MacBook - 2 écrans externes",
+        "portsUsb": "4x USB-A 3.2 (10Gbps), 2x USB-C (10Gbps)",
+        "ethernet": "Gigabit Ethernet",
+        "audio": "Jack 3.5mm combo",
+        "lecteurCartes": "SD & microSD UHS-II",
+        "puissance": "90W Power Delivery",
+        "dimensions": "200 x 90 x 32 mm",
+        "poids": "485g",
+        "garantie": "2 ans Anker"
+      },
+      "description": "L'Anker 777 offre une alternative plus abordable à la CalDigit TS4 tout en conservant l'essentiel pour un setup MacBook double écran. Cette station Thunderbolt 4 certifiée Intel délivre 12 ports depuis une connexion unique à votre MacBook, simplifiant drastiquement votre bureau.\n\nLa technologie DisplayLink intégrée permet de contourner la limitation Apple des MacBook M1/M2 base et de brancher réellement 2 écrans externes en 4K@60Hz. Les 2 ports Thunderbolt 4 aval supportent chacun un écran 4K, tandis que le port HDMI 2.0 offre une troisième sortie pour Windows. La charge 90W maintient votre MacBook Pro 14\" ou Air en charge complète.\n\nLes 4 ports USB-A 10Gbps à l'avant facilitent la connexion rapide de clés USB et disques externes. Le Gigabit Ethernet garantit une connexion réseau stable pour visio. Les lecteurs SD/microSD UHS-II intégrés sont pratiques pour créatifs. Construction aluminium robuste avec surface anti-rayures. Excellent rapport qualité-prix pour un dock Thunderbolt 4 compatible MacBook M.",
+      "prosAndCons": {
+        "pros": [
+          "2 écrans pour MacBook M1/M2 base",
+          "Prix correct pour Thunderbolt 4 (270€)",
+          "90W Power Delivery suffisant",
+          "12 ports bien répartis",
+          "Lecteurs SD/microSD UHS-II",
+          "Build quality Anker fiable",
+          "Compact et léger",
+          "Câble Thunderbolt 4 inclus"
+        ],
+        "cons": [
+          "90W limite MacBook Pro 16\"",
+          "Pas d'Ethernet 2.5Gb",
+          "Moins de ports USB que CalDigit",
+          "Câble 0.7m court",
+          "Chauffe sous charge",
+          "DisplayLink parfois laggy (rare)"
+        ]
+      },
+      "targetAudience": [
+        "MacBook M1/M2 Air ou Pro 13/14\"",
+        "Budget moyen dock Thunderbolt (250-300€)",
+        "Setup double écran 4K",
+        "Utilisateurs valorisant compacité",
+        "Confiance marque Anker"
+      ],
+      "ratings": {
+        "overall": 4.6,
+        "portSelection": 4.5,
+        "macCompatibility": 4.7,
+        "buildQuality": 4.6,
+        "powerDelivery": 4.4,
+        "valueForMoney": 4.7,
+        "reviewCount": 4567
+      },
+      "badges": ["MacBook M1/M2", "Double écran", "Anker Quality", "Bon rapport Q/P"]
+    },
+    {
+      "id": "hub-003",
+      "name": "Dell WD19TBS Thunderbolt Dock",
+      "category": "Station d'accueil",
+      "subcategory": "Station Thunderbolt 3 universelle",
+      "images": [
+        "/images/dell-wd19tbs-front.jpg",
+        "/images/dell-wd19tbs-ports.jpg",
+        "/images/dell-wd19tbs-setup.jpg",
+        "/images/dell-wd19tbs-dual.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 249.99,
+          "original": 329.99,
+          "currency": "EUR",
+          "asin": "B07Y1DX7N6",
+          "url": "https://www.amazon.fr/dp/B07Y1DX7N6"
+        },
+        "cdiscount": {
+          "current": 259.99,
+          "original": 329.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/dell-wd19tbs-thunderbolt-dock/f-10717-del5397184312292.html"
+        },
+        "fnac": {
+          "current": 269.99,
+          "original": 329.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Dell-WD19TBS-Thunderbolt-Dock/a14567893/w-4"
+        }
+      },
+      "features": {
+        "connexionPc": "1x Thunderbolt 3 (câble 0.8m inclus)",
+        "sortiesVideo": "2x DisplayPort 1.4 + 1x HDMI 2.0 + 1x USB-C DisplayPort",
+        "resolutionMax": "2x 4K@60Hz ou 1x 5K@60Hz",
+        "compatibiliteMac": "MacBook Intel - 2 écrans | M1/M2 - 1 écran natif",
+        "portsUsb": "3x USB-A 3.2 (5Gbps), 2x USB-C 3.2 (10Gbps)",
+        "ethernet": "Gigabit Ethernet",
+        "audio": "Jack 3.5mm combo In/Out",
+        "puissance": "130W Power Delivery (laptops Dell) / 90W (autres)",
+        "securite": "Port verrouillage Kensington",
+        "dimensions": "205 x 90 x 29 mm",
+        "poids": "585g",
+        "garantie": "3 ans Dell Pro"
+      },
+      "description": "La Dell WD19TBS est la station d'accueil professionnelle de référence dans les entreprises, particulièrement pour les flottes Dell. Thunderbolt 3 (40Gbps), elle offre une connectivité exhaustive avec 4 sorties vidéo simultanées dont 2 DisplayPort 1.4, 1 HDMI 2.0, et 1 USB-C DisplayPort alternatif.\n\nOptimisée pour les laptops Dell (Latitude, XPS, Precision), elle délivre jusqu'à 130W de charge, suffisant pour maintenir en charge les stations de travail Dell Precision sous charge lourde. Pour les autres marques (HP, Lenovo, MacBook Intel), elle fournit 90W. Les 2 DisplayPort 1.4 supportent 2 écrans 4K@60Hz en natif sans compression.\n\nLe port Ethernet Gigabit intégré assure une connexion réseau professionnelle stable. Les 3 USB-A frontaux facilitent la connexion rapide de périphériques. Le slot Kensington permet de sécuriser physiquement le dock en environnement partagé. Garantie Dell Pro 3 ans avec support technique dédié. Idéal pour IT managers équipant des flottes.",
+      "prosAndCons": {
+        "pros": [
+          "130W pour laptops Dell (record)",
+          "4 sorties vidéo simultanées",
+          "Garantie Dell Pro 3 ans",
+          "Build quality pro robuste",
+          "Port Kensington sécurité",
+          "Compatible universel Thunderbolt 3",
+          "IT management compatible",
+          "Prix correct (250€)"
+        ],
+        "cons": [
+          "Thunderbolt 3 (pas TB4)",
+          "90W seulement pour non-Dell",
+          "MacBook M1/M2: 1 seul écran natif",
+          "Pas de lecteurs SD",
+          "Design corporate sobre",
+          "Ventilateur audible sous charge"
+        ]
+      },
+      "targetAudience": [
+        "Utilisateurs laptops Dell",
+        "Entreprises (IT fleets)",
+        "Setup double écran 4K",
+        "Besoin garantie pro 3 ans",
+        "Windows principalement"
+      ],
+      "ratings": {
+        "overall": 4.5,
+        "portSelection": 4.6,
+        "macCompatibility": 3.8,
+        "buildQuality": 4.7,
+        "powerDelivery": 4.8,
+        "valueForMoney": 4.5,
+        "reviewCount": 6234
+      },
+      "badges": ["Pro Dell", "130W PD", "Garantie 3 ans", "Enterprise"]
+    },
+    {
+      "id": "hub-004",
+      "name": "Plugable UD-ULTC4K",
+      "category": "Station d'accueil",
+      "subcategory": "Dock USB-C universel DisplayLink",
+      "images": [
+        "/images/plugable-ultc4k-front.jpg",
+        "/images/plugable-ultc4k-ports.jpg",
+        "/images/plugable-ultc4k-triple.jpg",
+        "/images/plugable-ultc4k-setup.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 179.99,
+          "original": 229.99,
+          "currency": "EUR",
+          "asin": "B0779K9DG2",
+          "url": "https://www.amazon.fr/dp/B0779K9DG2"
+        },
+        "cdiscount": {
+          "current": 189.99,
+          "original": 229.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/plugable-ud-ultc4k/f-10717-plu0819927011057.html"
+        },
+        "fnac": {
+          "current": 199.99,
+          "original": 229.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Plugable-UD-ULTC4K-USB-C-Dock/a15678943/w-4"
+        }
+      },
+      "features": {
+        "connexionPc": "1x USB-C (câble 1m inclus, pas Thunderbolt)",
+        "sortiesVideo": "2x HDMI 2.0 + 1x DVI-I (via DisplayLink)",
+        "resolutionMax": "2x 4K@60Hz ou 3x 1080p@60Hz",
+        "compatibiliteMac": "M1/M2/M3 MacBook - 2 écrans (DisplayLink)",
+        "portsUsb": "5x USB-A 3.0 (5Gbps), 1x USB-C 3.0",
+        "ethernet": "Gigabit Ethernet",
+        "audio": "Jack 3.5mm In/Out",
+        "puissance": "60W Power Delivery",
+        "technologie": "DisplayLink DL-6950",
+        "compatibilite": "Windows, macOS, ChromeOS, Linux",
+        "dimensions": "175 x 85 x 28 mm",
+        "poids": "340g"
+      },
+      "description": "Le Plugable UD-ULTC4K est la solution universelle et abordable pour ajouter 2-3 écrans à N'IMPORTE QUEL laptop équipé d'un port USB-C, même sans Thunderbolt. Grâce à la technologie DisplayLink DL-6950, il transforme le signal USB-C standard en sorties vidéo multiples, contournant toutes les limitations matérielles.\n\nParfait pour les MacBook M1/M2/M3 base qui sont limités à 1 seul écran externe en natif : ce dock ajoute 2 écrans supplémentaires en 4K@60Hz via DisplayLink, pour un total de 3 écrans (laptop inclus). Les utilisateurs Windows/Linux bénéficient de 2-3 écrans additionnels également. Les 2 ports HDMI 2.0 supportent chacun 4K@60Hz.\n\nLes 5 ports USB-A 3.0 permettent de connecter tous vos périphériques. Le port Ethernet Gigabit stabilise la connexion réseau. La charge 60W maintient les laptops légers (Air, ultrabooks) en charge. Installation simple avec pilotes DisplayLink gratuits (Windows/Mac). Pour 180€, c'est l'option la plus économique pour un vrai setup multi-écrans sur MacBook M ou laptop USB-C basique.",
+      "prosAndCons": {
+        "pros": [
+          "Compatible TOUT laptop USB-C",
+          "2-3 écrans via DisplayLink",
+          "MacBook M1/M2: 2 écrans additionnels",
+          "Prix abordable (180€)",
+          "Pas de Thunderbolt requis",
+          "Multi-OS (Win/Mac/Linux/ChromeOS)",
+          "2x HDMI 4K@60Hz",
+          "Compact et léger"
+        ],
+        "cons": [
+          "60W PD limite gros laptops",
+          "DisplayLink: latence vidéo légère",
+          "Nécessite pilotes DisplayLink",
+          "Pas adapté gaming/vidéo intensive",
+          "Pas de Thunderbolt (40Gbps)",
+          "Chauffe sous charge vidéo",
+          "DVI-I obsolète"
+        ]
+      },
+      "targetAudience": [
+        "MacBook M1/M2 Air budget limité",
+        "Laptops USB-C sans Thunderbolt",
+        "Setup double/triple écran économique",
+        "Bureautique et productivité",
+        "Refus dépenser 300€+ en dock"
+      ],
+      "ratings": {
+        "overall": 4.3,
+        "portSelection": 4.2,
+        "macCompatibility": 4.5,
+        "buildQuality": 4.0,
+        "powerDelivery": 3.8,
+        "valueForMoney": 4.7,
+        "reviewCount": 5678
+      },
+      "badges": ["DisplayLink", "Budget-friendly", "MacBook M1/M2", "Universel"]
+    },
+    {
+      "id": "hub-005",
+      "name": "Anker PowerExpand Elite 13-in-1",
+      "category": "Hub USB-C",
+      "subcategory": "Hub USB-C premium compact",
+      "images": [
+        "/images/anker-elite-13-front.jpg",
+        "/images/anker-elite-13-ports.jpg",
+        "/images/anker-elite-13-macbook.jpg",
+        "/images/anker-elite-13-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 119.99,
+          "original": 149.99,
+          "currency": "EUR",
+          "asin": "B087QZVQJX",
+          "url": "https://www.amazon.fr/dp/B087QZVQJX"
+        },
+        "cdiscount": {
+          "current": 129.99,
+          "original": 149.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/anker-powerexpand-elite-13-in-1/f-10717-ank0194644039806.html"
+        },
+        "fnac": {
+          "current": 139.99,
+          "original": 149.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Anker-PowerExpand-Elite-13-in-1/a15234789/w-4"
+        }
+      },
+      "features": {
+        "connexionPc": "1x USB-C (câble 0.4m intégré)",
+        "sortiesVideo": "1x HDMI 2.0 + 1x USB-C DisplayPort alt mode",
+        "resolutionMax": "2x 4K@60Hz (MacBook Intel) | 1x 4K@60Hz (MacBook M1/M2)",
+        "portsUsb": "2x USB-A 3.0 (5Gbps), 1x USB-A 2.0, 2x USB-C 3.0 (10Gbps)",
+        "ethernet": "Gigabit Ethernet",
+        "audio": "Jack 3.5mm combo",
+        "lecteurCartes": "SD & microSD UHS-I",
+        "puissance": "85W Power Delivery (pass-through)",
+        "design": "Compact portable",
+        "dimensions": "180 x 75 x 18 mm",
+        "poids": "220g",
+        "garantie": "18 mois Anker"
+      },
+      "description": "L'Anker PowerExpand Elite 13-in-1 est le hub USB-C compact ultime pour nomades et télétravailleurs hybrides. Avec seulement 220g et la taille d'un smartphone, il transforme le port USB-C unique de votre laptop en 13 ports exploitables, le tout sans encombrer votre bureau.\n\nLa sortie HDMI 2.0 supporte 4K@60Hz pour un écran externe, tandis que le port USB-C DisplayPort alt mode permet un second écran (sur MacBook Intel uniquement, M1/M2 limités à 1 écran). Les 2 ports USB-C 10Gbps permettent de connecter des SSD externes à pleine vitesse. Le lecteur SD/microSD UHS-I intégré est pratique pour photographes mobiles.\n\nLe port Ethernet Gigabit garantit connexion stable en télétravail. La charge pass-through 85W maintient votre laptop en charge tout en utilisant le hub. Le câble USB-C intégré de 40cm évite d'emporter un câble séparé. Construction aluminium assortie aux MacBook. Pour 120€, c'est le hub portable premium par excellence, parfait pour alterner bureau/maison/café.",
+      "prosAndCons": {
+        "pros": [
+          "Compact et léger (220g) - portable",
+          "13 ports dans petit format",
+          "85W PD pass-through",
+          "Build aluminium premium",
+          "Lecteurs SD/microSD intégrés",
+          "Ethernet Gigabit",
+          "HDMI 4K@60Hz",
+          "Câble intégré pratique"
+        ],
+        "cons": [
+          "MacBook M1/M2: 1 seul écran",
+          "Pas de Thunderbolt",
+          "Lecteur SD UHS-I (pas UHS-II)",
+          "Câble 0.4m court",
+          "Chauffe sous charge complète",
+          "Moins de ports qu'un dock fixe",
+          "Pas de DVI/VGA legacy"
+        ]
+      },
+      "targetAudience": [
+        "Nomades digitaux",
+        "Télétravailleurs hybrides bureau/maison",
+        "Utilisateurs MacBook (Intel ou M)",
+        "Valorisant portabilité",
+        "Setup 1 écran externe"
+      ],
+      "ratings": {
+        "overall": 4.6,
+        "portSelection": 4.5,
+        "macCompatibility": 4.4,
+        "buildQuality": 4.7,
+        "powerDelivery": 4.5,
+        "valueForMoney": 4.6,
+        "reviewCount": 8945
+      },
+      "badges": ["Portable", "13 ports", "Anker Quality", "Nomade"]
+    },
+    {
+      "id": "hub-006",
+      "name": "Belkin Connect USB-C 11-in-1",
+      "category": "Hub USB-C",
+      "subcategory": "Hub multiport certifié Apple",
+      "images": [
+        "/images/belkin-11in1-front.jpg",
+        "/images/belkin-11in1-ports.jpg",
+        "/images/belkin-11in1-macbook.jpg",
+        "/images/belkin-11in1-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 89.99,
+          "original": 119.99,
+          "currency": "EUR",
+          "asin": "B09HLHP5PF",
+          "url": "https://www.amazon.fr/dp/B09HLHP5PF"
+        },
+        "cdiscount": {
+          "current": 94.99,
+          "original": 119.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/belkin-connect-usb-c-11-in-1/f-10717-bel0745883821587.html"
+        },
+        "fnac": {
+          "current": 99.99,
+          "original": 119.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Belkin-Connect-USB-C-11-in-1/a16345672/w-4"
+        }
+      },
+      "features": {
+        "connexionPc": "1x USB-C (câble 0.15m intégré court)",
+        "sortiesVideo": "1x HDMI 2.1 (jusqu'à 8K@30Hz ou 4K@60Hz)",
+        "resolutionMax": "1x 4K@60Hz",
+        "portsUsb": "3x USB-A 3.2 (5Gbps), 2x USB-C 3.2 (10Gbps)",
+        "ethernet": "Gigabit Ethernet",
+        "audio": "Jack 3.5mm",
+        "lecteurCartes": "SD & microSD UHS-I",
+        "puissance": "100W Power Delivery (pass-through)",
+        "certification": "Certifié Apple",
+        "dimensions": "125 x 55 x 14 mm",
+        "poids": "95g",
+        "garantie": "2 ans Belkin"
+      },
+      "description": "Le Belkin Connect 11-in-1 est le hub USB-C de référence certifié par Apple, garantissant une compatibilité parfaite avec tous les MacBook. Ultra-compact (95g) et élégant, il se glisse dans n'importe quel sac pour vous suivre partout.\n\nLa sortie HDMI 2.1 supporte jusqu'à 4K@60Hz pour connecter un écran externe de qualité. Les 3 ports USB-A 5Gbps permettent de brancher souris, clavier, disques externes sans adaptateurs. Les 2 ports USB-C 10Gbps offrent connectivité moderne pour SSD rapides et autres périphériques USB-C.\n\nLe port Ethernet Gigabit assure connexion stable pour visioconférences. La charge pass-through 100W maintient même les MacBook Pro 16\" en charge complète sous utilisation intensive. Les lecteurs SD/microSD UHS-I facilitent transferts photos. Design aluminium Space Gray assorti aux MacBook. Certification Apple garantit fiabilité et absence de problèmes de compatibilité. Pour 90€, c'est un excellent hub milieu de gamme.",
+      "prosAndCons": {
+        "pros": [
+          "Certifié Apple - compatibilité garantie",
+          "Ultra-compact et léger (95g)",
+          "100W PD pour MacBook Pro 16\"",
+          "HDMI 2.1 (4K@60Hz)",
+          "11 ports bien choisis",
+          "Ethernet Gigabit",
+          "Design assorti MacBook",
+          "Prix correct (90€)"
+        ],
+        "cons": [
+          "1 seul écran (limite MacBook M1/M2)",
+          "Câble ultra-court (0.15m)",
+          "Lecteur SD UHS-I (pas UHS-II)",
+          "Pas de Thunderbolt",
+          "Seulement 3 USB-A",
+          "Chauffe légèrement sous charge"
+        ]
+      },
+      "targetAudience": [
+        "Utilisateurs MacBook",
+        "Budget moyen (< 100€)",
+        "Setup 1 écran portable",
+        "Confiance certification Apple",
+        "Valorisant design assorti"
+      ],
+      "ratings": {
+        "overall": 4.5,
+        "portSelection": 4.4,
+        "macCompatibility": 4.9,
+        "buildQuality": 4.6,
+        "powerDelivery": 4.7,
+        "valueForMoney": 4.6,
+        "reviewCount": 6789
+      },
+      "badges": ["Certifié Apple", "Compact", "100W PD", "HDMI 2.1"]
+    },
+    {
+      "id": "hub-007",
+      "name": "StarTech.com USB-C Multiport Adapter Dual HDMI",
+      "category": "Hub USB-C",
+      "subcategory": "Adaptateur multiport double HDMI pour MacBook",
+      "images": [
+        "/images/startech-dual-hdmi-front.jpg",
+        "/images/startech-dual-hdmi-ports.jpg",
+        "/images/startech-dual-hdmi-macbook.jpg",
+        "/images/startech-dual-hdmi-setup.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 109.99,
+          "original": 139.99,
+          "currency": "EUR",
+          "asin": "B0B6PW6VG7",
+          "url": "https://www.amazon.fr/dp/B0B6PW6VG7"
+        },
+        "cdiscount": {
+          "current": 119.99,
+          "original": 139.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/startech-usb-c-multiport-dual-hdmi/f-10717-sta0065030890083.html"
+        },
+        "fnac": {
+          "current": 129.99,
+          "original": 139.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/StarTech-USB-C-Multiport-Dual-HDMI/a17892456/w-4"
+        }
+      },
+      "features": {
+        "connexionPc": "1x USB-C (câble 13cm intégré)",
+        "sortiesVideo": "2x HDMI 2.0b (via DisplayLink)",
+        "resolutionMax": "2x 4K@60Hz (MacBook M1/M2/M3)",
+        "compatibiliteMac": "M1/M2/M3 MacBook - 2 écrans externes",
+        "portsUsb": "3x USB-A 3.0 (5Gbps), 1x USB-C PD 3.0",
+        "ethernet": "Gigabit Ethernet RJ45",
+        "audio": "Jack 3.5mm combo",
+        "lecteurCartes": "SD & microSD UHS-I",
+        "puissance": "100W Power Delivery pass-through",
+        "technologie": "DisplayLink DL-6950 pour double écran",
+        "compatibilite": "Windows, macOS, ChromeOS, Linux",
+        "dimensions": "165 x 60 x 18 mm",
+        "poids": "185g",
+        "garantie": "2 ans StarTech"
+      },
+      "description": "Le StarTech.com USB-C Multiport Adapter Dual HDMI est LA solution abordable et fiable pour transformer votre MacBook M1/M2/M3 en station de travail double écran 4K. Grâce à la technologie DisplayLink DL-6950 intégrée, ce hub contourne la limitation Apple des puces M et permet véritablement 2 écrans externes en 4K@60Hz simultanément.\n\nLes 2 ports HDMI 2.0b supportent chacun 4K@60Hz avec DisplayLink, idéal pour un setup productif double écran pour développeurs, traders ou analystes. Le port USB-C PD 3.0 délivre jusqu'à 100W pass-through pour maintenir votre MacBook Pro 16\" en charge complète même sous utilisation intensive. Les 3 ports USB-A 5Gbps permettent de connecter souris, clavier, disques externes sans adaptateurs.\n\nLe port Ethernet Gigabit garantit connexion réseau stable pour visioconférences et téléchargements rapides. Les lecteurs SD/microSD UHS-I intégrés facilitent transferts photos et vidéos. La qualité de construction StarTech assure fiabilité professionnelle avec garantie 2 ans. Pilotes DisplayLink gratuits pour macOS/Windows s'installent en 2 minutes. Pour 110€, c'est le meilleur rapport qualité-prix pour ajouter 2 écrans 4K à votre MacBook M.",
+      "prosAndCons": {
+        "pros": [
+          "2 écrans 4K@60Hz pour MacBook M1/M2/M3",
+          "DisplayLink DL-6950 fiable",
+          "100W PD pass-through complet",
+          "Prix correct (110€) pour double HDMI",
+          "Ethernet Gigabit intégré",
+          "Lecteurs SD/microSD UHS-I",
+          "Marque StarTech reconnue pro",
+          "Garantie 2 ans solide"
+        ],
+        "cons": [
+          "DisplayLink: latence vidéo légère",
+          "Nécessite pilotes DisplayLink",
+          "Câble 13cm court intégré",
+          "Chauffe sous charge double écran",
+          "Pas de Thunderbolt (40Gbps)",
+          "Pas adapté gaming/vidéo intensive",
+          "USB-A seulement 5Gbps (pas 10Gbps)"
+        ]
+      },
+      "targetAudience": [
+        "MacBook M1/M2/M3 Air ou Pro",
+        "Setup double écran 4K obligatoire",
+        "Budget moyen dock (100-120€)",
+        "Développeurs, analysts, traders",
+        "Confiance marque StarTech pro"
+      ],
+      "ratings": {
+        "overall": 4.5,
+        "portSelection": 4.4,
+        "macCompatibility": 4.6,
+        "buildQuality": 4.5,
+        "powerDelivery": 4.7,
+        "valueForMoney": 4.6,
+        "reviewCount": 3456
+      },
+      "badges": ["Double HDMI", "MacBook M1/M2/M3", "DisplayLink", "StarTech Pro"]
+    }
+  ]
+}

@@ -1,0 +1,612 @@
+{
+  "supports_simples": [
+    {
+      "id": "support-simple-001",
+      "name": "Ergotron LX Desk Mount",
+      "category": "Support écran",
+      "subcategory": "Bras articulé premium simple écran",
+      "images": [
+        "/images/ergotron-lx-mounted.jpg",
+        "/images/ergotron-lx-angles.jpg",
+        "/images/ergotron-lx-clamp.jpg",
+        "/images/ergotron-lx-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 189.99,
+          "original": 229.99,
+          "currency": "EUR",
+          "asin": "B00358RIRC",
+          "url": "https://www.amazon.fr/dp/B00358RIRC"
+        },
+        "cdiscount": {
+          "current": 199.99,
+          "original": 229.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/ergotron-lx-desk-mount/f-10717-erg0698833000122.html"
+        },
+        "fnac": {
+          "current": 209.99,
+          "original": 229.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Ergotron-LX-Desk-Mount/a8234567/w-4"
+        }
+      },
+      "features": {
+        "typeFixation": "Étau de bureau ou passe-câble (grommet)",
+        "tailleEcran": "13\" - 34\" (jusqu'à 9kg)",
+        "vesa": "75x75mm, 100x100mm",
+        "mouvements": "Rotation 360°, inclinaison ±70°, panoramique 360°",
+        "extensionBras": "33 cm d'extension",
+        "reglageHauteur": "33 cm d'amplitude verticale",
+        "ressort": "Constant Force (ajustement sans outil)",
+        "gestionCables": "Cache-câbles intégré",
+        "materiaux": "Aluminium poli",
+        "garantie": "10 ans Ergotron",
+        "poids": "3.6 kg",
+        "couleurs": "Aluminium, noir, blanc"
+      },
+      "description": "L'Ergotron LX est LA référence absolue en matière de bras articulé pour écran simple. Utilisé par des millions de professionnels dans le monde, il combine fluidité de mouvement exceptionnelle, robustesse légendaire et design épuré. La technologie brevetée Constant Force permet d'ajuster la tension du bras sans outil, garantissant que votre écran reste parfaitement en position sans dériver.\n\nLe bras articulé offre une liberté totale : rotation complète 360°, inclinaison jusqu'à 70° dans les deux sens, panoramique horizontal 360°, extension de 33cm et réglage en hauteur sur 33cm. Vous pouvez positionner votre écran dans n'importe quelle configuration ergonomique optimale. Le mouvement est d'une fluidité remarquable : un simple doigt suffit pour repositionner même un écran 34\" de 9kg.\n\nLa construction en aluminium poli de qualité aéronautique garantit une durabilité de 10+ ans. Le système de gestion de câbles intégré maintient vos fils organisés et invisibles. La fixation par étau s'installe en 5 minutes sur tout bureau de 10-60mm d'épaisseur. Garantie 10 ans Ergotron témoigne de la confiance du fabricant. Investissement premium mais qui transforme votre ergonomie pour des années.",
+      "prosAndCons": {
+        "pros": [
+          "Fluidité de mouvement exceptionnelle",
+          "Constant Force - sans dérive",
+          "Garantie 10 ans inégalée",
+          "Build quality aluminium premium",
+          "Support jusqu'à 9kg (34\")",
+          "Gestion câbles intégrée",
+          "Installation facile (5 min)",
+          "Design intemporel épuré"
+        ],
+        "cons": [
+          "Prix élevé (190€)",
+          "Overkill pour petit écran 24\"",
+          "Extension limitée 33cm",
+          "Pas de port USB intégré",
+          "Lourd (3.6kg)",
+          "Nécessite bureau stable"
+        ]
+      },
+      "targetAudience": [
+        "Professionnels ergonomie exigeante",
+        "Écrans 27-34\" haut de gamme",
+        "Investissement long terme (10+ ans)",
+        "Personnes souffrant de douleurs cervicales",
+        "Budget confortable (>180€)"
+      ],
+      "ratings": {
+        "overall": 4.9,
+        "buildQuality": 5.0,
+        "flexibility": 4.9,
+        "stability": 5.0,
+        "easeOfInstall": 4.7,
+        "valueForMoney": 4.5,
+        "reviewCount": 15678
+      },
+      "badges": ["Référence du marché", "Garantie 10 ans", "Premium", "Constant Force"]
+    },
+    {
+      "id": "support-simple-002",
+      "name": "Amazon Basics Bras Articulé",
+      "category": "Support écran",
+      "subcategory": "Bras articulé entrée de gamme",
+      "images": [
+        "/images/amazonbasics-arm-mounted.jpg",
+        "/images/amazonbasics-arm-angle.jpg",
+        "/images/amazonbasics-arm-clamp.jpg",
+        "/images/amazonbasics-arm-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 89.99,
+          "original": 119.99,
+          "currency": "EUR",
+          "asin": "B00MIBN16O",
+          "url": "https://www.amazon.fr/dp/B00MIBN16O"
+        },
+        "cdiscount": {
+          "current": 94.99,
+          "original": 119.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/amazonbasics-bras-articule/f-10717-ama0841710146929.html"
+        },
+        "fnac": {
+          "current": 99.99,
+          "original": 119.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/AmazonBasics-Bras-Articule/a12345678/w-4"
+        }
+      },
+      "features": {
+        "typeFixation": "Étau de bureau ou passe-câble",
+        "tailleEcran": "13\" - 32\" (jusqu'à 11.3kg)",
+        "vesa": "75x75mm, 100x100mm",
+        "mouvements": "Rotation 360°, inclinaison ±15°, panoramique 180°",
+        "extensionBras": "39 cm d'extension",
+        "reglageHauteur": "33 cm d'amplitude",
+        "ressort": "Ressort à gaz ajustable par vis Allen",
+        "gestionCables": "Cache-câbles plastique amovible",
+        "materiaux": "Acier avec finition plastique",
+        "garantie": "1 an Amazon",
+        "poids": "3.2 kg",
+        "couleurs": "Noir uniquement"
+      },
+      "description": "L'Amazon Basics Bras Articulé est l'alternative économique parfaite à l'Ergotron LX, offrant 70% des fonctionnalités pour moins de la moitié du prix. Ce bras simple mais efficace permet de libérer l'espace bureau et d'ajuster votre écran en position ergonomique optimale.\n\nLe bras articulé offre rotation 360°, inclinaison ±15°, panoramique 180° et extension jusqu'à 39cm. Le ressort à gaz maintient l'écran en position stable, bien que l'ajustement initial nécessite une clé Allen pour équilibrer le poids de votre écran spécifique. Une fois réglé correctement, le bras tient fermement sans dérive.\n\nLa construction en acier robuste supporte jusqu'à 11.3kg, accommodant facilement les écrans 27-32\". Le système de gestion de câbles basique mais fonctionnel maintient les fils organisés. L'installation par étau est simple et rapide. Pour 90€, c'est un excellent point d'entrée dans les bras articulés, parfait pour un premier achat ou budget serré.",
+      "prosAndCons": {
+        "pros": [
+          "Prix très abordable (90€)",
+          "Support jusqu'à 11.3kg (32\")",
+          "Extension 39cm (> Ergotron)",
+          "Installation facile",
+          "Build acier robuste",
+          "Rotation/panoramique fluides",
+          "Bon rapport qualité-prix",
+          "Garantie Amazon standard"
+        ],
+        "cons": [
+          "Ajustement tension nécessite clé Allen",
+          "Inclinaison limitée (±15°)",
+          "Qualité inférieure à Ergotron",
+          "Gestion câbles basique",
+          "Peut dériver légèrement avec le temps",
+          "Garantie courte (1 an)",
+          "Finition plastique cheap"
+        ]
+      },
+      "targetAudience": [
+        "Premier bras articulé",
+        "Budget serré (< 100€)",
+        "Écrans 24-27\" standards",
+        "Besoin fonctionnel sans fioritures",
+        "Confiance Amazon"
+      ],
+      "ratings": {
+        "overall": 4.4,
+        "buildQuality": 4.0,
+        "flexibility": 4.3,
+        "stability": 4.2,
+        "easeOfInstall": 4.6,
+        "valueForMoney": 4.8,
+        "reviewCount": 34567
+      },
+      "badges": ["Budget-friendly", "Bestseller", "Bon rapport Q/P"]
+    },
+    {
+      "id": "support-simple-003",
+      "name": "HUANUO Support Moniteur Réglable",
+      "category": "Support écran",
+      "subcategory": "Rehausseur fixe ergonomique",
+      "images": [
+        "/images/huanuo-stand-front.jpg",
+        "/images/huanuo-stand-storage.jpg",
+        "/images/huanuo-stand-height.jpg",
+        "/images/huanuo-stand-mesh.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 39.99,
+          "original": 54.99,
+          "currency": "EUR",
+          "asin": "B07XGZG7WR",
+          "url": "https://www.amazon.fr/dp/B07XGZG7WR"
+        },
+        "cdiscount": {
+          "current": 42.99,
+          "original": 54.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/huanuo-support-moniteur/f-10717-hua0745125464404.html"
+        },
+        "fnac": {
+          "current": 44.99,
+          "original": 54.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/HUANUO-Support-Moniteur/a17234568/w-4"
+        }
+      },
+      "features": {
+        "typeFixation": "Posé sur bureau (non fixé)",
+        "tailleEcran": "Jusqu'à 32\" (jusqu'à 20kg)",
+        "hauteurReglable": "3 hauteurs: 8cm, 10.5cm, 13cm",
+        "plateau": "Métal mesh ventilé 42 x 23.5 cm",
+        "rangementDessous": "Espace clavier/souris/accessoires",
+        "capaciteCharge": "20kg sur plateau",
+        "materiaux": "Métal mesh résistant",
+        "pieds": "4 pieds antidérapants",
+        "assemblage": "Requis - 5 minutes",
+        "dimensions": "420 x 235 x 80-130 mm",
+        "poids": "1.8 kg",
+        "couleurs": "Noir"
+      },
+      "description": "Le HUANUO Support Moniteur est la solution fixe et économique par excellence pour rehausser votre écran à hauteur des yeux sans investir dans un bras articulé. Ce rehausseur métallique robuste supporte jusqu'à 20kg, accommodant même les écrans 32\" les plus lourds ou plusieurs écrans côte à côte.\n\nLes 3 hauteurs ajustables (8cm, 10.5cm, 13cm) permettent de positionner votre écran à la hauteur ergonomique optimale selon votre morphologie. Le plateau en mesh métallique ventilé évite l'accumulation de chaleur sous l'écran. L'espace libéré sous le rehausseur est parfait pour ranger clavier, souris, documents ou accessoires, maximisant l'utilisation de votre bureau.\n\nLa construction en métal mesh ultra-robuste garantit stabilité absolue sans aucune vibration. Les 4 pieds antidérapants protègent votre bureau et maintiennent le support fixe. L'assemblage prend 5 minutes avec les vis fournies. Pour 40€, c'est la solution ergonomique la plus abordable et pratique si vous n'avez pas besoin de flexibilité d'un bras articulé.",
+      "prosAndCons": {
+        "pros": [
+          "Prix imbattable (40€)",
+          "Support jusqu'à 20kg",
+          "3 hauteurs ajustables",
+          "Rangement sous le support",
+          "Mesh ventilé (dissipation chaleur)",
+          "Ultra-stable (pas de vibration)",
+          "Assemblage 5 minutes",
+          "Capacité multi-écrans"
+        ],
+        "cons": [
+          "Pas de flexibilité (fixe)",
+          "Pas de rotation/inclinaison",
+          "Encombrant sur bureau",
+          "Design basique industriel",
+          "Hauteur max 13cm limitée",
+          "Nécessite assemblage"
+        ]
+      },
+      "targetAudience": [
+        "Très petit budget (< 50€)",
+        "Besoin simple: rehausser écran",
+        "Pas besoin flexibilité",
+        "Valorisant rangement sous écran",
+        "Multi-écrans côte à côte"
+      ],
+      "ratings": {
+        "overall": 4.5,
+        "buildQuality": 4.6,
+        "flexibility": 2.0,
+        "stability": 5.0,
+        "easeOfInstall": 4.7,
+        "valueForMoney": 4.9,
+        "reviewCount": 12345
+      },
+      "badges": ["Budget", "Rangement", "Ultra-stable", "20kg"]
+    }
+  ],
+  "supports_doubles": [
+    {
+      "id": "support-double-001",
+      "name": "Ergotron LX Dual Side-by-Side",
+      "category": "Support écran",
+      "subcategory": "Bras double côte à côte premium",
+      "images": [
+        "/images/ergotron-lx-dual-front.jpg",
+        "/images/ergotron-lx-dual-angles.jpg",
+        "/images/ergotron-lx-dual-setup.jpg",
+        "/images/ergotron-lx-dual-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 349.99,
+          "original": 429.99,
+          "currency": "EUR",
+          "asin": "B07515KSFM",
+          "url": "https://www.amazon.fr/dp/B07515KSFM"
+        },
+        "cdiscount": {
+          "current": 369.99,
+          "original": 429.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/ergotron-lx-dual-side-by-side/f-10717-erg0698833002812.html"
+        },
+        "fnac": {
+          "current": 389.99,
+          "original": 429.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/Ergotron-LX-Dual-Side-by-Side/a14567892/w-4"
+        }
+      },
+      "features": {
+        "typeFixation": "Étau de bureau ou passe-câble",
+        "nombreEcrans": "2 écrans côte à côte",
+        "tailleEcran": "13\" - 34\" par bras (9kg max chacun)",
+        "vesa": "75x75mm, 100x100mm",
+        "mouvements": "Rotation 360°, inclinaison ±70°, panoramique 360° par bras",
+        "extensionBras": "33 cm d'extension par bras",
+        "reglageHauteur": "33 cm d'amplitude par bras",
+        "ressort": "Constant Force indépendant par bras",
+        "gestionCables": "Cache-câbles intégré par bras",
+        "materiaux": "Aluminium poli",
+        "garantie": "10 ans Ergotron",
+        "poids": "6.8 kg",
+        "couleurs": "Aluminium, noir"
+      },
+      "description": "L'Ergotron LX Dual Side-by-Side est le support double écran premium absolu, offrant deux bras LX indépendants montés sur un poteau central. Chaque bras bénéficie de la légendaire technologie Constant Force d'Ergotron, permettant un ajustement fluide et précis de chaque écran individuellement.\n\nLes 2 bras indépendants offrent une flexibilité totale : vous pouvez positionner vos écrans côte à côte symétriques, en angle convergent, en hauteurs différentes, ou même l'un au-dessus de l'autre temporairement. Chaque bras supporte jusqu'à 9kg (écran 34\"), offrant rotation 360°, inclinaison ±70°, panoramique 360° et extension 33cm indépendamment.\n\nLa qualité de construction Ergotron garantit une durabilité de 10+ ans sans dérive ni usure. La gestion de câbles intégrée sur chaque bras maintient vos fils organisés et invisibles. L'installation par étau unique libère maximalement l'espace bureau. La garantie 10 ans témoigne de la confiance absolue du fabricant. Pour 350€, c'est un investissement majeur mais qui transforme votre productivité et ergonomie pour des années.",
+      "prosAndCons": {
+        "pros": [
+          "2x qualité Ergotron LX légendaire",
+          "Constant Force sur chaque bras",
+          "Garantie 10 ans inégalée",
+          "Flexibilité totale indépendante",
+          "Support 2x 34\" (18kg total)",
+          "Build aluminium premium",
+          "Gestion câbles double",
+          "Installation simple étau unique"
+        ],
+        "cons": [
+          "Prix très élevé (350€)",
+          "Lourd (6.8kg) - bureau robuste requis",
+          "Encombrement poteau central",
+          "Extension limitée 33cm",
+          "Overkill pour écrans 24\"",
+          "Nécessite bureau stable et épais"
+        ]
+      },
+      "targetAudience": [
+        "Professionnels double écran exigeants",
+        "Traders, développeurs, designers",
+        "Écrans 27-34\" premium",
+        "Investissement long terme (10+ ans)",
+        "Budget confortable (>350€)"
+      ],
+      "ratings": {
+        "overall": 4.9,
+        "buildQuality": 5.0,
+        "flexibility": 5.0,
+        "stability": 5.0,
+        "easeOfInstall": 4.6,
+        "valueForMoney": 4.4,
+        "reviewCount": 6789
+      },
+      "badges": ["Premium double", "Garantie 10 ans", "Constant Force x2", "Pro"]
+    },
+    {
+      "id": "support-double-002",
+      "name": "North Bayou Dual Monitor Arm",
+      "category": "Support écran",
+      "subcategory": "Bras double budget",
+      "images": [
+        "/images/northbayou-dual-front.jpg",
+        "/images/northbayou-dual-mounted.jpg",
+        "/images/northbayou-dual-angle.jpg",
+        "/images/northbayou-dual-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 89.99,
+          "original": 129.99,
+          "currency": "EUR",
+          "asin": "B07T5SY43L",
+          "url": "https://www.amazon.fr/dp/B07T5SY43L"
+        },
+        "cdiscount": {
+          "current": 94.99,
+          "original": 129.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/north-bayou-dual-monitor-arm/f-10717-nor0745125464404.html"
+        },
+        "fnac": {
+          "current": 99.99,
+          "original": 129.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/North-Bayou-Dual-Monitor-Arm/a16789234/w-4"
+        }
+      },
+      "features": {
+        "typeFixation": "Étau de bureau ou passe-câble",
+        "nombreEcrans": "2 écrans côte à côte",
+        "tailleEcran": "17\" - 32\" par bras (6.5kg max chacun)",
+        "vesa": "75x75mm, 100x100mm",
+        "mouvements": "Rotation 360°, inclinaison ±85°, panoramique 180° par bras",
+        "extensionBras": "45 cm d'extension par bras",
+        "reglageHauteur": "40 cm d'amplitude par bras",
+        "ressort": "Ressort à gaz ajustable par vis",
+        "gestionCables": "Clips de gestion câbles",
+        "materiaux": "Alliage aluminium + plastique ABS",
+        "garantie": "1 an fabricant",
+        "poids": "4.5 kg",
+        "couleurs": "Noir, argent"
+      },
+      "description": "Le North Bayou Dual Monitor Arm est l'alternative économique parfaite pour un setup double écran, offrant l'essentiel des fonctionnalités à un quart du prix de l'Ergotron. Ce bras double permet de libérer maximalement l'espace bureau tout en positionnant vos 2 écrans en configuration ergonomique optimale.\n\nChaque bras indépendant supporte jusqu'à 6.5kg (écran 27-32\"), offrant rotation 360°, inclinaison impressionnante ±85°, panoramique 180° et extension généreuse de 45cm. Les ressorts à gaz maintiennent les écrans stables, bien que l'ajustement initial nécessite tournevis pour équilibrer le poids spécifique de vos écrans.\n\nLa construction en alliage aluminium et plastique ABS offre un bon compromis solidité/légèreté. L'installation par étau est simple et rapide. La gestion de câbles basique via clips maintient vos fils organisés. Pour 90€, c'est un excellent point d'entrée dans les supports double écran, parfait pour écrans 24-27\" standards sans se ruiner.",
+      "prosAndCons": {
+        "pros": [
+          "Prix imbattable (90€) pour double",
+          "Extension 45cm généreuse",
+          "Inclinaison ±85° impressionnante",
+          "Support 2x 27-32\" (13kg total)",
+          "Installation facile",
+          "Bon rapport qualité-prix",
+          "Libère espace bureau",
+          "Bras indépendants"
+        ],
+        "cons": [
+          "Qualité inférieure à Ergotron",
+          "Ajustement tension laborieux",
+          "Capacité charge limitée (6.5kg/bras)",
+          "Peut dériver légèrement",
+          "Gestion câbles basique",
+          "Garantie courte (1 an)",
+          "Finitions plastique cheap"
+        ]
+      },
+      "targetAudience": [
+        "Premier support double écran",
+        "Budget limité (< 100€)",
+        "Écrans 24-27\" standards",
+        "Besoin fonctionnel sans premium",
+        "Bureautique et productivité"
+      ],
+      "ratings": {
+        "overall": 4.3,
+        "buildQuality": 3.9,
+        "flexibility": 4.4,
+        "stability": 4.0,
+        "easeOfInstall": 4.5,
+        "valueForMoney": 4.8,
+        "reviewCount": 8945
+      },
+      "badges": ["Budget double", "Bon rapport Q/P", "45cm extension"]
+    },
+    {
+      "id": "support-double-003",
+      "name": "BONTEC Support Double Écran Empilé",
+      "category": "Support écran",
+      "subcategory": "Support double vertical (empilé)",
+      "images": [
+        "/images/bontec-stacked-front.jpg",
+        "/images/bontec-stacked-side.jpg",
+        "/images/bontec-stacked-vertical.jpg",
+        "/images/bontec-stacked-desk.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 64.99,
+          "original": 89.99,
+          "currency": "EUR",
+          "asin": "B07X48X4KM",
+          "url": "https://www.amazon.fr/dp/B07X48X4KM"
+        },
+        "cdiscount": {
+          "current": 69.99,
+          "original": 89.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/bontec-support-double-ecran-empile/f-10717-bon0745125464404.html"
+        },
+        "fnac": {
+          "current": 74.99,
+          "original": 89.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/BONTEC-Support-Double-Ecran-Empile/a17456892/w-4"
+        }
+      },
+      "features": {
+        "typeFixation": "Étau de bureau ou passe-câble",
+        "nombreEcrans": "2 écrans empilés verticalement",
+        "tailleEcran": "13\" - 27\" par bras (8kg max chacun)",
+        "vesa": "75x75mm, 100x100mm",
+        "mouvements": "Rotation 360°, inclinaison ±90°, panoramique ±90° par bras",
+        "espacementVertical": "Réglable - écrans proches ou espacés",
+        "reglageHauteur": "40 cm d'amplitude",
+        "ressort": "Ressort à gaz ajustable indépendamment",
+        "gestionCables": "Cache-câbles clips",
+        "materiaux": "Acier robuste + plastique",
+        "garantie": "1 an",
+        "poids": "3.8 kg",
+        "couleurs": "Noir"
+      },
+      "description": "Le BONTEC Support Double Écran Empilé offre une solution verticale innovante pour maximiser l'espace bureau horizontal tout en doublant votre surface d'affichage. Cette configuration empilée est particulièrement appréciée des traders, développeurs et créatifs qui ont besoin de surveiller plusieurs flux d'information simultanément.\n\nLes 2 bras indépendants permettent d'empiler vos écrans verticalement avec espacement réglable. L'écran supérieur peut être incliné jusqu'à 90° vers le bas pour un angle de vision optimal. Chaque bras supporte jusqu'à 8kg (écran 27\"), offrant rotation complète 360° et ajustement en hauteur indépendant sur 40cm.\n\nLa configuration verticale libère l'espace bureau horizontal, idéal pour petits bureaux. Les traders apprécient particulièrement cette disposition : graphiques en haut, flux d'actualités en bas. La construction acier robuste garantit stabilité même avec 2 grands écrans empilés. Pour 65€, c'est la solution double écran la plus économique pour configuration verticale.",
+      "prosAndCons": {
+        "pros": [
+          "Prix mini (65€) pour double",
+          "Configuration verticale gain place",
+          "Support 2x 27\" (16kg total)",
+          "Espacement vertical réglable",
+          "Inclinaison ±90° écran haut",
+          "Parfait traders/dev",
+          "Rotation 360° chaque écran",
+          "Stable malgré empilage"
+        ],
+        "cons": [
+          "Configuration verticale pas pour tous",
+          "Ergonomie cou (écran haut)",
+          "Qualité build moyenne",
+          "Ajustement tension laborieux",
+          "Gestion câbles basique",
+          "Garantie courte (1 an)",
+          "Peut dériver légèrement"
+        ]
+      },
+      "targetAudience": [
+        "Traders et analysts",
+        "Développeurs multi-fenêtres",
+        "Petits bureaux (gain place horizontal)",
+        "Budget très limité (< 70€)",
+        "Configuration verticale préférée"
+      ],
+      "ratings": {
+        "overall": 4.2,
+        "buildQuality": 3.8,
+        "flexibility": 4.3,
+        "stability": 4.1,
+        "easeOfInstall": 4.4,
+        "valueForMoney": 4.7,
+        "reviewCount": 3456
+      },
+      "badges": ["Vertical", "Budget", "Traders", "Gain place"]
+    }
+  ],
+  "supports_triples": [
+    {
+      "id": "support-triple-001",
+      "name": "VIVO Triple Monitor Mount",
+      "category": "Support écran",
+      "subcategory": "Support triple écran articulé",
+      "images": [
+        "/images/vivo-triple-front.jpg",
+        "/images/vivo-triple-setup.jpg",
+        "/images/vivo-triple-curve.jpg",
+        "/images/vivo-triple-detail.jpg"
+      ],
+      "price": {
+        "amazon": {
+          "current": 149.99,
+          "original": 199.99,
+          "currency": "EUR",
+          "asin": "B0798K58B4",
+          "url": "https://www.amazon.fr/dp/B0798K58B4"
+        },
+        "cdiscount": {
+          "current": 159.99,
+          "original": 199.99,
+          "currency": "EUR",
+          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/vivo-triple-monitor-mount/f-10717-viv0848296046867.html"
+        },
+        "fnac": {
+          "current": 169.99,
+          "original": 199.99,
+          "currency": "EUR",
+          "url": "https://www.fnac.com/VIVO-Triple-Monitor-Mount/a16892345/w-4"
+        }
+      },
+      "features": {
+        "typeFixation": "Étau de bureau robuste ou passe-câble renforcé",
+        "nombreEcrans": "3 écrans côte à côte",
+        "tailleEcran": "13\" - 27\" par bras (8kg max chacun)",
+        "vesa": "75x75mm, 100x100mm",
+        "mouvements": "Rotation 360°, inclinaison ±15°, panoramique ±45° par bras",
+        "extensionBras": "Bras centraux articulés indépendamment",
+        "reglageHauteur": "Poteau central 40 cm d'amplitude",
+        "ressort": "Ressort à gaz sur chaque bras",
+        "gestionCables": "Clips de gestion sur chaque bras",
+        "materiaux": "Acier robuste + alliage aluminium",
+        "capaciteTotal": "24kg (3x 8kg)",
+        "garantie": "3 ans VIVO",
+        "poids": "8.5 kg",
+        "couleurs": "Noir"
+      },
+      "description": "Le VIVO Triple Monitor Mount est LA solution abordable pour créer un setup immersif à 3 écrans, particulièrement apprécié des gamers, traders et professionnels de la création. Le support triple permet de disposer vos écrans en arc de cercle englobant pour une immersion maximale et une productivité décuplée.\n\nLes 3 bras indépendants se montent sur un poteau central robuste. Chaque bras supporte jusqu'à 8kg (écran 27\"), offrant rotation 360°, inclinaison ±15° et panoramique ±45°. La configuration typique place l'écran central de face et les 2 écrans latéraux en angle convergent pour créer un panorama immersif de 180°.\n\nLe poteau central offre 40cm d'amplitude verticale pour positionner l'ensemble à hauteur optimale. La construction acier robuste supporte les 24kg totaux sans vibration. L'étau de bureau renforcé garantit stabilité absolue même avec 3 grands écrans. La gestion de câbles via clips maintient l'ensemble organisé. Pour 150€, c'est le meilleur rapport qualité-prix en triple écran, transformant votre bureau en poste de commande professionnel.",
+      "prosAndCons": {
+        "pros": [
+          "Prix abordable (150€) pour triple",
+          "Support 3x 27\" (24kg total)",
+          "Configuration immersive arc 180°",
+          "3 bras indépendants articulés",
+          "Construction acier robuste",
+          "Garantie 3 ans VIVO",
+          "Libère totalement espace bureau",
+          "Parfait gaming/trading/créatif"
+        ],
+        "cons": [
+          "Lourd (8.5kg) - bureau robuste requis",
+          "Inclinaison limitée ±15°",
+          "Encombrement poteau central large",
+          "Installation complexe (30-45 min)",
+          "Ajustement tension laborieux",
+          "Pas pour écrans > 27\"",
+          "Qualité inférieure à Ergotron"
+        ]
+      },
+      "targetAudience": [
+        "Gamers setup immersif",
+        "Traders multi-marchés",
+        "Développeurs multi-IDE",
+        "Créatifs vidéo/3D (timeline + preview + outils)",
+        "Budget confortable triple (150€)"
+      ],
+      "ratings": {
+        "overall": 4.4,
+        "buildQuality": 4.2,
+        "flexibility": 4.3,
+        "stability": 4.5,
+        "easeOfInstall": 3.9,
+        "valueForMoney": 4.7,
+        "reviewCount": 4567
+      },
+      "badges": ["Triple immersif", "Gaming/Trading", "Arc 180°", "Bon rapport Q/P"]
+    }
+  ]
+}

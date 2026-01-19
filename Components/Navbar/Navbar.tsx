@@ -35,6 +35,7 @@ const links: NavLink[] = [
 			{ label: "Support écran", href: "/accessoires/supportEcran" },
 			{ label: "Tapis souris", href: "/accessoires/tapisSouris" },
 			{ label: "Gestion de cables ", href: "/accessoires/gestionCables" },
+			{ label: "Hub station d'accueil", href: "/accessoires/hubUsb" },
 		],
 	},
 	{
