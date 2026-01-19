@@ -44,7 +44,8 @@ header,
 	z-index: 9999 !important;
 }
 
-.menu-link a {
+.menu-link a,
+.menu-link span {
 	font-weight: 500;
 	font-family: var(--GolosText);
 	z-index: 1;

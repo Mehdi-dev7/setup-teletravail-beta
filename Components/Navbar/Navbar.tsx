@@ -91,18 +91,17 @@ export default function Navbar() {
 						{links.map((link) =>
 							link.dropdown ? (
 								<div key={link.label} className="relative group z-50">
-									<Link
-										href={link.href}
-										className="flex menu-links text-base xl:text-lg 2xl:text-xl items-center gap-1 hover:text-(--prim) transition-all duration-300 whitespace-nowrap"
+									<span
+										className="flex text-base xl:text-lg 2xl:text-xl items-center gap-1 hover:text-(--prim) transition-all duration-300 whitespace-nowrap cursor-pointer font-medium GolosText"
 									>
 										{link.label} <i className="ri-arrow-down-s-line"></i>
-									</Link>
+									</span>
 									<div className="absolute left-0 top-8 opacity-0 invisible group-hover:visible group-hover:opacity-100 transition-all duration-300 bg-(--white) shadow-xl border border-gray-50/10 rounded-lg z-50 min-w-55">
 										{link.dropdown.map((item) => (
 											<Link
 												href={item.href}
 												key={item.label}
-												className="block px-4 py-2 text-md rounded-md hover:text-(--prim) transition-all duration-300"
+												className="block px-4 py-2 text-md rounded-md hover:text-(--prim) transition-all duration-300 font-medium GolosText"
 											>
 												{" "}
 												<i className="bi bi-gear text-xs mr-1"></i>
@@ -115,7 +114,7 @@ export default function Navbar() {
 								<Link
 									href={link.href}
 									key={link.label}
-									className="text-base xl:text-lg 2xl:text-xl hover:text-(--prim) transition-all duration-300 whitespace-nowrap"
+									className="flex text-base xl:text-lg 2xl:text-xl items-center gap-1 hover:text-(--prim) transition-all duration-300 whitespace-nowrap cursor-pointer font-medium GolosText"
 								>
 									{link.label}
 								</Link>

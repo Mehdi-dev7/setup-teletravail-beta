@@ -6,13 +6,14 @@
       "marque": "SIHOO",
       "prix": 350,
       "promo": null,
-      "image": "/Img-Chaises/Sihoo-Doro-C300/sihoo-c300-main.jpg",
+      "image": "/Img-Chaise/Sihoo-doro-C300/img-p.jpg",
       "images": [
-        "/Img-Chaises/Sihoo-Doro-C300/sihoo-c300-main.jpg",
-        "/Img-Chaises/Sihoo-Doro-C300/sihoo-c300-side.jpg",
-        "/Img-Chaises/Sihoo-Doro-C300/sihoo-c300-back.jpg",
-        "/Img-Chaises/Sihoo-Doro-C300/sihoo-c300-details.jpg",
-        "/Img-Chaises/Sihoo-Doro-C300/sihoo-c300-setup.jpg"
+        "/Img-Chaise/Sihoo-Doro-C300/img-p.jpg",
+        "/Img-Chaise/Sihoo-Doro-C300/img-2.jpg",
+        "/Img-Chaise/Sihoo-Doro-C300/img-3.jpg",
+        "/Img-Chaise/Sihoo-Doro-C300/img-4.jpg",
+        "/Img-Chaise/Sihoo-Doro-C300/img-5.jpg",
+        "/Img-Chaise/Sihoo-Doro-C300/img-6.jpg"
       ],
       "prixEnseignes": [
         { "enseigne": "SIHOO", "prix": 349, "url": "https://fr.sihoooffice.com/products/doro-c300", "logo": "/logos/sihoo.svg" },
@@ -59,12 +60,14 @@
       "marque": "SIHOO",
       "prix": 180,
       "promo": null,
-      "image": "/Img-Chaises/Sihoo-M57/sihoo-m57-main.jpg",
+      "image": "/Img-Chaise/Sihoo-M57/img-p.jpg",
       "images": [
-        "/Img-Chaises/Sihoo-M57/sihoo-m57-main.jpg",
-        "/Img-Chaises/Sihoo-M57/sihoo-m57-side.jpg",
-        "/Img-Chaises/Sihoo-M57/sihoo-m57-back.jpg",
-        "/Img-Chaises/Sihoo-M57/sihoo-m57-details.jpg"
+        "/Img-Chaise/Sihoo-M57/img-p.jpg",
+        "/Img-Chaise/Sihoo-M57/img-2.jpg",
+        "/Img-Chaise/Sihoo-M57/img-3.jpg",
+        "/Img-Chaise/Sihoo-M57/img-4.jpg",
+        "/Img-Chaise/Sihoo-M57/img-5.jpg",
+        "/Img-Chaise/Sihoo-M57/img-6.jpg"
       ],
       "prixEnseignes": [
         { "enseigne": "Amazon", "prix": 179, "url": "https://www.amazon.fr/dp/B085GDG45B", "logo": "/logos/amazon.svg" },
@@ -111,12 +114,14 @@
       "marque": "FlexiSpot",
       "prix": 450,
       "promo": null,
-      "image": "/Img-Chaises/Flexispot-C7/flexispot-c7-main.jpg",
+      "image": "/Img-Chaise/Flexispot-C7/img-p.avif",
       "images": [
-        "/Img-Chaises/Flexispot-C7/flexispot-c7-main.jpg",
-        "/Img-Chaises/Flexispot-C7/flexispot-c7-side.jpg",
-        "/Img-Chaises/Flexispot-C7/flexispot-c7-details.jpg",
-        "/Img-Chaises/Flexispot-C7/flexispot-c7-back.jpg"
+        "/Img-Chaise/Flexispot-C7/img-p.avif",
+        "/Img-Chaise/Flexispot-C7/img-2.avif",
+        "/Img-Chaise/Flexispot-C7/img-3.avif",
+        "/Img-Chaise/Flexispot-C7/img-4.avif",
+        "/Img-Chaise/Flexispot-C7/img-5.avif",
+        "/Img-Chaise/Flexispot-C7/img-6.avif"
       ],
       "prixEnseignes": [
         { "enseigne": "FlexiSpot", "prix": 449, "url": "https://www.flexispot.fr/chaise-c7", "logo": "/logos/flexispot.svg" },
@@ -164,12 +169,15 @@
       "marque": "KQUEO",
       "prix": 370,
       "promo": null,
-      "image": "/Img-Chaises/KQUEO-Terrana/kqueo-terrana-main.jpg",
+      "image": "/Img-Chaise/KQUEO-Terrana/img-p.webp",
       "images": [
-        "/Img-Chaises/KQUEO-Terrana/kqueo-terrana-main.jpg",
-        "/Img-Chaises/KQUEO-Terrana/kqueo-terrana-side.jpg",
-        "/Img-Chaises/KQUEO-Terrana/kqueo-terrana-details.jpg",
-        "/Img-Chaises/KQUEO-Terrana/kqueo-terrana-back.jpg"
+        "/Img-Chaise/KQUEO-Terrana/img-p.webp",
+        "/Img-Chaise/KQUEO-Terrana/img-2.webp",
+        "/Img-Chaise/KQUEO-Terrana/img-3.webp",
+        "/Img-Chaise/KQUEO-Terrana/img-4.webp",
+        "/Img-Chaise/KQUEO-Terrana/img-5.jpg",
+        "/Img-Chaise/KQUEO-Terrana/img-6.jpg",
+        "/Img-Chaise/KQUEO-Terrana/img-7.jpg"
       ],
       "prixEnseignes": [
         { "enseigne": "KQUEO", "prix": 369, "url": "https://kqueo.com/products/terrana", "logo": "/logos/kqueo.svg" },
@@ -217,11 +225,15 @@
       "marque": "SONGMICS",
       "prix": 90,
       "promo": null,
-      "image": "/Img-Chaises/Songmics-OBN37BK/songmics-obn37bk-main.jpg",
+      "image": "/Img-Chaise/Songmics-OBN37BK/img-p.jpg",
       "images": [
-        "/Img-Chaises/Songmics-OBN37BK/songmics-obn37bk-main.jpg",
-        "/Img-Chaises/Songmics-OBN37BK/songmics-obn37bk-side.jpg",
-        "/Img-Chaises/Songmics-OBN37BK/songmics-obn37bk-details.jpg"
+        "/Img-Chaise/Songmics-OBN37BK/img-p.jpg",
+        "/Img-Chaise/Songmics-OBN37BK/img-2.jpg",
+        "/Img-Chaise/Songmics-OBN37BK/img-3.jpg",
+        "/Img-Chaise/Songmics-OBN37BK/img-4.jpg",
+        "/Img-Chaise/Songmics-OBN37BK/img-5.jpg",
+        "/Img-Chaise/Songmics-OBN37BK/img-6.jpg",
+        "/Img-Chaise/Songmics-OBN37BK/img-7.jpg"
       ],
       "prixEnseignes": [
         { "enseigne": "Amazon", "prix": 89, "url": "https://www.amazon.fr/dp/B0FXXXX", "logo": "/logos/amazon.svg" },
