@@ -6,10 +6,12 @@
       "category": "Éclairage Écran",
       "subcategory": "Lampe de bureau à clipser sur moniteur",
       "images": [
-        "/images/benq-screenbar-plus-mounted.jpg",
-        "/images/benq-screenbar-plus-remote.jpg",
-        "/images/benq-screenbar-plus-night.jpg",
-        "/images/benq-screenbar-plus-detail.jpg"
+        "/Img-Eclairage/BenQ-ScreenBarPlus/img-p.jpg",
+        "/Img-Eclairage/BenQ-ScreenBarPlus/img-2.jpg",
+        "/Img-Eclairage/BenQ-ScreenBarPlus/img-3.jpg",
+        "/Img-Eclairage/BenQ-ScreenBarPlus/img-4.jpg",
+        "/Img-Eclairage/BenQ-ScreenBarPlus/img-5.jpg",
+        "/Img-Eclairage/BenQ-ScreenBarPlus/img-6.jpg"
       ],
       "price": {
         "amazon": {
@@ -17,7 +19,7 @@
           "original": 149.99,
           "currency": "EUR",
           "asin": "B07DPHYXTG",
-          "url": "https://www.amazon.fr/dp/B07DPHYXTG"
+          "url": "https://www.amazon.com.be/BenQ-ScreenBar-Plus-intelligent-Protection/dp/B07DP7RYXV"
         },
         "cdiscount": {
           "current": 129.99,
@@ -86,87 +88,94 @@
     },
     {
       "id": "ecran-002",
-      "name": "Xiaomi Mi LED Desk Lamp Pro",
+      "name": "SKYLEO Lampe de Bureau LED Architecte 80cm",
       "category": "Éclairage Écran",
-      "subcategory": "Lampe de bureau LED intelligente",
+      "subcategory": "Lampe de bureau LED à bras articulé",
       "images": [
-        "/images/xiaomi-mi-led-lamp-pro-front.jpg",
-        "/images/xiaomi-mi-led-lamp-pro-night.jpg",
-        "/images/xiaomi-mi-led-lamp-pro-app.jpg",
-        "/images/xiaomi-mi-led-lamp-pro-detail.jpg"
+        "/Img-Eclairage/SKYLEO-80/img-p.jpg",
+        "/Img-Eclairage/SKYLEO-80/img-2.jpg",
+        "/Img-Eclairage/SKYLEO-80/img-3.jpg",
+        "/Img-Eclairage/SKYLEO-80/img-4.jpg"
       ],
       "price": {
         "amazon": {
-          "current": 79.99,
-          "original": 99.99,
+          "current": 29.99,
+          "original": 39.99,
           "currency": "EUR",
-          "asin": "B08CZXVVDM",
-          "url": "https://www.amazon.fr/dp/B08CZXVVDM"
+          "asin": "B0BXSG3T7N",
+          "url": "https://www.amazon.fr/SKYLEO-Lampe-Bureau-LED-Architecte/dp/B0BXSG3T7N"
         },
         "cdiscount": {
-          "current": 84.99,
-          "original": 99.99,
+          "current": 34.99,
+          "original": 39.99,
           "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/xiaomi-mi-led-desk-lamp-pro/f-117203001-xia6934177718724.html"
+          "url": "https://www.cdiscount.com/maison/luminaire-lampe/skyleo-lampe-bureau-led-80cm/f-117203001-sky8745125464404.html"
         },
         "fnac": {
-          "current": 89.99,
-          "original": 99.99,
+          "current": 37.99,
+          "original": 39.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Xiaomi-Mi-LED-Desk-Lamp-Pro/a14567892/w-4"
+          "url": "https://www.fnac.com/SKYLEO-Lampe-Bureau-LED-80cm/a17892341/w-4"
         }
       },
       "features": {
-        "typeLed": "LED 72 unités sans scintillement",
-        "temperature": "2700K - 6500K (ajustable)",
-        "luminosite": "2200 lumens max",
-        "antiReflet": "Oui - diffuseur optique",
-        "filtreBleu": "Mode Eye Care (réduction bleue)",
-        "capteurAuto": "Oui - détection présence",
-        "connectivite": "WiFi Mi Home, HomeKit, Google Home",
-        "alimentation": "Adaptateur secteur 12V",
-        "controle": "Tactile + app + vocal",
-        "dimensions": "36.3 x 35 x 39 cm",
-        "poids": "1.2kg",
-        "rotation": "Bras double articulation 150° + rotation base"
+        "typeLed": "LED 112 perles sans scintillement",
+        "temperature": "3000K - 6000K (5 modes ajustables)",
+        "luminosite": "1300 lumens max",
+        "antiReflet": "Oui - tête orientable anti-éblouissement",
+        "filtreBleu": "Mode chaud 3000K",
+        "capteurAuto": "Non",
+        "controle": "Tactile sur base",
+        "alimentation": "Adaptateur secteur 12V ou USB 5V/2A",
+        "montage": "Pince sur bureau (max 5cm épaisseur)",
+        "dimensions": "80 cm hauteur max, bras articulé",
+        "poids": "850g",
+        "rotation": "Bras pivotant multi-angles + tête rotative 180°"
       },
-      "description": "La Xiaomi Mi LED Desk Lamp Pro combine excellence de l'éclairage et fonctionnalités intelligentes à un prix abordable. Ses 72 LED réparties sur une large barre offrent un éclairage uniforme de 2200 lumens, suffisant pour illuminer tout votre espace de travail.\n\nLe mode Eye Care réduit automatiquement les longueurs d'onde bleues nocives après 18h pour protéger votre cycle de sommeil. Le capteur de présence allume la lampe quand vous approchez et l'éteint après votre départ, parfait pour économiser l'énergie.\n\nIntégrée dans l'écosystème Mi Home, elle se connecte en WiFi pour un contrôle via smartphone ou commande vocale (Google Assistant, Alexa, Siri). Créez des scénarios personnalisés : lumière froide 6500K le matin pour l'énergie, chaude 2700K le soir pour la détente. Le double bras articulé permet d'orienter précisément la lumière selon vos besoins.",
+      "description": "La SKYLEO Lampe de Bureau LED 80cm Architecte est la solution polyvalente idéale pour les télétravailleurs recherchant un éclairage puissant et ajustable sans se ruiner. Ses 112 perles LED délivrent un impressionnant flux lumineux de 1300 lumens, largement suffisant pour éclairer un bureau entier même dans une pièce sombre.\n\nLe bras articulé de 80cm de hauteur maximale offre une flexibilité exceptionnelle : orientez la lumière précisément là où vous en avez besoin, au-dessus de votre clavier, sur vos documents papier, ou en éclairage d'ambiance indirect. La tête de lampe pivote à 180° pour éviter tout éblouissement direct dans les yeux.\n\nAvec 5 modes de température de couleur (3000K à 6000K) et 11 niveaux de luminosité (55 combinaisons possibles), personnalisez votre éclairage selon l'heure et l'activité. La fonction minuterie 45 minutes est parfaite pour les pauses, et la mémoire retient vos réglages préférés. La pince robuste se fixe solidement sur tout bureau jusqu'à 5cm d'épaisseur, libérant de l'espace précieux. Indice de rendu des couleurs CRI≥90 pour des couleurs fidèles.",
       "prosAndCons": {
         "pros": [
-          "Excellent rapport qualité-prix",
-          "2200 lumens très puissant",
-          "Smart home (WiFi, HomeKit, Google)",
-          "Mode Eye Care anti-lumière bleue",
-          "Capteur de présence pratique",
-          "Double articulation flexible",
-          "Contrôle vocal",
-          "Design élégant et moderne"
+          "Prix imbattable (30€)",
+          "1300 lumens ultra-puissant",
+          "80cm hauteur - couvre grand bureau",
+          "55 combinaisons (5 modes x 11 niveaux)",
+          "Bras articulé très flexible",
+          "Minuterie 45min + fonction mémoire",
+          "CRI≥90 rendu couleur excellent",
+          "Pince robuste jusqu'à 5cm"
         ],
         "cons": [
-          "Nécessite prise électrique",
-          "Base encombrante sur bureau",
-          "App Mi Home parfois lente",
-          "Pas de batterie pour nomadisme",
-          "WiFi 2.4GHz uniquement"
+          "Pas de connectivité smart",
+          "Pas de capteur automatique",
+          "Contrôle tactile basique",
+          "Qualité build moyenne",
+          "Pince nécessite bureau avec bord",
+          "Certains rapportent ultrasons gênants",
+          "Pas de port USB intégré"
         ]
       },
       "targetAudience": [
-        "Amateurs de domotique",
-        "Budget moyen (< 90€)",
-        "Utilisateurs écosystème Xiaomi/Google",
-        "Télétravailleurs éclairage bureau complet",
-        "Personnes sensibles au sommeil (anti-bleu)"
+        "Budget limité (< 40€)",
+        "Télétravailleurs standards",
+        "Personnes refusant smart home",
+        "Grands bureaux nécessitant portée",
+        "Étudiants et freelances"
       ],
       "ratings": {
-        "overall": 4.5,
-        "lightQuality": 4.6,
-        "eyeComfort": 4.7,
-        "easeOfUse": 4.4,
-        "design": 4.6,
+        "overall": 4.3,
+        "lightQuality": 4.5,
+        "eyeComfort": 4.4,
+        "easeOfUse": 4.5,
+        "design": 4.2,
         "valueForMoney": 4.8,
-        "reviewCount": 3254
+        "reviewCount": 4267
       },
-      "badges": ["Smart Home", "Eye Care", "Meilleur rapport Q/P", "Xiaomi"]
+      "badges": [
+        "Best-seller",
+        "Meilleur rapport Q/P",
+        "Puissante 1300LM",
+        "80cm"
+      ]
     },
     {
       "id": "ecran-003",
@@ -174,10 +183,12 @@
       "category": "Éclairage Écran",
       "subcategory": "Barre LED asymétrique pour moniteur",
       "images": [
-        "/images/quntis-screenlinear-mounted.jpg",
-        "/images/quntis-screenlinear-night.jpg",
-        "/images/quntis-screenlinear-remote.jpg",
-        "/images/quntis-screenlinear-detail.jpg"
+        "/Img-Eclairage/Quntis-ScreenLinearPro/img-p.jpg",
+        "/Img-Eclairage/Quntis-ScreenLinearPro/img-2.jpg",
+        "/Img-Eclairage/Quntis-ScreenLinearPro/img-3.jpg",
+        "/Img-Eclairage/Quntis-ScreenLinearPro/img-4.jpg",
+        "/Img-Eclairage/Quntis-ScreenLinearPro/img-5.jpg",
+        "/Img-Eclairage/Quntis-ScreenLinearPro/img-6.jpg"
       ],
       "price": {
         "amazon": {
@@ -251,92 +262,8 @@
         "reviewCount": 2847
       },
       "badges": ["Alternatif BenQ", "Bon rapport Q/P", "USB-C"]
-    },
-    {
-      "id": "ecran-004",
-      "name": "Aukey LT-ST23 Lampe Bureau",
-      "category": "Éclairage Écran",
-      "subcategory": "Lampe de bureau LED tactile",
-      "images": [
-        "/images/aukey-lt-st23-front.jpg",
-        "/images/aukey-lt-st23-night.jpg",
-        "/images/aukey-lt-st23-usb.jpg",
-        "/images/aukey-lt-st23-angles.jpg"
-      ],
-      "price": {
-        "amazon": {
-          "current": 34.99,
-          "original": 49.99,
-          "currency": "EUR",
-          "asin": "B01AJ7F14I",
-          "url": "https://www.amazon.fr/dp/B01AJ7F14I"
-        },
-        "cdiscount": {
-          "current": 37.99,
-          "original": 49.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/aukey-lt-st23-lampe-bureau/f-117203001-auk0713757483612.html"
-        },
-        "fnac": {
-          "current": 39.99,
-          "original": 49.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Aukey-LT-ST23-Lampe-Bureau/a10245789/w-4"
-        }
-      },
-      "features": {
-        "typeLed": "LED 48 unités",
-        "temperature": "3000K - 6000K (5 niveaux)",
-        "luminosite": "5 niveaux d'intensité",
-        "antiReflet": "Diffuseur basique",
-        "filtreBleu": "Mode chaud 3000K",
-        "capteurAuto": "Non",
-        "controle": "Tactile sur base",
-        "alimentation": "Adaptateur secteur + port USB charge",
-        "montage": "Base sur bureau",
-        "dimensions": "39 x 14.5 x 41 cm",
-        "poids": "625g",
-        "rotation": "Bras articulé 180° + tête pivotante"
-      },
-      "description": "L'Aukey LT-ST23 est la solution d'entrée de gamme idéale pour ceux qui découvrent l'importance d'un bon éclairage de bureau. Ses 48 LED offrent un éclairage suffisant pour lire et travailler confortablement, avec 5 niveaux de luminosité pour s'adapter à vos besoins.\n\nLes 5 températures de couleur disponibles (3000K à 6000K) permettent de passer d'une lumière chaude et relaxante le soir à une lumière froide et stimulante le matin. Le mode le plus chaud à 3000K réduit l'exposition à la lumière bleue avant le coucher.\n\nLe bras articulé à 180° et la tête pivotante offrent une flexibilité correcte pour orienter la lumière. Bonus appréciable : un port USB 5V/1A sur la base permet de recharger votre smartphone pendant que vous travaillez. Pour moins de 40€, c'est une première lampe de bureau honnête.",
-      "prosAndCons": {
-        "pros": [
-          "Prix très accessible (35€)",
-          "Port USB pour recharge smartphone",
-          "5 températures + 5 intensités",
-          "Contrôle tactile simple",
-          "Bras articulé fonctionnel",
-          "Mode chaud 3000K",
-          "Bon pour débuter"
-        ],
-        "cons": [
-          "Qualité LED moyenne",
-          "Scintillement possible à faible intensité",
-          "Pas de capteur auto",
-          "Base encombrante",
-          "Plastique cheap",
-          "Pas assez puissant pour grand bureau",
-          "Durée de vie LED limitée"
-        ]
-      },
-      "targetAudience": [
-        "Très petit budget (< 40€)",
-        "Première lampe de bureau",
-        "Étudiants",
-        "Bureau occasionnel",
-        "Lampe d'appoint"
-      ],
-      "ratings": {
-        "overall": 4.1,
-        "lightQuality": 3.8,
-        "eyeComfort": 3.9,
-        "easeOfUse": 4.4,
-        "design": 3.7,
-        "valueForMoney": 4.5,
-        "reviewCount": 4567
-      },
-      "badges": ["Entrée de gamme", "Petit budget", "Charge USB"]
     }
+    
   ],
   "eclairage_ambiance": [
     {
@@ -345,10 +272,12 @@
       "category": "Éclairage d'ambiance",
       "subcategory": "Bande LED intelligente gradient",
       "images": [
-        "/images/philips-hue-gradient-setup.jpg",
-        "/images/philips-hue-gradient-colors.jpg",
-        "/images/philips-hue-gradient-app.jpg",
-        "/images/philips-hue-gradient-desk.jpg"
+        "/Img-Eclairage/Philips-HuePlay/img-p.jpg",
+        "/Img-Eclairage/Philips-HuePlay/img-2.jpg",
+        "/Img-Eclairage/Philips-HuePlay/img-3.jpg",
+        "/Img-Eclairage/Philips-HuePlay/img-4.jpg",
+        "/Img-Eclairage/Philips-HuePlay/img-5.jpg"
+        
       ],
       "price": {
         "amazon": {
@@ -430,10 +359,13 @@
       "category": "Éclairage d'ambiance",
       "subcategory": "Panneaux LED muraux hexagonaux",
       "images": [
-        "/images/govee-hexa-wall.jpg",
-        "/images/govee-hexa-patterns.jpg",
-        "/images/govee-hexa-app.jpg",
-        "/images/govee-hexa-music.jpg"
+        "/Img-Eclairage/Govee-GlideHexa/img-p.jpg",
+        "/Img-Eclairage/Govee-GlideHexa/img-2.jpg",
+        "/Img-Eclairage/Govee-GlideHexa/img-3.jpg",
+        "/Img-Eclairage/Govee-GlideHexa/img-4.jpg",        
+        "/Img-Eclairage/Govee-GlideHexa/img-5.jpg",
+        "/Img-Eclairage/Govee-GlideHexa/img-6.jpg",
+        "/Img-Eclairage/Govee-GlideHexa/img-7.jpg"
       ],
       "price": {
         "amazon": {
@@ -515,10 +447,13 @@
       "category": "Éclairage d'ambiance",
       "subcategory": "Barres LED connectées modulaires",
       "images": [
-        "/images/lifx-beam-wall.jpg",
-        "/images/lifx-beam-corner.jpg",
-        "/images/lifx-beam-colors.jpg",
-        "/images/lifx-beam-app.jpg"
+        "/Img-Eclairage/Lifx-BeamKit/img-p.jpg",
+        "/Img-Eclairage/Lifx-BeamKit/img-2.jpg",
+        "/Img-Eclairage/Lifx-BeamKit/img-3.jpg",
+        "/Img-Eclairage/Lifx-BeamKit/img-4.jpg",
+        "/Img-Eclairage/Lifx-BeamKit/img-5.jpg",
+        "/Img-Eclairage/Lifx-BeamKit/img-6.jpg",
+        "/Img-Eclairage/Lifx-BeamKit/img-7.jpg"
       ],
       "price": {
         "amazon": {
@@ -600,10 +535,12 @@
       "category": "Éclairage d'ambiance",
       "subcategory": "Bande LED RGB basique",
       "images": [
-        "/images/lepro-strip-10m-box.jpg",
-        "/images/lepro-strip-10m-colors.jpg",
-        "/images/lepro-strip-10m-remote.jpg",
-        "/images/lepro-strip-10m-desk.jpg"
+        "/Img-Eclairage/Lepro-LedStrip10/img-p.jpg",
+        "/Img-Eclairage/Lepro-LedStrip10/img-2.jpg",
+        "/Img-Eclairage/Lepro-LedStrip10/img-3.jpg",
+        "/Img-Eclairage/Lepro-LedStrip10/img-4.jpg",
+        "/Img-Eclairage/Lepro-LedStrip10/img-5.jpg",
+        "/Img-Eclairage/Lepro-LedStrip10/img-6.jpg"
       ],
       "price": {
         "amazon": {

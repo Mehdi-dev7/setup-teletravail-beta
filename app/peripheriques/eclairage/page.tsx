@@ -15,13 +15,7 @@ export default function Eclairage() {
 						Accueil
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
-					<Link
-						href="/peripheriques"
-						className="hover:text-(--prim) transition-all duration-300"
-					>
-						Périphériques
-					</Link>
-					<i className="ri-arrow-right-wide-fill mt-1"></i>
+					
 					<h2 className="GolosText">Éclairage</h2>
 				</div>
 			</div>

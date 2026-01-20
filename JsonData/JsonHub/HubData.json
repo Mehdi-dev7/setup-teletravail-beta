@@ -6,10 +6,14 @@
       "category": "Station d'accueil",
       "subcategory": "Station Thunderbolt 4 premium pour MacBook",
       "images": [
-        "/images/caldigit-ts4-front.jpg",
-        "/images/caldigit-ts4-ports.jpg",
-        "/images/caldigit-ts4-setup-macbook.jpg",
-        "/images/caldigit-ts4-dual-monitor.jpg"
+        "/Img-HubUsb/Caldigit-TS4/img-p.jpg",
+        "/Img-HubUsb/Caldigit-TS4/img-2.jpg",
+        "/Img-HubUsb/Caldigit-TS4/img-3.jpg",
+        "/Img-HubUsb/Caldigit-TS4/img-4.jpg",
+        "/Img-HubUsb/Caldigit-TS4/img-5.jpg",
+        "/Img-HubUsb/Caldigit-TS4/img-6.jpg",
+        "/Img-HubUsb/Caldigit-TS4/img-7.jpg",
+        "/Img-HubUsb/Caldigit-TS4/img-8.jpg"
       ],
       "price": {
         "amazon": {
@@ -86,10 +90,12 @@
       "category": "Station d'accueil",
       "subcategory": "Station Thunderbolt 4 pour MacBook",
       "images": [
-        "/images/anker-777-front.jpg",
-        "/images/anker-777-ports.jpg",
-        "/images/anker-777-macbook.jpg",
-        "/images/anker-777-detail.jpg"
+        "/Img-HubUsb/Anker777/img-p.jpg",
+        "/Img-HubUsb/Anker777/img-2.jpg",
+        "/Img-HubUsb/Anker777/img-3.jpg",
+        "/Img-HubUsb/Anker777/img-4.jpg",
+        "/Img-HubUsb/Anker777/img-5.jpg",
+        "/Img-HubUsb/Anker777/img-6.jpg"
       ],
       "price": {
         "amazon": {
@@ -171,10 +177,12 @@
       "category": "Station d'accueil",
       "subcategory": "Station Thunderbolt 3 universelle",
       "images": [
-        "/images/dell-wd19tbs-front.jpg",
-        "/images/dell-wd19tbs-ports.jpg",
-        "/images/dell-wd19tbs-setup.jpg",
-        "/images/dell-wd19tbs-dual.jpg"
+        "/Img-HubUsb/Dell-WD19TBS/img-p.jpg",
+        "/Img-HubUsb/Dell-WD19TBS/img-2.jpg",
+        "/Img-HubUsb/Dell-WD19TBS/img-3.jpg",
+        "/Img-HubUsb/Dell-WD19TBS/img-4.jpg",
+        "/Img-HubUsb/Dell-WD19TBS/img-5.jpg",
+        "/Img-HubUsb/Dell-WD19TBS/img-6.jpg"
       ],
       "price": {
         "amazon": {
@@ -256,10 +264,12 @@
       "category": "Station d'accueil",
       "subcategory": "Dock USB-C universel DisplayLink",
       "images": [
-        "/images/plugable-ultc4k-front.jpg",
-        "/images/plugable-ultc4k-ports.jpg",
-        "/images/plugable-ultc4k-triple.jpg",
-        "/images/plugable-ultc4k-setup.jpg"
+        "/Img-HubUsb/UD-ULTC4K/img-p.jpg",
+        "/Img-HubUsb/UD-ULTC4K/img-2.jpg",
+        "/Img-HubUsb/UD-ULTC4K/img-3.jpg",
+        "/Img-HubUsb/UD-ULTC4K/img-4.jpg",
+        "/Img-HubUsb/UD-ULTC4K/img-5.jpg",
+        "/Img-HubUsb/UD-ULTC4K/img-6.jpg"
       ],
       "price": {
         "amazon": {
@@ -342,10 +352,12 @@
       "category": "Hub USB-C",
       "subcategory": "Hub USB-C premium compact",
       "images": [
-        "/images/anker-elite-13-front.jpg",
-        "/images/anker-elite-13-ports.jpg",
-        "/images/anker-elite-13-macbook.jpg",
-        "/images/anker-elite-13-detail.jpg"
+        "/Img-HubUsb/Anker-Elite/img-p.jpg",
+        "/Img-HubUsb/Anker-Elite/img-2.jpg",
+        "/Img-HubUsb/Anker-Elite/img-3.jpg",
+        "/Img-HubUsb/Anker-Elite/img-4.jpg",
+        "/Img-HubUsb/Anker-Elite/img-5.jpg",
+        "/Img-HubUsb/Anker-Elite/img-6.jpg"
       ],
       "price": {
         "amazon": {
@@ -428,10 +440,13 @@
       "category": "Hub USB-C",
       "subcategory": "Hub multiport certifié Apple",
       "images": [
-        "/images/belkin-11in1-front.jpg",
-        "/images/belkin-11in1-ports.jpg",
-        "/images/belkin-11in1-macbook.jpg",
-        "/images/belkin-11in1-detail.jpg"
+        "/Img-HubUsb/BelkinConnect/img-p.jpg",
+        "/Img-HubUsb/BelkinConnect/img-2.jpg",
+        "/Img-HubUsb/BelkinConnect/img-3.jpg",
+        "/Img-HubUsb/BelkinConnect/img-4.jpg",
+        "/Img-HubUsb/BelkinConnect/img-5.jpg",
+        "/Img-HubUsb/BelkinConnect/img-6.jpg",
+        "/Img-HubUsb/BelkinConnect/img-7.jpg"
       ],
       "price": {
         "amazon": {
@@ -513,10 +528,13 @@
       "category": "Hub USB-C",
       "subcategory": "Adaptateur multiport double HDMI pour MacBook",
       "images": [
-        "/images/startech-dual-hdmi-front.jpg",
-        "/images/startech-dual-hdmi-ports.jpg",
-        "/images/startech-dual-hdmi-macbook.jpg",
-        "/images/startech-dual-hdmi-setup.jpg"
+        "/Img-HubUsb/Startech/img-p.jpg",
+        "/Img-HubUsb/Startech/img-2.jpg",
+        "/Img-HubUsb/Startech/img-3.jpg",
+        "/Img-HubUsb/Startech/img-4.jpg",
+        "/Img-HubUsb/Startech/img-5.jpg",
+        "/Img-HubUsb/Startech/img-6.jpg",
+        "/Img-HubUsb/Startech/img-7.jpg"
       ],
       "price": {
         "amazon": {
