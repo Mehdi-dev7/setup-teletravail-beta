@@ -6,10 +6,11 @@
       "category": "Rangement câbles",
       "subcategory": "Boîte cache-multiprise premium",
       "images": [
-        "/images/bluelounge-cablebox-closed.jpg",
-        "/images/bluelounge-cablebox-open.jpg",
-        "/images/bluelounge-cablebox-setup.jpg",
-        "/images/bluelounge-cablebox-detail.jpg"
+        "/Img-GestionCable/Bluelounge/img-p.jpg",
+        "/Img-GestionCable/Bluelounge/img-2.jpg",
+        "/Img-GestionCable/Bluelounge/img-3.jpg",
+        "/Img-GestionCable/Bluelounge/img-4.jpg",
+        "/Img-GestionCable/Bluelounge/img-5.jpg"
       ],
       "price": {
         "amazon": {
@@ -89,10 +90,12 @@
       "category": "Rangement câbles",
       "subcategory": "Goulotte murale/bureau adhésive",
       "images": [
-        "/images/joto-goulotte-wall.jpg",
-        "/images/joto-goulotte-desk.jpg",
-        "/images/joto-goulotte-detail.jpg",
-        "/images/joto-goulotte-install.jpg"
+        "/Img-GestionCable/Joto-Goulotte/img-p.jpg",
+        "/Img-GestionCable/Joto-Goulotte/img-2.jpg",
+        "/Img-GestionCable/Joto-Goulotte/img-3.jpg",
+        "/Img-GestionCable/Joto-Goulotte/img-4.jpg",
+        "/Img-GestionCable/Joto-Goulotte/img-5.jpg",
+        "/Img-GestionCable/Joto-Goulotte/img-6.jpg"
       ],
       "price": {
         "amazon": {
@@ -174,10 +177,10 @@
       "category": "Rangement câbles",
       "subcategory": "Chemin de câbles sous bureau",
       "images": [
-        "/images/ikea-signum-mounted.jpg",
-        "/images/ikea-signum-cables.jpg",
-        "/images/ikea-signum-desk.jpg",
-        "/images/ikea-signum-detail.jpg"
+        "/Img-GestionCable/Ikea-Signum/img-p.avif",
+        "/Img-GestionCable/Ikea-Signum/img-2.jpg",
+        "/Img-GestionCable/Ikea-Signum/img-3.jpg",
+        "/Img-GestionCable/Ikea-Signum/img-4.jpg"
       ],
       "price": {
         "amazon": {
@@ -257,10 +260,13 @@
       "category": "Rangement câbles",
       "subcategory": "Clips magnétiques organiseurs",
       "images": [
-        "/images/anker-clips-desk.jpg",
-        "/images/anker-clips-magnetic.jpg",
-        "/images/anker-clips-detail.jpg",
-        "/images/anker-clips-use.jpg"
+        "/Img-GestionCable/Anker-MagneticCable/img-p.jpg",
+        "/Img-GestionCable/Anker-MagneticCable/img-2.jpg",
+        "/Img-GestionCable/Anker-MagneticCable/img-3.jpg",
+        "/Img-GestionCable/Anker-MagneticCable/img-4.jpg",
+        "/Img-GestionCable/Anker-MagneticCable/img-5.jpg",
+        "/Img-GestionCable/Anker-MagneticCable/img-6.jpg",
+        "/Img-GestionCable/Anker-MagneticCable/img-7.jpg"
       ],
       "price": {
         "amazon": {
@@ -340,10 +346,12 @@
       "category": "Rangement câbles",
       "subcategory": "Clips adhésifs micro câbles",
       "images": [
-        "/images/dline-micro-clips.jpg",
-        "/images/dline-micro-desk.jpg",
-        "/images/dline-micro-detail.jpg",
-        "/images/dline-micro-use.jpg"
+        "/Img-GestionCable/D-Line-MicroCacheCable/img-p.jpg",
+        "/Img-GestionCable/D-Line-MicroCacheCable/img-2.jpg",
+        "/Img-GestionCable/D-Line-MicroCacheCable/img-3.jpg",
+        "/Img-GestionCable/D-Line-MicroCacheCable/img-4.jpg",
+        "/Img-GestionCable/D-Line-MicroCacheCable/img-5.jpg",
+        "/Img-GestionCable/D-Line-MicroCacheCable/img-6.jpg"
       ],
       "price": {
         "amazon": {
