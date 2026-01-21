@@ -133,7 +133,7 @@ export default function Footer() {
 				{/* Footer Bottom */}
 				<div className="footer-bottom flex flex-col justify-center items-center py-8 border-t border-gray-500">
 					<p className="text-gray-300 text-base text-center">
-						© 2025 Setup-Teletravail - Tous droits réservés. Créé par{" "}
+						© 2026 Setup-Teletravail - Tous droits réservés. Créé par{" "}
 						<Link
 							href="https://github.com/Mehdi-dev7"
 							target="_blank"

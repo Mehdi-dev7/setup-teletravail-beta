@@ -6,7 +6,8 @@
 @import "remixicon/fonts/remixicon.css";
 
 :root {
-	--prim: #caa05c;
+	/* --prim: #caa05c; */
+	--prim: #FF9933;
 	--text: #1c1c1d;
 	--body: #f6f6f6;
 	--white: #fff;
