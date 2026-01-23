@@ -48,8 +48,8 @@ const links: NavLink[] = [
 // Liens de la section droite
 
 const rightLinks = [
-	{ label: "Guides", href: "/guides", icon: "ri-book-open-line" },
-	{ label: "Comparatifs", href: "/comparatifs", icon: "ri-contrast-line" },
+	{ label: "Setups", href: "/guides", icon: "ri-layout-grid-fill", tooltip: "Setups clé en main" },
+	{ label: "Comparatifs", href: "/comparatifs", icon: "ri-scales-3-line", tooltip: "Comparer les produits" },
 ];
 
 export default function Navbar() {
@@ -131,10 +131,15 @@ export default function Navbar() {
 						<Link
 							key={link.label}
 							href={link.href}
-							className="flex items-center gap-2 text-xl 2xl:text-lg hover:text-(--prim) transition-all duration-300 whitespace-nowrap"
+							className="relative group flex items-center gap-2 text-xl 2xl:text-lg hover:text-(--prim) transition-all duration-300 whitespace-nowrap"
 						>
 							<i className={link.icon}></i>
-							<span className="hidden 3xl:inline">{link.label}</span>
+							<span className="hidden 2xl:inline">{link.label}</span>
+							{/* Tooltip */}
+							<span className="2xl:hidden absolute -bottom-10 left-1/2 -translate-x-1/2 px-3 py-1.5 bg-gray-900 text-white text-xs rounded-lg opacity-0 invisible group-hover:opacity-100 group-hover:visible transition-all duration-300 whitespace-nowrap shadow-lg">
+								{link.tooltip}
+								<span className="absolute -top-1 left-1/2 -translate-x-1/2 w-2 h-2 bg-gray-900 rotate-45"></span>
+							</span>
 						</Link>
 					))}
 				</div>
