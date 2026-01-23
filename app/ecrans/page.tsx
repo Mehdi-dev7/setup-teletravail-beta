@@ -1,6 +1,34 @@
 import Link from "next/link";
 import Image from "next/image";
 import EcranData from "@/JsonData/JsonEcran/EcranData.json";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+	title: "Meilleurs Écrans Télétravail 2026 | Comparatif 4K, USB-C & Ultrawide",
+	description:
+		"Comparatif des meilleurs écrans pour le télétravail en 2026. Écrans 4K, QHD, USB-C avec Power Delivery et ultrawide. Dell, LG, Samsung : trouvez l'écran idéal pour votre setup.",
+	keywords: [
+		"écran télétravail",
+		"écran 4K",
+		"écran USB-C",
+		"écran ultrawide",
+		"Dell UltraSharp",
+		"LG 27UK850",
+		"meilleur écran bureau",
+		"écran ergonomique",
+		"moniteur télétravail",
+	],
+	alternates: {
+		canonical: "https://setup-teletravail.fr/ecrans",
+	},
+	openGraph: {
+		title: "Meilleurs Écrans Télétravail 2026 | Comparatif Complet",
+		description:
+			"Trouvez l'écran parfait pour votre télétravail. Comparatif détaillé des meilleurs moniteurs 4K, USB-C et ultrawide.",
+		url: "https://setup-teletravail.fr/ecrans",
+		type: "website",
+	},
+};
 
 export default function Ecrans() {
 	const allEcrans = [...EcranData.classiques, ...EcranData.ultrawide];

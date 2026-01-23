@@ -1,5 +1,31 @@
 import Link from "next/link";
 import Image from "next/image";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+	title: "Setups Télétravail Complets 2026 | Premium, Standard & Budget",
+	description:
+		"3 configurations télétravail clé en main pour tous les budgets. Setup Premium (2200€), Standard (1000€) et Budget (615€). Bureau, chaise, écran, clavier, souris : tout inclus.",
+	keywords: [
+		"setup télétravail complet",
+		"configuration bureau maison",
+		"pack télétravail",
+		"setup home office",
+		"équipement télétravail budget",
+		"setup premium",
+		"bureau complet télétravail",
+	],
+	alternates: {
+		canonical: "https://setup-teletravail.fr/guides",
+	},
+	openGraph: {
+		title: "Setups Télétravail Complets 2026 | Clé en Main",
+		description:
+			"3 configurations complètes pour votre télétravail. Bureau, chaise, écran, périphériques : trouvez le setup adapté à votre budget.",
+		url: "https://setup-teletravail.fr/guides",
+		type: "website",
+	},
+};
 
 // Données des setups complets
 const setups = {

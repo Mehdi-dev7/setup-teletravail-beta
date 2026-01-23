@@ -1,6 +1,33 @@
 import Link from "next/link";
 import Image from "next/image";
 import ClavierSourisData from "@/JsonData/JsonClavierSouris/ClavierSourisData.json";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+	title: "Meilleurs Claviers & Souris Télétravail 2026 | Logitech MX, Ergonomique",
+	description:
+		"Comparatif des meilleurs claviers et souris pour le télétravail. Logitech MX Keys, MX Master 3S, claviers ergonomiques et souris verticales pour une productivité optimale.",
+	keywords: [
+		"clavier télétravail",
+		"souris ergonomique",
+		"Logitech MX Keys",
+		"Logitech MX Master 3S",
+		"clavier sans fil",
+		"souris verticale",
+		"Keychron",
+		"clavier ergonomique",
+	],
+	alternates: {
+		canonical: "https://setup-teletravail.fr/peripheriques/claviers&souris",
+	},
+	openGraph: {
+		title: "Meilleurs Claviers & Souris Télétravail 2026",
+		description:
+			"Trouvez le duo clavier-souris parfait pour votre télétravail. Comparatif Logitech MX, ergonomique et plus.",
+		url: "https://setup-teletravail.fr/peripheriques/claviers&souris",
+		type: "website",
+	},
+};
 
 export default function ClavierSouris() {
 	return (

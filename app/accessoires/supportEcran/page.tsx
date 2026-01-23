@@ -1,6 +1,33 @@
 import Link from "next/link";
 import Image from "next/image";
 import SupportEcranData from "@/JsonData/JsonSupportEcran/SupportEcranData.json";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+	title: "Meilleurs Bras & Supports Écran 2026 | Ergotron, Double Écran",
+	description:
+		"Comparatif des meilleurs bras et supports d'écran pour le télétravail. Ergotron LX, supports double écran, rehausseurs : libérez votre espace de travail.",
+	keywords: [
+		"bras écran",
+		"support moniteur",
+		"Ergotron LX",
+		"bras double écran",
+		"support écran réglable",
+		"bras articulé écran",
+		"rehausseur écran",
+		"VESA",
+	],
+	alternates: {
+		canonical: "https://setup-teletravail.fr/accessoires/supportEcran",
+	},
+	openGraph: {
+		title: "Meilleurs Bras & Supports Écran 2026",
+		description:
+			"Trouvez le support d'écran parfait pour votre setup. Bras articulés, supports double écran et rehausseurs.",
+		url: "https://setup-teletravail.fr/accessoires/supportEcran",
+		type: "website",
+	},
+};
 
 export default function SupportEcran() {
 	// Combiner tous les supports

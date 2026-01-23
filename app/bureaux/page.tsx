@@ -1,6 +1,33 @@
 import Link from "next/link";
 import Image from "next/image";
 import BureauData from "@/JsonData/JsonBureau/BureauData.json";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+	title: "Meilleurs Bureaux Assis-Debout 2026 | Comparatif FlexiSpot, SANODESK",
+	description:
+		"Comparatif des meilleurs bureaux assis-debout pour le télétravail en 2026. FlexiSpot E7, SANODESK, MAIDeSITe : trouvez le bureau électrique idéal selon votre budget.",
+	keywords: [
+		"bureau assis-debout",
+		"bureau électrique",
+		"bureau réglable en hauteur",
+		"FlexiSpot E7",
+		"SANODESK",
+		"bureau télétravail",
+		"bureau ergonomique",
+		"standing desk",
+	],
+	alternates: {
+		canonical: "https://setup-teletravail.fr/bureaux",
+	},
+	openGraph: {
+		title: "Meilleurs Bureaux Assis-Debout 2026 | Comparatif Complet",
+		description:
+			"Trouvez le bureau assis-debout parfait pour votre télétravail. Comparatif détaillé FlexiSpot, SANODESK et plus.",
+		url: "https://setup-teletravail.fr/bureaux",
+		type: "website",
+	},
+};
 
 export default function Bureaux() {
 	return (

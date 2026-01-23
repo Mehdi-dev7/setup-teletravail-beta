@@ -1,6 +1,34 @@
 import Link from "next/link";
 import Image from "next/image";
 import ChaiseData from "@/JsonData/JsonChaise/ChaiseData.json";
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+	title: "Meilleures Chaises Ergonomiques 2026 | Comparatif SIHOO, FlexiSpot",
+	description:
+		"Comparatif des meilleures chaises ergonomiques pour le télétravail en 2026. SIHOO Doro C300, M57, FlexiSpot C7 : trouvez la chaise idéale pour préserver votre dos.",
+	keywords: [
+		"chaise ergonomique",
+		"chaise bureau",
+		"SIHOO Doro C300",
+		"SIHOO M57",
+		"FlexiSpot C7",
+		"chaise télétravail",
+		"fauteuil ergonomique",
+		"support lombaire",
+		"chaise gaming ergonomique",
+	],
+	alternates: {
+		canonical: "https://setup-teletravail.fr/chaises",
+	},
+	openGraph: {
+		title: "Meilleures Chaises Ergonomiques 2026 | Comparatif Complet",
+		description:
+			"Trouvez la chaise ergonomique parfaite pour votre télétravail. Comparatif détaillé SIHOO, FlexiSpot et plus.",
+		url: "https://setup-teletravail.fr/chaises",
+		type: "website",
+	},
+};
 
 export default function Chaises() {
 	return (
