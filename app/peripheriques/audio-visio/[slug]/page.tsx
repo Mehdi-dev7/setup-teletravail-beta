@@ -15,8 +15,12 @@ export default function AudioVisioDetails() {
 	const id = params?.slug || "";
 
 	// Recherche dans audio et visio
-	const audioItem = AudioVisioData.audio.find((item) => item.id === id) as AudioItem | undefined;
-	const visioItem = AudioVisioData.visio.find((item) => item.id === id) as VisioItem | undefined;
+	const audioItem = AudioVisioData.audio.find((item) => item.id === id) as
+		| AudioItem
+		| undefined;
+	const visioItem = AudioVisioData.visio.find((item) => item.id === id) as
+		| VisioItem
+		| undefined;
 
 	const isAudio = !!audioItem;
 	const item = audioItem || visioItem;
@@ -28,9 +32,10 @@ export default function AudioVisioDetails() {
 
 	// Fonction pour naviguer entre les images (change l'image principale + défile les miniatures)
 	const navigateImage = (direction: "left" | "right", totalImages: number) => {
-		const newIndex = direction === "left"
-			? (selectedImage - 1 + totalImages) % totalImages
-			: (selectedImage + 1) % totalImages;
+		const newIndex =
+			direction === "left"
+				? (selectedImage - 1 + totalImages) % totalImages
+				: (selectedImage + 1) % totalImages;
 
 		setSelectedImage(newIndex);
 
@@ -38,7 +43,10 @@ export default function AudioVisioDetails() {
 		if (thumbnailsRef.current) {
 			const thumbnailWidth = 96 + 12; // w-24 (96px) + gap-3 (12px)
 			thumbnailsRef.current.scrollTo({
-				left: newIndex * thumbnailWidth - thumbnailsRef.current.offsetWidth / 2 + thumbnailWidth / 2,
+				left:
+					newIndex * thumbnailWidth -
+					thumbnailsRef.current.offsetWidth / 2 +
+					thumbnailWidth / 2,
 				behavior: "smooth",
 			});
 		}
@@ -58,8 +66,13 @@ export default function AudioVisioDetails() {
 				<div className="text-center">
 					<i className="ri-error-warning-line text-6xl text-gray-400 mb-4"></i>
 					<h1 className="text-3xl GolosText mb-2">Produit non trouvé</h1>
-					<p className="text-gray-500 mb-6">Le produit que vous recherchez n&apos;existe pas.</p>
-					<Link href="/peripheriques/audio&visio" className="bg-(--prim) text-white px-6 py-3 rounded-full hover:opacity-90 transition-all">
+					<p className="text-gray-500 mb-6">
+						Le produit que vous recherchez n&apos;existe pas.
+					</p>
+					<Link
+						href="/peripheriques/audio-visio"
+						className="bg-(--prim) text-white px-6 py-3 rounded-full hover:opacity-90 transition-all"
+					>
 						Retour à Audio & Visio
 					</Link>
 				</div>
@@ -69,26 +82,48 @@ export default function AudioVisioDetails() {
 
 	// Prix enseignes
 	const prixEnseignes = [
-		{ enseigne: "Amazon", prix: item.price.amazon.current, url: item.price.amazon.url },
-		{ enseigne: "Cdiscount", prix: item.price.cdiscount.current, url: item.price.cdiscount.url },
-		{ enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url },
+		{
+			enseigne: "Amazon",
+			prix: item.price.amazon.current,
+			url: item.price.amazon.url,
+		},
+		{
+			enseigne: "Cdiscount",
+			prix: item.price.cdiscount.current,
+			url: item.price.cdiscount.url,
+		},
+		{
+			enseigne: "Fnac",
+			prix: item.price.fnac.current,
+			url: item.price.fnac.url,
+		},
 	].sort((a, b) => a.prix - b.prix);
 
 	return (
 		<>
 			{/* Header */}
 			<div className="section-bg text-white flex flex-col">
-				<h1 className="text-4xl md:text-6xl 2xl:text-7xl GolosText mt-10 md:mt-15">{item.category}</h1>
+				<h1 className="text-4xl md:text-6xl 2xl:text-7xl GolosText mt-10 md:mt-15">
+					{item.category}
+				</h1>
 				<div className="flex flex-wrap items-center text-base sm:text-xl mt-3 gap-1">
-					<Link href="/" className="hover:text-(--prim) transition-all duration-300">
+					<Link
+						href="/"
+						className="hover:text-(--prim) transition-all duration-300"
+					>
 						Accueil
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
-					<Link href="/peripheriques/audio&visio" className="hover:text-(--prim) transition-all duration-300">
+					<Link
+						href="/peripheriques/audio-visio"
+						className="hover:text-(--prim) transition-all duration-300"
+					>
 						Audio & Visio
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
-					<span className="GolosText text-white truncate max-w-37.5 sm:max-w-50 lg:max-w-none">{item.name}</span>
+					<span className="GolosText text-white truncate max-w-37.5 sm:max-w-50 lg:max-w-none">
+						{item.name}
+					</span>
 				</div>
 			</div>
 
@@ -112,7 +147,9 @@ export default function AudioVisioDetails() {
 								</div>
 							)}
 							{/* Icône loupe */}
-							<div className={`absolute top-4 right-4 z-10 bg-white/80 backdrop-blur-sm p-2 rounded-full transition-opacity duration-300 ${isZoomed ? "opacity-0" : "opacity-100"}`}>
+							<div
+								className={`absolute top-4 right-4 z-10 bg-white/80 backdrop-blur-sm p-2 rounded-full transition-opacity duration-300 ${isZoomed ? "opacity-0" : "opacity-100"}`}
+							>
 								<i className="ri-zoom-in-line text-gray-600 text-xl"></i>
 							</div>
 							<Image
@@ -149,7 +186,9 @@ export default function AudioVisioDetails() {
 											key={index}
 											onClick={() => setSelectedImage(index)}
 											className={`relative w-20 h-20 sm:w-24 sm:h-24 rounded-xl overflow-hidden shrink-0 border-2 transition-all duration-300 ${
-												selectedImage === index ? "border-(--prim)" : "border-gray-200 hover:border-gray-400"
+												selectedImage === index
+													? "border-(--prim)"
+													: "border-gray-200 hover:border-gray-400"
 											}`}
 										>
 											<Image
@@ -177,7 +216,9 @@ export default function AudioVisioDetails() {
 					<div className="w-full lg:w-1/2">
 						{/* Catégorie et nom */}
 						<p className="text-gray-500 text-lg mb-1">{item.subcategory}</p>
-						<h1 className="text-3xl sm:text-4xl lg:text-5xl Sora mb-4">{item.name}</h1>
+						<h1 className="text-3xl sm:text-4xl lg:text-5xl Sora mb-4">
+							{item.name}
+						</h1>
 
 						{/* Note */}
 						<div className="flex items-center gap-3 mb-6">
@@ -190,7 +231,10 @@ export default function AudioVisioDetails() {
 								))}
 							</div>
 							<span className="text-sm sm:text-lg text-gray-600">
-								{item.ratings.overall}/5 <span className="text-gray-400">({item.ratings.reviewCount} avis)</span>
+								{item.ratings.overall}/5{" "}
+								<span className="text-gray-400">
+									({item.ratings.reviewCount} avis)
+								</span>
 							</span>
 						</div>
 
@@ -199,10 +243,12 @@ export default function AudioVisioDetails() {
 							{isAudio && audioItem ? (
 								<>
 									<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
-										<i className="ri-battery-2-charge-line mr-1"></i>{audioItem.features.autonomie.split(",")[0]}
+										<i className="ri-battery-2-charge-line mr-1"></i>
+										{audioItem.features.autonomie.split(",")[0]}
 									</span>
 									<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
-										<i className="ri-scales-line mr-1"></i>{audioItem.features.poids}
+										<i className="ri-scales-line mr-1"></i>
+										{audioItem.features.poids}
 									</span>
 									{audioItem.features.reductionBruit.includes("Active") && (
 										<span className="bg-blue-100 text-blue-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
@@ -211,20 +257,28 @@ export default function AudioVisioDetails() {
 									)}
 									{audioItem.features.multipoint?.includes("Oui") && (
 										<span className="bg-green-100 text-green-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
-											<i className="ri-bluetooth-connect-line mr-1"></i>Multipoint
+											<i className="ri-bluetooth-connect-line mr-1"></i>
+											Multipoint
 										</span>
 									)}
 								</>
 							) : visioItem ? (
 								<>
 									<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
-										<i className="ri-vidicon-line mr-1"></i>{visioItem.features.resolution.includes("4K") ? "4K" : visioItem.features.resolution.includes("1080") ? "1080p" : "720p"}
+										<i className="ri-vidicon-line mr-1"></i>
+										{visioItem.features.resolution.includes("4K")
+											? "4K"
+											: visioItem.features.resolution.includes("1080")
+												? "1080p"
+												: "720p"}
 									</span>
 									<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
-										<i className="ri-speed-line mr-1"></i>{visioItem.features.framerate.split(",")[0]}
+										<i className="ri-speed-line mr-1"></i>
+										{visioItem.features.framerate.split(",")[0]}
 									</span>
 									<span className="bg-gray-100 text-gray-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
-										<i className="ri-focus-2-line mr-1"></i>{visioItem.features.champVision}
+										<i className="ri-focus-2-line mr-1"></i>
+										{visioItem.features.champVision}
 									</span>
 									{visioItem.features.autofocus?.includes("Oui") && (
 										<span className="bg-green-100 text-green-700 px-3 py-2 rounded-lg text-xs md:text-sm font-medium">
@@ -239,7 +293,10 @@ export default function AudioVisioDetails() {
 						{item.badges && item.badges.length > 1 && (
 							<div className="flex flex-wrap gap-2 mb-6">
 								{item.badges.slice(1).map((badge, index) => (
-									<span key={index} className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full text-xs font-medium">
+									<span
+										key={index}
+										className="bg-purple-100 text-purple-700 px-3 py-1 rounded-full text-xs font-medium"
+									>
 										{badge}
 									</span>
 								))}
@@ -263,7 +320,9 @@ export default function AudioVisioDetails() {
 									>
 										<div className="flex items-center gap-3">
 											<div className="w-24 h-8 flex items-center sm:justify-center">
-												<span className="font-bold text-gray-700">{priceItem.enseigne}</span>
+												<span className="font-bold text-gray-700">
+													{priceItem.enseigne}
+												</span>
 											</div>
 											{index === 0 && (
 												<span className="bg-green-100 text-green-700 text-xs px-2 py-1 rounded-full font-medium">
@@ -272,7 +331,9 @@ export default function AudioVisioDetails() {
 											)}
 										</div>
 										<div className="flex items-center gap-3">
-											<span className="text-xl sm:text-2xl font-bold text-(--prim)">{priceItem.prix}€</span>
+											<span className="text-xl sm:text-2xl font-bold text-(--prim)">
+												{priceItem.prix}€
+											</span>
 											<i className="ri-external-link-line text-gray-400 group-hover:text-(--prim) transition-colors"></i>
 										</div>
 									</a>
@@ -312,94 +373,138 @@ export default function AudioVisioDetails() {
 									<>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Connexion</span>
-											<span className="font-medium text-right max-w-[60%]">{audioItem.features.typeConnexion}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{audioItem.features.typeConnexion}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Réduction bruit</span>
-											<span className="font-medium text-right max-w-[60%]">{audioItem.features.reductionBruit}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{audioItem.features.reductionBruit}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Autonomie</span>
-											<span className="font-medium text-right max-w-[60%]">{audioItem.features.autonomie}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{audioItem.features.autonomie}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Charge rapide</span>
-											<span className="font-medium text-right max-w-[60%]">{audioItem.features.chargeRapide}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{audioItem.features.chargeRapide}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Microphones</span>
-											<span className="font-medium text-right max-w-[60%]">{audioItem.features.microphones}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{audioItem.features.microphones}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Poids</span>
-											<span className="font-medium">{audioItem.features.poids}</span>
+											<span className="font-medium">
+												{audioItem.features.poids}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Multipoint</span>
-											<span className="font-medium text-right max-w-[60%]">{audioItem.features.multipoint}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{audioItem.features.multipoint}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Codec</span>
-											<span className="font-medium">{audioItem.features.codec}</span>
+											<span className="font-medium">
+												{audioItem.features.codec}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Application</span>
-											<span className="font-medium text-right max-w-[60%]">{audioItem.features.application}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{audioItem.features.application}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Pliable</span>
-											<span className="font-medium">{audioItem.features.pliable}</span>
+											<span className="font-medium">
+												{audioItem.features.pliable}
+											</span>
 										</div>
 										<div className="flex justify-between py-3">
 											<span className="text-gray-500">Certification</span>
-											<span className="font-medium text-right max-w-[60%]">{audioItem.features.certification}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{audioItem.features.certification}
+											</span>
 										</div>
 									</>
 								) : visioItem ? (
 									<>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Résolution</span>
-											<span className="font-medium text-right max-w-[60%]">{visioItem.features.resolution}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{visioItem.features.resolution}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Framerate</span>
-											<span className="font-medium text-right max-w-[60%]">{visioItem.features.framerate}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{visioItem.features.framerate}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Autofocus</span>
-											<span className="font-medium text-right max-w-[60%]">{visioItem.features.autofocus}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{visioItem.features.autofocus}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Champ de vision</span>
-											<span className="font-medium">{visioItem.features.champVision}</span>
+											<span className="font-medium">
+												{visioItem.features.champVision}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Microphones</span>
-											<span className="font-medium text-right max-w-[60%]">{visioItem.features.microphones}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{visioItem.features.microphones}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Connexion</span>
-											<span className="font-medium">{visioItem.features.connexion}</span>
+											<span className="font-medium">
+												{visioItem.features.connexion}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Montage</span>
-											<span className="font-medium text-right max-w-[60%]">{visioItem.features.montage}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{visioItem.features.montage}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Correction lumière</span>
-											<span className="font-medium text-right max-w-[60%]">{visioItem.features.correction}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{visioItem.features.correction}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Dimensions</span>
-											<span className="font-medium">{visioItem.features.dimensions}</span>
+											<span className="font-medium">
+												{visioItem.features.dimensions}
+											</span>
 										</div>
 										<div className="flex justify-between py-3 border-b border-gray-100">
 											<span className="text-gray-500">Poids</span>
-											<span className="font-medium">{visioItem.features.poids}</span>
+											<span className="font-medium">
+												{visioItem.features.poids}
+											</span>
 										</div>
 										<div className="flex justify-between py-3">
 											<span className="text-gray-500">Certification</span>
-											<span className="font-medium text-right max-w-[60%]">{visioItem.features.certification}</span>
+											<span className="font-medium text-right max-w-[60%]">
+												{visioItem.features.certification}
+											</span>
 										</div>
 									</>
 								) : null}
@@ -450,7 +555,9 @@ export default function AudioVisioDetails() {
 							<i className="ri-file-text-line text-(--prim)"></i>
 							Notre avis détaillé
 						</h2>
-						<div className="text-gray-700 text-base sm:text-lg leading-relaxed whitespace-pre-line">{item.description}</div>
+						<div className="text-gray-700 text-base sm:text-lg leading-relaxed whitespace-pre-line">
+							{item.description}
+						</div>
 					</div>
 				</div>
 
@@ -460,7 +567,8 @@ export default function AudioVisioDetails() {
 						Convaincu par le {item.name} ?
 					</h2>
 					<p className="text-gray-300 mb-8 max-w-2xl mx-auto">
-						Comparez les prix chez nos partenaires et profitez des meilleures offres du moment.
+						Comparez les prix chez nos partenaires et profitez des meilleures
+						offres du moment.
 					</p>
 					<div className="flex flex-col sm:flex-row gap-4 justify-center">
 						<a
@@ -473,7 +581,7 @@ export default function AudioVisioDetails() {
 							Voir sur {prixEnseignes[0]?.enseigne} - {prixEnseignes[0]?.prix}€
 						</a>
 						<Link
-							href="/peripheriques/audio&visio"
+							href="/peripheriques/audio-visio"
 							className="bg-white/10 text-white px-8 py-4 rounded-full font-semibold hover:bg-white/20 transition-all flex items-center justify-center gap-2"
 						>
 							<i className="ri-arrow-left-line"></i>

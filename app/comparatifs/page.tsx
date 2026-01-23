@@ -85,14 +85,14 @@ const CATEGORIES: Category[] = [
 		name: "Casques",
 		icon: "ri-headphone-line",
 		subcategories: [{ id: "audio", name: "Audio" }],
-		detailPath: "/peripheriques/audio&visio",
+		detailPath: "/peripheriques/audio-visio",
 	},
 	{
 		id: "webcams",
 		name: "Webcams",
 		icon: "ri-webcam-line",
 		subcategories: [{ id: "visio", name: "Visio" }],
-		detailPath: "/peripheriques/audio&visio",
+		detailPath: "/peripheriques/audio-visio",
 	},
 	{
 		id: "hubs",
@@ -246,7 +246,7 @@ function normalizeProduct(
 	product: Record<string, unknown>,
 	categoryId: string,
 	subcategoryId: string,
-	detailPath: string
+	detailPath: string,
 ): NormalizedProduct {
 	// Handle legacy format (ecrans, chaises, bureaux)
 	if ("nom" in product) {
@@ -308,7 +308,7 @@ function normalizeProduct(
 		cons: p.prosAndCons?.cons || [],
 		specs: extractSpecs(
 			{ ...p, ...(p.features || {}) } as Record<string, unknown>,
-			categoryId
+			categoryId,
 		),
 		category: categoryId,
 		subcategory: subcategoryId,
@@ -318,7 +318,7 @@ function normalizeProduct(
 
 function extractSpecs(
 	product: Record<string, unknown>,
-	categoryId: string
+	categoryId: string,
 ): Record<string, string | number | boolean | null> {
 	const specs: Record<string, string | number | boolean | null> = {};
 	const config = SPECS_CONFIG[categoryId] || [];
@@ -335,7 +335,7 @@ function extractSpecs(
 // Get products for a category/subcategory
 function getProducts(
 	categoryId: string,
-	subcategoryId: string
+	subcategoryId: string,
 ): NormalizedProduct[] {
 	const category = CATEGORIES.find((c) => c.id === categoryId);
 	if (!category) return [];
@@ -407,13 +407,13 @@ function getProducts(
 	}
 
 	return rawProducts.map((p) =>
-		normalizeProduct(p, categoryId, subcategoryId, category.detailPath)
+		normalizeProduct(p, categoryId, subcategoryId, category.detailPath),
 	);
 }
 
 // Format spec value for display
 function formatSpecValue(
-	value: string | number | boolean | null | undefined
+	value: string | number | boolean | null | undefined,
 ): string {
 	if (value === null || value === undefined) return "-";
 	if (typeof value === "boolean") return value ? "Oui" : "Non";
@@ -424,19 +424,19 @@ function formatSpecValue(
 export default function Comparatifs() {
 	const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
 	const [selectedSubCategory, setSelectedSubCategory] = useState<string | null>(
-		null
+		null,
 	);
 	const [selectedProducts, setSelectedProducts] = useState<NormalizedProduct[]>(
-		[]
+		[],
 	);
 	const [viewMode, setViewMode] = useState<"selection" | "comparison">(
-		"selection"
+		"selection",
 	);
 
 	// Get current category
 	const currentCategory = useMemo(
 		() => CATEGORIES.find((c) => c.id === selectedCategory),
-		[selectedCategory]
+		[selectedCategory],
 	);
 
 	// Get available products
@@ -629,7 +629,7 @@ export default function Comparatifs() {
 								<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
 									{availableProducts.map((product) => {
 										const isSelected = selectedProducts.some(
-											(p) => p.id === product.id
+											(p) => p.id === product.id,
 										);
 										const isDisabled =
 											selectedProducts.length >= 4 && !isSelected;
@@ -870,7 +870,10 @@ export default function Comparatifs() {
 												>
 													<ul className="text-xs sm:text-sm text-gray-700 space-y-1">
 														{product.pros.slice(0, 4).map((pro, i) => (
-															<li key={i} className="flex items-start gap-1 sm:gap-2">
+															<li
+																key={i}
+																className="flex items-start gap-1 sm:gap-2"
+															>
 																<i className="ri-check-line text-green-500 mt-0.5 flex-shrink-0"></i>
 																<span className="line-clamp-2">{pro}</span>
 															</li>
@@ -894,7 +897,10 @@ export default function Comparatifs() {
 												>
 													<ul className="text-xs sm:text-sm text-gray-700 space-y-1">
 														{product.cons.slice(0, 3).map((con, i) => (
-															<li key={i} className="flex items-start gap-1 sm:gap-2">
+															<li
+																key={i}
+																className="flex items-start gap-1 sm:gap-2"
+															>
 																<i className="ri-close-line text-red-500 mt-0.5 flex-shrink-0"></i>
 																<span className="line-clamp-2">{con}</span>
 															</li>
@@ -922,7 +928,9 @@ export default function Comparatifs() {
 														href={product.detailLink}
 														className="inline-flex items-center text-(--prim) font-medium hover:underline text-sm sm:text-base"
 													>
-														<span className="hidden sm:inline">Voir détails</span>
+														<span className="hidden sm:inline">
+															Voir détails
+														</span>
 														<span className="sm:hidden">Détails</span>
 														<i className="ri-arrow-right-line ml-1"></i>
 													</Link>
@@ -967,7 +975,10 @@ export default function Comparatifs() {
 									<span className="font-semibold text-(--prim)">
 										{selectedProducts.length}
 									</span>
-									/4 <span className="hidden sm:inline">produits sélectionnés</span>
+									/4{" "}
+									<span className="hidden sm:inline">
+										produits sélectionnés
+									</span>
 								</span>
 							</div>
 

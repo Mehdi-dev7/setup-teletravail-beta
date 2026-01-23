@@ -1,696 +1,703 @@
 {
-  "audio": [
-    {
-      "id": "audio-001",
-      "name": "Sony WH-1000XM5",
-      "category": "Casque Audio",
-      "subcategory": "Casque à réduction de bruit active",
-      "images": [
-        "/Img-Audio&Visio/Sony-WH-1000XM5/img-p.jpg",
-        "/Img-Audio&Visio/Sony-WH-1000XM5/img-2.jpg",
-        "/Img-Audio&Visio/Sony-WH-1000XM5/img-3.jpg",
-        "/Img-Audio&Visio/Sony-WH-1000XM5/img-4.jpg",
-        "/Img-Audio&Visio/Sony-WH-1000XM5/img-5.jpg",
-        "/Img-Audio&Visio/Sony-WH-1000XM5/img-6.jpg",
-        "/Img-Audio&Visio/Sony-WH-1000XM5/img-7.jpg",
-        "/Img-Audio&Visio/Sony-WH-1000XM5/img-8.jpg"
-        
-      ],
-      "price": {
-        "amazon": {
-          "current": 349.99,
-          "original": 419.99,
-          "currency": "EUR",
-          "asin": "B0BWXB4982",
-          "url": "https://www.amazon.fr/dp/B0BWXB4982"
-        },
-        "cdiscount": {
-          "current": 359.99,
-          "original": 419.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/high-tech/casques-baladeur-hifi/sony-wh-1000xm5/f-1062616-son4548736134980.html"
-        },
-        "fnac": {
-          "current": 369.99,
-          "original": 419.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Sony-WH-1000XM5-Casque-Bluetooth-Noir/a17243580/w-4"
-        }
-      },
-      "features": {
-        "typeConnexion": "Bluetooth 5.2, Jack 3.5mm",
-        "reductionBruit": "Active (ANC) 8 microphones",
-        "autonomie": "30 heures (ANC activé), 40 heures (ANC désactivé)",
-        "chargeRapide": "Oui - 3 min = 3h d'écoute",
-        "microphones": "8 microphones + IA pour appels",
-        "poids": "250g",
-        "multipoint": "Oui - 2 appareils simultanés",
-        "codec": "LDAC, AAC, SBC",
-        "application": "Sony Headphones Connect",
-        "pliable": "Non",
-        "certification": "Hi-Res Audio"
-      },
-      "description": "Le Sony WH-1000XM5 représente l'excellence en matière de réduction de bruit active pour le télétravail. Grâce à ses 8 microphones et son processeur V1 intégré, il offre une suppression du bruit inégalée qui élimine jusqu'à 99% des bruits ambiants. Parfait pour rester concentré lors de vos appels visio ou votre travail en open-space.\n\nLa qualité audio est exceptionnelle avec le support LDAC pour un son haute résolution. Les coussinets ultra-confortables en mousse à mémoire de forme permettent des sessions de 8 heures sans aucune gêne. L'autonomie de 30 heures garantit une semaine complète de télétravail sans recharge.\n\nLe système de microphones avec IA ajuste automatiquement votre voix lors des appels, même dans des environnements bruyants. La connexion multipoint vous permet de basculer instantanément entre votre PC et votre smartphone. L'application Sony Headphones Connect offre une personnalisation complète de l'égaliseur et des modes d'écoute.",
-      "prosAndCons": {
-        "pros": [
-          "Meilleure réduction de bruit du marché",
-          "Confort exceptionnel pour longues sessions",
-          "Qualité audio Hi-Res (LDAC)",
-          "30h d'autonomie",
-          "Excellente qualité des appels",
-          "Multipoint pour 2 appareils",
-          "Détection automatique port/retrait"
-        ],
-        "cons": [
-          "Prix élevé",
-          "Non pliable (encombrant en déplacement)",
-          "Isolation peut être trop forte (sécurité)",
-          "Pas de bouton d'alimentation physique"
-        ]
-      },
-      "targetAudience": [
-        "Professionnels en open-space bruyant",
-        "Télétravailleurs avec beaucoup de visioconférences",
-        "Personnes sensibles au bruit ambiant",
-        "Audiophiles recherchant qualité + ANC",
-        "Nomades digitaux (café, coworking)"
-      ],
-      "ratings": {
-        "overall": 4.7,
-        "comfort": 5.0,
-        "soundQuality": 4.9,
-        "noiseCancellation": 5.0,
-        "batteryLife": 4.8,
-        "valueForMoney": 4.3,
-        "reviewCount": 3847
-      },
-      "badges": ["Meilleur ANC 2024", "Choix Pro", "Hi-Res Audio", "Éco-conception"]
-    },
-    {
-      "id": "audio-002",
-      "name": "Jabra Evolve2 65",
-      "category": "Casque Audio",
-      "subcategory": "Casque professionnel USB-C/Bluetooth",
-      "images": [
-        "/Img-Audio&Visio/Jabra-Evolve2/img-p.jpg",
-        "/Img-Audio&Visio/Jabra-Evolve2/img-2.jpg",
-        "/Img-Audio&Visio/Jabra-Evolve2/img-3.jpg",
-        "/Img-Audio&Visio/Jabra-Evolve2/img-6.jpg",
-        "/Img-Audio&Visio/Jabra-Evolve2/img-5.jpg",
-        "/Img-Audio&Visio/Jabra-Evolve2/img-4.jpg",
-        "/Img-Audio&Visio/Jabra-Evolve2/img-7.jpg",
-        "/Img-Audio&Visio/Jabra-Evolve2/img-8.jpg"
-      
-      ],
-      "price": {
-        "amazon": {
-          "current": 189.99,
-          "original": 249.99,
-          "currency": "EUR",
-          "asin": "B08C7VWKW4",
-          "url": "https://www.amazon.fr/dp/B08C7VWKW4"
-        },
-        "cdiscount": {
-          "current": 199.99,
-          "original": 249.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/high-tech/casques-baladeur-hifi/jabra-evolve2-65/f-1062616-jab5706991024326.html"
-        },
-        "fnac": {
-          "current": 209.99,
-          "original": 249.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Jabra-Evolve2-65-Casque/a14867392/w-4"
-        }
-      },
-      "features": {
-        "typeConnexion": "Bluetooth 5.0 + USB-C dongle",
-        "reductionBruit": "Passive + 3 microphones anti-bruit",
-        "autonomie": "37 heures",
-        "chargeRapide": "Non",
-        "microphones": "3 microphones MEMS",
-        "poids": "176g",
-        "multipoint": "Non",
-        "codec": "SBC",
-        "application": "Jabra Sound+, Jabra Direct",
-        "pliable": "Oui",
-        "certification": "Microsoft Teams, Zoom, Google Meet"
-      },
-      "description": "Le Jabra Evolve2 65 est le casque professionnel par excellence, conçu spécifiquement pour le télétravail et les visioconférences. Certifié par Microsoft Teams, Zoom et Google Meet, il garantit une compatibilité parfaite avec tous vos outils de travail collaboratif.\n\nSon dongle USB-C assure une connexion stable sans latence, idéale pour les appels professionnels. Les 3 microphones MEMS avec technologie anti-bruit garantissent que votre voix reste claire même dans un environnement perturbé. Le busylight LED intégré signale à votre entourage que vous êtes en communication.\n\nAvec 37 heures d'autonomie, vous pouvez travailler toute la semaine sans recharge. Les coussinets en mousse à mémoire de forme et le serre-tête rembourré assurent un confort optimal même lors de journées de 8 heures d'utilisation. Le design pliable facilite le transport pour les travailleurs hybrides.",
-      "prosAndCons": {
-        "pros": [
-          "Certifié Microsoft Teams/Zoom/Meet",
-          "37h d'autonomie exceptionnelle",
-          "Busylight LED pour signaler occupation",
-          "Très confortable pour longues journées",
-          "Connexion USB-C ultra-stable",
-          "Microphones excellents pour appels",
-          "Pliable et léger (176g)"
-        ],
-        "cons": [
-          "Qualité musicale moyenne (orienté voix)",
-          "Pas de réduction de bruit active",
-          "Pas de multipoint Bluetooth",
-          "Design très sobre/professionnel"
-        ]
-      },
-      "targetAudience": [
-        "Professionnels en visioconférence intensive",
-        "Équipes utilisant Microsoft Teams",
-        "Télétravailleurs hybrides (bureau/maison)",
-        "Commerciaux en appels constants",
-        "Managers et consultants"
-      ],
-      "ratings": {
-        "overall": 4.6,
-        "comfort": 4.7,
-        "soundQuality": 4.3,
-        "noiseCancellation": 4.0,
-        "batteryLife": 5.0,
-        "valueForMoney": 4.5,
-        "reviewCount": 2156
-      },
-      "badges": ["Certifié Teams", "Choix Business", "Batterie longue durée", "Éco-responsable"]
-    },
-    {
-      "id": "audio-003",
-      "name": "Bose QuietComfort 45",
-      "category": "Casque Audio",
-      "subcategory": "Casque à réduction de bruit",
-      "images": [
-        "/Img-Audio&Visio/Bose-QuietComfort-45/img-p.jpg",
-        "/Img-Audio&Visio/Bose-QuietComfort-45/img-2.jpg",
-        "/Img-Audio&Visio/Bose-QuietComfort-45/img-3.jpg",
-        "/Img-Audio&Visio/Bose-QuietComfort-45/img-4.jpg",
-        "/Img-Audio&Visio/Bose-QuietComfort-45/img-5.jpg",
-        "/Img-Audio&Visio/Bose-QuietComfort-45/img-6.jpg",
-        "/Img-Audio&Visio/Bose-QuietComfort-45/img-7.jpg"
-        
-      ],
-      "price": {
-        "amazon": {
-          "current": 279.99,
-          "original": 349.95,
-          "currency": "EUR",
-          "asin": "B098FKXT8L",
-          "url": "https://www.amazon.fr/dp/B098FKXT8L"
-        },
-        "cdiscount": {
-          "current": 289.99,
-          "original": 349.95,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/high-tech/casques-baladeur-hifi/bose-quietcomfort-45/f-1062616-bos0017817831642.html"
-        },
-        "fnac": {
-          "current": 299.95,
-          "original": 349.95,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Bose-QuietComfort-45-Casque-Bluetooth/a15709825/w-4"
-        }
-      },
-      "features": {
-        "typeConnexion": "Bluetooth 5.1, Jack 3.5mm",
-        "reductionBruit": "Active (ANC) Bose propriétaire",
-        "autonomie": "24 heures (Bluetooth + ANC)",
-        "chargeRapide": "Oui - 15 min = 3h d'écoute",
-        "microphones": "4 microphones pour appels",
-        "poids": "240g",
-        "multipoint": "Oui - 2 appareils",
-        "codec": "AAC, SBC",
-        "application": "Bose Music",
-        "pliable": "Oui",
-        "certification": "Non spécifique"
-      },
-      "description": "Le Bose QuietComfort 45 perpétue la légende de la gamme QC avec une réduction de bruit active parmi les meilleures du marché. La technologie Bose propriétaire offre un silence impressionnant, idéal pour se concentrer en télétravail ou en open-space.\n\nLe confort légendaire Bose est au rendez-vous avec des coussinets ultra-doux en protéine synthétique et un serre-tête parfaitement équilibré. Vous pouvez porter ce casque 8 heures d'affilée sans la moindre gêne. L'autonomie de 24 heures couvre largement une semaine de travail.\n\nLe mode Aware permet de rester connecté à votre environnement quand nécessaire, parfait pour entendre la sonnette ou un collègue. Les 4 microphones assurent des appels clairs et le système de réjection de bruit de vent fonctionne remarquablement bien. Le design pliable et l'étui rigide facilitent le transport.",
-      "prosAndCons": {
-        "pros": [
-          "Réduction de bruit Bose légendaire",
-          "Confort exceptionnel Bose",
-          "Pliable avec étui rigide premium",
-          "24h d'autonomie",
-          "Mode Aware pratique",
-          "Qualité de fabrication excellente",
-          "Multipoint fonctionnel"
-        ],
-        "cons": [
-          "Pas de codec Hi-Res (LDAC)",
-          "Qualité audio bonne mais pas excellente",
-          "Prix élevé",
-          "Design un peu daté",
-          "Pas de détection port/retrait automatique"
-        ]
-      },
-      "targetAudience": [
-        "Télétravailleurs cherchant le silence absolu",
-        "Fidèles de la marque Bose",
-        "Travailleurs hybrides fréquemment en déplacement",
-        "Personnes sensibles au confort",
-        "Professionnels en environnement bruyant"
-      ],
-      "ratings": {
-        "overall": 4.5,
-        "comfort": 4.9,
-        "soundQuality": 4.4,
-        "noiseCancellation": 4.8,
-        "batteryLife": 4.6,
-        "valueForMoney": 4.2,
-        "reviewCount": 5234
-      },
-      "badges": ["Légende ANC", "Confort Bose", "Transportable"]
-    },
-    {
-      "id": "audio-004",
-      "name": "Logitech Zone Vibe 100",
-      "category": "Casque Audio",
-      "subcategory": "Casque sans fil pour télétravail",
-      "images": [
-        "/Img-Audio&Visio/Logitech-ZoneVibe-100/img-p.jpg",
-        "/Img-Audio&Visio/Logitech-ZoneVibe-100/img-2.jpg",
-        "/Img-Audio&Visio/Logitech-ZoneVibe-100/img-9.jpg",
-        "/Img-Audio&Visio/Logitech-ZoneVibe-100/img-3.jpg",
-        "/Img-Audio&Visio/Logitech-ZoneVibe-100/img-4.jpg",
-        "/Img-Audio&Visio/Logitech-ZoneVibe-100/img-5.jpg",
-        "/Img-Audio&Visio/Logitech-ZoneVibe-100/img-6.jpg",
-        "/Img-Audio&Visio/Logitech-ZoneVibe-100/img-7.jpg",
-        "/Img-Audio&Visio/Logitech-ZoneVibe-100/img-8.jpg"
-      ],
-      "price": {
-        "amazon": {
-          "current": 99.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "asin": "B0B3F8YLSM",
-          "url": "https://www.amazon.fr/dp/B0B3F8YLSM"
-        },
-        "cdiscount": {
-          "current": 109.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-zone-vibe-100/f-10717-log5099206102101.html"
-        },
-        "fnac": {
-          "current": 119.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-Zone-Vibe-100-Casque/a17458901/w-4"
-        }
-      },
-      "features": {
-        "typeConnexion": "Bluetooth 5.2",
-        "reductionBruit": "Passive + micro anti-bruit",
-        "autonomie": "20 heures",
-        "chargeRapide": "Oui - USB-C",
-        "microphones": "Micro anti-bruit rabattable",
-        "poids": "185g",
-        "multipoint": "Non",
-        "codec": "SBC, AAC",
-        "application": "Logi Tune",
-        "pliable": "Oui (coussinets pivotants)",
-        "certification": "Microsoft Teams, Google Meet, Zoom"
-      },
-      "description": "Le Logitech Zone Vibe 100 est le casque idéal pour les télétravailleurs qui recherchent un excellent rapport qualité-prix. Certifié pour Microsoft Teams, Google Meet et Zoom, il offre une compatibilité parfaite avec tous les outils de visioconférence professionnels.\n\nSon design léger (185g) et ses coussinets pivotants en mousse à mémoire de forme garantissent un confort optimal pour des journées entières. Le micro rabattable avec réduction de bruit assure des appels clairs, et se range élégamment quand vous écoutez de la musique.\n\nL'application Logi Tune permet de personnaliser l'égaliseur et de gérer facilement vos paramètres audio. Disponible en plusieurs coloris (gris, rose, blanc cassé), il s'adapte à votre style. Avec 20 heures d'autonomie, il tient facilement 3-4 jours de télétravail intensif.",
-      "prosAndCons": {
-        "pros": [
-          "Excellent rapport qualité-prix",
-          "Très léger et confortable (185g)",
-          "Certifié Teams/Zoom/Meet",
-          "Micro rabattable pratique",
-          "20h d'autonomie",
-          "Plusieurs coloris disponibles",
-          "Application Logi Tune complète"
-        ],
-        "cons": [
-          "Pas de réduction de bruit active",
-          "Qualité audio correcte sans plus",
-          "Pas de multipoint",
-          "Build qualité plastique",
-          "Pas d'étui de transport inclus"
-        ]
-      },
-      "targetAudience": [
-        "Télétravailleurs débutants",
-        "Budget moyen (< 100€)",
-        "Utilisation principalement visio + musique légère",
-        "Étudiants en cours en ligne",
-        "Télétravailleurs occasionnels"
-      ],
-      "ratings": {
-        "overall": 4.3,
-        "comfort": 4.5,
-        "soundQuality": 4.0,
-        "noiseCancellation": 3.5,
-        "batteryLife": 4.4,
-        "valueForMoney": 4.7,
-        "reviewCount": 1243
-      },
-      "badges": ["Certifié Teams", "Meilleur rapport Q/P", "Léger"]
-    }
-  ],
-  "visio": [
-    {
-      "id": "visio-001",
-      "name": "Logitech C920 HD Pro",
-      "category": "Webcam",
-      "subcategory": "Webcam Full HD 1080p",
-      "images": [
-        "/Img-Audio&Visio/Logitech-C920/img-p.jpg",
-        "/Img-Audio&Visio/Logitech-C920/img-2.jpg",
-        "/Img-Audio&Visio/Logitech-C920/img-3.jpg",
-        "/Img-Audio&Visio/Logitech-C920/img-4.jpg",
-        "/Img-Audio&Visio/Logitech-C920/img-5.jpg",
-        "/Img-Audio&Visio/Logitech-C920/img-6.jpg",
-        "/Img-Audio&Visio/Logitech-C920/img-7.jpg"
-      ],
-      "price": {
-        "amazon": {
-          "current": 69.99,
-          "original": 99.99,
-          "currency": "EUR",
-          "asin": "B006A2Q81M",
-          "url": "https://www.amazon.fr/dp/B006A2Q81M"
-        },
-        "cdiscount": {
-          "current": 74.99,
-          "original": 99.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-c920-hd-pro-webcam/f-10717-log0097855071057.html"
-        },
-        "fnac": {
-          "current": 79.99,
-          "original": 99.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-C920-HD-Pro-Webcam/a6948392/w-4"
-        }
-      },
-      "features": {
-        "resolution": "1920x1080 Full HD",
-        "framerate": "30 fps à 1080p",
-        "autofocus": "Oui - HD autofocus",
-        "champVision": "78° diagonal",
-        "microphones": "2 microphones stéréo intégrés",
-        "connexion": "USB-A 2.0",
-        "montage": "Clip universel + trépied",
-        "correction": "RightLight 2 (correction lumière)",
-        "compression": "H.264",
-        "certification": "Skype, Teams, Zoom, Meet",
-        "dimensions": "94 x 29 x 71 mm",
-        "poids": "162g"
-      },
-      "description": "La Logitech C920 HD Pro est la webcam de référence pour le télétravail, utilisée par des millions de professionnels dans le monde. Sa résolution Full HD 1080p à 30 fps garantit une image nette et fluide lors de toutes vos visioconférences.\n\nLa technologie RightLight 2 corrige automatiquement l'exposition même dans des conditions de faible luminosité, vous assurant une image professionnelle en toute circonstance. L'autofocus HD s'ajuste rapidement pour maintenir une netteté parfaite, que vous soyez proche ou éloigné de l'écran.\n\nLes 2 microphones stéréo intégrés captent votre voix clairement jusqu'à 1 mètre, ce qui évite d'avoir à porter un casque pour des réunions courtes. Le clip universel s'adapte à tous les écrans et supports, et le système de montage sur trépied offre une flexibilité totale. Compatible avec toutes les plateformes de visioconférence, c'est un choix sûr et fiable.",
-      "prosAndCons": {
-        "pros": [
-          "Référence du marché depuis 10 ans",
-          "Image Full HD nette et fluide",
-          "Excellent rapport qualité-prix",
-          "RightLight 2 pour faible luminosité",
-          "Plug & Play - aucun driver nécessaire",
-          "Microphones stéréo intégrés corrects",
-          "Compatible tous OS et logiciels",
-          "Clip universel + montage trépied"
-        ],
-        "cons": [
-          "Pas de 60 fps",
-          "Microphones moyens (casque recommandé)",
-          "Pas de privacy shutter",
-          "Design un peu daté",
-          "Câble USB court (1,5m)"
-        ]
-      },
-      "targetAudience": [
-        "Télétravailleurs standard",
-        "Budget moyen (60-80€)",
-        "Première webcam professionnelle",
-        "PME équipant leurs équipes",
-        "Étudiants en cours en ligne"
-      ],
-      "ratings": {
-        "overall": 4.6,
-        "imageQuality": 4.5,
-        "lowLight": 4.3,
-        "easeOfUse": 4.9,
-        "microphoneQuality": 3.8,
-        "valueForMoney": 4.8,
-        "reviewCount": 28453
-      },
-      "badges": ["Bestseller", "Choix Pro", "Fiable", "Plug & Play"]
-    },
-    {
-      "id": "visio-002",
-      "name": "Logitech Brio 4K Stream Edition",
-      "category": "Webcam",
-      "subcategory": "Webcam Ultra HD 4K",
-      "images": [
-        "/Img-Audio&Visio/Logitech-Brio4K/img-p.jpg",
-        "/Img-Audio&Visio/Logitech-Brio4K/img-2.jpg",
-        "/Img-Audio&Visio/Logitech-Brio4K/img-3.jpg",
-        "/Img-Audio&Visio/Logitech-Brio4K/img-4.jpg",
-        "/Img-Audio&Visio/Logitech-Brio4K/img-5.jpg"
-      ],
-      "price": {
-        "amazon": {
-          "current": 189.99,
-          "original": 229.99,
-          "currency": "EUR",
-          "asin": "B01N5UOYC4",
-          "url": "https://www.amazon.fr/dp/B01N5UOYC4"
-        },
-        "cdiscount": {
-          "current": 199.99,
-          "original": 229.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-brio-4k-stream-edition/f-10717-log5099206073357.html"
-        },
-        "fnac": {
-          "current": 209.99,
-          "original": 229.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-Brio-4K-Stream-Edition/a11357924/w-4"
-        }
-      },
-      "features": {
-        "resolution": "4096x2160 Ultra HD 4K",
-        "framerate": "30 fps (4K), 60 fps (1080p), 90 fps (720p)",
-        "autofocus": "Oui - autofocus 5x",
-        "champVision": "90°, 78°, 65° (ajustable)",
-        "microphones": "2 microphones omnidirectionnels avec réduction bruit",
-        "connexion": "USB-C 3.0",
-        "montage": "Clip universel + trépied + privacy shutter",
-        "correction": "RightLight 3 + HDR",
-        "hdr": "Oui - HDR natif",
-        "certification": "Windows Hello, Teams, Zoom",
-        "dimensions": "102 x 27 x 27 mm",
-        "poids": "63g"
-      },
-      "description": "La Logitech Brio 4K Stream Edition est la webcam haut de gamme par excellence pour les professionnels exigeants. Sa résolution 4K Ultra HD offre une qualité d'image exceptionnelle, avec des détails saisissants et des couleurs fidèles grâce au HDR natif.\n\nLe capteur Sony 4K et la technologie RightLight 3 avec HDR garantissent une image parfaite même en contre-jour ou faible luminosité. Vous pouvez choisir entre 3 champs de vision (90°, 78°, 65°) selon vos besoins : large pour montrer votre espace, standard pour visio, ou serré pour un cadrage portrait.\n\nLa compatibilité Windows Hello permet de déverrouiller votre PC par reconnaissance faciale. Le privacy shutter intégré protège votre vie privée d'un simple glissement. Avec 60 fps en 1080p, vos mouvements sont ultra-fluides. Les 2 microphones omnidirectionnels offrent une qualité audio supérieure. C'est l'investissement ultime pour une image professionnelle irréprochable.",
-      "prosAndCons": {
-        "pros": [
-          "Qualité 4K Ultra HD exceptionnelle",
-          "HDR natif pour gestion lumière parfaite",
-          "60 fps en 1080p (très fluide)",
-          "3 champs de vision ajustables",
-          "Windows Hello (reconnaissance faciale)",
-          "Privacy shutter intégré",
-          "Autofocus 5x rapide et précis",
-          "Microphones de qualité supérieure"
-        ],
-        "cons": [
-          "Prix élevé",
-          "4K surdimensionné pour visio (bande passante)",
-          "Nécessite USB 3.0",
-          "Overkill pour usage basique",
-          "Câble USB court"
-        ]
-      },
-      "targetAudience": [
-        "Cadres et dirigeants",
-        "Créateurs de contenu (YouTube, formations)",
-        "Professionnels de l'image",
-        "Conférenciers et formateurs",
-        "Streamers professionnels"
-      ],
-      "ratings": {
-        "overall": 4.7,
-        "imageQuality": 4.9,
-        "lowLight": 4.9,
-        "easeOfUse": 4.6,
-        "microphoneQuality": 4.4,
-        "valueForMoney": 4.2,
-        "reviewCount": 4367
-      },
-      "badges": ["Premium 4K", "HDR Natif", "Windows Hello", "Choix Pro+"]
-    },
-    {
-      "id": "visio-003",
-      "name": "Razer Kiyo Pro",
-      "category": "Webcam",
-      "subcategory": "Webcam streaming Full HD",
-      "images": [
-        "/Img-Audio&Visio/Razer-KiyoPro/img-p.jpg",
-        "/Img-Audio&Visio/Razer-KiyoPro/img-2.jpg",
-        "/Img-Audio&Visio/Razer-KiyoPro/img-3.jpg",
-        "/Img-Audio&Visio/Razer-KiyoPro/img-4.jpg",
-        "/Img-Audio&Visio/Razer-KiyoPro/img-5.jpg",
-        "/Img-Audio&Visio/Razer-KiyoPro/img-6.jpg",
-        "/Img-Audio&Visio/Razer-KiyoPro/img-7.jpg",
-        "/Img-Audio&Visio/Razer-KiyoPro/img-8.jpg"
-      ],
-      "price": {
-        "amazon": {
-          "current": 159.99,
-          "original": 199.99,
-          "currency": "EUR",
-          "asin": "B08T1LWHDR",
-          "url": "https://www.amazon.fr/dp/B08T1LWHDR"
-        },
-        "cdiscount": {
-          "current": 169.99,
-          "original": 199.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/razer-kiyo-pro/f-10717-raz8886419360629.html"
-        },
-        "fnac": {
-          "current": 179.99,
-          "original": 199.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Razer-Kiyo-Pro-Webcam/a15250837/w-4"
-        }
-      },
-      "features": {
-        "resolution": "1920x1080 Full HD",
-        "framerate": "60 fps (1080p), 30 fps (1080p HDR)",
-        "autofocus": "Oui - autofocus rapide",
-        "champVision": "103° (ultra-large)",
-        "microphones": "2 microphones omnidirectionnels",
-        "connexion": "USB-A 3.0",
-        "montage": "Clip ajustable + trépied",
-        "correction": "HDR adaptatif",
-        "capteur": "Sony STARVIS CMOS 1/2.8\"",
-        "certification": "OBS, Streamlabs, XSplit",
-        "dimensions": "58 x 58 x 51 mm",
-        "poids": "114g"
-      },
-      "description": "La Razer Kiyo Pro est une webcam premium orientée streaming et télétravail exigeant. Son capteur Sony STARVIS CMOS de type 1/2.8\" est le même que celui utilisé dans les caméras de surveillance nocturne, offrant des performances exceptionnelles en faible luminosité.\n\nLe HDR adaptatif ajuste en temps réel l'exposition pour équilibrer les zones claires et sombres, garantissant une image parfaite même avec une fenêtre en arrière-plan. Le champ de vision ultra-large de 103° permet de montrer votre espace de travail complet ou de capturer plusieurs personnes.\n\nAvec 60 fps en Full HD, vos mouvements sont d'une fluidité remarquable, idéal pour les présentations dynamiques ou le streaming. L'application Razer Synapse permet de régler finement la luminosité, le contraste, la saturation et la balance des blancs. Le design premium avec privacy shutter intégré combine esthétique et fonctionnalité.",
-      "prosAndCons": {
-        "pros": [
-          "Capteur Sony STARVIS (excellent low-light)",
-          "60 fps très fluide en 1080p",
-          "HDR adaptatif performant",
-          "Champ de vision 103° ultra-large",
-          "Privacy shutter intégré",
-          "Design premium Razer",
-          "Application Synapse complète",
-          "Optimisé streaming (OBS, etc.)"
-        ],
-        "cons": [
-          "Prix élevé pour du 1080p",
-          "Pas de 4K",
-          "Nécessite USB 3.0",
-          "Microphones moyens",
-          "Razer Synapse peut être lourd"
-        ]
-      },
-      "targetAudience": [
-        "Streamers Twitch/YouTube",
-        "Gamers faisant du streaming",
-        "Professionnels présentations dynamiques",
-        "Formateurs en ligne",
-        "Créateurs de contenu"
-      ],
-      "ratings": {
-        "overall": 4.5,
-        "imageQuality": 4.7,
-        "lowLight": 4.9,
-        "easeOfUse": 4.3,
-        "microphoneQuality": 3.9,
-        "valueForMoney": 4.2,
-        "reviewCount": 3156
-      },
-      "badges": ["Low-Light Champion", "60fps", "HDR", "Gaming"]
-    },
-    {
-      "id": "visio-004",
-      "name": "Microsoft LifeCam HD-3000",
-      "category": "Webcam",
-      "subcategory": "Webcam HD 720p entrée de gamme",
-      "images": [
-        "/Img-Audio&Visio/Microsoft-LifeCam/img-p.jpg",
-        "/Img-Audio&Visio/Microsoft-LifeCam/img-2.jpg",
-        "/Img-Audio&Visio/Microsoft-LifeCam/img-3.jpg",
-        "/Img-Audio&Visio/Microsoft-LifeCam/img-4.jpg",
-        "/Img-Audio&Visio/Microsoft-LifeCam/img-5.jpg"
-      ],
-      "price": {
-        "amazon": {
-          "current": 29.99,
-          "original": 39.99,
-          "currency": "EUR",
-          "asin": "B008ZVRAQS",
-          "url": "https://www.amazon.fr/dp/B008ZVRAQS"
-        },
-        "cdiscount": {
-          "current": 32.99,
-          "original": 39.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/microsoft-lifecam-hd-3000/f-10717-mic0885370403060.html"
-        },
-        "fnac": {
-          "current": 34.99,
-          "original": 39.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Microsoft-LifeCam-HD-3000-Webcam/a6139745/w-4"
-        }
-      },
-      "features": {
-        "resolution": "1280x720 HD",
-        "framerate": "30 fps à 720p",
-        "autofocus": "Non - focus fixe",
-        "champVision": "68.5° diagonal",
-        "microphones": "1 microphone intégré",
-        "connexion": "USB-A 2.0",
-        "montage": "Clip universel flexible",
-        "correction": "TrueColor (correction couleur basique)",
-        "certification": "Microsoft Teams, Skype",
-        "dimensions": "71 x 56 x 62 mm",
-        "poids": "97g"
-      },
-      "description": "La Microsoft LifeCam HD-3000 est la solution d'entrée de gamme idéale pour les télétravailleurs au budget serré ou pour une utilisation occasionnelle. Sa résolution HD 720p à 30 fps offre une qualité d'image suffisante pour les visioconférences standard.\n\nLa technologie TrueColor de Microsoft ajuste automatiquement les couleurs et l'exposition pour une image correcte dans la plupart des conditions d'éclairage. Le clip universel flexible s'adapte facilement à tout type d'écran d'ordinateur portable ou de moniteur.\n\nAvec son installation Plug & Play, vous êtes opérationnel en quelques secondes sans aucun pilote à installer. Le microphone intégré capture votre voix pour les appels courts, bien qu'un casque soit recommandé pour des réunions prolongées. Parfait comme première webcam ou comme solution de secours.",
-      "prosAndCons": {
-        "pros": [
-          "Prix très abordable (< 35€)",
-          "Plug & Play immédiat",
-          "Clip flexible et stable",
-          "Légère (97g)",
-          "Fiabilité Microsoft",
-          "Parfait pour usage occasionnel",
-          "Compatible tous Windows"
-        ],
-        "cons": [
-          "Qualité 720p limitée",
-          "Pas d'autofocus",
-          "Microphone basique",
-          "Mauvais en faible luminosité",
-          "Pas de réglages avancés",
-          "Image peu flatteuse",
-          "Design très basique"
-        ]
-      },
-      "targetAudience": [
-        "Budget très limité (< 35€)",
-        "Utilisation occasionnelle",
-        "Webcam de secours",
-        "Étudiants",
-        "Télétravailleurs débutants"
-      ],
-      "ratings": {
-        "overall": 3.9,
-        "imageQuality": 3.5,
-        "lowLight": 2.8,
-        "easeOfUse": 4.7,
-        "microphoneQuality": 3.2,
-        "valueForMoney": 4.5,
-        "reviewCount": 12547
-      },
-      "badges": ["Entrée de gamme", "Petit budget", "Plug & Play"]
-    }
-  ]
+	"audio": [
+		{
+			"id": "audio-001",
+			"name": "Sony WH-1000XM5",
+			"category": "Casque Audio",
+			"subcategory": "Casque à réduction de bruit active",
+			"images": [
+				"/Img-audio-visio/Sony-WH-1000XM5/img-p.jpg",
+				"/Img-audio-visio/Sony-WH-1000XM5/img-2.jpg",
+				"/Img-audio-visio/Sony-WH-1000XM5/img-3.jpg",
+				"/Img-audio-visio/Sony-WH-1000XM5/img-4.jpg",
+				"/Img-audio-visio/Sony-WH-1000XM5/img-5.jpg",
+				"/Img-audio-visio/Sony-WH-1000XM5/img-6.jpg",
+				"/Img-audio-visio/Sony-WH-1000XM5/img-7.jpg",
+				"/Img-audio-visio/Sony-WH-1000XM5/img-8.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 349.99,
+					"original": 419.99,
+					"currency": "EUR",
+					"asin": "B0BWXB4982",
+					"url": "https://www.amazon.fr/dp/B0BWXB4982"
+				},
+				"cdiscount": {
+					"current": 359.99,
+					"original": 419.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/high-tech/casques-baladeur-hifi/sony-wh-1000xm5/f-1062616-son4548736134980.html"
+				},
+				"fnac": {
+					"current": 369.99,
+					"original": 419.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Sony-WH-1000XM5-Casque-Bluetooth-Noir/a17243580/w-4"
+				}
+			},
+			"features": {
+				"typeConnexion": "Bluetooth 5.2, Jack 3.5mm",
+				"reductionBruit": "Active (ANC) 8 microphones",
+				"autonomie": "30 heures (ANC activé), 40 heures (ANC désactivé)",
+				"chargeRapide": "Oui - 3 min = 3h d'écoute",
+				"microphones": "8 microphones + IA pour appels",
+				"poids": "250g",
+				"multipoint": "Oui - 2 appareils simultanés",
+				"codec": "LDAC, AAC, SBC",
+				"application": "Sony Headphones Connect",
+				"pliable": "Non",
+				"certification": "Hi-Res Audio"
+			},
+			"description": "Le Sony WH-1000XM5 représente l'excellence en matière de réduction de bruit active pour le télétravail. Grâce à ses 8 microphones et son processeur V1 intégré, il offre une suppression du bruit inégalée qui élimine jusqu'à 99% des bruits ambiants. Parfait pour rester concentré lors de vos appels visio ou votre travail en open-space.\n\nLa qualité audio est exceptionnelle avec le support LDAC pour un son haute résolution. Les coussinets ultra-confortables en mousse à mémoire de forme permettent des sessions de 8 heures sans aucune gêne. L'autonomie de 30 heures garantit une semaine complète de télétravail sans recharge.\n\nLe système de microphones avec IA ajuste automatiquement votre voix lors des appels, même dans des environnements bruyants. La connexion multipoint vous permet de basculer instantanément entre votre PC et votre smartphone. L'application Sony Headphones Connect offre une personnalisation complète de l'égaliseur et des modes d'écoute.",
+			"prosAndCons": {
+				"pros": [
+					"Meilleure réduction de bruit du marché",
+					"Confort exceptionnel pour longues sessions",
+					"Qualité audio Hi-Res (LDAC)",
+					"30h d'autonomie",
+					"Excellente qualité des appels",
+					"Multipoint pour 2 appareils",
+					"Détection automatique port/retrait"
+				],
+				"cons": [
+					"Prix élevé",
+					"Non pliable (encombrant en déplacement)",
+					"Isolation peut être trop forte (sécurité)",
+					"Pas de bouton d'alimentation physique"
+				]
+			},
+			"targetAudience": [
+				"Professionnels en open-space bruyant",
+				"Télétravailleurs avec beaucoup de visioconférences",
+				"Personnes sensibles au bruit ambiant",
+				"Audiophiles recherchant qualité + ANC",
+				"Nomades digitaux (café, coworking)"
+			],
+			"ratings": {
+				"overall": 4.7,
+				"comfort": 5.0,
+				"soundQuality": 4.9,
+				"noiseCancellation": 5.0,
+				"batteryLife": 4.8,
+				"valueForMoney": 4.3,
+				"reviewCount": 3847
+			},
+			"badges": [
+				"Meilleur ANC 2024",
+				"Choix Pro",
+				"Hi-Res Audio",
+				"Éco-conception"
+			]
+		},
+		{
+			"id": "audio-002",
+			"name": "Jabra Evolve2 65",
+			"category": "Casque Audio",
+			"subcategory": "Casque professionnel USB-C/Bluetooth",
+			"images": [
+				"/Img-audio-visio/Jabra-Evolve2/img-p.jpg",
+				"/Img-audio-visio/Jabra-Evolve2/img-2.jpg",
+				"/Img-audio-visio/Jabra-Evolve2/img-3.jpg",
+				"/Img-audio-visio/Jabra-Evolve2/img-6.jpg",
+				"/Img-audio-visio/Jabra-Evolve2/img-5.jpg",
+				"/Img-audio-visio/Jabra-Evolve2/img-4.jpg",
+				"/Img-audio-visio/Jabra-Evolve2/img-7.jpg",
+				"/Img-audio-visio/Jabra-Evolve2/img-8.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 189.99,
+					"original": 249.99,
+					"currency": "EUR",
+					"asin": "B08C7VWKW4",
+					"url": "https://www.amazon.fr/dp/B08C7VWKW4"
+				},
+				"cdiscount": {
+					"current": 199.99,
+					"original": 249.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/high-tech/casques-baladeur-hifi/jabra-evolve2-65/f-1062616-jab5706991024326.html"
+				},
+				"fnac": {
+					"current": 209.99,
+					"original": 249.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Jabra-Evolve2-65-Casque/a14867392/w-4"
+				}
+			},
+			"features": {
+				"typeConnexion": "Bluetooth 5.0 + USB-C dongle",
+				"reductionBruit": "Passive + 3 microphones anti-bruit",
+				"autonomie": "37 heures",
+				"chargeRapide": "Non",
+				"microphones": "3 microphones MEMS",
+				"poids": "176g",
+				"multipoint": "Non",
+				"codec": "SBC",
+				"application": "Jabra Sound+, Jabra Direct",
+				"pliable": "Oui",
+				"certification": "Microsoft Teams, Zoom, Google Meet"
+			},
+			"description": "Le Jabra Evolve2 65 est le casque professionnel par excellence, conçu spécifiquement pour le télétravail et les visioconférences. Certifié par Microsoft Teams, Zoom et Google Meet, il garantit une compatibilité parfaite avec tous vos outils de travail collaboratif.\n\nSon dongle USB-C assure une connexion stable sans latence, idéale pour les appels professionnels. Les 3 microphones MEMS avec technologie anti-bruit garantissent que votre voix reste claire même dans un environnement perturbé. Le busylight LED intégré signale à votre entourage que vous êtes en communication.\n\nAvec 37 heures d'autonomie, vous pouvez travailler toute la semaine sans recharge. Les coussinets en mousse à mémoire de forme et le serre-tête rembourré assurent un confort optimal même lors de journées de 8 heures d'utilisation. Le design pliable facilite le transport pour les travailleurs hybrides.",
+			"prosAndCons": {
+				"pros": [
+					"Certifié Microsoft Teams/Zoom/Meet",
+					"37h d'autonomie exceptionnelle",
+					"Busylight LED pour signaler occupation",
+					"Très confortable pour longues journées",
+					"Connexion USB-C ultra-stable",
+					"Microphones excellents pour appels",
+					"Pliable et léger (176g)"
+				],
+				"cons": [
+					"Qualité musicale moyenne (orienté voix)",
+					"Pas de réduction de bruit active",
+					"Pas de multipoint Bluetooth",
+					"Design très sobre/professionnel"
+				]
+			},
+			"targetAudience": [
+				"Professionnels en visioconférence intensive",
+				"Équipes utilisant Microsoft Teams",
+				"Télétravailleurs hybrides (bureau/maison)",
+				"Commerciaux en appels constants",
+				"Managers et consultants"
+			],
+			"ratings": {
+				"overall": 4.6,
+				"comfort": 4.7,
+				"soundQuality": 4.3,
+				"noiseCancellation": 4.0,
+				"batteryLife": 5.0,
+				"valueForMoney": 4.5,
+				"reviewCount": 2156
+			},
+			"badges": [
+				"Certifié Teams",
+				"Choix Business",
+				"Batterie longue durée",
+				"Éco-responsable"
+			]
+		},
+		{
+			"id": "audio-003",
+			"name": "Bose QuietComfort 45",
+			"category": "Casque Audio",
+			"subcategory": "Casque à réduction de bruit",
+			"images": [
+				"/Img-audio-visio/Bose-QuietComfort-45/img-p.jpg",
+				"/Img-audio-visio/Bose-QuietComfort-45/img-2.jpg",
+				"/Img-audio-visio/Bose-QuietComfort-45/img-3.jpg",
+				"/Img-audio-visio/Bose-QuietComfort-45/img-4.jpg",
+				"/Img-audio-visio/Bose-QuietComfort-45/img-5.jpg",
+				"/Img-audio-visio/Bose-QuietComfort-45/img-6.jpg",
+				"/Img-audio-visio/Bose-QuietComfort-45/img-7.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 279.99,
+					"original": 349.95,
+					"currency": "EUR",
+					"asin": "B098FKXT8L",
+					"url": "https://www.amazon.fr/dp/B098FKXT8L"
+				},
+				"cdiscount": {
+					"current": 289.99,
+					"original": 349.95,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/high-tech/casques-baladeur-hifi/bose-quietcomfort-45/f-1062616-bos0017817831642.html"
+				},
+				"fnac": {
+					"current": 299.95,
+					"original": 349.95,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Bose-QuietComfort-45-Casque-Bluetooth/a15709825/w-4"
+				}
+			},
+			"features": {
+				"typeConnexion": "Bluetooth 5.1, Jack 3.5mm",
+				"reductionBruit": "Active (ANC) Bose propriétaire",
+				"autonomie": "24 heures (Bluetooth + ANC)",
+				"chargeRapide": "Oui - 15 min = 3h d'écoute",
+				"microphones": "4 microphones pour appels",
+				"poids": "240g",
+				"multipoint": "Oui - 2 appareils",
+				"codec": "AAC, SBC",
+				"application": "Bose Music",
+				"pliable": "Oui",
+				"certification": "Non spécifique"
+			},
+			"description": "Le Bose QuietComfort 45 perpétue la légende de la gamme QC avec une réduction de bruit active parmi les meilleures du marché. La technologie Bose propriétaire offre un silence impressionnant, idéal pour se concentrer en télétravail ou en open-space.\n\nLe confort légendaire Bose est au rendez-vous avec des coussinets ultra-doux en protéine synthétique et un serre-tête parfaitement équilibré. Vous pouvez porter ce casque 8 heures d'affilée sans la moindre gêne. L'autonomie de 24 heures couvre largement une semaine de travail.\n\nLe mode Aware permet de rester connecté à votre environnement quand nécessaire, parfait pour entendre la sonnette ou un collègue. Les 4 microphones assurent des appels clairs et le système de réjection de bruit de vent fonctionne remarquablement bien. Le design pliable et l'étui rigide facilitent le transport.",
+			"prosAndCons": {
+				"pros": [
+					"Réduction de bruit Bose légendaire",
+					"Confort exceptionnel Bose",
+					"Pliable avec étui rigide premium",
+					"24h d'autonomie",
+					"Mode Aware pratique",
+					"Qualité de fabrication excellente",
+					"Multipoint fonctionnel"
+				],
+				"cons": [
+					"Pas de codec Hi-Res (LDAC)",
+					"Qualité audio bonne mais pas excellente",
+					"Prix élevé",
+					"Design un peu daté",
+					"Pas de détection port/retrait automatique"
+				]
+			},
+			"targetAudience": [
+				"Télétravailleurs cherchant le silence absolu",
+				"Fidèles de la marque Bose",
+				"Travailleurs hybrides fréquemment en déplacement",
+				"Personnes sensibles au confort",
+				"Professionnels en environnement bruyant"
+			],
+			"ratings": {
+				"overall": 4.5,
+				"comfort": 4.9,
+				"soundQuality": 4.4,
+				"noiseCancellation": 4.8,
+				"batteryLife": 4.6,
+				"valueForMoney": 4.2,
+				"reviewCount": 5234
+			},
+			"badges": ["Légende ANC", "Confort Bose", "Transportable"]
+		},
+		{
+			"id": "audio-004",
+			"name": "Logitech Zone Vibe 100",
+			"category": "Casque Audio",
+			"subcategory": "Casque sans fil pour télétravail",
+			"images": [
+				"/Img-audio-visio/Logitech-ZoneVibe-100/img-p.jpg",
+				"/Img-audio-visio/Logitech-ZoneVibe-100/img-2.jpg",
+				"/Img-audio-visio/Logitech-ZoneVibe-100/img-9.jpg",
+				"/Img-audio-visio/Logitech-ZoneVibe-100/img-3.jpg",
+				"/Img-audio-visio/Logitech-ZoneVibe-100/img-4.jpg",
+				"/Img-audio-visio/Logitech-ZoneVibe-100/img-5.jpg",
+				"/Img-audio-visio/Logitech-ZoneVibe-100/img-6.jpg",
+				"/Img-audio-visio/Logitech-ZoneVibe-100/img-7.jpg",
+				"/Img-audio-visio/Logitech-ZoneVibe-100/img-8.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 99.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"asin": "B0B3F8YLSM",
+					"url": "https://www.amazon.fr/dp/B0B3F8YLSM"
+				},
+				"cdiscount": {
+					"current": 109.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-zone-vibe-100/f-10717-log5099206102101.html"
+				},
+				"fnac": {
+					"current": 119.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Logitech-Zone-Vibe-100-Casque/a17458901/w-4"
+				}
+			},
+			"features": {
+				"typeConnexion": "Bluetooth 5.2",
+				"reductionBruit": "Passive + micro anti-bruit",
+				"autonomie": "20 heures",
+				"chargeRapide": "Oui - USB-C",
+				"microphones": "Micro anti-bruit rabattable",
+				"poids": "185g",
+				"multipoint": "Non",
+				"codec": "SBC, AAC",
+				"application": "Logi Tune",
+				"pliable": "Oui (coussinets pivotants)",
+				"certification": "Microsoft Teams, Google Meet, Zoom"
+			},
+			"description": "Le Logitech Zone Vibe 100 est le casque idéal pour les télétravailleurs qui recherchent un excellent rapport qualité-prix. Certifié pour Microsoft Teams, Google Meet et Zoom, il offre une compatibilité parfaite avec tous les outils de visioconférence professionnels.\n\nSon design léger (185g) et ses coussinets pivotants en mousse à mémoire de forme garantissent un confort optimal pour des journées entières. Le micro rabattable avec réduction de bruit assure des appels clairs, et se range élégamment quand vous écoutez de la musique.\n\nL'application Logi Tune permet de personnaliser l'égaliseur et de gérer facilement vos paramètres audio. Disponible en plusieurs coloris (gris, rose, blanc cassé), il s'adapte à votre style. Avec 20 heures d'autonomie, il tient facilement 3-4 jours de télétravail intensif.",
+			"prosAndCons": {
+				"pros": [
+					"Excellent rapport qualité-prix",
+					"Très léger et confortable (185g)",
+					"Certifié Teams/Zoom/Meet",
+					"Micro rabattable pratique",
+					"20h d'autonomie",
+					"Plusieurs coloris disponibles",
+					"Application Logi Tune complète"
+				],
+				"cons": [
+					"Pas de réduction de bruit active",
+					"Qualité audio correcte sans plus",
+					"Pas de multipoint",
+					"Build qualité plastique",
+					"Pas d'étui de transport inclus"
+				]
+			},
+			"targetAudience": [
+				"Télétravailleurs débutants",
+				"Budget moyen (< 100€)",
+				"Utilisation principalement visio + musique légère",
+				"Étudiants en cours en ligne",
+				"Télétravailleurs occasionnels"
+			],
+			"ratings": {
+				"overall": 4.3,
+				"comfort": 4.5,
+				"soundQuality": 4.0,
+				"noiseCancellation": 3.5,
+				"batteryLife": 4.4,
+				"valueForMoney": 4.7,
+				"reviewCount": 1243
+			},
+			"badges": ["Certifié Teams", "Meilleur rapport Q/P", "Léger"]
+		}
+	],
+	"visio": [
+		{
+			"id": "visio-001",
+			"name": "Logitech C920 HD Pro",
+			"category": "Webcam",
+			"subcategory": "Webcam Full HD 1080p",
+			"images": [
+				"/Img-audio-visio/Logitech-C920/img-p.jpg",
+				"/Img-audio-visio/Logitech-C920/img-2.jpg",
+				"/Img-audio-visio/Logitech-C920/img-3.jpg",
+				"/Img-audio-visio/Logitech-C920/img-4.jpg",
+				"/Img-audio-visio/Logitech-C920/img-5.jpg",
+				"/Img-audio-visio/Logitech-C920/img-6.jpg",
+				"/Img-audio-visio/Logitech-C920/img-7.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 69.99,
+					"original": 99.99,
+					"currency": "EUR",
+					"asin": "B006A2Q81M",
+					"url": "https://www.amazon.fr/dp/B006A2Q81M"
+				},
+				"cdiscount": {
+					"current": 74.99,
+					"original": 99.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-c920-hd-pro-webcam/f-10717-log0097855071057.html"
+				},
+				"fnac": {
+					"current": 79.99,
+					"original": 99.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Logitech-C920-HD-Pro-Webcam/a6948392/w-4"
+				}
+			},
+			"features": {
+				"resolution": "1920x1080 Full HD",
+				"framerate": "30 fps à 1080p",
+				"autofocus": "Oui - HD autofocus",
+				"champVision": "78° diagonal",
+				"microphones": "2 microphones stéréo intégrés",
+				"connexion": "USB-A 2.0",
+				"montage": "Clip universel + trépied",
+				"correction": "RightLight 2 (correction lumière)",
+				"compression": "H.264",
+				"certification": "Skype, Teams, Zoom, Meet",
+				"dimensions": "94 x 29 x 71 mm",
+				"poids": "162g"
+			},
+			"description": "La Logitech C920 HD Pro est la webcam de référence pour le télétravail, utilisée par des millions de professionnels dans le monde. Sa résolution Full HD 1080p à 30 fps garantit une image nette et fluide lors de toutes vos visioconférences.\n\nLa technologie RightLight 2 corrige automatiquement l'exposition même dans des conditions de faible luminosité, vous assurant une image professionnelle en toute circonstance. L'autofocus HD s'ajuste rapidement pour maintenir une netteté parfaite, que vous soyez proche ou éloigné de l'écran.\n\nLes 2 microphones stéréo intégrés captent votre voix clairement jusqu'à 1 mètre, ce qui évite d'avoir à porter un casque pour des réunions courtes. Le clip universel s'adapte à tous les écrans et supports, et le système de montage sur trépied offre une flexibilité totale. Compatible avec toutes les plateformes de visioconférence, c'est un choix sûr et fiable.",
+			"prosAndCons": {
+				"pros": [
+					"Référence du marché depuis 10 ans",
+					"Image Full HD nette et fluide",
+					"Excellent rapport qualité-prix",
+					"RightLight 2 pour faible luminosité",
+					"Plug & Play - aucun driver nécessaire",
+					"Microphones stéréo intégrés corrects",
+					"Compatible tous OS et logiciels",
+					"Clip universel + montage trépied"
+				],
+				"cons": [
+					"Pas de 60 fps",
+					"Microphones moyens (casque recommandé)",
+					"Pas de privacy shutter",
+					"Design un peu daté",
+					"Câble USB court (1,5m)"
+				]
+			},
+			"targetAudience": [
+				"Télétravailleurs standard",
+				"Budget moyen (60-80€)",
+				"Première webcam professionnelle",
+				"PME équipant leurs équipes",
+				"Étudiants en cours en ligne"
+			],
+			"ratings": {
+				"overall": 4.6,
+				"imageQuality": 4.5,
+				"lowLight": 4.3,
+				"easeOfUse": 4.9,
+				"microphoneQuality": 3.8,
+				"valueForMoney": 4.8,
+				"reviewCount": 28453
+			},
+			"badges": ["Bestseller", "Choix Pro", "Fiable", "Plug & Play"]
+		},
+		{
+			"id": "visio-002",
+			"name": "Logitech Brio 4K Stream Edition",
+			"category": "Webcam",
+			"subcategory": "Webcam Ultra HD 4K",
+			"images": [
+				"/Img-audio-visio/Logitech-Brio4K/img-p.jpg",
+				"/Img-audio-visio/Logitech-Brio4K/img-2.jpg",
+				"/Img-audio-visio/Logitech-Brio4K/img-3.jpg",
+				"/Img-audio-visio/Logitech-Brio4K/img-4.jpg",
+				"/Img-audio-visio/Logitech-Brio4K/img-5.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 189.99,
+					"original": 229.99,
+					"currency": "EUR",
+					"asin": "B01N5UOYC4",
+					"url": "https://www.amazon.fr/dp/B01N5UOYC4"
+				},
+				"cdiscount": {
+					"current": 199.99,
+					"original": 229.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-brio-4k-stream-edition/f-10717-log5099206073357.html"
+				},
+				"fnac": {
+					"current": 209.99,
+					"original": 229.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Logitech-Brio-4K-Stream-Edition/a11357924/w-4"
+				}
+			},
+			"features": {
+				"resolution": "4096x2160 Ultra HD 4K",
+				"framerate": "30 fps (4K), 60 fps (1080p), 90 fps (720p)",
+				"autofocus": "Oui - autofocus 5x",
+				"champVision": "90°, 78°, 65° (ajustable)",
+				"microphones": "2 microphones omnidirectionnels avec réduction bruit",
+				"connexion": "USB-C 3.0",
+				"montage": "Clip universel + trépied + privacy shutter",
+				"correction": "RightLight 3 + HDR",
+				"hdr": "Oui - HDR natif",
+				"certification": "Windows Hello, Teams, Zoom",
+				"dimensions": "102 x 27 x 27 mm",
+				"poids": "63g"
+			},
+			"description": "La Logitech Brio 4K Stream Edition est la webcam haut de gamme par excellence pour les professionnels exigeants. Sa résolution 4K Ultra HD offre une qualité d'image exceptionnelle, avec des détails saisissants et des couleurs fidèles grâce au HDR natif.\n\nLe capteur Sony 4K et la technologie RightLight 3 avec HDR garantissent une image parfaite même en contre-jour ou faible luminosité. Vous pouvez choisir entre 3 champs de vision (90°, 78°, 65°) selon vos besoins : large pour montrer votre espace, standard pour visio, ou serré pour un cadrage portrait.\n\nLa compatibilité Windows Hello permet de déverrouiller votre PC par reconnaissance faciale. Le privacy shutter intégré protège votre vie privée d'un simple glissement. Avec 60 fps en 1080p, vos mouvements sont ultra-fluides. Les 2 microphones omnidirectionnels offrent une qualité audio supérieure. C'est l'investissement ultime pour une image professionnelle irréprochable.",
+			"prosAndCons": {
+				"pros": [
+					"Qualité 4K Ultra HD exceptionnelle",
+					"HDR natif pour gestion lumière parfaite",
+					"60 fps en 1080p (très fluide)",
+					"3 champs de vision ajustables",
+					"Windows Hello (reconnaissance faciale)",
+					"Privacy shutter intégré",
+					"Autofocus 5x rapide et précis",
+					"Microphones de qualité supérieure"
+				],
+				"cons": [
+					"Prix élevé",
+					"4K surdimensionné pour visio (bande passante)",
+					"Nécessite USB 3.0",
+					"Overkill pour usage basique",
+					"Câble USB court"
+				]
+			},
+			"targetAudience": [
+				"Cadres et dirigeants",
+				"Créateurs de contenu (YouTube, formations)",
+				"Professionnels de l'image",
+				"Conférenciers et formateurs",
+				"Streamers professionnels"
+			],
+			"ratings": {
+				"overall": 4.7,
+				"imageQuality": 4.9,
+				"lowLight": 4.9,
+				"easeOfUse": 4.6,
+				"microphoneQuality": 4.4,
+				"valueForMoney": 4.2,
+				"reviewCount": 4367
+			},
+			"badges": ["Premium 4K", "HDR Natif", "Windows Hello", "Choix Pro+"]
+		},
+		{
+			"id": "visio-003",
+			"name": "Razer Kiyo Pro",
+			"category": "Webcam",
+			"subcategory": "Webcam streaming Full HD",
+			"images": [
+				"/Img-audio-visio/Razer-KiyoPro/img-p.jpg",
+				"/Img-audio-visio/Razer-KiyoPro/img-2.jpg",
+				"/Img-audio-visio/Razer-KiyoPro/img-3.jpg",
+				"/Img-audio-visio/Razer-KiyoPro/img-4.jpg",
+				"/Img-audio-visio/Razer-KiyoPro/img-5.jpg",
+				"/Img-audio-visio/Razer-KiyoPro/img-6.jpg",
+				"/Img-audio-visio/Razer-KiyoPro/img-7.jpg",
+				"/Img-audio-visio/Razer-KiyoPro/img-8.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 159.99,
+					"original": 199.99,
+					"currency": "EUR",
+					"asin": "B08T1LWHDR",
+					"url": "https://www.amazon.fr/dp/B08T1LWHDR"
+				},
+				"cdiscount": {
+					"current": 169.99,
+					"original": 199.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/razer-kiyo-pro/f-10717-raz8886419360629.html"
+				},
+				"fnac": {
+					"current": 179.99,
+					"original": 199.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Razer-Kiyo-Pro-Webcam/a15250837/w-4"
+				}
+			},
+			"features": {
+				"resolution": "1920x1080 Full HD",
+				"framerate": "60 fps (1080p), 30 fps (1080p HDR)",
+				"autofocus": "Oui - autofocus rapide",
+				"champVision": "103° (ultra-large)",
+				"microphones": "2 microphones omnidirectionnels",
+				"connexion": "USB-A 3.0",
+				"montage": "Clip ajustable + trépied",
+				"correction": "HDR adaptatif",
+				"capteur": "Sony STARVIS CMOS 1/2.8\"",
+				"certification": "OBS, Streamlabs, XSplit",
+				"dimensions": "58 x 58 x 51 mm",
+				"poids": "114g"
+			},
+			"description": "La Razer Kiyo Pro est une webcam premium orientée streaming et télétravail exigeant. Son capteur Sony STARVIS CMOS de type 1/2.8\" est le même que celui utilisé dans les caméras de surveillance nocturne, offrant des performances exceptionnelles en faible luminosité.\n\nLe HDR adaptatif ajuste en temps réel l'exposition pour équilibrer les zones claires et sombres, garantissant une image parfaite même avec une fenêtre en arrière-plan. Le champ de vision ultra-large de 103° permet de montrer votre espace de travail complet ou de capturer plusieurs personnes.\n\nAvec 60 fps en Full HD, vos mouvements sont d'une fluidité remarquable, idéal pour les présentations dynamiques ou le streaming. L'application Razer Synapse permet de régler finement la luminosité, le contraste, la saturation et la balance des blancs. Le design premium avec privacy shutter intégré combine esthétique et fonctionnalité.",
+			"prosAndCons": {
+				"pros": [
+					"Capteur Sony STARVIS (excellent low-light)",
+					"60 fps très fluide en 1080p",
+					"HDR adaptatif performant",
+					"Champ de vision 103° ultra-large",
+					"Privacy shutter intégré",
+					"Design premium Razer",
+					"Application Synapse complète",
+					"Optimisé streaming (OBS, etc.)"
+				],
+				"cons": [
+					"Prix élevé pour du 1080p",
+					"Pas de 4K",
+					"Nécessite USB 3.0",
+					"Microphones moyens",
+					"Razer Synapse peut être lourd"
+				]
+			},
+			"targetAudience": [
+				"Streamers Twitch/YouTube",
+				"Gamers faisant du streaming",
+				"Professionnels présentations dynamiques",
+				"Formateurs en ligne",
+				"Créateurs de contenu"
+			],
+			"ratings": {
+				"overall": 4.5,
+				"imageQuality": 4.7,
+				"lowLight": 4.9,
+				"easeOfUse": 4.3,
+				"microphoneQuality": 3.9,
+				"valueForMoney": 4.2,
+				"reviewCount": 3156
+			},
+			"badges": ["Low-Light Champion", "60fps", "HDR", "Gaming"]
+		},
+		{
+			"id": "visio-004",
+			"name": "Microsoft LifeCam HD-3000",
+			"category": "Webcam",
+			"subcategory": "Webcam HD 720p entrée de gamme",
+			"images": [
+				"/Img-audio-visio/Microsoft-LifeCam/img-p.jpg",
+				"/Img-audio-visio/Microsoft-LifeCam/img-2.jpg",
+				"/Img-audio-visio/Microsoft-LifeCam/img-3.jpg",
+				"/Img-audio-visio/Microsoft-LifeCam/img-4.jpg",
+				"/Img-audio-visio/Microsoft-LifeCam/img-5.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 29.99,
+					"original": 39.99,
+					"currency": "EUR",
+					"asin": "B008ZVRAQS",
+					"url": "https://www.amazon.fr/dp/B008ZVRAQS"
+				},
+				"cdiscount": {
+					"current": 32.99,
+					"original": 39.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/microsoft-lifecam-hd-3000/f-10717-mic0885370403060.html"
+				},
+				"fnac": {
+					"current": 34.99,
+					"original": 39.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Microsoft-LifeCam-HD-3000-Webcam/a6139745/w-4"
+				}
+			},
+			"features": {
+				"resolution": "1280x720 HD",
+				"framerate": "30 fps à 720p",
+				"autofocus": "Non - focus fixe",
+				"champVision": "68.5° diagonal",
+				"microphones": "1 microphone intégré",
+				"connexion": "USB-A 2.0",
+				"montage": "Clip universel flexible",
+				"correction": "TrueColor (correction couleur basique)",
+				"certification": "Microsoft Teams, Skype",
+				"dimensions": "71 x 56 x 62 mm",
+				"poids": "97g"
+			},
+			"description": "La Microsoft LifeCam HD-3000 est la solution d'entrée de gamme idéale pour les télétravailleurs au budget serré ou pour une utilisation occasionnelle. Sa résolution HD 720p à 30 fps offre une qualité d'image suffisante pour les visioconférences standard.\n\nLa technologie TrueColor de Microsoft ajuste automatiquement les couleurs et l'exposition pour une image correcte dans la plupart des conditions d'éclairage. Le clip universel flexible s'adapte facilement à tout type d'écran d'ordinateur portable ou de moniteur.\n\nAvec son installation Plug & Play, vous êtes opérationnel en quelques secondes sans aucun pilote à installer. Le microphone intégré capture votre voix pour les appels courts, bien qu'un casque soit recommandé pour des réunions prolongées. Parfait comme première webcam ou comme solution de secours.",
+			"prosAndCons": {
+				"pros": [
+					"Prix très abordable (< 35€)",
+					"Plug & Play immédiat",
+					"Clip flexible et stable",
+					"Légère (97g)",
+					"Fiabilité Microsoft",
+					"Parfait pour usage occasionnel",
+					"Compatible tous Windows"
+				],
+				"cons": [
+					"Qualité 720p limitée",
+					"Pas d'autofocus",
+					"Microphone basique",
+					"Mauvais en faible luminosité",
+					"Pas de réglages avancés",
+					"Image peu flatteuse",
+					"Design très basique"
+				]
+			},
+			"targetAudience": [
+				"Budget très limité (< 35€)",
+				"Utilisation occasionnelle",
+				"Webcam de secours",
+				"Étudiants",
+				"Télétravailleurs débutants"
+			],
+			"ratings": {
+				"overall": 3.9,
+				"imageQuality": 3.5,
+				"lowLight": 2.8,
+				"easeOfUse": 4.7,
+				"microphoneQuality": 3.2,
+				"valueForMoney": 4.5,
+				"reviewCount": 12547
+			},
+			"badges": ["Entrée de gamme", "Petit budget", "Plug & Play"]
+		}
+	]
 }

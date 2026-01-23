@@ -23,9 +23,9 @@ const links: NavLink[] = [
 		label: "Périphériques",
 		href: "/peripheriques",
 		dropdown: [
-			{ label: "Claviers & souris", href: "/peripheriques/claviers&souris" },
+			{ label: "Claviers & souris", href: "/peripheriques/claviers-souris" },
 			{ label: "Eclairage", href: "/peripheriques/eclairage" },
-			{ label: "Audio & visio", href: "/peripheriques/audio&visio" },
+			{ label: "Audio & visio", href: "/peripheriques/audio-visio" },
 		],
 	},
 	{
@@ -41,15 +41,24 @@ const links: NavLink[] = [
 	{
 		label: "Blog",
 		href: "/blog",
-		
-	}
+	},
 ];
 
 // Liens de la section droite
 
 const rightLinks = [
-	{ label: "Setups", href: "/guides", icon: "ri-layout-grid-fill", tooltip: "Setups clé en main" },
-	{ label: "Comparatifs", href: "/comparatifs", icon: "ri-scales-3-line", tooltip: "Comparer les produits" },
+	{
+		label: "Setups",
+		href: "/guides",
+		icon: "ri-layout-grid-fill",
+		tooltip: "Setups clé en main",
+	},
+	{
+		label: "Comparatifs",
+		href: "/comparatifs",
+		icon: "ri-scales-3-line",
+		tooltip: "Comparer les produits",
+	},
 ];
 
 export default function Navbar() {
@@ -82,7 +91,10 @@ export default function Navbar() {
 			<div className="navbar-content flex items-center justify-between px-[8%] lg:px-[5%] 2xl:px-[10%] py-5">
 				{/* Logo */}
 				<div className="flex items-center gap-2 xl:gap-4 2xl:gap-5">
-					<Link href="/" className="text-2xl sm:text-3xl lg:text-2xl xl:text-3xl 2xl:text-4xl font-bold AudioWide whitespace-nowrap">
+					<Link
+						href="/"
+						className="text-2xl sm:text-3xl lg:text-2xl xl:text-3xl 2xl:text-4xl font-bold AudioWide whitespace-nowrap"
+					>
 						Setup-<span className="text-(--prim) ">Teletravail</span>
 					</Link>
 
@@ -92,9 +104,7 @@ export default function Navbar() {
 						{links.map((link) =>
 							link.dropdown ? (
 								<div key={link.label} className="relative group z-50">
-									<span
-										className="flex text-base xl:text-lg 2xl:text-xl items-center gap-1 hover:text-(--prim) transition-all duration-300 whitespace-nowrap cursor-pointer font-medium GolosText"
-									>
+									<span className="flex text-base xl:text-lg 2xl:text-xl items-center gap-1 hover:text-(--prim) transition-all duration-300 whitespace-nowrap cursor-pointer font-medium GolosText">
 										{link.label} <i className="ri-arrow-down-s-line"></i>
 									</span>
 									<div className="absolute left-0 top-8 opacity-0 invisible group-hover:visible group-hover:opacity-100 transition-all duration-300 bg-(--white) shadow-xl border border-gray-50/10 rounded-lg z-50 min-w-55">
@@ -119,7 +129,7 @@ export default function Navbar() {
 								>
 									{link.label}
 								</Link>
-							)
+							),
 						)}
 					</nav>
 				</div>
@@ -145,60 +155,80 @@ export default function Navbar() {
 				</div>
 
 				{/* Bouton menu mobile */}
-				<button onClick={() => setMobileMenuOpen(!mobileMenuOpen)} className="lg:hidden text-2xl"><i className={`ri-${mobileMenuOpen ? "close-line" : "menu-3-line"} transition-all duration-300`}></i></button>
+				<button
+					onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+					className="lg:hidden text-2xl"
+				>
+					<i
+						className={`ri-${mobileMenuOpen ? "close-line" : "menu-3-line"} transition-all duration-300`}
+					></i>
+				</button>
 			</div>
 
-      {/* Mobile menu */}
-      <div className={`lg:hidden bg-(--white) border-t border-gray-400 overflow-hidden transition-all duration-500 ${mobileMenuOpen ? "max-h-250 opacity-100 py-4" : "max-h-0 opacity-0 py-0"}`}>
-        <div className="px-[8%] space-y-3">
-          {links.map((link) => (
-            <div key={link.label} className="border border-gray-700/50 rounded-lg overflow-hidden">
-              {link.dropdown ? (
-                <>
-                 <button onClick={() => toggleDropdown(link.label)} className="w-full flex items-center justify-between px-4 py-2 sm:py-4 text-left text-(--text) font-medium hover:text-(--prim) transition">{link.label} <i className={`ri-arrow-down-s-line text-2xl transition-all duration-300 ${openDropdown[link.label] ? "rotate-180" : ""}`}></i></button>
-                 <div className={`pl-6 pr-4 bg-gray-800/10 border-t border-gray-700/40 transition-all duration-300 ${openDropdown[link.label] ? "max-h-75 opacity-100 py-2" : "max-h-0 opacity-0 py-0"}`}>
-                   {link.dropdown.map((item) => (
-                     <Link
-                       href={item.href}
-                       key={item.label}
-                       className="block py-2 font-semibold hover:text-(--prim)  transition border-b border-gray-700/60"
-                       onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-                     >
-                       {item.label}
-                     </Link>
-                   ))}
-                 </div>
-                </>
-                ) : (
-                  <Link
-                    href={link.href}
-                    key={link.label}
-                    className="block px-4 py-3 sm:py-4 text-(--text) hover:text-(--prim) transition font-medium"
-                  >
-                    {link.label}
-                  </Link>
-                )
-              }
-            </div>
-          ))}
+			{/* Mobile menu */}
+			<div
+				className={`lg:hidden bg-(--white) border-t border-gray-400 overflow-hidden transition-all duration-500 ${mobileMenuOpen ? "max-h-250 opacity-100 py-4" : "max-h-0 opacity-0 py-0"}`}
+			>
+				<div className="px-[8%] space-y-3">
+					{links.map((link) => (
+						<div
+							key={link.label}
+							className="border border-gray-700/50 rounded-lg overflow-hidden"
+						>
+							{link.dropdown ? (
+								<>
+									<button
+										onClick={() => toggleDropdown(link.label)}
+										className="w-full flex items-center justify-between px-4 py-2 sm:py-4 text-left text-(--text) font-medium hover:text-(--prim) transition"
+									>
+										{link.label}{" "}
+										<i
+											className={`ri-arrow-down-s-line text-2xl transition-all duration-300 ${openDropdown[link.label] ? "rotate-180" : ""}`}
+										></i>
+									</button>
+									<div
+										className={`pl-6 pr-4 bg-gray-800/10 border-t border-gray-700/40 transition-all duration-300 ${openDropdown[link.label] ? "max-h-75 opacity-100 py-2" : "max-h-0 opacity-0 py-0"}`}
+									>
+										{link.dropdown.map((item) => (
+											<Link
+												href={item.href}
+												key={item.label}
+												className="block py-2 font-semibold hover:text-(--prim)  transition border-b border-gray-700/60"
+												onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+											>
+												{item.label}
+											</Link>
+										))}
+									</div>
+								</>
+							) : (
+								<Link
+									href={link.href}
+									key={link.label}
+									className="block px-4 py-3 sm:py-4 text-(--text) hover:text-(--prim) transition font-medium"
+								>
+									{link.label}
+								</Link>
+							)}
+						</div>
+					))}
 
-          {/* Guides et Comparatifs */}
-          <div className="flex gap-3 pt-2">
-            {rightLinks.map((link) => (
-              <Link
-                key={link.label}
-                href={link.href}
-                className="flex-1 flex items-center justify-center gap-2 px-4 py-3 sm:py-4 border border-gray-700/50 rounded-lg text-(--text) font-medium hover:text-(--prim) transition"
-                onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
-              >
-                <i className={link.icon}></i>
-                {link.label}
-              </Link>
-            ))}
-          </div>
-
-        </div>
-      </div>
+					{/* Guides et Comparatifs */}
+					<div className="flex gap-3 pt-2">
+						{rightLinks.map((link) => (
+							<Link
+								key={link.label}
+								href={link.href}
+								className="flex-1 flex items-center justify-center gap-2 px-4 py-3 sm:py-4 border border-gray-700/50 rounded-lg text-(--text) font-medium hover:text-(--prim) transition"
+								onClick={() => setMobileMenuOpen(!mobileMenuOpen)}
+							>
+								<i className={link.icon}></i>
+								{link.label}
+							</Link>
+						))}
+					</div>
+				</div>
+			</div>
 		</nav>
 	);
 }

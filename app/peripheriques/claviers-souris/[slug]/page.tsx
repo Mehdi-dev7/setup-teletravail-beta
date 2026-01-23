@@ -143,7 +143,7 @@ export default function ClavierSourisDetails() {
 					<i className="ri-error-warning-line text-6xl text-gray-400 mb-4"></i>
 					<h1 className="text-3xl GolosText mb-2">Produit non trouvé</h1>
 					<p className="text-gray-500 mb-6">Le produit que vous recherchez n&apos;existe pas.</p>
-					<Link href="/peripheriques/claviers&souris" className="bg-(--prim) text-white px-6 py-3 rounded-full hover:opacity-90 transition-all">
+					<Link href="/peripheriques/claviers-souris" className="bg-(--prim) text-white px-6 py-3 rounded-full hover:opacity-90 transition-all">
 						Retour aux claviers & souris
 					</Link>
 				</div>
@@ -175,7 +175,7 @@ export default function ClavierSourisDetails() {
 						Périphériques
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
-					<Link href="/peripheriques/claviers&souris" className="hover:text-(--prim) transition-all duration-300">
+					<Link href="/peripheriques/claviers-souris" className="hover:text-(--prim) transition-all duration-300">
 						Claviers & Souris
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
@@ -609,7 +609,7 @@ export default function ClavierSourisDetails() {
 							Voir sur {prixEnseignes[0]?.enseigne} - {prixEnseignes[0]?.prix}€
 						</a>
 						<Link
-							href="/peripheriques/claviers&souris"
+							href="/peripheriques/claviers-souris"
 							className="bg-white/10 text-white px-8 py-4 rounded-full font-semibold hover:bg-white/20 transition-all flex items-center justify-center gap-2"
 						>
 							<i className="ri-arrow-left-line"></i>

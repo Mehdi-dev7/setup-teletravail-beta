@@ -1,720 +1,741 @@
 {
-  "claviers": [
-    {
-      "id": "clavier-001",
-      "name": "Logitech MX Keys",
-      "category": "Clavier",
-      "subcategory": "Clavier sans fil premium",
-      "images": [
-        "/Img-Clavier&Souris/logitech-mx-keys/img-p.jpg",
-        "/Img-Clavier&Souris/logitech-mx-keys/img-2.jpg",
-        "/Img-Clavier&Souris/logitech-mx-keys/img-3.jpg",
-        "/Img-Clavier&Souris/logitech-mx-keys/img-4.jpg",
-        "/Img-Clavier&Souris/logitech-mx-keys/img-5.jpg",
-        "/Img-Clavier&Souris/logitech-mx-keys/img-6.jpg",
-        "/Img-Clavier&Souris/logitech-mx-keys/img-7.jpg",
-        "/Img-Clavier&Souris/logitech-mx-keys/img-8.jpg"
-        
-      ],
-      "price": {
-        "amazon": {
-          "current": 99.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "asin": "B07W6JCZP1",
-          "url": "https://www.amazon.fr/dp/B07W6JCZP1"
-        },
-        "cdiscount": {
-          "current": 109.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-mx-keys/f-10717-log5099206084698.html"
-        },
-        "fnac": {
-          "current": 119.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-MX-Keys-Clavier/a13654782/w-4"
-        }
-      },
-      "features": {
-        "typeSwitch": "Ciseaux à membrane premium",
-        "forceActuation": "Faible - frappe silencieuse",
-        "courbure": "Légère courbure sphérique des touches",
-        "connectivite": "Bluetooth, USB-C dongle Logitech Bolt",
-        "multiDevices": "Oui - 3 appareils (Easy-Switch)",
-        "retroeclairage": "Oui - blanc, détection proximité + ambiante",
-        "autonomie": "10 jours (rétroéclairage), 5 mois (sans)",
-        "chargeRapide": "USB-C - 3h complète",
-        "compatibilite": "Windows, macOS, Linux, iOS, Android",
-        "dimensions": "430.2 x 131.63 x 20.5 mm",
-        "poids": "810g",
-        "layout": "AZERTY français disponible"
-      },
-      "description": "Le Logitech MX Keys est le clavier de référence pour les professionnels exigeants en télétravail. Son design sophistiqué combine esthétique minimaliste et ergonomie optimale avec une légère courbure sphérique des touches qui épouse naturellement la forme de vos doigts.\n\nLes touches à ciseaux offrent une frappe précise, silencieuse et confortable même après 8 heures d'utilisation. Le rétroéclairage intelligent détecte vos mains et ajuste automatiquement l'intensité selon la luminosité ambiante, économisant la batterie tout en restant parfait pour travailler dans la pénombre.\n\nLa fonction Easy-Switch permet de basculer instantanément entre 3 appareils (PC, Mac, tablette) d'une simple pression. Le récepteur Logitech Bolt offre une connexion ultra-stable sans latence, tandis que le Bluetooth permet une utilisation nomade. La compatibilité multi-OS détecte automatiquement votre système et adapte les raccourcis. L'autonomie de 10 jours avec rétroéclairage (5 mois sans) élimine les recharges fréquentes.",
-      "prosAndCons": {
-        "pros": [
-          "Qualité de frappe exceptionnelle",
-          "Rétroéclairage intelligent auto",
-          "Easy-Switch 3 appareils fluide",
-          "Autonomie excellente (10j/5m)",
-          "Build quality premium (métal)",
-          "Compatible tous OS",
-          "Silencieux en open-space",
-          "Touches concaves ergonomiques"
-        ],
-        "cons": [
-          "Prix élevé (100€)",
-          "Lourd (810g) pour nomadisme",
-          "Pas de repose-poignets inclus",
-          "Pas mécanique (pour puristes)",
-          "Angle fixe (pas ajustable)",
-          "Touches plates (pas ergonomie extrême)"
-        ]
-      },
-      "targetAudience": [
-        "Professionnels multi-appareils",
-        "Télétravailleurs exigeants",
-        "Créatifs (designers, dev, writers)",
-        "Utilisateurs macOS et Windows",
-        "Personnes valorisant silence et esthétique"
-      ],
-      "ratings": {
-        "overall": 4.7,
-        "typingComfort": 4.8,
-        "buildQuality": 4.9,
-        "batteryLife": 4.8,
-        "connectivity": 4.7,
-        "valueForMoney": 4.4,
-        "reviewCount": 12456
-      },
-      "badges": ["Référence Pro", "Premium", "Multi-devices", "Silencieux"]
-    },
-    {
-      "id": "clavier-002",
-      "name": "Microsoft Sculpt Ergonomic Desktop",
-      "category": "Clavier",
-      "subcategory": "Clavier ergonomique courbé",
-      "images": [
-        "/Img-Clavier&Souris/microsoft-sculpt-ergo/img-p.jpg",
-        "/Img-Clavier&Souris/microsoft-sculpt-ergo/img-2.jpg",
-        "/Img-Clavier&Souris/microsoft-sculpt-ergo/img-3.jpg",
-        "/Img-Clavier&Souris/microsoft-sculpt-ergo/img-4.jpg"
-      ],
-      "price": {
-        "amazon": {
-          "current": 89.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "asin": "B00CYX26BC",
-          "url": "https://www.amazon.fr/dp/B00CYX26BC"
-        },
-        "cdiscount": {
-          "current": 94.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/microsoft-sculpt-ergonomic/f-10717-mic0885370661590.html"
-        },
-        "fnac": {
-          "current": 99.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Microsoft-Sculpt-Ergonomic-Desktop/a7089543/w-4"
-        }
-      },
-      "features": {
-        "typeSwitch": "Membrane silencieuse",
-        "forceActuation": "Faible",
-        "courbure": "Courbure en dôme + séparation centrale",
-        "connectivite": "USB dongle 2.4GHz",
-        "multiDevices": "Non",
-        "pavéNumerique": "Détachable sans fil séparé",
-        "reposePoignets": "Oui - rembourré inclu",
-        "autonomie": "36 mois (piles AAA)",
-        "compatibilite": "Windows principalement",
-        "dimensions": "456 x 238 x 55 mm",
-        "poids": "1140g",
-        "layout": "AZERTY français disponible"
-      },
-      "description": "Le Microsoft Sculpt Ergonomic Desktop est conçu spécifiquement pour réduire la tension musculaire et prévenir les troubles musculo-squelettiques (TMS) lors de longues sessions de télétravail. Sa forme en dôme courbé avec séparation centrale place vos mains, poignets et avant-bras dans une position naturelle et détendue.\n\nLe repose-poignets rembourré intégré maintient vos poignets en position surélevée, réduisant la pression sur le canal carpien et prévenant le syndrome du canal carpien. Le pavé numérique détachable et sans fil vous permet de le placer où bon vous semble, ou de le retirer complètement pour gagner de l'espace et positionner votre souris plus près du corps.\n\nLa courbure inversée force une pronation naturelle des mains, éliminant la torsion des avant-bras. L'autonomie de 36 mois sur piles AAA élimine totalement les soucis de recharge. Recommandé par des ergonomes et ostéopathes pour prévenir les douleurs liées à la frappe intensive.",
-      "prosAndCons": {
-        "pros": [
-          "Ergonomie exceptionnelle anti-TMS",
-          "Courbure en dôme + séparation centrale",
-          "Repose-poignets rembourré inclus",
-          "Pavé numérique détachable pratique",
-          "Autonomie 3 ans sur piles",
-          "Prévention syndrome canal carpien",
-          "Prix correct pour ergonomie (90€)",
-          "Silencieux"
-        ],
-        "cons": [
-          "Période adaptation 1-2 semaines",
-          "Encombrant (non portable)",
-          "Windows uniquement (touches fonction)",
-          "Pas de rétroéclairage",
-          "Design un peu daté",
-          "Pas de Bluetooth",
-          "Nécessite piles (pas USB-C rechargeable)"
-        ]
-      },
-      "targetAudience": [
-        "Personnes souffrant de TMS",
-        "Télétravail 8h+ par jour",
-        "Préventio syndrome canal carpien",
-        "Utilisateurs Windows",
-        "Personnes valorisant santé > esthétique"
-      ],
-      "ratings": {
-        "overall": 4.5,
-        "typingComfort": 4.8,
-        "buildQuality": 4.4,
-        "batteryLife": 5.0,
-        "connectivity": 4.2,
-        "valueForMoney": 4.6,
-        "reviewCount": 8945
-      },
-      "badges": ["Ergonomie Pro", "Anti-TMS", "Recommandé Ergo", "Repose-poignets"]
-    },
-    {
-      "id": "clavier-003",
-      "name": "Keychron K8 Pro",
-      "category": "Clavier",
-      "subcategory": "Clavier mécanique sans fil compact",
-      "images": [
-        "/Img-Clavier&Souris/keychron-K8-Pro/img-p.jpg",
-        "/Img-Clavier&Souris/keychron-K8-Pro/img-2.jpg",
-        "/Img-Clavier&Souris/keychron-K8-Pro/img-3.jpg",
-        "/Img-Clavier&Souris/keychron-K8-Pro/img-4.jpg"
-      ],
-      "price": {
-        "amazon": {
-          "current": 109.99,
-          "original": 139.99,
-          "currency": "EUR",
-          "asin": "B0B5TMHX21",
-          "url": "https://www.amazon.fr/dp/B0B5TMHX21"
-        },
-        "cdiscount": {
-          "current": 119.99,
-          "original": 139.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/keychron-k8-pro/f-10717-key6950763935875.html"
-        },
-        "fnac": {
-          "current": 129.99,
-          "original": 139.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Keychron-K8-Pro-Clavier/a17234589/w-4"
-        }
-      },
-      "features": {
-        "typeSwitch": "Mécanique hot-swap Gateron (Red, Brown, Blue)",
-        "forceActuation": "Variable selon switch (45-60g)",
-        "format": "TKL (Tenkeyless - sans pavé numérique)",
-        "connectivite": "Bluetooth 5.1, USB-C filaire, dongle 2.4GHz",
-        "multiDevices": "Oui - 3 appareils Bluetooth",
-        "retroeclairage": "RGB per-key programmable",
-        "autonomie": "240h (rétro off), 100h (rétro on)",
-        "chargeRapide": "USB-C - batterie 4000mAh",
-        "compatibilite": "Windows, macOS, Linux (touches interchangeables)",
-        "programmation": "QMK/VIA - programmation complète",
-        "dimensions": "359 x 120 x 40 mm",
-        "poids": "765g (aluminium)",
-        "layout": "ISO AZERTY/ANSI disponible"
-      },
-      "description": "Le Keychron K8 Pro est le clavier mécanique de référence pour les professionnels qui refusent de sacrifier le plaisir de frappe au profit de la portabilité. Son format TKL (sans pavé numérique) libère de l'espace pour rapprocher la souris tout en conservant toutes les touches essentielles.\n\nLes switches mécaniques Gateron hot-swappables offrent une expérience de frappe tactile et satisfaisante bien supérieure aux claviers à membrane. Vous pouvez choisir entre Red (linéaire silencieux), Brown (tactile polyvalent), ou Blue (clicky audible) selon vos préférences. La possibilité de les remplacer sans soudure permet de tester différents switches.\n\nLa triple connectivité (Bluetooth, 2.4GHz, USB-C filaire) avec Easy-Switch entre 3 appareils en fait un outil parfait pour multi-tasking. Le firmware QMK/VIA open-source permet une personnalisation totale : macros, layers, remapping de touches. Le châssis en aluminium CNC garantit une solidité à toute épreuve. Le RGB per-key ajoute une touche de personnalisation tout en restant professionnel.",
-      "prosAndCons": {
-        "pros": [
-          "Expérience mécanique premium",
-          "Hot-swap - switches remplaçables",
-          "Triple connectivité (BT, 2.4GHz, USB-C)",
-          "QMK/VIA programmable",
-          "Format TKL compact pratique",
-          "Châssis aluminium robuste",
-          "Autonomie 240h excellente",
-          "Compatible Mac/Win (touches interchangeables)"
-        ],
-        "cons": [
-          "Switches bruyants (sauf Red)",
-          "Prix élevé (110€)",
-          "Période adaptation mécanique",
-          "Lourd (765g)",
-          "Pas de repose-poignets",
-          "RGB peut sembler gaming",
-          "Courbe apprentissage QMK/VIA"
-        ]
-      },
-      "targetAudience": [
-        "Développeurs et programmeurs",
-        "Enthusiastes claviers mécaniques",
-        "Personnes typant intensivement",
-        "Gamers professionnels",
-        "Utilisateurs Mac + Windows"
-      ],
-      "ratings": {
-        "overall": 4.8,
-        "typingComfort": 4.9,
-        "buildQuality": 4.9,
-        "batteryLife": 4.7,
-        "connectivity": 4.8,
-        "valueForMoney": 4.6,
-        "reviewCount": 6234
-      },
-      "badges": ["Mécanique Pro", "Hot-swap", "QMK/VIA", "Multi-OS"]
-    },
-    {
-      "id": "clavier-004",
-      "name": "Logitech K380",
-      "category": "Clavier",
-      "subcategory": "Clavier compact multi-devices portable",
-      "images": [
-        "/Img-Clavier&Souris/logitech-K380/img-p.jpg",
-        "/Img-Clavier&Souris/logitech-K380/img-2.jpg",
-        "/Img-Clavier&Souris/logitech-K380/img-3.jpg",
-        "/Img-Clavier&Souris/logitech-K380/img-4.jpg"
-        
-      ],
-      "price": {
-        "amazon": {
-          "current": 34.99,
-          "original": 49.99,
-          "currency": "EUR",
-          "asin": "B0148NPH9I",
-          "url": "https://www.amazon.fr/dp/B0148NPH9I"
-        },
-        "cdiscount": {
-          "current": 37.99,
-          "original": 49.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-k380/f-10717-log5099206061859.html"
-        },
-        "fnac": {
-          "current": 39.99,
-          "original": 49.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-K380-Clavier/a8975432/w-4"
-        }
-      },
-      "features": {
-        "typeSwitch": "Ciseaux à membrane",
-        "forceActuation": "Faible - frappe silencieuse",
-        "format": "Compact 79 touches",
-        "connectivite": "Bluetooth uniquement",
-        "multiDevices": "Oui - 3 appareils (Easy-Switch)",
-        "retroeclairage": "Non",
-        "autonomie": "24 mois (2 piles AAA)",
-        "compatibilite": "Windows, macOS, ChromeOS, Android, iOS, iPadOS",
-        "dimensions": "279 x 124 x 16 mm",
-        "poids": "423g",
-        "layout": "AZERTY français disponible",
-        "couleurs": "Gris, rose, bleu, blanc cassé"
-      },
-      "description": "Le Logitech K380 est le clavier compact idéal pour les télétravailleurs hybrides qui alternent entre bureau, domicile et espaces de coworking. Son format réduit de 79 touches (sans pavé numérique ni touches fonction séparées) le rend ultra-portable tout en conservant l'essentiel.\n\nLa fonction Easy-Switch permet de basculer instantanément entre 3 appareils appairés : PC de bureau, laptop, tablette, smartphone. Parfait pour répondre rapidement à un message sur téléphone sans quitter son clavier principal. La compatibilité universelle avec tous les OS (Windows, Mac, Linux, Android, iOS, ChromeOS) en fait un couteau suisse.\n\nLes touches rondes inspirées des machines à écrire vintage offrent une frappe précise et silencieuse. L'autonomie de 24 mois sur 2 piles AAA élimine totalement les soucis de recharge. Disponible en plusieurs coloris pour matcher votre setup. Pour 35€, c'est un excellent rapport qualité-prix en clavier secondaire ou principal pour nomades.",
-      "prosAndCons": {
-        "pros": [
-          "Prix imbattable (35€)",
-          "Ultra-portable et léger (423g)",
-          "Easy-Switch 3 appareils",
-          "Autonomie 2 ans incroyable",
-          "Compatible TOUS OS",
-          "Silencieux",
-          "Touches rondes agréables",
-          "Plusieurs coloris"
-        ],
-        "cons": [
-          "Pas de rétroéclairage",
-          "Bluetooth uniquement (pas de dongle)",
-          "Format compact = adaptation",
-          "Nécessite piles (pas USB-C)",
-          "Pas de touches fonction séparées",
-          "Build quality plastique",
-          "Pas ergonomique"
-        ]
-      },
-      "targetAudience": [
-        "Télétravailleurs hybrides/nomades",
-        "Budget serré (< 40€)",
-        "Multi-devices (PC + tablette + smartphone)",
-        "Utilisateurs Mac + Windows + iPad",
-        "Clavier secondaire/voyage"
-      ],
-      "ratings": {
-        "overall": 4.5,
-        "typingComfort": 4.3,
-        "buildQuality": 4.2,
-        "batteryLife": 5.0,
-        "connectivity": 4.6,
-        "valueForMoney": 4.9,
-        "reviewCount": 34567
-      },
-      "badges": ["Bestseller", "Portable", "Multi-devices", "2 ans autonomie"]
-    }
-  ],
-  "souris": [
-    {
-      "id": "souris-001",
-      "name": "Logitech MX Master 3S",
-      "category": "Souris",
-      "subcategory": "Souris ergonomique sans fil premium",
-      "images": [
-        "/Img-Clavier&Souris/Logitech-MX-Master3/img-p.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Master3/img-2.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Master3/img-3.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Master3/img-4.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Master3/img-5.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Master3/img-6.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Master3/img-7.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Master3/img-8.jpg"
-      ],
-      "price": {
-        "amazon": {
-          "current": 99.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "asin": "B09HM94VDS",
-          "url": "https://www.amazon.fr/dp/B09HM94VDS"
-        },
-        "cdiscount": {
-          "current": 109.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-mx-master-3s/f-10717-log5099206100015.html"
-        },
-        "fnac": {
-          "current": 119.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-MX-Master-3S-Souris/a16789452/w-4"
-        }
-      },
-      "features": {
-        "typeCapteur": "Darkfield 8000 DPI",
-        "precision": "0.1mm sur verre",
-        "connectivite": "Bluetooth, USB-C dongle Logitech Bolt",
-        "multiDevices": "Oui - 3 appareils (Easy-Switch)",
-        "molette": "MagSpeed électromagnétique + molette latérale",
-        "boutons": "8 boutons personnalisables",
-        "silencieux": "Oui - 90% plus silencieux (8dB)",
-        "autonomie": "70 jours",
-        "chargeRapide": "USB-C - 1 min = 3h d'utilisation",
-        "ergonomie": "Droitier, forme sculptée",
-        "compatibilite": "Windows, macOS, Linux, ChromeOS",
-        "dimensions": "124.9 x 84.3 x 51 mm",
-        "poids": "141g"
-      },
-      "description": "La Logitech MX Master 3S est la souris ergonomique de référence absolue pour les professionnels. Sa forme sculptée épouse parfaitement la paume de votre main droite, réduisant drastiquement la tension musculaire même après 10 heures d'utilisation quotidienne.\n\nLe capteur Darkfield 8000 DPI fonctionne sur toutes les surfaces, y compris le verre transparent, avec une précision au 1/10e de millimètre. La molette MagSpeed électromagnétique bascule automatiquement entre défilement cran-par-cran (précision) et défilement ultra-rapide (longs documents). La molette latérale horizontale facilite la navigation dans les tableurs Excel et les timelines.\n\nLes 8 boutons programmables via Logitech Options+ permettent de créer des workflows ultra-productifs : copier/coller d'un clic, basculer entre bureaux virtuels, ouvrir des applications favorites. La fonction Flow permet de contrôler jusqu'à 3 ordinateurs et de transférer fichiers/texte simplement en glissant le curseur d'un écran à l'autre. Silencieuse (90% de bruit en moins), elle est parfaite pour open-space. Autonomie 70 jours avec charge rapide USB-C.",
-      "prosAndCons": {
-        "pros": [
-          "Ergonomie exceptionnelle droitier",
-          "MagSpeed molette électromagnétique",
-          "8 boutons personnalisables",
-          "Flow - contrôle multi-PC",
-          "Capteur 8000 DPI sur verre",
-          "Silencieuse (90% moins de bruit)",
-          "Autonomie 70 jours",
-          "Build quality premium"
-        ],
-        "cons": [
-          "Prix élevé (100€)",
-          "Droitier uniquement",
-          "Lourde pour certains (141g)",
-          "Nécessite adaptation (forme spécifique)",
-          "Options+ parfois buggy",
-          "Overkill pour usage basique"
-        ]
-      },
-      "targetAudience": [
-        "Professionnels intensifs (dev, design, finance)",
-        "Multi-écrans et multi-PC",
-        "Utilisateurs macOS + Windows",
-        "Personnes souffrant de TMS main/poignet",
-        "Productivité et workflows avancés"
-      ],
-      "ratings": {
-        "overall": 4.8,
-        "comfort": 4.9,
-        "precision": 4.9,
-        "batteryLife": 4.8,
-        "connectivity": 4.7,
-        "valueForMoney": 4.5,
-        "reviewCount": 15678
-      },
-      "badges": ["Référence Pro", "Ergonomie Premium", "Flow Multi-PC", "Silencieuse"]
-    },
-    {
-      "id": "souris-002",
-      "name": "Logitech MX Ergo",
-      "category": "Souris",
-      "subcategory": "Trackball ergonomique sans fil",
-      "images": [
-        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-p.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-2.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-3.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-4.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-5.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-6.jpg",
-        "/Img-Clavier&Souris/Logitech-MX-Ergo/img-7.jpg"
-      ],
-      "price": {
-        "amazon": {
-          "current": 89.99,
-          "original": 119.99,
-          "currency": "EUR",
-          "asin": "B0753P1GTS",
-          "url": "https://www.amazon.fr/dp/B0753P1GTS"
-        },
-        "cdiscount": {
-          "current": 94.99,
-          "original": 119.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-mx-ergo/f-10717-log5099206077010.html"
-        },
-        "fnac": {
-          "current": 99.99,
-          "original": 119.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-MX-Ergo-Trackball/a11567823/w-4"
-        }
-      },
-      "features": {
-        "typeCapteur": "Trackball optique précision",
-        "precision": "Curseur de précision ajustable",
-        "connectivite": "Bluetooth, USB dongle",
-        "multiDevices": "Oui - 2 appareils (Easy-Switch)",
-        "angle": "0° ou 20° (plaque magnétique)",
-        "boutons": "8 boutons personnalisables",
-        "molette": "Oui - molette de précision",
-        "autonomie": "4 mois",
-        "chargeRapide": "Micro-USB - 1 min = 1 journée",
-        "ergonomie": "Droitier, angle réglable",
-        "compatibilite": "Windows, macOS",
-        "dimensions": "132.5 x 99.8 x 51.4 mm",
-        "poids": "259g"
-      },
-      "description": "La Logitech MX Ergo révolutionne votre façon de travailler en éliminant totalement les mouvements de bras et de poignet. Le trackball remplace le déplacement de la souris : seul votre pouce contrôle le curseur en faisant rouler la boule, réduisant de 20% la tension musculaire selon des études.\n\nLa plaque métallique magnétique permet d'ajuster l'angle entre 0° (plat) et 20° (incliné), plaçant votre main et avant-bras dans une position naturelle qui prévient le syndrome du canal carpien et les tendinites. Idéal pour ceux qui souffrent déjà de douleurs au poignet.\n\nLe curseur de précision permet de basculer instantanément entre vitesse rapide (navigation) et précision pixel-perfect (design, retouche). Les 8 boutons programmables via Logitech Options+ optimisent votre productivité. L'autonomie de 4 mois élimine les recharges fréquentes. Nécessite adaptation (1-2 semaines) mais transforme ensuite totalement votre confort.",
-      "prosAndCons": {
-        "pros": [
-          "Réduit tension musculaire de 20%",
-          "Angle réglable 0°/20° unique",
-          "Zéro mouvement bras/poignet",
-          "Parfait pour douleurs existantes",
-          "8 boutons personnalisables",
-          "Autonomie 4 mois",
-          "Curseur de précision",
-          "Gain de place bureau (stationnaire)"
-        ],
-        "cons": [
-          "Période adaptation 1-2 semaines",
-          "Droitier uniquement",
-          "Moins précis que souris traditionnelle",
-          "Prix élevé (90€)",
-          "Lourd (259g)",
-          "Micro-USB (pas USB-C)",
-          "Pas adapté gaming/design précis"
-        ]
-      },
-      "targetAudience": [
-        "Personnes souffrant TMS poignet/coude",
-        "Prévention syndrome canal carpien",
-        "Bureaux restreints (pas de place souris)",
-        "Télétravail intensif 8h+",
-        "Curieux trackball"
-      ],
-      "ratings": {
-        "overall": 4.6,
-        "comfort": 4.8,
-        "precision": 4.3,
-        "batteryLife": 4.7,
-        "connectivity": 4.6,
-        "valueForMoney": 4.4,
-        "reviewCount": 7843
-      },
-      "badges": ["Trackball Pro", "Ergonomie Ultime", "Anti-TMS", "Angle réglable"]
-    },
-    {
-      "id": "souris-003",
-      "name": "Logitech Lift Vertical",
-      "category": "Souris",
-      "subcategory": "Souris verticale ergonomique",
-      "images": [
-        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-p.jpg",
-        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-2.jpg",
-        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-3.jpg",
-        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-4.jpg",
-        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-5.jpg",
-        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-6.jpg",
-        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-7.jpg",
-        "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-8.jpg"
-        
-      ],
-      "price": {
-        "amazon": {
-          "current": 64.99,
-          "original": 79.99,
-          "currency": "EUR",
-          "asin": "B09J1TB35S",
-          "url": "https://www.amazon.fr/dp/B09J1TB35S"
-        },
-        "cdiscount": {
-          "current": 69.99,
-          "original": 79.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-lift-vertical/f-10717-log5099206102491.html"
-        },
-        "fnac": {
-          "current": 74.99,
-          "original": 79.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-Lift-Vertical-Souris/a16234892/w-4"
-        }
-      },
-      "features": {
-        "typeCapteur": "Optique 4000 DPI",
-        "precision": "Standard",
-        "connectivite": "Bluetooth, USB dongle Logitech Bolt",
-        "multiDevices": "Non",
-        "angle": "57° vertical fixe",
-        "boutons": "6 boutons personnalisables",
-        "molette": "Oui - molette standard",
-        "autonomie": "24 mois (1 pile AA)",
-        "silencieux": "Oui - clics silencieux",
-        "ergonomie": "Droitier/Gaucher versions séparées, taille S/M",
-        "compatibilite": "Windows, macOS, Linux, ChromeOS",
-        "dimensions": "108 x 70 x 71 mm",
-        "poids": "125g (avec pile)"
-      },
-      "description": "La Logitech Lift Vertical est la souris ergonomique verticale idéale pour découvrir cette catégorie sans se ruiner. Son angle vertical de 57° place votre main dans une position de 'poignée de main', éliminant la pronation douloureuse du poignet typique des souris traditionnelles.\n\nCette position naturelle réduit significativement la pression sur le canal carpien et les tendons de l'avant-bras. La forme sculptée avec repose-pouce texturé offre un grip sûr et confortable. Les clics silencieux la rendent parfaite pour open-space ou visioconférences.\n\nDisponible en version droitier et gaucher (rare!), ainsi qu'en tailles S et M pour s'adapter à différentes tailles de main. L'autonomie de 24 mois sur 1 pile AA élimine les soucis de recharge. Les 6 boutons personnalisables via Logitech Options+ améliorent la productivité. Pour 65€, c'est une excellente introduction aux souris verticales.",
-      "prosAndCons": {
-        "pros": [
-          "Position verticale 57° ergonomique",
-          "Prix abordable pour verticale (65€)",
-          "Droitier ET gaucher disponibles",
-          "Tailles S et M (adaptabilité)",
-          "Silencieuse",
-          "Autonomie 24 mois incroyable",
-          "Build quality Logitech",
-          "Période adaptation courte"
-        ],
-        "cons": [
-          "Pas de multipoint",
-          "Pas de molette latérale",
-          "Précision moyenne (4000 DPI)",
-          "Nécessite pile (pas USB-C)",
-          "Angle fixe (pas réglable)",
-          "Fonctionnalités basiques vs MX Master"
-        ]
-      },
-      "targetAudience": [
-        "Découverte souris verticale",
-        "Douleurs poignet légères à modérées",
-        "Budget moyen (< 70€)",
-        "Gauchers (version dédiée)",
-        "Petites mains (version S)",
-        "Open-space (silencieuse)"
-      ],
-      "ratings": {
-        "overall": 4.5,
-        "comfort": 4.7,
-        "precision": 4.2,
-        "batteryLife": 5.0,
-        "connectivity": 4.4,
-        "valueForMoney": 4.7,
-        "reviewCount": 6234
-      },
-      "badges": ["Verticale accessible", "Gaucher dispo", "Silencieuse", "24 mois autonomie"]
-    },
-    {
-      "id": "souris-004",
-      "name": "Logitech M720 Triathlon",
-      "category": "Souris",
-      "subcategory": "Souris multi-devices compacte",
-      "images": [
-        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-p.jpg",
-        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-2.jpg",
-        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-3.jpg",
-        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-4.jpg",
-        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-5.jpg",
-        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-6.jpg",
-        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-7.jpg",
-        "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-8.jpg"
-        
-      ],
-      "price": {
-        "amazon": {
-          "current": 44.99,
-          "original": 59.99,
-          "currency": "EUR",
-          "asin": "B01LF37K80",
-          "url": "https://www.amazon.fr/dp/B01LF37K80"
-        },
-        "cdiscount": {
-          "current": 47.99,
-          "original": 59.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-m720-triathlon/f-10717-log5099206070967.html"
-        },
-        "fnac": {
-          "current": 49.99,
-          "original": 59.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-M720-Triathlon-Souris/a10456789/w-4"
-        }
-      },
-      "features": {
-        "typeCapteur": "Optique 1000 DPI",
-        "precision": "Basique",
-        "connectivite": "Bluetooth, USB dongle Logitech Unifying",
-        "multiDevices": "Oui - 3 appareils (Easy-Switch bouton dédié)",
-        "angle": "Standard",
-        "boutons": "8 boutons",
-        "molette": "Oui - double mode (cran/libre)",
-        "autonomie": "24 mois (1 pile AA)",
-        "silencieux": "Non",
-        "ergonomie": "Droitier, forme classique",
-        "compatibilite": "Windows, macOS, Linux, ChromeOS",
-        "dimensions": "115 x 74 x 45 mm",
-        "poids": "135g (avec pile)"
-      },
-      "description": "La Logitech M720 Triathlon est la souris multi-devices par excellence pour les professionnels jonglant entre plusieurs ordinateurs. Son bouton Easy-Switch permet de basculer instantanément entre 3 appareils connectés simultanément : PC bureau, laptop, tablette.\n\nLa molette à double mode bascule entre défilement cran-par-cran (précision) et défilement libre hyper-rapide (longs documents PDF, tableurs Excel). Les 8 boutons programmables via Logitech Options+ permettent de créer des raccourcis personnalisés pour accélérer votre workflow.\n\nL'autonomie exceptionnelle de 24 mois sur 1 seule pile AA élimine complètement les soucis de batterie. La forme classique ambidextre convient aux droitiers et gauchers. Le récepteur Logitech Unifying permet de connecter jusqu'à 6 périphériques Logitech sur un seul port USB. Pour 45€, c'est un excellent choix en souris multi-devices sans fioritures.",
-      "prosAndCons": {
-        "pros": [
-          "Multi-devices 3 appareils Easy-Switch",
-          "Autonomie 24 mois exceptionnelle",
-          "Molette double mode pratique",
-          "8 boutons programmables",
-          "Prix abordable (45€)",
-          "Unifying - 1 dongle pour 6 devices",
-          "Forme classique polyvalente",
-          "Build quality solide"
-        ],
-        "cons": [
-          "Pas ergonomique",
-          "Précision limitée (1000 DPI)",
-          "Design basique",
-          "Nécessite pile (pas USB-C)",
-          "Pas silencieuse",
-          "Lourde avec pile (135g)",
-          "Pas de Flow (vs MX Master)"
-        ]
-      },
-      "targetAudience": [
-        "Multi-PC/multi-devices (3)",
-        "Budget limité (< 50€)",
-        "Souris de bureau classique fiable",
-        "Utilisateurs Excel (molette rapide)",
-        "Refus ergonomie spéciale"
-      ],
-      "ratings": {
-        "overall": 4.4,
-        "comfort": 4.2,
-        "precision": 3.9,
-        "batteryLife": 5.0,
-        "connectivity": 4.7,
-        "valueForMoney": 4.6,
-        "reviewCount": 8945
-      },
-      "badges": ["Multi-devices", "24 mois autonomie", "Bon rapport Q/P", "Unifying"]
-    }
-  ]
+	"claviers": [
+		{
+			"id": "clavier-001",
+			"name": "Logitech MX Keys",
+			"category": "Clavier",
+			"subcategory": "Clavier sans fil premium",
+			"images": [
+				"/Img-clavier-souris/logitech-mx-keys/img-p.jpg",
+				"/Img-clavier-souris/logitech-mx-keys/img-2.jpg",
+				"/Img-clavier-souris/logitech-mx-keys/img-3.jpg",
+				"/Img-clavier-souris/logitech-mx-keys/img-4.jpg",
+				"/Img-clavier-souris/logitech-mx-keys/img-5.jpg",
+				"/Img-clavier-souris/logitech-mx-keys/img-6.jpg",
+				"/Img-clavier-souris/logitech-mx-keys/img-7.jpg",
+				"/Img-clavier-souris/logitech-mx-keys/img-8.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 99.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"asin": "B07W6JCZP1",
+					"url": "https://www.amazon.fr/dp/B07W6JCZP1"
+				},
+				"cdiscount": {
+					"current": 109.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-mx-keys/f-10717-log5099206084698.html"
+				},
+				"fnac": {
+					"current": 119.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Logitech-MX-Keys-Clavier/a13654782/w-4"
+				}
+			},
+			"features": {
+				"typeSwitch": "Ciseaux à membrane premium",
+				"forceActuation": "Faible - frappe silencieuse",
+				"courbure": "Légère courbure sphérique des touches",
+				"connectivite": "Bluetooth, USB-C dongle Logitech Bolt",
+				"multiDevices": "Oui - 3 appareils (Easy-Switch)",
+				"retroeclairage": "Oui - blanc, détection proximité + ambiante",
+				"autonomie": "10 jours (rétroéclairage), 5 mois (sans)",
+				"chargeRapide": "USB-C - 3h complète",
+				"compatibilite": "Windows, macOS, Linux, iOS, Android",
+				"dimensions": "430.2 x 131.63 x 20.5 mm",
+				"poids": "810g",
+				"layout": "AZERTY français disponible"
+			},
+			"description": "Le Logitech MX Keys est le clavier de référence pour les professionnels exigeants en télétravail. Son design sophistiqué combine esthétique minimaliste et ergonomie optimale avec une légère courbure sphérique des touches qui épouse naturellement la forme de vos doigts.\n\nLes touches à ciseaux offrent une frappe précise, silencieuse et confortable même après 8 heures d'utilisation. Le rétroéclairage intelligent détecte vos mains et ajuste automatiquement l'intensité selon la luminosité ambiante, économisant la batterie tout en restant parfait pour travailler dans la pénombre.\n\nLa fonction Easy-Switch permet de basculer instantanément entre 3 appareils (PC, Mac, tablette) d'une simple pression. Le récepteur Logitech Bolt offre une connexion ultra-stable sans latence, tandis que le Bluetooth permet une utilisation nomade. La compatibilité multi-OS détecte automatiquement votre système et adapte les raccourcis. L'autonomie de 10 jours avec rétroéclairage (5 mois sans) élimine les recharges fréquentes.",
+			"prosAndCons": {
+				"pros": [
+					"Qualité de frappe exceptionnelle",
+					"Rétroéclairage intelligent auto",
+					"Easy-Switch 3 appareils fluide",
+					"Autonomie excellente (10j/5m)",
+					"Build quality premium (métal)",
+					"Compatible tous OS",
+					"Silencieux en open-space",
+					"Touches concaves ergonomiques"
+				],
+				"cons": [
+					"Prix élevé (100€)",
+					"Lourd (810g) pour nomadisme",
+					"Pas de repose-poignets inclus",
+					"Pas mécanique (pour puristes)",
+					"Angle fixe (pas ajustable)",
+					"Touches plates (pas ergonomie extrême)"
+				]
+			},
+			"targetAudience": [
+				"Professionnels multi-appareils",
+				"Télétravailleurs exigeants",
+				"Créatifs (designers, dev, writers)",
+				"Utilisateurs macOS et Windows",
+				"Personnes valorisant silence et esthétique"
+			],
+			"ratings": {
+				"overall": 4.7,
+				"typingComfort": 4.8,
+				"buildQuality": 4.9,
+				"batteryLife": 4.8,
+				"connectivity": 4.7,
+				"valueForMoney": 4.4,
+				"reviewCount": 12456
+			},
+			"badges": ["Référence Pro", "Premium", "Multi-devices", "Silencieux"]
+		},
+		{
+			"id": "clavier-002",
+			"name": "Microsoft Sculpt Ergonomic Desktop",
+			"category": "Clavier",
+			"subcategory": "Clavier ergonomique courbé",
+			"images": [
+				"/Img-clavier-souris/microsoft-sculpt-ergo/img-p.jpg",
+				"/Img-clavier-souris/microsoft-sculpt-ergo/img-2.jpg",
+				"/Img-clavier-souris/microsoft-sculpt-ergo/img-3.jpg",
+				"/Img-clavier-souris/microsoft-sculpt-ergo/img-4.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 89.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"asin": "B00CYX26BC",
+					"url": "https://www.amazon.fr/dp/B00CYX26BC"
+				},
+				"cdiscount": {
+					"current": 94.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/microsoft-sculpt-ergonomic/f-10717-mic0885370661590.html"
+				},
+				"fnac": {
+					"current": 99.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Microsoft-Sculpt-Ergonomic-Desktop/a7089543/w-4"
+				}
+			},
+			"features": {
+				"typeSwitch": "Membrane silencieuse",
+				"forceActuation": "Faible",
+				"courbure": "Courbure en dôme + séparation centrale",
+				"connectivite": "USB dongle 2.4GHz",
+				"multiDevices": "Non",
+				"pavéNumerique": "Détachable sans fil séparé",
+				"reposePoignets": "Oui - rembourré inclu",
+				"autonomie": "36 mois (piles AAA)",
+				"compatibilite": "Windows principalement",
+				"dimensions": "456 x 238 x 55 mm",
+				"poids": "1140g",
+				"layout": "AZERTY français disponible"
+			},
+			"description": "Le Microsoft Sculpt Ergonomic Desktop est conçu spécifiquement pour réduire la tension musculaire et prévenir les troubles musculo-squelettiques (TMS) lors de longues sessions de télétravail. Sa forme en dôme courbé avec séparation centrale place vos mains, poignets et avant-bras dans une position naturelle et détendue.\n\nLe repose-poignets rembourré intégré maintient vos poignets en position surélevée, réduisant la pression sur le canal carpien et prévenant le syndrome du canal carpien. Le pavé numérique détachable et sans fil vous permet de le placer où bon vous semble, ou de le retirer complètement pour gagner de l'espace et positionner votre souris plus près du corps.\n\nLa courbure inversée force une pronation naturelle des mains, éliminant la torsion des avant-bras. L'autonomie de 36 mois sur piles AAA élimine totalement les soucis de recharge. Recommandé par des ergonomes et ostéopathes pour prévenir les douleurs liées à la frappe intensive.",
+			"prosAndCons": {
+				"pros": [
+					"Ergonomie exceptionnelle anti-TMS",
+					"Courbure en dôme + séparation centrale",
+					"Repose-poignets rembourré inclus",
+					"Pavé numérique détachable pratique",
+					"Autonomie 3 ans sur piles",
+					"Prévention syndrome canal carpien",
+					"Prix correct pour ergonomie (90€)",
+					"Silencieux"
+				],
+				"cons": [
+					"Période adaptation 1-2 semaines",
+					"Encombrant (non portable)",
+					"Windows uniquement (touches fonction)",
+					"Pas de rétroéclairage",
+					"Design un peu daté",
+					"Pas de Bluetooth",
+					"Nécessite piles (pas USB-C rechargeable)"
+				]
+			},
+			"targetAudience": [
+				"Personnes souffrant de TMS",
+				"Télétravail 8h+ par jour",
+				"Préventio syndrome canal carpien",
+				"Utilisateurs Windows",
+				"Personnes valorisant santé > esthétique"
+			],
+			"ratings": {
+				"overall": 4.5,
+				"typingComfort": 4.8,
+				"buildQuality": 4.4,
+				"batteryLife": 5.0,
+				"connectivity": 4.2,
+				"valueForMoney": 4.6,
+				"reviewCount": 8945
+			},
+			"badges": [
+				"Ergonomie Pro",
+				"Anti-TMS",
+				"Recommandé Ergo",
+				"Repose-poignets"
+			]
+		},
+		{
+			"id": "clavier-003",
+			"name": "Keychron K8 Pro",
+			"category": "Clavier",
+			"subcategory": "Clavier mécanique sans fil compact",
+			"images": [
+				"/Img-clavier-souris/keychron-K8-Pro/img-p.jpg",
+				"/Img-clavier-souris/keychron-K8-Pro/img-2.jpg",
+				"/Img-clavier-souris/keychron-K8-Pro/img-3.jpg",
+				"/Img-clavier-souris/keychron-K8-Pro/img-4.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 109.99,
+					"original": 139.99,
+					"currency": "EUR",
+					"asin": "B0B5TMHX21",
+					"url": "https://www.amazon.fr/dp/B0B5TMHX21"
+				},
+				"cdiscount": {
+					"current": 119.99,
+					"original": 139.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/keychron-k8-pro/f-10717-key6950763935875.html"
+				},
+				"fnac": {
+					"current": 129.99,
+					"original": 139.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Keychron-K8-Pro-Clavier/a17234589/w-4"
+				}
+			},
+			"features": {
+				"typeSwitch": "Mécanique hot-swap Gateron (Red, Brown, Blue)",
+				"forceActuation": "Variable selon switch (45-60g)",
+				"format": "TKL (Tenkeyless - sans pavé numérique)",
+				"connectivite": "Bluetooth 5.1, USB-C filaire, dongle 2.4GHz",
+				"multiDevices": "Oui - 3 appareils Bluetooth",
+				"retroeclairage": "RGB per-key programmable",
+				"autonomie": "240h (rétro off), 100h (rétro on)",
+				"chargeRapide": "USB-C - batterie 4000mAh",
+				"compatibilite": "Windows, macOS, Linux (touches interchangeables)",
+				"programmation": "QMK/VIA - programmation complète",
+				"dimensions": "359 x 120 x 40 mm",
+				"poids": "765g (aluminium)",
+				"layout": "ISO AZERTY/ANSI disponible"
+			},
+			"description": "Le Keychron K8 Pro est le clavier mécanique de référence pour les professionnels qui refusent de sacrifier le plaisir de frappe au profit de la portabilité. Son format TKL (sans pavé numérique) libère de l'espace pour rapprocher la souris tout en conservant toutes les touches essentielles.\n\nLes switches mécaniques Gateron hot-swappables offrent une expérience de frappe tactile et satisfaisante bien supérieure aux claviers à membrane. Vous pouvez choisir entre Red (linéaire silencieux), Brown (tactile polyvalent), ou Blue (clicky audible) selon vos préférences. La possibilité de les remplacer sans soudure permet de tester différents switches.\n\nLa triple connectivité (Bluetooth, 2.4GHz, USB-C filaire) avec Easy-Switch entre 3 appareils en fait un outil parfait pour multi-tasking. Le firmware QMK/VIA open-source permet une personnalisation totale : macros, layers, remapping de touches. Le châssis en aluminium CNC garantit une solidité à toute épreuve. Le RGB per-key ajoute une touche de personnalisation tout en restant professionnel.",
+			"prosAndCons": {
+				"pros": [
+					"Expérience mécanique premium",
+					"Hot-swap - switches remplaçables",
+					"Triple connectivité (BT, 2.4GHz, USB-C)",
+					"QMK/VIA programmable",
+					"Format TKL compact pratique",
+					"Châssis aluminium robuste",
+					"Autonomie 240h excellente",
+					"Compatible Mac/Win (touches interchangeables)"
+				],
+				"cons": [
+					"Switches bruyants (sauf Red)",
+					"Prix élevé (110€)",
+					"Période adaptation mécanique",
+					"Lourd (765g)",
+					"Pas de repose-poignets",
+					"RGB peut sembler gaming",
+					"Courbe apprentissage QMK/VIA"
+				]
+			},
+			"targetAudience": [
+				"Développeurs et programmeurs",
+				"Enthusiastes claviers mécaniques",
+				"Personnes typant intensivement",
+				"Gamers professionnels",
+				"Utilisateurs Mac + Windows"
+			],
+			"ratings": {
+				"overall": 4.8,
+				"typingComfort": 4.9,
+				"buildQuality": 4.9,
+				"batteryLife": 4.7,
+				"connectivity": 4.8,
+				"valueForMoney": 4.6,
+				"reviewCount": 6234
+			},
+			"badges": ["Mécanique Pro", "Hot-swap", "QMK/VIA", "Multi-OS"]
+		},
+		{
+			"id": "clavier-004",
+			"name": "Logitech K380",
+			"category": "Clavier",
+			"subcategory": "Clavier compact multi-devices portable",
+			"images": [
+				"/Img-clavier-souris/logitech-K380/img-p.jpg",
+				"/Img-clavier-souris/logitech-K380/img-2.jpg",
+				"/Img-clavier-souris/logitech-K380/img-3.jpg",
+				"/Img-clavier-souris/logitech-K380/img-4.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 34.99,
+					"original": 49.99,
+					"currency": "EUR",
+					"asin": "B0148NPH9I",
+					"url": "https://www.amazon.fr/dp/B0148NPH9I"
+				},
+				"cdiscount": {
+					"current": 37.99,
+					"original": 49.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-k380/f-10717-log5099206061859.html"
+				},
+				"fnac": {
+					"current": 39.99,
+					"original": 49.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Logitech-K380-Clavier/a8975432/w-4"
+				}
+			},
+			"features": {
+				"typeSwitch": "Ciseaux à membrane",
+				"forceActuation": "Faible - frappe silencieuse",
+				"format": "Compact 79 touches",
+				"connectivite": "Bluetooth uniquement",
+				"multiDevices": "Oui - 3 appareils (Easy-Switch)",
+				"retroeclairage": "Non",
+				"autonomie": "24 mois (2 piles AAA)",
+				"compatibilite": "Windows, macOS, ChromeOS, Android, iOS, iPadOS",
+				"dimensions": "279 x 124 x 16 mm",
+				"poids": "423g",
+				"layout": "AZERTY français disponible",
+				"couleurs": "Gris, rose, bleu, blanc cassé"
+			},
+			"description": "Le Logitech K380 est le clavier compact idéal pour les télétravailleurs hybrides qui alternent entre bureau, domicile et espaces de coworking. Son format réduit de 79 touches (sans pavé numérique ni touches fonction séparées) le rend ultra-portable tout en conservant l'essentiel.\n\nLa fonction Easy-Switch permet de basculer instantanément entre 3 appareils appairés : PC de bureau, laptop, tablette, smartphone. Parfait pour répondre rapidement à un message sur téléphone sans quitter son clavier principal. La compatibilité universelle avec tous les OS (Windows, Mac, Linux, Android, iOS, ChromeOS) en fait un couteau suisse.\n\nLes touches rondes inspirées des machines à écrire vintage offrent une frappe précise et silencieuse. L'autonomie de 24 mois sur 2 piles AAA élimine totalement les soucis de recharge. Disponible en plusieurs coloris pour matcher votre setup. Pour 35€, c'est un excellent rapport qualité-prix en clavier secondaire ou principal pour nomades.",
+			"prosAndCons": {
+				"pros": [
+					"Prix imbattable (35€)",
+					"Ultra-portable et léger (423g)",
+					"Easy-Switch 3 appareils",
+					"Autonomie 2 ans incroyable",
+					"Compatible TOUS OS",
+					"Silencieux",
+					"Touches rondes agréables",
+					"Plusieurs coloris"
+				],
+				"cons": [
+					"Pas de rétroéclairage",
+					"Bluetooth uniquement (pas de dongle)",
+					"Format compact = adaptation",
+					"Nécessite piles (pas USB-C)",
+					"Pas de touches fonction séparées",
+					"Build quality plastique",
+					"Pas ergonomique"
+				]
+			},
+			"targetAudience": [
+				"Télétravailleurs hybrides/nomades",
+				"Budget serré (< 40€)",
+				"Multi-devices (PC + tablette + smartphone)",
+				"Utilisateurs Mac + Windows + iPad",
+				"Clavier secondaire/voyage"
+			],
+			"ratings": {
+				"overall": 4.5,
+				"typingComfort": 4.3,
+				"buildQuality": 4.2,
+				"batteryLife": 5.0,
+				"connectivity": 4.6,
+				"valueForMoney": 4.9,
+				"reviewCount": 34567
+			},
+			"badges": ["Bestseller", "Portable", "Multi-devices", "2 ans autonomie"]
+		}
+	],
+	"souris": [
+		{
+			"id": "souris-001",
+			"name": "Logitech MX Master 3S",
+			"category": "Souris",
+			"subcategory": "Souris ergonomique sans fil premium",
+			"images": [
+				"/Img-clavier-souris/Logitech-MX-Master3/img-p.jpg",
+				"/Img-clavier-souris/Logitech-MX-Master3/img-2.jpg",
+				"/Img-clavier-souris/Logitech-MX-Master3/img-3.jpg",
+				"/Img-clavier-souris/Logitech-MX-Master3/img-4.jpg",
+				"/Img-clavier-souris/Logitech-MX-Master3/img-5.jpg",
+				"/Img-clavier-souris/Logitech-MX-Master3/img-6.jpg",
+				"/Img-clavier-souris/Logitech-MX-Master3/img-7.jpg",
+				"/Img-clavier-souris/Logitech-MX-Master3/img-8.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 99.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"asin": "B09HM94VDS",
+					"url": "https://www.amazon.fr/dp/B09HM94VDS"
+				},
+				"cdiscount": {
+					"current": 109.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-mx-master-3s/f-10717-log5099206100015.html"
+				},
+				"fnac": {
+					"current": 119.99,
+					"original": 129.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Logitech-MX-Master-3S-Souris/a16789452/w-4"
+				}
+			},
+			"features": {
+				"typeCapteur": "Darkfield 8000 DPI",
+				"precision": "0.1mm sur verre",
+				"connectivite": "Bluetooth, USB-C dongle Logitech Bolt",
+				"multiDevices": "Oui - 3 appareils (Easy-Switch)",
+				"molette": "MagSpeed électromagnétique + molette latérale",
+				"boutons": "8 boutons personnalisables",
+				"silencieux": "Oui - 90% plus silencieux (8dB)",
+				"autonomie": "70 jours",
+				"chargeRapide": "USB-C - 1 min = 3h d'utilisation",
+				"ergonomie": "Droitier, forme sculptée",
+				"compatibilite": "Windows, macOS, Linux, ChromeOS",
+				"dimensions": "124.9 x 84.3 x 51 mm",
+				"poids": "141g"
+			},
+			"description": "La Logitech MX Master 3S est la souris ergonomique de référence absolue pour les professionnels. Sa forme sculptée épouse parfaitement la paume de votre main droite, réduisant drastiquement la tension musculaire même après 10 heures d'utilisation quotidienne.\n\nLe capteur Darkfield 8000 DPI fonctionne sur toutes les surfaces, y compris le verre transparent, avec une précision au 1/10e de millimètre. La molette MagSpeed électromagnétique bascule automatiquement entre défilement cran-par-cran (précision) et défilement ultra-rapide (longs documents). La molette latérale horizontale facilite la navigation dans les tableurs Excel et les timelines.\n\nLes 8 boutons programmables via Logitech Options+ permettent de créer des workflows ultra-productifs : copier/coller d'un clic, basculer entre bureaux virtuels, ouvrir des applications favorites. La fonction Flow permet de contrôler jusqu'à 3 ordinateurs et de transférer fichiers/texte simplement en glissant le curseur d'un écran à l'autre. Silencieuse (90% de bruit en moins), elle est parfaite pour open-space. Autonomie 70 jours avec charge rapide USB-C.",
+			"prosAndCons": {
+				"pros": [
+					"Ergonomie exceptionnelle droitier",
+					"MagSpeed molette électromagnétique",
+					"8 boutons personnalisables",
+					"Flow - contrôle multi-PC",
+					"Capteur 8000 DPI sur verre",
+					"Silencieuse (90% moins de bruit)",
+					"Autonomie 70 jours",
+					"Build quality premium"
+				],
+				"cons": [
+					"Prix élevé (100€)",
+					"Droitier uniquement",
+					"Lourde pour certains (141g)",
+					"Nécessite adaptation (forme spécifique)",
+					"Options+ parfois buggy",
+					"Overkill pour usage basique"
+				]
+			},
+			"targetAudience": [
+				"Professionnels intensifs (dev, design, finance)",
+				"Multi-écrans et multi-PC",
+				"Utilisateurs macOS + Windows",
+				"Personnes souffrant de TMS main/poignet",
+				"Productivité et workflows avancés"
+			],
+			"ratings": {
+				"overall": 4.8,
+				"comfort": 4.9,
+				"precision": 4.9,
+				"batteryLife": 4.8,
+				"connectivity": 4.7,
+				"valueForMoney": 4.5,
+				"reviewCount": 15678
+			},
+			"badges": [
+				"Référence Pro",
+				"Ergonomie Premium",
+				"Flow Multi-PC",
+				"Silencieuse"
+			]
+		},
+		{
+			"id": "souris-002",
+			"name": "Logitech MX Ergo",
+			"category": "Souris",
+			"subcategory": "Trackball ergonomique sans fil",
+			"images": [
+				"/Img-clavier-souris/Logitech-MX-Ergo/img-p.jpg",
+				"/Img-clavier-souris/Logitech-MX-Ergo/img-2.jpg",
+				"/Img-clavier-souris/Logitech-MX-Ergo/img-3.jpg",
+				"/Img-clavier-souris/Logitech-MX-Ergo/img-4.jpg",
+				"/Img-clavier-souris/Logitech-MX-Ergo/img-5.jpg",
+				"/Img-clavier-souris/Logitech-MX-Ergo/img-6.jpg",
+				"/Img-clavier-souris/Logitech-MX-Ergo/img-7.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 89.99,
+					"original": 119.99,
+					"currency": "EUR",
+					"asin": "B0753P1GTS",
+					"url": "https://www.amazon.fr/dp/B0753P1GTS"
+				},
+				"cdiscount": {
+					"current": 94.99,
+					"original": 119.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-mx-ergo/f-10717-log5099206077010.html"
+				},
+				"fnac": {
+					"current": 99.99,
+					"original": 119.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Logitech-MX-Ergo-Trackball/a11567823/w-4"
+				}
+			},
+			"features": {
+				"typeCapteur": "Trackball optique précision",
+				"precision": "Curseur de précision ajustable",
+				"connectivite": "Bluetooth, USB dongle",
+				"multiDevices": "Oui - 2 appareils (Easy-Switch)",
+				"angle": "0° ou 20° (plaque magnétique)",
+				"boutons": "8 boutons personnalisables",
+				"molette": "Oui - molette de précision",
+				"autonomie": "4 mois",
+				"chargeRapide": "Micro-USB - 1 min = 1 journée",
+				"ergonomie": "Droitier, angle réglable",
+				"compatibilite": "Windows, macOS",
+				"dimensions": "132.5 x 99.8 x 51.4 mm",
+				"poids": "259g"
+			},
+			"description": "La Logitech MX Ergo révolutionne votre façon de travailler en éliminant totalement les mouvements de bras et de poignet. Le trackball remplace le déplacement de la souris : seul votre pouce contrôle le curseur en faisant rouler la boule, réduisant de 20% la tension musculaire selon des études.\n\nLa plaque métallique magnétique permet d'ajuster l'angle entre 0° (plat) et 20° (incliné), plaçant votre main et avant-bras dans une position naturelle qui prévient le syndrome du canal carpien et les tendinites. Idéal pour ceux qui souffrent déjà de douleurs au poignet.\n\nLe curseur de précision permet de basculer instantanément entre vitesse rapide (navigation) et précision pixel-perfect (design, retouche). Les 8 boutons programmables via Logitech Options+ optimisent votre productivité. L'autonomie de 4 mois élimine les recharges fréquentes. Nécessite adaptation (1-2 semaines) mais transforme ensuite totalement votre confort.",
+			"prosAndCons": {
+				"pros": [
+					"Réduit tension musculaire de 20%",
+					"Angle réglable 0°/20° unique",
+					"Zéro mouvement bras/poignet",
+					"Parfait pour douleurs existantes",
+					"8 boutons personnalisables",
+					"Autonomie 4 mois",
+					"Curseur de précision",
+					"Gain de place bureau (stationnaire)"
+				],
+				"cons": [
+					"Période adaptation 1-2 semaines",
+					"Droitier uniquement",
+					"Moins précis que souris traditionnelle",
+					"Prix élevé (90€)",
+					"Lourd (259g)",
+					"Micro-USB (pas USB-C)",
+					"Pas adapté gaming/design précis"
+				]
+			},
+			"targetAudience": [
+				"Personnes souffrant TMS poignet/coude",
+				"Prévention syndrome canal carpien",
+				"Bureaux restreints (pas de place souris)",
+				"Télétravail intensif 8h+",
+				"Curieux trackball"
+			],
+			"ratings": {
+				"overall": 4.6,
+				"comfort": 4.8,
+				"precision": 4.3,
+				"batteryLife": 4.7,
+				"connectivity": 4.6,
+				"valueForMoney": 4.4,
+				"reviewCount": 7843
+			},
+			"badges": [
+				"Trackball Pro",
+				"Ergonomie Ultime",
+				"Anti-TMS",
+				"Angle réglable"
+			]
+		},
+		{
+			"id": "souris-003",
+			"name": "Logitech Lift Vertical",
+			"category": "Souris",
+			"subcategory": "Souris verticale ergonomique",
+			"images": [
+				"/Img-clavier-souris/Logitech-Lift-Vertical/img-p.jpg",
+				"/Img-clavier-souris/Logitech-Lift-Vertical/img-2.jpg",
+				"/Img-clavier-souris/Logitech-Lift-Vertical/img-3.jpg",
+				"/Img-clavier-souris/Logitech-Lift-Vertical/img-4.jpg",
+				"/Img-clavier-souris/Logitech-Lift-Vertical/img-5.jpg",
+				"/Img-clavier-souris/Logitech-Lift-Vertical/img-6.jpg",
+				"/Img-clavier-souris/Logitech-Lift-Vertical/img-7.jpg",
+				"/Img-clavier-souris/Logitech-Lift-Vertical/img-8.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 64.99,
+					"original": 79.99,
+					"currency": "EUR",
+					"asin": "B09J1TB35S",
+					"url": "https://www.amazon.fr/dp/B09J1TB35S"
+				},
+				"cdiscount": {
+					"current": 69.99,
+					"original": 79.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-lift-vertical/f-10717-log5099206102491.html"
+				},
+				"fnac": {
+					"current": 74.99,
+					"original": 79.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Logitech-Lift-Vertical-Souris/a16234892/w-4"
+				}
+			},
+			"features": {
+				"typeCapteur": "Optique 4000 DPI",
+				"precision": "Standard",
+				"connectivite": "Bluetooth, USB dongle Logitech Bolt",
+				"multiDevices": "Non",
+				"angle": "57° vertical fixe",
+				"boutons": "6 boutons personnalisables",
+				"molette": "Oui - molette standard",
+				"autonomie": "24 mois (1 pile AA)",
+				"silencieux": "Oui - clics silencieux",
+				"ergonomie": "Droitier/Gaucher versions séparées, taille S/M",
+				"compatibilite": "Windows, macOS, Linux, ChromeOS",
+				"dimensions": "108 x 70 x 71 mm",
+				"poids": "125g (avec pile)"
+			},
+			"description": "La Logitech Lift Vertical est la souris ergonomique verticale idéale pour découvrir cette catégorie sans se ruiner. Son angle vertical de 57° place votre main dans une position de 'poignée de main', éliminant la pronation douloureuse du poignet typique des souris traditionnelles.\n\nCette position naturelle réduit significativement la pression sur le canal carpien et les tendons de l'avant-bras. La forme sculptée avec repose-pouce texturé offre un grip sûr et confortable. Les clics silencieux la rendent parfaite pour open-space ou visioconférences.\n\nDisponible en version droitier et gaucher (rare!), ainsi qu'en tailles S et M pour s'adapter à différentes tailles de main. L'autonomie de 24 mois sur 1 pile AA élimine les soucis de recharge. Les 6 boutons personnalisables via Logitech Options+ améliorent la productivité. Pour 65€, c'est une excellente introduction aux souris verticales.",
+			"prosAndCons": {
+				"pros": [
+					"Position verticale 57° ergonomique",
+					"Prix abordable pour verticale (65€)",
+					"Droitier ET gaucher disponibles",
+					"Tailles S et M (adaptabilité)",
+					"Silencieuse",
+					"Autonomie 24 mois incroyable",
+					"Build quality Logitech",
+					"Période adaptation courte"
+				],
+				"cons": [
+					"Pas de multipoint",
+					"Pas de molette latérale",
+					"Précision moyenne (4000 DPI)",
+					"Nécessite pile (pas USB-C)",
+					"Angle fixe (pas réglable)",
+					"Fonctionnalités basiques vs MX Master"
+				]
+			},
+			"targetAudience": [
+				"Découverte souris verticale",
+				"Douleurs poignet légères à modérées",
+				"Budget moyen (< 70€)",
+				"Gauchers (version dédiée)",
+				"Petites mains (version S)",
+				"Open-space (silencieuse)"
+			],
+			"ratings": {
+				"overall": 4.5,
+				"comfort": 4.7,
+				"precision": 4.2,
+				"batteryLife": 5.0,
+				"connectivity": 4.4,
+				"valueForMoney": 4.7,
+				"reviewCount": 6234
+			},
+			"badges": [
+				"Verticale accessible",
+				"Gaucher dispo",
+				"Silencieuse",
+				"24 mois autonomie"
+			]
+		},
+		{
+			"id": "souris-004",
+			"name": "Logitech M720 Triathlon",
+			"category": "Souris",
+			"subcategory": "Souris multi-devices compacte",
+			"images": [
+				"/Img-clavier-souris/Logitech-M720-Triathlon/img-p.jpg",
+				"/Img-clavier-souris/Logitech-M720-Triathlon/img-2.jpg",
+				"/Img-clavier-souris/Logitech-M720-Triathlon/img-3.jpg",
+				"/Img-clavier-souris/Logitech-M720-Triathlon/img-4.jpg",
+				"/Img-clavier-souris/Logitech-M720-Triathlon/img-5.jpg",
+				"/Img-clavier-souris/Logitech-M720-Triathlon/img-6.jpg",
+				"/Img-clavier-souris/Logitech-M720-Triathlon/img-7.jpg",
+				"/Img-clavier-souris/Logitech-M720-Triathlon/img-8.jpg"
+			],
+			"price": {
+				"amazon": {
+					"current": 44.99,
+					"original": 59.99,
+					"currency": "EUR",
+					"asin": "B01LF37K80",
+					"url": "https://www.amazon.fr/dp/B01LF37K80"
+				},
+				"cdiscount": {
+					"current": 47.99,
+					"original": 59.99,
+					"currency": "EUR",
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/logitech-m720-triathlon/f-10717-log5099206070967.html"
+				},
+				"fnac": {
+					"current": 49.99,
+					"original": 59.99,
+					"currency": "EUR",
+					"url": "https://www.fnac.com/Logitech-M720-Triathlon-Souris/a10456789/w-4"
+				}
+			},
+			"features": {
+				"typeCapteur": "Optique 1000 DPI",
+				"precision": "Basique",
+				"connectivite": "Bluetooth, USB dongle Logitech Unifying",
+				"multiDevices": "Oui - 3 appareils (Easy-Switch bouton dédié)",
+				"angle": "Standard",
+				"boutons": "8 boutons",
+				"molette": "Oui - double mode (cran/libre)",
+				"autonomie": "24 mois (1 pile AA)",
+				"silencieux": "Non",
+				"ergonomie": "Droitier, forme classique",
+				"compatibilite": "Windows, macOS, Linux, ChromeOS",
+				"dimensions": "115 x 74 x 45 mm",
+				"poids": "135g (avec pile)"
+			},
+			"description": "La Logitech M720 Triathlon est la souris multi-devices par excellence pour les professionnels jonglant entre plusieurs ordinateurs. Son bouton Easy-Switch permet de basculer instantanément entre 3 appareils connectés simultanément : PC bureau, laptop, tablette.\n\nLa molette à double mode bascule entre défilement cran-par-cran (précision) et défilement libre hyper-rapide (longs documents PDF, tableurs Excel). Les 8 boutons programmables via Logitech Options+ permettent de créer des raccourcis personnalisés pour accélérer votre workflow.\n\nL'autonomie exceptionnelle de 24 mois sur 1 seule pile AA élimine complètement les soucis de batterie. La forme classique ambidextre convient aux droitiers et gauchers. Le récepteur Logitech Unifying permet de connecter jusqu'à 6 périphériques Logitech sur un seul port USB. Pour 45€, c'est un excellent choix en souris multi-devices sans fioritures.",
+			"prosAndCons": {
+				"pros": [
+					"Multi-devices 3 appareils Easy-Switch",
+					"Autonomie 24 mois exceptionnelle",
+					"Molette double mode pratique",
+					"8 boutons programmables",
+					"Prix abordable (45€)",
+					"Unifying - 1 dongle pour 6 devices",
+					"Forme classique polyvalente",
+					"Build quality solide"
+				],
+				"cons": [
+					"Pas ergonomique",
+					"Précision limitée (1000 DPI)",
+					"Design basique",
+					"Nécessite pile (pas USB-C)",
+					"Pas silencieuse",
+					"Lourde avec pile (135g)",
+					"Pas de Flow (vs MX Master)"
+				]
+			},
+			"targetAudience": [
+				"Multi-PC/multi-devices (3)",
+				"Budget limité (< 50€)",
+				"Souris de bureau classique fiable",
+				"Utilisateurs Excel (molette rapide)",
+				"Refus ergonomie spéciale"
+			],
+			"ratings": {
+				"overall": 4.4,
+				"comfort": 4.2,
+				"precision": 3.9,
+				"batteryLife": 5.0,
+				"connectivity": 4.7,
+				"valueForMoney": 4.6,
+				"reviewCount": 8945
+			},
+			"badges": [
+				"Multi-devices",
+				"24 mois autonomie",
+				"Bon rapport Q/P",
+				"Unifying"
+			]
+		}
+	]
 }

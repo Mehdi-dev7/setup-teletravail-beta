@@ -53,7 +53,7 @@ const setups = {
 				marque: "Ergotron",
 				prix: 350,
 				image: "/Img-SupportEcran/Ergotron-LX-Dual/img-p.jpg",
-				specs: ["2x 34\" max", "Garantie 10 ans", "Constant Force"],
+				specs: ['2x 34" max', "Garantie 10 ans", "Constant Force"],
 				lien: "/accessoires/supportEcran",
 			},
 			{
@@ -79,7 +79,7 @@ const setups = {
 				nom: "Logitech MX Keys",
 				marque: "Logitech",
 				prix: 100,
-				image: "/Img-Clavier&Souris/logitech-mx-keys/img-p.jpg",
+				image: "/Img-clavier-souris/logitech-mx-keys/img-p.jpg",
 				specs: ["Sans fil", "Rétroéclairage", "Multi-devices"],
 				lien: "/peripheriques/claviers&souris",
 			},
@@ -88,7 +88,7 @@ const setups = {
 				nom: "Logitech MX Master 3S",
 				marque: "Logitech",
 				prix: 100,
-				image: "/Img-Clavier&Souris/Logitech-MX-Master3/img-p.jpg",
+				image: "/Img-clavier-souris/Logitech-MX-Master3/img-p.jpg",
 				specs: ["Ergonomique", "8000 DPI", "Molette MagSpeed"],
 				lien: "/peripheriques/claviers&souris",
 			},
@@ -118,7 +118,7 @@ const setups = {
 				marque: "North Bayou",
 				prix: 90,
 				image: "/Img-SupportEcran/NorthBayou-Dual/img-p.jpg",
-				specs: ["2x 32\" max", "Extension 45cm", "Inclinaison ±85°"],
+				specs: ['2x 32" max', "Extension 45cm", "Inclinaison ±85°"],
 				lien: "/accessoires/supportEcran",
 			},
 			{
@@ -144,7 +144,7 @@ const setups = {
 				nom: "Logitech K380",
 				marque: "Logitech",
 				prix: 35,
-				image: "/Img-Clavier&Souris/logitech-K380/img-p.jpg",
+				image: "/Img-clavier-souris/logitech-K380/img-p.jpg",
 				specs: ["Compact", "Multi-devices", "24 mois autonomie"],
 				lien: "/peripheriques/claviers&souris",
 			},
@@ -153,7 +153,7 @@ const setups = {
 				nom: "Logitech Lift Vertical",
 				marque: "Logitech",
 				prix: 65,
-				image: "/Img-Clavier&Souris/Logitech-Lift-Vertical/img-p.jpg",
+				image: "/Img-clavier-souris/Logitech-Lift-Vertical/img-p.jpg",
 				specs: ["Verticale 57°", "Silencieuse", "24 mois autonomie"],
 				lien: "/peripheriques/claviers&souris",
 			},
@@ -183,7 +183,7 @@ const setups = {
 				marque: "BONTEC",
 				prix: 65,
 				image: "/Img-SupportEcran/Bontec-SupportEmpilé/img-p.jpg",
-				specs: ["2x 27\" max", "Empilé vertical", "Gain de place"],
+				specs: ['2x 27" max', "Empilé vertical", "Gain de place"],
 				lien: "/accessoires/supportEcran",
 			},
 			{
@@ -209,7 +209,7 @@ const setups = {
 				nom: "Logitech K380",
 				marque: "Logitech",
 				prix: 35,
-				image: "/Img-Clavier&Souris/logitech-K380/img-p.jpg",
+				image: "/Img-clavier-souris/logitech-K380/img-p.jpg",
 				specs: ["Compact", "Multi-devices", "24 mois autonomie"],
 				lien: "/peripheriques/claviers&souris",
 			},
@@ -218,7 +218,7 @@ const setups = {
 				nom: "Logitech M720 Triathlon",
 				marque: "Logitech",
 				prix: 45,
-				image: "/Img-Clavier&Souris/Logitech-M720-Triathlon/img-p.jpg",
+				image: "/Img-clavier-souris/Logitech-M720-Triathlon/img-p.jpg",
 				specs: ["Multi-devices", "24 mois autonomie", "8 boutons"],
 				lien: "/peripheriques/claviers&souris",
 			},
@@ -235,9 +235,7 @@ export default function Guides() {
 		<>
 			{/* Header */}
 			<div className="section-bg text-white flex flex-col">
-				<h1 className="text-5xl md:text-8xl GolosText pt-10">
-					Nos Setups
-				</h1>
+				<h1 className="text-5xl md:text-8xl GolosText pt-10">Nos Setups</h1>
 				<div className="flex items-center text-xl mt-3">
 					<Link
 						href="/"
@@ -254,23 +252,23 @@ export default function Guides() {
 				{/* Introduction */}
 				<div className="max-w-4xl mb-16">
 					<span className="inline-block border border-gray-400 text-(--text) px-4 py-2 rounded-full text-sm md:text-base font-bold mb-4">
-						<i className="ri-layout-grid-fill mr-2 text-(--prim)"></i>Configurations
-						complètes 2026
+						<i className="ri-layout-grid-fill mr-2 text-(--prim)"></i>
+						Configurations complètes 2026
 					</span>
 					<h2 className="Sora text-4xl sm:text-5xl md:text-5xl 2xl:text-6xl mb-5 leading-tight my-4 sm:my-5">
 						Votre setup télétravail{" "}
 						<span className="text-(--prim)">clé en main</span>
 					</h2>
 					<p className="md:text-lg text-base text-gray-600 leading-relaxed mb-4">
-						Nous avons sélectionné pour vous <strong>3 configurations complètes</strong>{" "}
-						adaptées à différents budgets et besoins. Chaque setup a été pensé
-						pour offrir un{" "}
+						Nous avons sélectionné pour vous{" "}
+						<strong>3 configurations complètes</strong> adaptées à différents
+						budgets et besoins. Chaque setup a été pensé pour offrir un{" "}
 						<strong>équilibre optimal entre ergonomie, qualité et prix</strong>.
 					</p>
 					<p className="text-lg text-gray-600 leading-relaxed">
-						Que vous ayez un budget serré ou que vous cherchiez le meilleur absolu,
-						vous trouverez ici une configuration prête à l&apos;emploi pour votre
-						espace de travail idéal.
+						Que vous ayez un budget serré ou que vous cherchiez le meilleur
+						absolu, vous trouverez ici une configuration prête à l&apos;emploi
+						pour votre espace de travail idéal.
 					</p>
 				</div>
 
@@ -411,7 +409,9 @@ export default function Guides() {
 										</div>
 										<div className="flex items-center gap-2 bg-(--prim) text-white px-4 py-2 rounded-full font-semibold">
 											<span>=</span>
-											<span className="text-xl">{calculateTotal(setup.produits)}€</span>
+											<span className="text-xl">
+												{calculateTotal(setup.produits)}€
+											</span>
 										</div>
 									</div>
 								</div>

@@ -1,39 +1,12 @@
 import Link from "next/link";
 import Image from "next/image";
-import ClavierSourisData from "@/JsonData/JsonClavierSouris/ClavierSourisData.json";
-import { Metadata } from "next";
+import AudioVisioData from "@/JsonData/JsonAudioVisio/AudioVisioData.json";
 
-export const metadata: Metadata = {
-	title: "Meilleurs Claviers & Souris Télétravail 2026 | Logitech MX, Ergonomique",
-	description:
-		"Comparatif des meilleurs claviers et souris pour le télétravail. Logitech MX Keys, MX Master 3S, claviers ergonomiques et souris verticales pour une productivité optimale.",
-	keywords: [
-		"clavier télétravail",
-		"souris ergonomique",
-		"Logitech MX Keys",
-		"Logitech MX Master 3S",
-		"clavier sans fil",
-		"souris verticale",
-		"Keychron",
-		"clavier ergonomique",
-	],
-	alternates: {
-		canonical: "https://setup-teletravail.fr/peripheriques/claviers&souris",
-	},
-	openGraph: {
-		title: "Meilleurs Claviers & Souris Télétravail 2026",
-		description:
-			"Trouvez le duo clavier-souris parfait pour votre télétravail. Comparatif Logitech MX, ergonomique et plus.",
-		url: "https://setup-teletravail.fr/peripheriques/claviers&souris",
-		type: "website",
-	},
-};
-
-export default function ClavierSouris() {
+export default function AudioVisio() {
 	return (
 		<>
 			<div className="section-bg text-white flex flex-col">
-				<h1 className="text-5xl md:text-8xl GolosText pt-10">Claviers & Souris</h1>
+				<h1 className="text-5xl md:text-8xl GolosText pt-10">Audio & Visio</h1>
 				<div className="flex items-center text-xl mt-3">
 					<Link
 						href="/"
@@ -42,8 +15,8 @@ export default function ClavierSouris() {
 						Accueil
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
-					
-					<h2 className="GolosText">Claviers & Souris</h2>
+
+					<h2 className="GolosText">Audio & Visio</h2>
 				</div>
 			</div>
 
@@ -55,46 +28,49 @@ export default function ClavierSouris() {
 						2026
 					</span>
 					<h2 className="Sora text-4xl sm:text-5xl md:text-5xl 2xl:text-6xl mb-5 leading-tight my-4 sm:my-5">
-						Les meilleurs claviers et souris{" "}
-						<span className="text-(--prim)">pour le télétravail</span>
+						Les meilleurs équipements{" "}
+						<span className="text-(--prim)">audio & visio</span>
 					</h2>
 					<p className="md:text-lg text-base text-gray-600 leading-relaxed mb-4">
-						Découvrez notre sélection de claviers et souris pour optimiser votre
-						confort en télétravail. Après des heures de tests, nous avons choisi les modèles
-						offrant la <strong>meilleure ergonomie</strong>, une{" "}
-						<strong>frappe/glisse optimale</strong> et des{" "}
-						<strong>fonctionnalités essentielles</strong> comme le multi-devices,
-						la connectivité sans fil et la réduction des TMS.
+						Découvrez notre sélection de casques audio et webcams pour le
+						télétravail. Après des heures de tests, nous avons choisi les
+						modèles offrant le <strong>meilleur rapport qualité/prix</strong>,
+						une <strong>qualité audio optimale</strong> et des{" "}
+						<strong>fonctionnalités essentielles</strong> comme la réduction de
+						bruit active et la compatibilité Teams/Zoom.
 					</p>
 					<p className="text-lg text-gray-600 leading-relaxed">
-						Que vous cherchiez un clavier mécanique premium, une souris ergonomique
-						verticale ou un combo compact pour le nomadisme, vous trouverez ici
-						le périphérique idéal pour votre productivité.
+						Que vous cherchiez un casque premium avec ANC, une webcam 4K pour
+						vos présentations ou un équipement budget pour débuter, vous
+						trouverez ici le produit idéal pour vos visioconférences.
 					</p>
 				</div>
 
-				{/* Section Claviers */}
+				{/* Section Casques Audio */}
 				<div className="mb-20">
 					<div className="flex items-start gap-3 mb-8">
 						<div className="w-1 h-12 md:h-14 bg-(--prim) rounded-full mt-1"></div>
 						<div className="flex flex-col flex-1">
 							<div className="flex items-center justify-between">
 								<h3 className="text-2xl md:text-4xl Sora font-semibold">
-									Claviers
+									Casques Audio
 								</h3>
 								<span className="bg-gray-100 text-gray-600 px-3 py-1 rounded-full text-sm">
-									{ClavierSourisData.claviers.length} modèles
+									{AudioVisioData.audio.length} modèles
 								</span>
 							</div>
 							<span className="text-base md:text-lg text-gray-500 mt-1">
-								Ergonomiques, mécaniques et sans fil pour une frappe optimale
+								Réduction de bruit et qualité audio pour vos appels
 							</span>
 						</div>
 					</div>
 
 					<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
-						{ClavierSourisData.claviers.map((item, index) => (
-							<Link href={`/peripheriques/claviers&souris/${item.id}`} key={item.id}>
+						{AudioVisioData.audio.map((item, index) => (
+							<Link
+								href={`/peripheriques/audio-visio/${item.id}`}
+								key={item.id}
+							>
 								<div className="group bg-white border border-gray-200 rounded-2xl overflow-hidden hover:shadow-xl hover:border-(--prim)/30 transition-all duration-300 h-full">
 									{/* Image */}
 									<div className="relative h-64 bg-gray-50 overflow-hidden">
@@ -121,7 +97,9 @@ export default function ClavierSouris() {
 
 									{/* Content */}
 									<div className="p-5">
-										<p className="text-sm text-gray-500 mb-1">{item.category}</p>
+										<p className="text-sm text-gray-500 mb-1">
+											{item.category}
+										</p>
 										<h4 className="text-xl GolosText font-semibold mb-3 group-hover:text-(--prim) transition-colors duration-300 line-clamp-2">
 											{item.name}
 										</h4>
@@ -129,19 +107,20 @@ export default function ClavierSouris() {
 										{/* Specs rapides */}
 										<div className="flex flex-wrap gap-2 mb-4">
 											<span className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs">
-												{item.features.typeSwitch.split(" ")[0]}
+												{item.features.autonomie.split(",")[0]}
 											</span>
 											<span className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs">
-												{item.features.autonomie.split(" ")[0]}
+												{item.features.poids}
 											</span>
-											{item.features.multiDevices?.includes("Oui") && (
+											{item.features.reductionBruit.includes("Active") && (
 												<span className="bg-blue-100 text-blue-700 px-2 py-1 rounded text-xs">
-													Multi-devices
+													ANC
 												</span>
 											)}
-											{item.features.retroeclairage?.includes("Oui") && (
-												<span className="bg-purple-100 text-purple-700 px-2 py-1 rounded text-xs">
-													Rétroéclairé
+											{item.features.multipoint ===
+												"Oui - 2 appareils simultanés" && (
+												<span className="bg-green-100 text-green-700 px-2 py-1 rounded text-xs">
+													Multipoint
 												</span>
 											)}
 										</div>
@@ -153,7 +132,9 @@ export default function ClavierSouris() {
 													<i
 														key={i}
 														className={`ri-star-${
-															i < Math.floor(item.ratings.overall) ? "fill" : "line"
+															i < Math.floor(item.ratings.overall)
+																? "fill"
+																: "line"
 														} text-yellow-400`}
 													></i>
 												))}
@@ -169,7 +150,8 @@ export default function ClavierSouris() {
 												<span className="text-2xl font-bold text-(--prim)">
 													{item.price.amazon.current}€
 												</span>
-												{item.price.amazon.original > item.price.amazon.current && (
+												{item.price.amazon.original >
+													item.price.amazon.current && (
 													<span className="text-sm text-gray-400 line-through ml-2">
 														{item.price.amazon.original}€
 													</span>
@@ -187,28 +169,31 @@ export default function ClavierSouris() {
 					</div>
 				</div>
 
-				{/* Section Souris */}
+				{/* Section Webcams */}
 				<div>
 					<div className="flex items-start gap-3 mb-8">
 						<div className="w-1 h-12 md:h-14 bg-(--prim) rounded-full mt-1"></div>
 						<div className="flex flex-col flex-1">
 							<div className="flex items-center justify-between">
 								<h3 className="text-2xl md:text-4xl Sora font-semibold">
-									Souris
+									Webcams
 								</h3>
 								<span className="bg-gray-100 text-gray-600 px-3 py-1 rounded-full text-sm">
-									{ClavierSourisData.souris.length} modèles
+									{AudioVisioData.visio.length} modèles
 								</span>
 							</div>
 							<span className="text-base md:text-lg text-gray-500 mt-1">
-								Ergonomiques, verticales et trackballs pour prévenir les TMS
+								Image HD et 4K pour vos visioconférences
 							</span>
 						</div>
 					</div>
 
 					<div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
-						{ClavierSourisData.souris.map((item, index) => (
-							<Link href={`/peripheriques/claviers&souris/${item.id}`} key={item.id}>
+						{AudioVisioData.visio.map((item, index) => (
+							<Link
+								href={`/peripheriques/audio-visio/${item.id}`}
+								key={item.id}
+							>
 								<div className="group bg-white border border-gray-200 rounded-2xl overflow-hidden hover:shadow-xl hover:border-(--prim)/30 transition-all duration-300 h-full">
 									{/* Image */}
 									<div className="relative h-64 bg-gray-50 overflow-hidden">
@@ -235,7 +220,9 @@ export default function ClavierSouris() {
 
 									{/* Content */}
 									<div className="p-5">
-										<p className="text-sm text-gray-500 mb-1">{item.category}</p>
+										<p className="text-sm text-gray-500 mb-1">
+											{item.category}
+										</p>
 										<h4 className="text-xl GolosText font-semibold mb-3 group-hover:text-(--prim) transition-colors duration-300 line-clamp-2">
 											{item.name}
 										</h4>
@@ -243,19 +230,22 @@ export default function ClavierSouris() {
 										{/* Specs rapides */}
 										<div className="flex flex-wrap gap-2 mb-4">
 											<span className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs">
-												{item.features.typeCapteur.split(" ")[0]}
+												{item.features.resolution.includes("4K")
+													? "4K"
+													: item.features.resolution.includes("1080")
+														? "1080p"
+														: "720p"}
 											</span>
 											<span className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs">
-												{item.features.autonomie}
+												{item.features.framerate.split(",")[0]}
 											</span>
-											{item.features.multiDevices?.includes("Oui") && (
-												<span className="bg-blue-100 text-blue-700 px-2 py-1 rounded text-xs">
-													Multi-devices
-												</span>
-											)}
-											{item.features.silencieux === "Oui" || item.features.silencieux?.includes("Oui") ? (
+											<span className="bg-gray-100 text-gray-700 px-2 py-1 rounded text-xs">
+												{item.features.champVision.split(" ")[0]}
+											</span>
+											{item.features.autofocus === "Oui - HD autofocus" ||
+											item.features.autofocus?.includes("Oui") ? (
 												<span className="bg-green-100 text-green-700 px-2 py-1 rounded text-xs">
-													Silencieuse
+													Autofocus
 												</span>
 											) : null}
 										</div>
@@ -267,7 +257,9 @@ export default function ClavierSouris() {
 													<i
 														key={i}
 														className={`ri-star-${
-															i < Math.floor(item.ratings.overall) ? "fill" : "line"
+															i < Math.floor(item.ratings.overall)
+																? "fill"
+																: "line"
 														} text-yellow-400`}
 													></i>
 												))}
@@ -283,7 +275,8 @@ export default function ClavierSouris() {
 												<span className="text-2xl font-bold text-(--prim)">
 													{item.price.amazon.current}€
 												</span>
-												{item.price.amazon.original > item.price.amazon.current && (
+												{item.price.amazon.original >
+													item.price.amazon.current && (
 													<span className="text-sm text-gray-400 line-through ml-2">
 														{item.price.amazon.original}€
 													</span>
