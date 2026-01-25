@@ -6,7 +6,7 @@ export default function Eclairage() {
 	return (
 		<>
 			<div className="section-bg text-white flex flex-col">
-				<h1 className="text-5xl md:text-8xl GolosText pt-10">Éclairage</h1>
+				<h1 className="text-4xl md:text-6xl xl:text-8xl text-center GolosText pt-10">Éclairage</h1>
 				<div className="flex items-center text-xl mt-3">
 					<Link
 						href="/"

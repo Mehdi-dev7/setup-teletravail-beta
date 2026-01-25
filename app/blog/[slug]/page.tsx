@@ -54,8 +54,8 @@ export default function BlogDetails() {
 	return (
 		<>
 			<div className="section-bg text-white flex flex-col">
-				<h1 className="text-6xl md:text-8xl GolosText mt-15">Blog </h1>
-				<div className="flex items-center text-xl mt-3">
+				<h1 className="text-4xl md:text-6xl xl:text-8xl text-center GolosText mt-15">Blog </h1>
+				<div className="flex items-center text-xl mt-3 gap-0.5 xs:gap-1">
 					<Link
 						href="/"
 						className="hover:text-(--prim) transition-all duration-300"
@@ -70,7 +70,7 @@ export default function BlogDetails() {
 					 Notre Blog
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
-					<h2 className="GolosText text-white truncate max-w-37.5 sm:max-w-50 lg:max-w-none">{blog.title}</h2>
+					<h2 className="GolosText text-white truncate max-w-20 xs:max-w-30 sm:max-w-50 lg:max-w-none">{blog.title}</h2>
 				</div>
 			</div>
 

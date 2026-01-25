@@ -5,6 +5,10 @@
 @import "bootstrap-icons/font/bootstrap-icons.css";
 @import "remixicon/fonts/remixicon.css";
 
+@theme {
+	--breakpoint-xs: 25rem;
+}
+
 :root {
 	/* --prim: #caa05c; */
 	--prim: #76BCA7;

@@ -18,30 +18,12 @@ export default function Footer() {
 						</p>
 					</div>
 
-					{/* Colonne 2 - À Propos */}
+					{/* Colonne 2 - Légal */}
 					<div className="footer-content">
 						<h3 className="text-xl text-white font-semibold mb-4 GolosText">
-							À Propos
+							Légal
 						</h3>
 						<ul className="footer-links flex flex-col space-y-2">
-							<Link
-								href="/a-propos"
-								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
-							>
-								À propos
-							</Link>
-							<Link
-								href="/methode"
-								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
-							>
-								Notre méthode
-							</Link>
-							<Link
-								href="/contact"
-								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
-							>
-								Contact
-							</Link>
 							<Link
 								href="/mentions-legales"
 								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
@@ -70,29 +52,24 @@ export default function Footer() {
 						</h3>
 						<ul className="footer-links flex flex-col space-y-2">
 							<Link
-								href="/guide-debutant"
-								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
-							>
-								Guide du débutant
-							</Link>
-							<Link
 								href="/blog"
 								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
 							>
 								Blog / Articles
 							</Link>
 							<Link
-								href="/faq"
+								href="/guides"
 								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
 							>
-								FAQ
+								Guides
 							</Link>
 							<Link
-								href="/meilleures-ventes"
+								href="/comparatifs"
 								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
 							>
-								Meilleures ventes 2025
+								Comparatifs
 							</Link>
+							
 						</ul>
 					</div>
 
@@ -103,13 +80,13 @@ export default function Footer() {
 						</h3>
 						<ul className="footer-links flex flex-col space-y-2">
 							<Link
-								href="/chaises-ergonomiques"
+								href="/chaises"
 								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
 							>
 								Chaises ergonomiques
 							</Link>
 							<Link
-								href="/bureaux-reglables"
+								href="/bureaux"
 								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
 							>
 								Bureaux réglables
@@ -119,18 +96,6 @@ export default function Footer() {
 								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
 							>
 								Écrans
-							</Link>
-							<Link
-								href="/peripheriques"
-								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
-							>
-								Périphériques
-							</Link>
-							<Link
-								href="/accessoires"
-								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
-							>
-								Accessoires
 							</Link>
 						</ul>
 					</div>

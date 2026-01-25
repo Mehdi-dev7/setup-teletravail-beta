@@ -167,7 +167,7 @@ export default function Navbar() {
 
 			{/* Mobile menu */}
 			<div
-				className={`lg:hidden bg-(--white) border-t border-gray-400 overflow-hidden transition-all duration-500 ${mobileMenuOpen ? "max-h-250 opacity-100 py-4" : "max-h-0 opacity-0 py-0"}`}
+				className={`lg:hidden bg-(--white) border-t border-gray-400 transition-all duration-500 ${mobileMenuOpen ? "max-h-[calc(100vh-80px)] opacity-100 py-4 overflow-y-auto" : "max-h-0 opacity-0 py-0 overflow-hidden"}`}
 			>
 				<div className="px-[8%] space-y-3">
 					{links.map((link) => (

@@ -123,8 +123,8 @@ export default function HubUsbDetails() {
 		<>
 			{/* Header */}
 			<div className="section-bg text-white flex flex-col">
-				<h1 className="text-5xl md:text-7xl 2xl:text-8xl GolosText mt-10 md:mt-15">{product.category}</h1>
-				<div className="flex flex-wrap items-center text-base sm:text-xl mt-3 gap-1">
+				<h1 className="text-4xl md:text-6xl xl:text-8xl text-center GolosText mt-10 md:mt-15">{product.category}</h1>
+				<div className="flex flex-wrap items-center text-base sm:text-xl mt-3 gap-0.5 xs:gap-1">
 					<Link href="/" className="hover:text-(--prim) transition-all duration-300">
 						Accueil
 					</Link>
@@ -133,7 +133,7 @@ export default function HubUsbDetails() {
 						Hubs USB
 					</Link>
 					<i className="ri-arrow-right-wide-fill mt-1"></i>
-					<span className="GolosText text-white truncate max-w-37.5 sm:max-w-50 lg:max-w-none">{product.name}</span>
+					<span className="GolosText text-white truncate max-w-20 xs:max-w-30sm:max-w-50 lg:max-w-none">{product.name}</span>
 				</div>
 			</div>
 
