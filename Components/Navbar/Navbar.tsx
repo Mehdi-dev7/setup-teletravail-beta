@@ -206,6 +206,7 @@ export default function Navbar() {
 									href={link.href}
 									key={link.label}
 									className="block px-4 py-3 sm:py-4 text-(--text) hover:text-(--prim) transition font-medium"
+									onClick={() => setMobileMenuOpen(false)}
 								>
 									{link.label}
 								</Link>
