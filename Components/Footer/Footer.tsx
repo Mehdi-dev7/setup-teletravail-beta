@@ -54,6 +54,12 @@ export default function Footer() {
 							>
 								Politique de confidentialité
 							</Link>
+							<Link
+								href="/affiliation"
+								className="text-gray-300 text-base transition-all duration-300 hover:text-(--prim) hover:ml-2"
+							>
+								Affiliation
+							</Link>
 						</ul>
 					</div>
 
