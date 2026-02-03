@@ -54,7 +54,7 @@ const setups = {
 				prix: 350,
 				image: "/Img-SupportEcran/Ergotron-LX-Dual/img-p.jpg",
 				specs: ['2x 34" max', "Garantie 10 ans", "Constant Force"],
-				lien: "/accessoires/supportEcran",
+				lien: "/accessoires/supportEcran/support-double-001",
 			},
 			{
 				categorie: "Bureau",
@@ -81,7 +81,7 @@ const setups = {
 				prix: 100,
 				image: "/Img-clavier-souris/logitech-mx-keys/img-p.jpg",
 				specs: ["Sans fil", "Rétroéclairage", "Multi-devices"],
-				lien: "/peripheriques/claviers&souris",
+				lien: "/peripheriques/claviers-souris/clavier-001",
 			},
 			{
 				categorie: "Souris",
@@ -90,7 +90,7 @@ const setups = {
 				prix: 100,
 				image: "/Img-clavier-souris/Logitech-MX-Master3/img-p.jpg",
 				specs: ["Ergonomique", "8000 DPI", "Molette MagSpeed"],
-				lien: "/peripheriques/claviers&souris",
+				lien: "/peripheriques/claviers-souris/souris-001",
 			},
 		],
 	},
@@ -119,7 +119,7 @@ const setups = {
 				prix: 90,
 				image: "/Img-SupportEcran/NorthBayou-Dual/img-p.jpg",
 				specs: ['2x 32" max', "Extension 45cm", "Inclinaison ±85°"],
-				lien: "/accessoires/supportEcran",
+				lien: "/accessoires/supportEcran/support-double-002",
 			},
 			{
 				categorie: "Bureau",
@@ -146,7 +146,7 @@ const setups = {
 				prix: 35,
 				image: "/Img-clavier-souris/logitech-K380/img-p.jpg",
 				specs: ["Compact", "Multi-devices", "24 mois autonomie"],
-				lien: "/peripheriques/claviers&souris",
+				lien: "/peripheriques/claviers-souris/clavier-004",
 			},
 			{
 				categorie: "Souris",
@@ -155,7 +155,7 @@ const setups = {
 				prix: 65,
 				image: "/Img-clavier-souris/Logitech-Lift-Vertical/img-p.jpg",
 				specs: ["Verticale 57°", "Silencieuse", "24 mois autonomie"],
-				lien: "/peripheriques/claviers&souris",
+				lien: "/peripheriques/claviers-souris/souris-003",
 			},
 		],
 	},
@@ -184,7 +184,7 @@ const setups = {
 				prix: 65,
 				image: "/Img-SupportEcran/Bontec-SupportEmpilé/img-p.jpg",
 				specs: ['2x 27" max', "Empilé vertical", "Gain de place"],
-				lien: "/accessoires/supportEcran",
+				lien: "/accessoires/supportEcran/support-double-003",
 			},
 			{
 				categorie: "Bureau",
@@ -211,7 +211,7 @@ const setups = {
 				prix: 35,
 				image: "/Img-clavier-souris/logitech-K380/img-p.jpg",
 				specs: ["Compact", "Multi-devices", "24 mois autonomie"],
-				lien: "/peripheriques/claviers&souris",
+				lien: "/peripheriques/claviers-souris/clavier-004",
 			},
 			{
 				categorie: "Souris",
@@ -220,7 +220,7 @@ const setups = {
 				prix: 45,
 				image: "/Img-clavier-souris/Logitech-M720-Triathlon/img-p.jpg",
 				specs: ["Multi-devices", "24 mois autonomie", "8 boutons"],
-				lien: "/peripheriques/claviers&souris",
+				lien: "/peripheriques/claviers-souris/souris-004",
 			},
 		],
 	},
@@ -421,7 +421,7 @@ export default function Guides() {
 				</div>
 
 				{/* Section conseils */}
-				<div className="mt-20 bg-gradient-to-br from-gray-900 to-gray-800 rounded-3xl p-8 sm:p-12 text-white">
+				<div className="mt-20 bg-linear-to-br from-gray-900 to-gray-800 rounded-3xl p-8 sm:p-12 text-white">
 					<div className="max-w-3xl">
 						<span className="inline-block border border-gray-500 px-4 py-2 rounded-full text-sm font-bold mb-4">
 							<i className="ri-lightbulb-fill mr-2 text-yellow-400"></i>
@@ -511,7 +511,7 @@ export default function Guides() {
 							Chaises
 						</Link>
 						<Link
-							href="/peripheriques/claviers&souris"
+							href="/peripheriques/claviers-souris"
 							className="flex items-center gap-2 bg-white border border-gray-200 px-6 py-3 rounded-full hover:border-(--prim) hover:text-(--prim) transition-all duration-300"
 						>
 							<i className="ri-keyboard-line"></i>

@@ -165,7 +165,7 @@ export default function ClavierSourisDetails() {
 		<>
 			{/* Header */}
 			<div className="section-bg text-white flex flex-col">
-				<h1 className="text-4xl md:text-6xl xl:text-8xl text-center GolosText mt-10 md:mt-15">{item.category}</h1>
+				<h1 className="text-4xl md:text-6xl xl:text-8xl text-center GolosText mt-10 md:mt-15">{item.name}</h1>
 				<div className="flex flex-wrap items-center text-base sm:text-xl mt-3 gap-0.5 xs:gap-1">
 					<Link href="/" className="hover:text-(--prim) transition-all duration-300">
 						Accueil
