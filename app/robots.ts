@@ -17,7 +17,7 @@ export default function robots(): MetadataRoute.Robots {
 				allow: "/",
 			},
 		],
-		sitemap: "https://setup-teletravail.fr/sitemap.xml",
-		host: "https://setup-teletravail.fr",
+		sitemap: "https://www.setup-teletravail.fr/sitemap.xml",
+		host: "https://www.setup-teletravail.fr",
 	};
 }

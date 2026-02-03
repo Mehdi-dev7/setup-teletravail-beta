@@ -27,7 +27,7 @@ import BlogData from "@/JsonData/JsonBlog/BlogData.json";
 // CONFIGURATION
 // ============================================
 
-const baseUrl = "https://setup-teletravail.fr";
+const baseUrl = "https://www.setup-teletravail.fr";
 
 // ============================================
 // TYPES
