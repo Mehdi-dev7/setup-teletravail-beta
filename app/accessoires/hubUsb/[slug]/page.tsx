@@ -270,16 +270,16 @@ export default function HubUsbDetails() {
 									>
 										<div className="flex items-center gap-3">
 											<div className="w-24 h-8 flex items-center sm:justify-center">
-												<span className="font-bold text-gray-700">{item.enseigne}</span>
+												<span className="font-bold text-sm xs:text-base md:text-lg text-gray-700">{item.enseigne}</span>
 											</div>
 											{index === 0 && (
-												<span className="bg-green-100 text-green-700 text-xs px-2 py-1 rounded-full font-medium">
+												<span className="bg-green-100 text-green-700 text-[10px] xs:text-xs px-1.5 xs:px-2 py-0.5 xs:py-1 rounded-full font-medium">
 													Meilleur prix
 												</span>
 											)}
 										</div>
 										<div className="flex items-center gap-3">
-											<span className="text-xl sm:text-2xl font-bold text-(--prim)">{item.prix}€</span>
+											<span className="text-base xs:text-xl sm:text-2xl font-bold text-(--prim)">{item.prix}€</span>
 											<i className="ri-external-link-line text-gray-400 group-hover:text-(--prim) transition-colors"></i>
 										</div>
 									</a>
@@ -314,7 +314,7 @@ export default function HubUsbDetails() {
 								<i className="ri-settings-3-line text-(--prim)"></i>
 								Caractéristiques
 							</h2>
-							<div className="space-y-4">
+							<div className="space-y-4 text-sm xs:text-base">
 								<div className="flex justify-between py-3 border-b border-gray-100">
 									<span className="text-gray-500">Connexion PC</span>
 									<span className="font-medium text-right max-w-[60%]">{product.features.connexionPc}</span>
@@ -410,7 +410,7 @@ export default function HubUsbDetails() {
 
 				{/* CTA final */}
 				<div className="mt-12 bg-linear-to-l from-gray-900 to-gray-700 rounded-2xl p-4 sm:p-8 md:p-12 text-white text-center">
-					<h2 className="text-2xl md:text-3xl Sora font-semibold mb-4">
+					<h2 className="text-xl xs:text-2xl md:text-3xl Sora font-semibold mb-4">
 						Convaincu par le {product.name} ?
 					</h2>
 					<p className="text-gray-300 mb-8 max-w-2xl mx-auto">
@@ -421,14 +421,14 @@ export default function HubUsbDetails() {
 							href={prixEnseignes[0]?.url || "#"}
 							target="_blank"
 							rel="noopener noreferrer"
-							className="bg-(--prim) text-white px-8 py-4 rounded-full font-semibold hover:opacity-90 transition-all flex items-center justify-center gap-2"
+							className="bg-(--prim) text-white text-sm xs:text-base px-4 xs:px-8 py-2 xs:py-4 rounded-full font-semibold hover:opacity-90 transition-all flex items-center justify-center gap-2"
 						>
 							<i className="ri-shopping-cart-line"></i>
 							Voir sur {prixEnseignes[0]?.enseigne} - {prixEnseignes[0]?.prix}€
 						</a>
 						<Link
 							href="/accessoires/hubUsb"
-							className="bg-white/10 text-white px-8 py-4 rounded-full font-semibold hover:bg-white/20 transition-all flex items-center justify-center gap-2"
+							className="bg-white/10 text-white text-sm xs:text-base px-4 xs:px-8 py-2 xs:py-4 rounded-full font-semibold hover:bg-white/20 transition-all flex items-center justify-center gap-2"
 						>
 							<i className="ri-arrow-left-line"></i>
 							Voir tous les hubs
