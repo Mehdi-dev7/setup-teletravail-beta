@@ -9,9 +9,10 @@ export async function generateStaticParams() {
 	return allProducts.map((product) => ({ slug: String(product.id) }));
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+	const { slug } = await params;
 	const allProducts = [...EcranData.classiques, ...EcranData.ultrawide] as EcranProduct[];
-	const ecran = allProducts.find((item) => String(item.id) === params.slug);
+	const ecran = allProducts.find((item) => String(item.id) === slug);
 	if (!ecran) return { title: "Produit non trouvé" };
 	return {
 		title: `${ecran.nom} - Écran ${ecran.taille} | Setup Télétravail`,
@@ -26,6 +27,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 	};
 }
 
-export default function Page({ params }: { params: { slug: string } }) {
-	return <EcranClient slug={params.slug} />;
+export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
+	const { slug } = await params;
+	return <EcranClient slug={slug} />;
 }

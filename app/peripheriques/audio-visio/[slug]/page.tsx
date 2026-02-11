@@ -7,9 +7,10 @@ export async function generateStaticParams() {
   return allProducts.map((product) => ({ slug: String(product.id) }));
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+  const { slug } = await params;
   const allProducts = [...AudioVisioData.audio, ...AudioVisioData.visio];
-  const product = allProducts.find((item) => String(item.id) === params.slug);
+  const product = allProducts.find((item) => String(item.id) === slug);
   if (!product) return { title: "Produit non trouvé" };
   return {
     title: `${product.name} - ${product.subcategory} | Setup Télétravail`,
@@ -24,6 +25,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
   };
 }
 
-export default function Page({ params }: { params: { slug: string } }) {
-  return <AudioVisioClient slug={params.slug} />;
+export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  return <AudioVisioClient slug={slug} />;
 }

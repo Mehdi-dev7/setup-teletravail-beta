@@ -13,13 +13,14 @@ export async function generateStaticParams() {
 	}));
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+	const { slug } = await params;
 	const allProducts = [
 		...TapisSourisData.tapis_larges,
 		...TapisSourisData.tapis_souris_ergonomiques,
 		...TapisSourisData.tapis_clavier_ergonomiques,
 	];
-	const product = allProducts.find((item) => String(item.id) === params.slug);
+	const product = allProducts.find((item) => String(item.id) === slug);
 
 	if (!product) return { title: "Produit non trouvé" };
 
@@ -38,6 +39,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 	};
 }
 
-export default function Page({ params }: { params: { slug: string } }) {
-	return <TapisSourisClient slug={params.slug} />;
+export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
+	const { slug } = await params;
+	return <TapisSourisClient slug={slug} />;
 }

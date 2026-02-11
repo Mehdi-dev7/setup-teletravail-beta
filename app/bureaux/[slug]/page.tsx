@@ -9,9 +9,10 @@ export async function generateStaticParams() {
 	return allProducts.map((product) => ({ slug: String(product.id) }));
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+	const { slug } = await params;
 	const allProducts = [...BureauData.bureaux_assis_debout] as BureauProduct[];
-	const bureau = allProducts.find((item) => String(item.id) === params.slug);
+	const bureau = allProducts.find((item) => String(item.id) === slug);
 	if (!bureau) return { title: "Produit non trouvé" };
 	return {
 		title: `${bureau.nom} - Bureau Assis-Debout | Setup Télétravail`,
@@ -26,6 +27,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 	};
 }
 
-export default function Page({ params }: { params: { slug: string } }) {
-	return <BureauClient slug={params.slug} />;
+export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
+	const { slug } = await params;
+	return <BureauClient slug={slug} />;
 }

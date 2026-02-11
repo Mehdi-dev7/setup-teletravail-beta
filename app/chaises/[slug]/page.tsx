@@ -9,9 +9,10 @@ export async function generateStaticParams() {
 	return allProducts.map((product) => ({ slug: String(product.id) }));
 }
 
-export async function generateMetadata({ params }: { params: { slug: string } }): Promise<Metadata> {
+export async function generateMetadata({ params }: { params: Promise<{ slug: string }> }): Promise<Metadata> {
+	const { slug } = await params;
 	const allProducts = [...ChaiseData.chaises_ergonomiques] as ChaiseProduct[];
-	const chaise = allProducts.find((item) => String(item.id) === params.slug);
+	const chaise = allProducts.find((item) => String(item.id) === slug);
 	if (!chaise) return { title: "Produit non trouvé" };
 	return {
 		title: `${chaise.nom} - Chaise Ergonomique | Setup Télétravail`,
@@ -26,6 +27,7 @@ export async function generateMetadata({ params }: { params: { slug: string } })
 	};
 }
 
-export default function Page({ params }: { params: { slug: string } }) {
-	return <ChaiseClient slug={params.slug} />;
+export default async function Page({ params }: { params: Promise<{ slug: string }> }) {
+	const { slug } = await params;
+	return <ChaiseClient slug={slug} />;
 }
