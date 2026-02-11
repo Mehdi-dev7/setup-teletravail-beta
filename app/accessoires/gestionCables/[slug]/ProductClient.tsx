@@ -438,7 +438,7 @@ export default function GestionCablesClient({ slug }: { slug: string }) {
 				</div>
 
 				{/* FAQ SEO */}
-				<section className="mt-12 bg-gray-50 rounded-2xl p-6">
+				<section className="mt-12 bg-white border border-gray-200 rounded-2xl p-3 sm:p-6 md:p-8">
 					<h2 className="text-2xl Sora mb-6">Questions fréquentes</h2>
 					<div className="space-y-6">
 						<div>
