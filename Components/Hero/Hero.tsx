@@ -40,12 +40,12 @@ export default function Hero() {
 									<span className="text-(--prim)">Télétravail idéal</span>
 								</h1>
 								<p className="text-base text-gray-600 w-full md:w-[90%] lg:w-[80%]">
-									&quot;Découvrez notre classement des meilleurs équipements de
+									Découvrez notre classement des meilleurs équipements de
 									télétravail. Nous analysons et comparons les produits de
 									différents fournisseurs pour vous proposer le meilleur choix
 									pour votre équipement. Notre site est conçu pour vous aider à
 									trouver le meilleur équipement pour votre travail, votre vie
-									personnelle et votre environnement.&quot;
+									personnelle et votre environnement.
 								</p>
 							</div>
 						</div>
