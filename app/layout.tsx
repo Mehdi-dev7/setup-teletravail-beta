@@ -48,7 +48,7 @@ export const viewport: Viewport = {
 
 // Métadonnées globales optimisées
 export const metadata: Metadata = {
-	metadataBase: new URL("https://setup-teletravail.fr"),
+	metadataBase: new URL("https://www.setup-teletravail.fr"),
 	title: {
 		default: "Setup Télétravail 2026 | Guide & Comparatif Équipement Home Office",
 		template: "%s | Setup Télétravail",
@@ -74,7 +74,7 @@ export const metadata: Metadata = {
 		"SIHOO",
 		"Logitech MX",
 	],
-	authors: [{ name: "Setup-Teletravail", url: "https://setup-teletravail.fr" }],
+	authors: [{ name: "Setup-Teletravail", url: "https://www.setup-teletravail.fr" }],
 	creator: "Setup-Teletravail",
 	publisher: "Setup-Teletravail",
 	formatDetection: {
@@ -83,12 +83,12 @@ export const metadata: Metadata = {
 		telephone: false,
 	},
 	alternates: {
-		canonical: "https://setup-teletravail.fr",
+		canonical: "https://www.setup-teletravail.fr",
 	},
 	openGraph: {
 		type: "website",
 		locale: "fr_FR",
-		url: "https://setup-teletravail.fr",
+		url: "https://www.setup-teletravail.fr",
 		siteName: "Setup Télétravail",
 		title: "Setup Télétravail 2026 | Guide & Comparatif Équipement Home Office",
 		description:
@@ -140,8 +140,8 @@ const organizationSchema = {
 	"@context": "https://schema.org",
 	"@type": "Organization",
 	name: "Setup Télétravail",
-	url: "https://setup-teletravail.fr",
-	logo: "https://setup-teletravail.fr/logo.png",
+	url: "https://www.setup-teletravail.fr",
+	logo: "https://www.setup-teletravail.fr/logo.png",
 	description:
 		"Guide expert pour équiper votre espace de télétravail avec les meilleurs équipements ergonomiques.",
 	sameAs: [],
@@ -152,7 +152,7 @@ const websiteSchema = {
 	"@context": "https://schema.org",
 	"@type": "WebSite",
 	name: "Setup Télétravail",
-	url: "https://setup-teletravail.fr",
+	url: "https://www.setup-teletravail.fr",
 	description:
 		"Le guide ultime pour équiper votre espace de télétravail en 2026.",
 	publisher: {
@@ -161,7 +161,7 @@ const websiteSchema = {
 	},
 	potentialAction: {
 		"@type": "SearchAction",
-		target: "https://setup-teletravail.fr/recherche?q={search_term_string}",
+		target: "https://www.setup-teletravail.fr/recherche?q={search_term_string}",
 		"query-input": "required name=search_term_string",
 	},
 };
