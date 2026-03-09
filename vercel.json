@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "setup-teletravail.fr"
+        }
+      ],
+      "destination": "https://www.setup-teletravail.fr/:path*",
+      "permanent": true
+    }
+  ]
+}
