@@ -4,7 +4,7 @@
       "id": 1,
       "nom": "Dell UltraSharp U2723QE",
       "marque": "Dell",
-      "prix": 750,
+      "prix": 1015,
       "promo": null,
       "image": "/Img-Ecran/Dell-Ultrasharp/Dell-img-1.avif",
       "images": [
@@ -15,9 +15,9 @@
         "/Img-Ecran/Dell-Ultrasharp/monitor-u2723qe-gallery-6.avif"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/dp/B09RSTWVTP", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/dell-u2723qe", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/dell-u2723qe", "logo": "/logos/fnac.svg" }
+        { "enseigne": "Amazon", "prix": 1015, "url": "https://www.amazon.fr/dp/B09RSTWVTP?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 1050, "url": "https://www.cdiscount.com/dell-u2723qe", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 1100, "url": "https://www.fnac.com/dell-u2723qe", "logo": "/logos/fnac.svg" }
       ],
       "taille": "27 pouces",
       "resolution": "4K UHD (3840x2160)",
@@ -48,7 +48,7 @@
       ],
       "pourQui": "Professionnels exigeants, graphistes, designers, photographes, développeurs, créateurs de contenu qui ont besoin d'une précision des couleurs irréprochable et d'une connectivité USB-C complète.",
       "amazonASIN": "B09RSTWVTP",
-      "amazonURL": "",
+      "amazonURL": "https://www.amazon.fr/dp/B09RSTWVTP?tag=setupteletrav-21",
       "cdiscountURL": "",
       "note": 4.5,
       "nbAvis": 2847,
@@ -56,58 +56,63 @@
     },
     {
       "id": 2,
-      "nom": "BenQ EW3270U",
+      "nom": "BenQ EW3290U",
       "marque": "BenQ",
-      "prix": 450,
+      "prix": 499,
       "promo": null,
-      "image": "/Img-Ecran/Benq-EW3270U/61wpDrsxnkL._AC_SL1200_.jpg",
+      "image": "/Img-Ecran/BENQ-EW3290U/61osv27vc0L._AC_SL1000_.jpg",
       "images": [
-        "/Img-Ecran/Benq-EW3270U/61wpDrsxnkL._AC_SL1200_.jpg",
-        "/Img-Ecran/Benq-EW3270U/51wV57ilvaL._AC_SL1200_.jpg",
-        "/Img-Ecran/Benq-EW3270U/41n9pBQBJ3L._AC_SL1000_.jpg",
-        "/Img-Ecran/Benq-EW3270U/416VsgJW3ZL._AC_SL1024_.jpg",
-        "/Img-Ecran/Benq-EW3270U/712u8jRK19L._AC_SL1500_.jpg"
+        "/Img-Ecran/BENQ-EW3290U/61osv27vc0L._AC_SL1000_.jpg",
+        "/Img-Ecran/BENQ-EW3290U/61BZqS-9ZpL._AC_SL1500_.jpg",
+        "/Img-Ecran/BENQ-EW3290U/61EWQG2Y3KL._AC_SL1500_.jpg",
+        "/Img-Ecran/BENQ-EW3290U/61OdlEfmPEL._AC_SL1500_.jpg",
+        "/Img-Ecran/BENQ-EW3290U/61R9Leih9ML._AC_SL1500_.jpg",
+        "/Img-Ecran/BENQ-EW3290U/713POTjQXDL._AC_SL1500_.jpg",
+        "/Img-Ecran/BENQ-EW3290U/71cVd8hIi2L._AC_SL1500_.jpg",
+        "/Img-Ecran/BENQ-EW3290U/71pf5MWpOtL._AC_SL1500_.jpg",
+        "/Img-Ecran/BENQ-EW3290U/71sZw3T5p2L._AC_SL1500_.jpg",
+        "/Img-Ecran/BENQ-EW3290U/71Vk6t3pJpL._AC_SL1500_.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/BenQ-EW3270U-Pouces-Compatible-MacBook/dp/B07BBRLTRH", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/benq-ew3270u", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/benq-ew3270u", "logo": "/logos/fnac.svg" }
+        { "enseigne": "Amazon", "prix": 499, "url": "https://www.amazon.fr/dp/B0DXJVNHNQ?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 499, "url": "https://www.cdiscount.com/benq-ew3290u", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 509, "url": "https://www.fnac.com/benq-ew3290u", "logo": "/logos/fnac.svg" }
       ],
       "taille": "31.5 pouces",
       "resolution": "4K UHD (3840x2160)",
-      "dalle": "VA",
+      "dalle": "IPS",
       "frequence": "60 Hz",
-      "tempsReponse": "4 ms",
+      "tempsReponse": "5 ms",
       "usbc": true,
       "usbcWatt": null,
-      "hdmi": 2,
+      "hdmi": 3,
       "displayport": 1,
       "hautParleurs": true,
       "reglableHauteur": false,
       "pivot": false,
       "vesa": "100x100",
-      "description": "Le BenQ EW3270U est un excellent choix pour ceux qui recherchent un grand écran 4K à prix contenu. Sa dalle VA de 31.5 pouces offre un contraste élevé de 3000:1 et une couverture de 95% de l'espace colorimétrique DCI-P3, idéale pour le multimédia et la création de contenu. La technologie Brightness Intelligence Plus ajuste automatiquement la luminosité et la température des couleurs en fonction de l'éclairage ambiant et du contenu affiché, optimisant ainsi le confort visuel. Compatible HDR10, l'écran offre une plage dynamique étendue pour des images plus réalistes. Les technologies Eye-Care de BenQ incluent un filtre de lumière bleue et une fonction anti-scintillement pour réduire la fatigue oculaire lors de longues sessions. Les haut-parleurs intégrés 2x2W offrent une qualité audio correcte pour les appels vidéo et le multimédia occasionnel. Le port USB-C permet une connectivité moderne, bien que sans Power Delivery. Seul bémol : l'ergonomie est limitée à l'inclinaison, sans réglage en hauteur.",
+      "description": "Le BenQ EW3290U (2025) est la nouvelle référence pour les écrans 4K grand format orientés multimédia et télétravail. Sa dalle IPS de 31.5 pouces couvre 98% du DCI-P3, offrant des couleurs d'une fidélité exceptionnelle pour la retouche photo, la création de contenu ou tout simplement regarder des films. La technologie AI Contrast adapte intelligemment le contraste en temps réel selon le contenu affiché, là où les anciens modèles avaient un contraste fixe. Le système audio 2.1 intégré avec subwoofer (2x2W + 5W basses) est une rareté sur les écrans de bureau : qualité digne d'enceintes d'entrée de gamme sans encombrement supplémentaire. Trois ports HDMI 2.0 et un DisplayPort 1.4 offrent une connectivité rarement vue sur ce segment. La technologie Brightness Intelligence Plus ajuste luminosité et température de couleur selon l'éclairage ambiant. HDR10 et VESA DisplayHDR 400 garantissent une expérience HDR convaincante.",
       "pointsForts": [
-        "Grand format 32 pouces en 4K à prix très compétitif",
-        "HDR10 avec couverture 95% DCI-P3 pour des couleurs riches",
-        "Brightness Intelligence Plus : ajustement automatique luminosité",
-        "Port USB-C inclus pour connectivité moderne",
-        "Contraste élevé 3000:1 idéal pour les films et contenus sombres",
-        "Haut-parleurs intégrés 2x2W",
-        "Technologies Eye-Care : filtre lumière bleue + anti-scintillement"
+        "98% DCI-P3 : fidélité colorimétrique professionnelle",
+        "AI Contrast : adaptation intelligente du contraste en temps réel",
+        "Système audio 2.1 avec subwoofer intégré (2x2W + 5W basses)",
+        "3 ports HDMI 2.0 + DisplayPort 1.4 : connectivité maximale",
+        "Brightness Intelligence Plus : confort visuel automatique",
+        "HDR10 + VESA DisplayHDR 400",
+        "USB-C pour connectivité moderne"
       ],
       "pointsFaibles": [
-        "Luminosité moyenne de 300 cd/m² (limite pour HDR)",
-        "Réglages ergonomiques limités : inclinaison uniquement",
+        "60Hz seulement (pas adapté au gaming compétitif)",
+        "Pas de réglage en hauteur",
         "USB-C sans Power Delivery (pas de charge laptop)",
-        "Angles de vision limités (dalle VA)"
+        "Prix plus élevé que son prédécesseur"
       ],
-      "pourQui": "Ceux qui veulent un grand écran 4K sans se ruiner, parfait pour multimédia, télétravail, montage vidéo amateur et gaming occasionnel. Excellent compromis prix/qualité pour un usage polyvalent.",
-      "amazonASIN": "B07BBRLTRH",
-      "amazonURL": "",
+      "pourQui": "Créateurs de contenu, photographes, vidéastes, télétravailleurs qui veulent un grand écran 4K précis avec un son intégré de qualité. Le meilleur choix pour un usage multimédia polyvalent en 2025.",
+      "amazonASIN": "B0DXJVNHNQ",
+      "amazonURL": "https://www.amazon.fr/dp/B0DXJVNHNQ?tag=setupteletrav-21",
       "cdiscountURL": "",
-      "note": 4.3,
-      "nbAvis": 1523,
+      "note": 4.4,
+      "nbAvis": 312,
       "badge": "Top Qualité/Prix"
     },
     {
@@ -118,15 +123,15 @@
       "promo": null,
       "image": "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00000ff090_gy.avif",
       "images": [
-        "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00000ff090_gy.avif",
         "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00025lf095_gy.avif",
+        "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00000ff090_gy.avif",
         "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00060lb090_gy.avif",
         "/Img-Ecran/Dell-S2722DC/s2722dc_cfp_00180bf090_gy.avif",
         "/Img-Ecran/Dell-S2722DC/s2722dc_xfp_02_gy.avif",
         "/Img-Ecran/Dell-S2722DC/s2722dc_xfp_04_gy.avif"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/Dell-S2722DC-2560x1440-FreeSync-haut-parleurs/dp/B09CGYHJ84", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/dp/B09CGYHJ84?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
         { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-dell-s2722dc-27-qhd-argent/f-10732-del5397184567609.html", "logo": "/logos/cdiscount.svg" },
         { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-Dell-S2722DC-27-QHD-Argent/a16383041/w-4", "logo": "/logos/fnac.svg" }
       ],
@@ -160,7 +165,7 @@
       ],
       "pourQui": "Télétravailleurs nomades avec laptop, étudiants, freelances qui veulent un setup épuré avec un seul câble USB-C. Parfait pour bureautique intensive, développement, design web et multitâche.",
       "amazonASIN": "B09CGYHJ84",
-      "amazonURL": "",
+      "amazonURL": "https://www.amazon.fr/dp/B09CGYHJ84?tag=setupteletrav-21",
       "cdiscountURL": "",
       "note": 4.4,
       "nbAvis": 3241,
@@ -182,7 +187,7 @@
         "/Img-Ecran/LG-27UP550/DZ-10.avif"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/LG-27UP550-W-Moniteur-Polyvalent-Diagnostic/dp/B09WJB6ZDF", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/dp/B09WJB6ZDF?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
         { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/LG-27UL550P-W-27-4K", "logo": "/logos/cdiscount.svg" },
         { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-LG-27UL550P-W-27-4K-UHD-Blanc-et-Noir/a17866930/w-4", "logo": "/logos/fnac.svg" }
       ],
@@ -216,8 +221,8 @@
         "Luminosité moyenne 350 cd/m²"
       ],
       "pourQui": "Utilisateurs cherchant du 4K abordable pour setup fixe (PC tour), photographes amateurs, monteurs vidéo, gamers occasionnels. Bon choix pour configuration double écran 4K sans USB-C.",
-      "amazonASIN": "B08CVTTNN4",
-      "amazonURL": "",
+      "amazonASIN": "B09WJB6ZDF",
+      "amazonURL": "https://www.amazon.fr/dp/B09WJB6ZDF?tag=setupteletrav-21",
       "cdiscountURL": "",
       "note": 4.2,
       "nbAvis": 987,
@@ -227,7 +232,7 @@
       "id": 5,
       "nom": "AOC U27B3AF",
       "marque": "AOC",
-      "prix": 180,
+      "prix": 198,
       "promo": null,
       "image": "/Img-Ecran/AOC-U27B3AF/71CXOAMPPWL._AC_SL1500_.jpg",
       "images": [
@@ -239,9 +244,9 @@
         
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/AOC-U27B3AF-Haut-parleurs-3840x2160-DisplayPort/dp/B0D7CPG879?th=1", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-27-pouces-full-hd-processeur-rapide-design/f-10732-aoc1719796094756.html", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/mp50891470/Ecran-PC-AOC-U27B3AF-27-LED-IPS-UltraHD-4K/w-4", "logo": "/logos/fnac.svg" }
+        { "enseigne": "Amazon", "prix": 198, "url": "https://www.amazon.fr/dp/B0D7CPG879?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 230, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-27-pouces-full-hd-processeur-rapide-design/f-10732-aoc1719796094756.html", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 250, "url": "https://www.fnac.com/mp50891470/Ecran-PC-AOC-U27B3AF-27-LED-IPS-UltraHD-4K/w-4", "logo": "/logos/fnac.svg" }
       ],
       "taille": "27 pouces",
       "resolution": "4K UHD (3840x2160)",
@@ -274,8 +279,8 @@
         "Contraste IPS standard 1000:1"
       ],
       "pourQui": "Budget serré, premier écran 4K, étudiants, télétravail bureautique simple, navigation web et multimédia. Pas adapté aux professionnels de l'image mais parfait pour débuter en 4K sans se ruiner.",
-      "amazonASIN": "B0BZS1T5YL",
-      "amazonURL": "",
+      "amazonASIN": "B0D7CPG879",
+      "amazonURL": "https://www.amazon.fr/dp/B0D7CPG879?tag=setupteletrav-21",
       "cdiscountURL": "",
       "note": 4.1,
       "nbAvis": 654,
@@ -286,9 +291,9 @@
   "ultrawide": [
     {
       "id": 6,
-      "nom": "Samsung Odyssey G9 49\"",
+      "nom": "Samsung Odyssey OLED G9 49\"",
       "marque": "Samsung",
-      "prix": 950,
+      "prix": 1300,
       "promo": null,
       "image": "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-546004902.avif",
       "images": [
@@ -297,53 +302,50 @@
         "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-545895884.avif",
         "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-545895889.avif",
         "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-545896167.avif"
-        
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/Samsung-LS49CG954EUXEN-SAMSUNG-Odyssey-S49CG954EU/dp/B0CDTVTFFS/ref=sr_1_1?dib=eyJ2IjoiMSJ9.r3j2XtYpwTtYI5Dn6xXbv24j7uCO_fZXyCiE6VAajjtn0sbmtc5pcuqaA4jBu-hiXoj3u3QzLbr57NFtODeweEeomDp3IPxVVu0FE-UJxUfu-jYuHkoWbDVuELpSGd_wHhkyYqROdZzKVZIrIWQhpst3B_viUCigEEY2oKsb751OYm03EHQecw0T4owkrUd7hCaz8m7ynwd4mutaZ3OyoOTUOy28uQAP0xqzifyWTfsdFLHW-2Y8wL42DhgLcuMQoqRz4AeCp5T3KOGLKcxLjLNeUDCwt5XRAc_WGLEUn7I.JgUk_YixiSqIY644akXBiZVQnfRAsyr_auYZlOu8DNg&dib_tag=se&keywords=samsung%2Bg9&qid=1768673746&sr=8-1&th=1", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-gamer-incurve-samsung-49-dual-qhd/f-10732-sam1736554516206.html#mpos=1|mp", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-Samsung-Odyssey-G9-49-Incurve-QLED-Noir/a15695128/w-4", "logo": "/logos/fnac.svg" }
+        { "enseigne": "Amazon", "prix": 1300, "url": "https://www.amazon.fr/dp/B0C9YN84Q9?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 1350, "url": "#", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 1380, "url": "#", "logo": "/logos/fnac.svg" }
       ],
       "taille": "49 pouces",
       "resolution": "DQHD (5120x1440)",
       "ratio": "32:9",
-      "dalle": "VA Incurvée 1000R",
+      "dalle": "OLED Incurvée 1800R",
       "frequence": "240 Hz",
-      "tempsReponse": "1 ms (GTG)",
-      "usbc": false,
-      "usbcWatt": 0,
+      "tempsReponse": "0.03 ms",
+      "usbc": true,
+      "usbcWatt": 90,
       "hdmi": 2,
       "displayport": 1,
       "hautParleurs": false,
       "reglableHauteur": true,
       "pivot": false,
       "vesa": "100x100",
-      "description": "Le Samsung Odyssey G9 49 pouces est un mastodonte gaming qui repousse les limites de l'immersion. Sa résolution Dual QHD (5120x1440) en format 32:9 équivaut littéralement à deux écrans 27 pouces QHD côte à côte sans bordure centrale. La courbure extrême 1000R enveloppe complètement votre champ de vision périphérique pour une immersion totale dans les jeux et simulations. Avec un taux de rafraîchissement de 240Hz et un temps de réponse de 1ms, c'est l'écran gaming ultime pour les compétiteurs exigeants. La certification HDR1000 (1000 cd/m² en pic) offre un contraste époustouflant et des highlights éclatants. Le Quantum Dot (QLED) couvre 95% de l'espace DCI-P3 pour des couleurs vibrantes. AMD FreeSync Premium Pro et G-Sync Compatible éliminent toute déchirure. L'éclairage arrière Infinity Core Lighting s'adapte au contenu à l'écran. Le pied métallique robuste permet un réglage en hauteur et inclinaison. Attention : cet écran nécessite un bureau profond (80cm min) et une carte graphique puissante (RTX 3080+ recommandée pour exploiter les 240Hz en 5120x1440). Un investissement conséquent mais une expérience gaming inégalée.",
+      "description": "Le Samsung Odyssey OLED G9 49 pouces représente l'aboutissement ultime de l'écran gaming ultra-wide. En passant de la dalle VA à l'OLED, Samsung a franchi une frontière technologique majeure : chaque pixel génère sa propre lumière et peut s'éteindre totalement, offrant un contraste infini 1 000 000:1 et des noirs absolus impossibles à obtenir avec une dalle LCD classique. Le temps de réponse de 0.03ms élimine définitivement tout flou de mouvement — 33 fois plus rapide que les meilleures dalles VA. La résolution DQHD (5120x1440) en format 32:9 équivaut à deux écrans 27 pouces QHD côte à côte, sans bordure centrale qui coupe l'immersion. La courbure 1800R épouse votre champ de vision périphérique pour une immersion totale. Les 240Hz garantissent une fluidité cristalline en gaming compétitif. La compatibilité simultanée FreeSync Premium Pro ET G-Sync assure une compatibilité universelle. Le port USB-C 90W permet de connecter et charger un laptop avec un seul câble. Core Lighting+ synchronise l'éclairage ambiant avec le contenu. DisplayHDR True Black 400 exploite pleinement la technologie OLED. Un monument du gaming. Attention : nécessite bureau profond 80cm+ et GPU puissant (RTX 4080+ pour les 240Hz en natif).",
       "pointsForts": [
-        "Format 32:9 unique : équivalent 2 écrans 27\" QHD sans bordure",
-        "240Hz + 1ms GTG : performances gaming exceptionnelles",
-        "Courbure 1000R extrême : immersion totale champ vision",
-        "HDR1000 certifié : 1000 cd/m² en pic, contraste époustouflant",
-        "Quantum Dot 95% DCI-P3 : couleurs vibrantes et précises",
-        "FreeSync Premium Pro + G-Sync Compatible",
-        "Infinity Core Lighting : éclairage arrière ambiance",
-        "Construction premium : pied métal réglable hauteur"
+        "Dalle OLED : contraste infini, noirs absolus, couleurs sublimes",
+        "0.03ms : 33x plus rapide que les meilleures VA, zéro flou",
+        "Format 32:9 : équivalent 2 écrans 27\" QHD sans bordure",
+        "240Hz + FreeSync Premium Pro + G-Sync : gaming ultime",
+        "USB-C 90W : charge + vidéo + data en un câble",
+        "DisplayHDR True Black 400 : HDR OLED authentique",
+        "Core Lighting+ : éclairage synchronisé au contenu",
+        "Pied ergonomique : hauteur + inclinaison + rotation"
       ],
       "pointsFaibles": [
-        "Prix très élevé (~950€)",
-        "Nécessite bureau très profond (80cm min)",
-        "Carte graphique puissante obligatoire (RTX 3080+ pour 240Hz)",
-        "Pas d'USB-C ni de haut-parleurs",
-        "Consommation électrique élevée",
-        "Courbure 1000R peut nécessiter adaptation",
-        "Pas adapté au travail de précision (retouche photo pro)"
+        "Prix très élevé (~1300€)",
+        "Risque de burn-in OLED (usage statique prolongé)",
+        "Nécessite bureau profond 80cm minimum",
+        "GPU puissant requis (RTX 4080+ pour 240Hz natif)",
+        "Consommation électrique élevée"
       ],
-      "pourQui": "Gamers hardcore, streamers professionnels, pilotes sim racing/flight sim, joueurs compétitifs FPS/MOBA qui veulent l'immersion et les performances ultimes. Nécessite setup puissant et espace bureau conséquent.",
-      "amazonASIN": "B088HH6MT1",
-      "amazonURL": "",
+      "pourQui": "Gamers ultra-exigeants, streamers professionnels, sim racers, créateurs de contenu qui veulent l'expérience visuelle absolue. Setup haut de gamme assumé. L'écran ultime pour ceux qui ne font aucun compromis.",
+      "amazonASIN": "B0C9YN84Q9",
+      "amazonURL": "https://www.amazon.fr/dp/B0C9YN84Q9?tag=setupteletrav-21",
       "cdiscountURL": "",
-      "note": 4.5,
-      "nbAvis": 3842,
+      "note": 4.7,
+      "nbAvis": 1243,
       "badge": "Gaming Ultime"
     },
   
@@ -364,7 +366,7 @@
         
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/Dell-S3423Dwc-Pixels-W128273773-Black/dp/B0BQNGV8Z4?th=1", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/dp/B0BQNGV8Z4?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
         { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-dell-s3423dwc-34-incurve-wqhd-noir-et-ar/f-10732-del5397184656891.html", "logo": "/logos/cdiscount.svg" },
         { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-Dell-S3423DWC-34-Incurve-WQHD-Noir-et-argent/a16959809/w-4", "logo": "/logos/fnac.svg" }
       ],
@@ -398,8 +400,8 @@
         "Pas de pivot (normal pour ultrawide)"
       ],
       "pourQui": "Télétravailleurs voulant remplacer 2 écrans par un seul, développeurs, traders, analystes de données, créateurs de contenu. Parfait pour multitâche intensif avec solution USB-C élégante.",
-      "amazonASIN": "B09VH8B1XW",
-      "amazonURL": "",
+      "amazonASIN": "B0BQNGV8Z4",
+      "amazonURL": "https://www.amazon.fr/dp/B0BQNGV8Z4?tag=setupteletrav-21",
       "cdiscountURL": "",
       "note": 4.4,
       "nbAvis": 1876,
@@ -407,22 +409,24 @@
     },
     {
       "id": 8,
-      "nom": "Samsung Odyssey G5 34\"",
+      "nom": "Samsung Odyssey G55T 34\"",
       "marque": "Samsung",
-      "prix": 300,
+      "prix": 222,
       "promo": null,
-      "image": "/Img-Ecran/Samsung-g5/n-africa-odyssey-g5-34g5-lc34g55twwmxzn-422904076.avif",
+      "image": "/Img-Ecran/Samsung-Odyssey-G5ST/71L+-W15Z4L._AC_SL1500_.jpg",
       "images": [
-        "/Img-Ecran/Samsung-g5/n-africa-odyssey-g5-34g5-lc34g55twwmxzn-422904076.avif",
-        "/Img-Ecran/Samsung-g5/n-africa-odyssey-g5-34g5-lc34g55twwmxzn-422904061.avif",
-        "/Img-Ecran/Samsung-g5/n-africa-odyssey-g5-34g5-lc34g55twwmxzn-422904063.png",
-        "/Img-Ecran/Samsung-g5/n-africa-odyssey-g5-34g5-lc34g55twwmxzn-422904060.avif"
-        
+        "/Img-Ecran/Samsung-Odyssey-G5ST/71L+-W15Z4L._AC_SL1500_.jpg",
+        "/Img-Ecran/Samsung-Odyssey-G5ST/51qZjVnUjbL._AC_SL1500_.jpg",
+        "/Img-Ecran/Samsung-Odyssey-G5ST/61DxK9L5PEL._AC_SL1500_.jpg",
+        "/Img-Ecran/Samsung-Odyssey-G5ST/71jCU++n7sL._AC_SL1500_.jpg",
+        "/Img-Ecran/Samsung-Odyssey-G5ST/71u-Ho3IPvL._AC_SL1500_.jpg",
+        "/Img-Ecran/Samsung-Odyssey-G5ST/71W5zhcrRpL._AC_SL1500_.jpg",
+        "/Img-Ecran/Samsung-Odyssey-G5ST/817OlDnK-AL._AC_SL1500_.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/SAMSUNG-ODYSSEY-Incurv%C3%A9-R%C3%A9solution-FreeSync/dp/B08SW435V5?th=1", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-gamer-incurve-samsung-34-uwqhd-1/f-10732-sam8806094796315.html#mpos=1|cd", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-Samsung-Odyssey-G5-G55T-34-Incurve-UWQHD-Noir/a17601761/w-4", "logo": "/logos/fnac.svg" }
+        { "enseigne": "Amazon", "prix": 222, "url": "https://www.amazon.fr/dp/B0BRL8B5L5?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 242, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-gamer-incurve-samsung-34-uwqhd-1/f-10732-sam8806094796315.html#mpos=1|cd", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 250, "url": "https://www.fnac.com/Ecran-PC-Samsung-Odyssey-G5-G55T-34-Incurve-UWQHD-Noir/a17601761/w-4", "logo": "/logos/fnac.svg" }
       ],
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
@@ -438,29 +442,28 @@
       "reglableHauteur": false,
       "pivot": false,
       "vesa": "100x100",
-      "description": "Le Samsung Odyssey G5 34 pouces offre un rapport qualité/prix imbattable pour entrer dans le monde de l'ultrawide. Sa courbure très prononcée 1000R (rayon de 1 mètre) enveloppe complètement votre champ de vision pour une immersion maximale, idéale pour les jeux et les films. La résolution UWQHD (3440x1440) offre un niveau de détail excellent sur ce format 21:9. Avec un taux de rafraîchissement de 165Hz et un temps de réponse de 1ms, c'est un écran taillé pour le gaming compétitif. AMD FreeSync Premium élimine les déchirures et saccades. La technologie HDR10 améliore le contraste et les couleurs pour des images plus réalistes. Les modes Eye Saver et Flicker Free protègent vos yeux lors de longues sessions. Attention cependant : l'ergonomie est limitée à l'inclinaison (pas de réglage en hauteur ni de pivot), et il n'y a pas d'USB-C. Malgré ces limitations, c'est un choix excellent pour les gamers et télétravailleurs à budget serré qui veulent découvrir l'ultrawide sans compromis sur les performances.",
+      "description": "Le Samsung Odyssey G55T (2023) est le meilleur rapport qualité/prix pour entrer dans l'ultrawide UWQHD. Sa courbure 1000R enveloppe totalement le champ de vision pour une immersion intense, que ce soit en jeu ou pour travailler avec plusieurs fenêtres côte à côte. La résolution UWQHD (3440x1440) est le sweet spot du format 21:9 : suffisamment dense pour des textes nets et assez de pixels pour une vraie immersion. Les 165Hz avec temps de réponse 1ms (MPRT) en font un redoutable écran gaming, eliminant ghosting et flou de mouvement. AMD FreeSync Premium garantit une fluidité parfaite sans déchirure d'image. HDR10 offre une plage dynamique étendue. Comparé à l'ancien G5 (2020), le G55T apporte une meilleure calibration usine, une luminosité améliorée à 300 cd/m² et une électronique plus récente. Un choix difficile à battre à ce prix pour les gamers ultrawide.",
       "pointsForts": [
-        "Prix ultra-compétitif pour de l'ultrawide UWQHD",
-        "Courbure 1000R très immersive (rayon 1m)",
-        "165Hz + 1ms : performances gaming excellentes",
-        "AMD FreeSync Premium pour fluidité parfaite",
-        "HDR10 pour contraste amélioré",
-        "Eye Saver + Flicker Free : confort visuel",
-        "Design gaming moderne avec éclairage arrière"
+        "Meilleur rapport qualité/prix ultrawide UWQHD 2023",
+        "Courbure 1000R très immersive",
+        "165Hz + 1ms : gaming compétitif sans compromis",
+        "AMD FreeSync Premium : fluidité parfaite",
+        "HDR10 pour contraste dynamique amélioré",
+        "Eye Saver + Flicker Free : confort lors des longues sessions",
+        "Prix ultra-compétitif pour du UWQHD"
       ],
       "pointsFaibles": [
-        "Ergonomie très limitée : inclinaison uniquement",
-        "Pas d'USB-C (uniquement HDMI + DP)",
+        "Ergonomie limitée : inclinaison uniquement",
+        "Pas d'USB-C",
         "Pas de haut-parleurs intégrés",
-        "Luminosité moyenne 250 cd/m²",
-        "Courbure 1000R peut nécessiter adaptation"
+        "Courbure 1000R : nécessite un bureau profond"
       ],
-      "pourQui": "Gamers budget serré, streamers débutants, télétravailleurs qui veulent un grand espace de travail immersif. Excellent compromis gaming + productivité à prix mini.",
-      "amazonASIN": "B09JBLHBWJ",
-      "amazonURL": "",
+      "pourQui": "Gamers à budget maîtrisé, télétravailleurs qui veulent un grand espace de travail immersif en 21:9, streamers débutants. Le choix évident pour découvrir l'ultrawide UWQHD sans vider le portefeuille.",
+      "amazonASIN": "B0BRL8B5L5",
+      "amazonURL": "https://www.amazon.fr/dp/B0BRL8B5L5?tag=setupteletrav-21",
       "cdiscountURL": "",
-      "note": 4.3,
-      "nbAvis": 2134,
+      "note": 4.4,
+      "nbAvis": 1876,
       "badge": "Top Qualité/Prix"
     },
     {
@@ -480,7 +483,7 @@
         
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/BenQ-EX3410R-Ultrawide-FreeSync-t%C3%A9l%C3%A9commande/dp/B09R6W6F8X?th=1", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/dp/B09R6W6F8X?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
         { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/benq-mobiuz-ex3210u-moniteur-de-jeu-32-4k-144hz/f-10732-ben4718755077098.html#mpos=1|mp", "logo": "/logos/cdiscount.svg" },
         { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/mp46659244/BenQ-Mobiuz-EX3410R-Ecran-LED-incurve-34-3440-x-1440-UWQHD-144-Hz-VA-350-cd-m-3000-1-DisplayHDR-400-1-ms-2xHDMI-DisplayPort-haut-parleurs-avec-subwoofer/w-4", "logo": "/logos/fnac.svg" }
       ],
@@ -515,8 +518,8 @@
         "Nécessite espace bureau conséquent (34 pouces incurvé)"
       ],
       "pourQui": "Gamers exigeants, streamers, créateurs de contenu qui veulent la meilleure expérience audiovisuelle immersive. Idéal pour ceux qui veulent un écran gaming premium sans avoir besoin d'enceintes externes.",
-      "amazonASIN": "B09CDMW3Y1",
-      "amazonURL": "",
+      "amazonASIN": "B09R6W6F8X",
+      "amazonURL": "https://www.amazon.fr/dp/B09R6W6F8X?tag=setupteletrav-21",
       "cdiscountURL": "",
       "note": 4.6,
       "nbAvis": 743,
@@ -524,62 +527,62 @@
     },
     {
       "id": 10,
-      "nom": "LG 34WN650-W",
+      "nom": "LG 34WP65CP-B",
       "marque": "LG",
-      "prix": 240,
+      "prix": 280,
       "promo": null,
-      "image": "/Img-Ecran/LG-34WN650/71rWzZyWbtL._AC_SX679_.jpg",
+      "image": "/Img-Ecran/LG_34WN650-W/61MWJW4UT9L._AC_SL1500_.jpg",
       "images": [
-        "/Img-Ecran/LG-34WN650/71rWzZyWbtL._AC_SX679_.jpg",
-        "/Img-Ecran/LG-34WN650/51cPDse3B1L._AC_SL1012_.jpg",
-        "/Img-Ecran/LG-34WN650/51loj4paPZL._AC_SX679_.jpg",
-        "/Img-Ecran/LG-34WN650/51vZ80FV3AL._AC_SX679_.jpg",
-        "/Img-Ecran/LG-34WN650/61f-S+l1uiL._AC_SX679_.jpg",
-        "/Img-Ecran/LG-34WN650/61SVkEvSxtL._AC_SX679_.jpg"
-        
+        "/Img-Ecran/LG_34WN650-W/61MWJW4UT9L._AC_SL1500_.jpg",
+        "/Img-Ecran/LG_34WN650-W/41ZQAdDX70L._AC_SL1500_.jpg",
+        "/Img-Ecran/LG_34WN650-W/51G9sUGqAPL._AC_.jpg",
+        "/Img-Ecran/LG_34WN650-W/61agSHAbbvL._AC_.jpg",
+        "/Img-Ecran/LG_34WN650-W/61eYUYEH30L._AC_.jpg",
+        "/Img-Ecran/LG_34WN650-W/61nB6Y8QJvL._AC_SL1500_.jpg",
+        "/Img-Ecran/LG_34WN650-W/61rbDj4G9SL._AC_SL1500_.jpg",
+        "/Img-Ecran/LG_34WN650-W/71GQigBI8WL._AC_SL1500_.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/LG-UltraWide-34WN650-W-Moniteur-2560x1080/dp/B086BJ6PWZ?th=1", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/lg-ultrawide-monitor-34wq650-w-34wq650w-34wq650-w/f-10732-lg1750171559982.html", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-LG-UltraWide-34WN650-W-34-LED-UWFHD-Blanc/a14998259/w-4", "logo": "/logos/fnac.svg" }
+        { "enseigne": "Amazon", "prix": 280, "url": "https://www.amazon.fr/dp/B08VRJW976?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 289, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/lg-ultrawide-monitor-34wq650-w-34wq650w-34wq650-w/f-10732-lg1750171559982.html", "logo": "/logos/cdiscount.svg" },
+        { "enseigne": "Fnac", "prix": 295, "url": "https://www.fnac.com/Ecran-PC-LG-UltraWide-34WP65CP-B/a17000000/w-4", "logo": "/logos/fnac.svg" }
       ],
       "taille": "34 pouces",
-      "resolution": "UWFHD (2560x1080)",
+      "resolution": "UWQHD (3440x1440)",
       "ratio": "21:9",
-      "dalle": "IPS",
-      "frequence": "75 Hz",
+      "dalle": "IPS Incurvée",
+      "frequence": "160 Hz",
       "tempsReponse": "5 ms",
-      "usbc": false,
-      "usbcWatt": 0,
+      "usbc": true,
+      "usbcWatt": null,
       "hdmi": 2,
       "displayport": 1,
       "hautParleurs": true,
       "reglableHauteur": false,
       "pivot": false,
       "vesa": "100x100",
-      "description": "Le LG 34WN650-W est l'option parfaite pour découvrir l'ultrawide sans investissement massif. Sa résolution UWFHD (2560x1080) en format 21:9 offre une surface d'affichage étendue idéale pour le multitâche et la bureautique. La dalle IPS garantit des angles de vision larges de 178° et une couverture de 99% du spectre sRGB pour des couleurs fidèles. Compatible HDR10, l'écran affiche une plage dynamique améliorée pour les contenus compatibles. Le mode Reader réduit la lumière bleue et ajuste la température des couleurs pour un confort de lecture prolongé. AMD FreeSync à 75Hz assure une fluidité correcte pour le gaming occasionnel. Les haut-parleurs intégrés 2x7W offrent une puissance audio supérieure à la moyenne pour un écran. L'écran plat (non incurvé) facilite le placement sur un bureau et convient mieux aux petits espaces. Le mode OnScreen Control permet de gérer facilement plusieurs écrans et de personnaliser l'affichage. Attention : la résolution UWFHD est moins dense que l'UWQHD, donc moins adaptée au travail de précision.",
+      "description": "Le LG 34WP65CP-B représente une vraie évolution par rapport aux anciens ultrawide entry-level. Là où son prédécesseur (LG 34WN650) proposait seulement du UWFHD (2560x1080), ce modèle passe au UWQHD (3440x1440) : 78% de pixels supplémentaires pour des textes et images nettement plus nets sur cette grande diagonale. La dalle IPS garantit des angles de vision larges et des couleurs précises avec 99% sRGB. Avec 160Hz et FreeSync Premium, cet écran convient aussi bien au gaming qu'à la productivité intense. Le port USB-C simplifie la connexion d'un laptop moderne avec un seul câble. Les haut-parleurs intégrés 2x7W sont généreux pour un écran. L'écran légèrement incurvé offre une meilleure immersion qu'un écran plat tout en restant adapté au travail de précision. Idéal pour passer au 21:9 sans sacrifier la netteté des textes.",
       "pointsForts": [
-        "Prix entry-level pour découvrir l'ultrawide 34 pouces",
-        "Dalle IPS : angles de vision 178° + 99% sRGB",
-        "HDR10 + mode Reader pour confort lecture",
-        "Haut-parleurs 2x7W : puissance audio au-dessus moyenne",
-        "75Hz + FreeSync : fluidité gaming casual",
-        "Écran plat : meilleure intégration petits bureaux",
-        "OnScreen Control : gestion multi-écrans facile"
+        "UWQHD (3440x1440) : vraie netteté sur 34 pouces, +78% pixels vs UWFHD",
+        "Dalle IPS : 178° angles de vision, 99% sRGB, couleurs fidèles",
+        "160Hz + FreeSync Premium : gaming et scrolling ultra-fluide",
+        "USB-C pour connectivité moderne avec un seul câble",
+        "Haut-parleurs intégrés 2x7W au-dessus de la moyenne",
+        "HDR10 pour plage dynamique améliorée",
+        "Prix compétitif pour du UWQHD IPS"
       ],
       "pointsFaibles": [
-        "Résolution UWFHD moins dense que UWQHD",
-        "Pas d'USB-C",
-        "Pas de réglage hauteur ni de pivot",
-        "Contraste IPS standard 1000:1",
-        "Pas adapté travail précision (retouche photo/vidéo pro)"
+        "Pas de réglage en hauteur ni pivot",
+        "USB-C sans Power Delivery confirmé",
+        "Contraste IPS standard 1000:1 (moins bon qu'un VA)",
+        "5ms : moins réactif que les dalles VA gaming"
       ],
-      "pourQui": "Premier ultrawide à budget limité, multimédia, bureautique étendue, gaming casual. Parfait pour ceux qui veulent tester l'ultrawide avant d'investir dans du UWQHD haut de gamme.",
-      "amazonASIN": "B07YGZ7C1K",
-      "amazonURL": "",
+      "pourQui": "Télétravailleurs qui veulent un vrai ultrawide UWQHD sans exploser le budget, utilisateurs de laptop avec USB-C, multitâche intensif, webdesign. Le meilleur ultrawide entrée de gamme pour ne pas regretter sa résolution.",
+      "amazonASIN": "B08VRJW976",
+      "amazonURL": "https://www.amazon.fr/dp/B08VRJW976?tag=setupteletrav-21",
       "cdiscountURL": "",
-      "note": 4.2,
-      "nbAvis": 1456,
+      "note": 4.3,
+      "nbAvis": 987,
       "badge": "Entry-level"
     }
   ]

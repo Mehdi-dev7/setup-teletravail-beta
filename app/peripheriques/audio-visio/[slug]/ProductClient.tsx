@@ -9,6 +9,10 @@ import AudioVisioData from "@/JsonData/JsonAudioVisio/AudioVisioData.json";
 type AudioItem = (typeof AudioVisioData.audio)[0];
 type VisioItem = (typeof AudioVisioData.visio)[0];
 
+// Formate un prix en format français : 159.99 → "159,99 €", 219 → "219 €"
+const formatPrix = (prix: number) =>
+	prix.toLocaleString("fr-FR", { style: "currency", currency: "EUR", minimumFractionDigits: 0 });
+
 export default function AudioVisioClient({ slug }: { slug: string }) {
 	const id = slug;
 
@@ -356,7 +360,7 @@ export default function AudioVisioClient({ slug }: { slug: string }) {
 										</div>
 										<div className="flex items-center gap-3">
 											<span className="text-base xs:text-xl sm:text-2xl font-bold text-(--prim)">
-												{priceItem.prix}€
+												{formatPrix(priceItem.prix)}
 											</span>
 											<i className="ri-external-link-line text-gray-400 group-hover:text-(--prim) transition-colors"></i>
 										</div>
@@ -624,7 +628,7 @@ export default function AudioVisioClient({ slug }: { slug: string }) {
 							<p className="text-gray-700">
 								Le {item.name} se distingue par ses points forts : {item.prosAndCons.pros.slice(0, 2).join(", ").toLowerCase()}.
 								Avec une note de {item.ratings.overall}/5 basée sur {item.ratings.reviewCount} avis, il s&apos;impose comme un choix fiable pour les télétravailleurs exigeants.
-								Son prix de {item.price.amazon.current}€ offre un excellent rapport qualité-prix pour un {isAudio ? "casque audio" : "webcam"} de cette gamme.
+								Son prix de {formatPrix(item.price.amazon.current)} offre un excellent rapport qualité-prix pour un {isAudio ? "casque audio" : "webcam"} de cette gamme.
 							</p>
 						</div>
 					</div>
@@ -647,7 +651,7 @@ export default function AudioVisioClient({ slug }: { slug: string }) {
 							className="bg-(--prim) text-white text-sm xs:text-base px-4 xs:px-8 py-2 xs:py-4 rounded-full font-semibold hover:opacity-90 transition-all flex items-center justify-center gap-2"
 						>
 							<i className="ri-shopping-cart-line"></i>
-							Voir sur {prixEnseignes[0]?.enseigne} - {prixEnseignes[0]?.prix}€
+							Voir sur {prixEnseignes[0]?.enseigne} - {formatPrix(prixEnseignes[0]?.prix ?? 0)}
 						</a>
 						<Link
 							href="/peripheriques/audio-visio"

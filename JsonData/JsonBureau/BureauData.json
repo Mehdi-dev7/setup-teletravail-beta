@@ -15,20 +15,20 @@
         "/Img-Bureau/Flexispot-E7/img-4.avif",
         "/Img-Bureau/Flexispot-E7/img-5.avif",
         "/Img-bureau/Flexispot-E7/1028_file_e7b-pro-2026-5.avif"
-        
+
       ],
       "prixEnseignes": [
         {
-          "enseigne": "FlexiSpot",
-          "prix": 549,
-          "url": "https://www.flexispot.fr/nouvelle-generation-bureau-assis-debout-electrique-e7pro",
-          "logo": "/logos/flexispot.svg"
-        },
-        {
           "enseigne": "Amazon",
           "prix": 569,
-          "url": "https://www.amazon.fr/dp/B08FBR68RG",
+          "url": "https://www.amazon.fr/dp/B08FBR68RG?tag=setupteletrav-21",
           "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Cdiscount",
+          "prix": 569,
+          "url": "#",
+          "logo": "/logos/cdiscount.svg"
         }
       ],
       "dimensions": "120x60 cm / 140x70 cm / 160x80 cm",
@@ -62,17 +62,17 @@
       ],
       "pourQui": "Professionnels exigeants, télétravailleurs intensifs, créateurs de contenu avec setups lourds (multi-écrans, équipement pro), personnes cherchant le meilleur bureau longue durée. Investissement premium mais qui dure 10-15 ans minimum.",
       "amazonASIN": "B08FBR68RG",
-      "amazonURL": "",
-      "cdiscountURL": "",
+      "amazonURL": "https://www.amazon.fr/dp/B08FBR68RG?tag=setupteletrav-21",
+      "cdiscountURL": "#",
       "note": 4.7,
       "nbAvis": 4523,
       "badge": "Premium"
     },
     {
       "id": 2,
-      "nom": "FEZIBO 140x60 cm",
+      "nom": "FEZIBO 140x70 cm",
       "marque": "FEZIBO",
-      "prix": 220,
+      "prix": 159.99,
       "promo": null,
       "image": "/Img-Bureau/Fezibo-140/img-p.jpg",
       "images": [
@@ -86,14 +86,14 @@
       "prixEnseignes": [
         {
           "enseigne": "Amazon",
-          "prix": 219,
-          "url": "https://www.amazon.fr/dp/B0C9JGVG61",
+          "prix": 159.99,
+          "url": "https://www.amazon.fr/dp/B0C9JGVG61?tag=setupteletrav-21",
           "logo": "/logos/amazon.svg"
         },
         {
           "enseigne": "Cdiscount",
           "prix": 239,
-          "url": "https://www.cdiscount.com/fezibo-bureau",
+          "url": "#",
           "logo": "/logos/cdiscount.svg"
         }
       ],
@@ -128,8 +128,8 @@
       ],
       "pourQui": "Budget serré, premier bureau assis-debout, étudiants, télétravail standard, gamers occasionnels, petits espaces. Parfait pour tester le concept sans investissement massif. Setup classique 1-2 écrans.",
       "amazonASIN": "B0C9JGVG61",
-      "amazonURL": "",
-      "cdiscountURL": "",
+      "amazonURL": "https://www.amazon.fr/dp/B0C9JGVG61?tag=setupteletrav-21",
+      "cdiscountURL": "#",
       "note": 4.4,
       "nbAvis": 8932,
       "badge": "Top Qualité/Prix"
@@ -138,7 +138,7 @@
       "id": 3,
       "nom": "SANODESK QS1",
       "marque": "SANODESK",
-      "prix": 200,
+      "prix": 129,
       "promo": null,
       "image": "/Img-Bureau/Sanodesk-QS1/img-p.jpg",
       "images": [
@@ -151,9 +151,15 @@
       "prixEnseignes": [
         {
           "enseigne": "Amazon",
-          "prix": 199,
-          "url": "https://www.amazon.fr/dp/B08CVTTNN4",
+          "prix": 129,
+          "url": "https://amzn.to/4uFcr78",
           "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Cdiscount",
+          "prix": 199,
+          "url": "#",
+          "logo": "/logos/cdiscount.svg"
         }
       ],
       "dimensions": "110x54 cm / 120x60 cm",
@@ -188,8 +194,8 @@
       ],
       "pourQui": "Étudiants, premier emploi, petits budgets, petits espaces (studio, chambre), setup minimaliste laptop + 1 écran, télétravail occasionnel. Pas adapté aux professionnels avec setups lourds.",
       "amazonASIN": "B08CVTTNN4",
-      "amazonURL": "",
-      "cdiscountURL": "",
+      "amazonURL": "https://amzn.to/4uFcr78",
+      "cdiscountURL": "#",
       "note": 4.1,
       "nbAvis": 2156,
       "badge": "Entrée de gamme"
@@ -198,7 +204,7 @@
       "id": 4,
       "nom": "MAIDeSITe SN1",
       "marque": "MAIDeSITe",
-      "prix": 350,
+      "prix": 299,
       "promo": null,
       "image": "/Img-Bureau/Maidesite-SN1/img-p.jpg",
       "images": [
@@ -209,9 +215,15 @@
       "prixEnseignes": [
         {
           "enseigne": "Amazon",
-          "prix": 349,
-          "url": "https://www.amazon.fr/dp/B09RSTWVTP",
+          "prix": 299,
+          "url": "https://amzn.to/4cMRWid",
           "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Cdiscount",
+          "prix": 349,
+          "url": "#",
+          "logo": "/logos/cdiscount.svg"
         }
       ],
       "dimensions": "120x60 cm / 140x70 cm",
@@ -245,8 +257,8 @@
       ],
       "pourQui": "Professionnels exigeants avec budget raisonnable, freelances, développeurs, designers, créateurs de contenu. Setup complet avec 2-3 écrans. Cherche durabilité sans payer premium. Usage intensif quotidien.",
       "amazonASIN": "B09RSTWVTP",
-      "amazonURL": "",
-      "cdiscountURL": "",
+      "amazonURL": "https://amzn.to/4cMRWid",
+      "cdiscountURL": "#",
       "note": 4.5,
       "nbAvis": 3421,
       "badge": "Bon compromis"
@@ -255,7 +267,7 @@
       "id": 5,
       "nom": "FlexiSpot E5",
       "marque": "FlexiSpot",
-      "prix": 380,
+      "prix": 300,
       "promo": null,
       "image": "/Img-Bureau/Flexispot-E5/img-5.avif",
       "images": [
@@ -267,16 +279,16 @@
       ],
       "prixEnseignes": [
         {
-          "enseigne": "FlexiSpot",
-          "prix": 379,
-          "url": "https://www.flexispot.fr/bureau-assis-debout-e5",
-          "logo": "/logos/flexispot.svg"
+          "enseigne": "Amazon",
+          "prix": 299,
+          "url": "https://www.amazon.fr/dp/B077JPC7PK?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
         },
         {
-          "enseigne": "Amazon",
+          "enseigne": "Cdiscount",
           "prix": 399,
-          "url": "https://www.amazon.fr/dp/B077JPC7PK",
-          "logo": "/logos/amazon.svg"
+          "url": "#",
+          "logo": "/logos/cdiscount.svg"
         }
       ],
       "dimensions": "120x60 cm / 140x70 cm / 160x80 cm",
@@ -310,8 +322,8 @@
       ],
       "pourQui": "Ceux qui veulent qualité FlexiSpot sans prix E7 PRO, professionnels cherchant durabilité long terme, télétravail intensif quotidien, setups lourds jusqu'à 125 kg. Investissement raisonné : 380€ pour 10+ ans d'utilisation.",
       "amazonASIN": "B077JPC7PK",
-      "amazonURL": "",
-      "cdiscountURL": "",
+      "amazonURL": "https://www.amazon.fr/dp/B077JPC7PK?tag=setupteletrav-21",
+      "cdiscountURL": "#",
       "note": 4.6,
       "nbAvis": 6234,
       "badge": "Recommandé"

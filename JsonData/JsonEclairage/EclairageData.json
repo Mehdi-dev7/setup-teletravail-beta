@@ -18,8 +18,8 @@
           "current": 119.99,
           "original": 149.99,
           "currency": "EUR",
-          "asin": "B07DPHYXTG",
-          "url": "https://www.amazon.com.be/BenQ-ScreenBar-Plus-intelligent-Protection/dp/B07DP7RYXV"
+          "asin": "B07GGVNXSW",
+          "url": "https://www.amazon.fr/dp/B07GGVNXSW?tag=setupteletrav-21"
         },
         "cdiscount": {
           "current": 129.99,
@@ -88,93 +88,90 @@
     },
     {
       "id": "ecran-002",
-      "name": "SKYLEO Lampe de Bureau LED Architecte 80cm",
+      "name": "Quntis Monitor Light Bar 42.5cm",
       "category": "Éclairage Écran",
-      "subcategory": "Lampe de bureau LED à bras articulé",
+      "subcategory": "Lampe de bureau LED à clipser sur moniteur",
       "images": [
-        "/Img-Eclairage/Skyleo-80/img-p.jpg",
-        "/Img-Eclairage/Skyleo-80/img-2.jpg",
-        "/Img-Eclairage/Skyleo-80/img-3.jpg",
-        "/Img-Eclairage/Skyleo-80/img-4.jpg"
+        "/Img-Eclairage/Quntis-Monitor-light/img-p.jpg",
+        "/Img-Eclairage/Quntis-Monitor-light/img-2.jpg",
+        "/Img-Eclairage/Quntis-Monitor-light/img-3.jpg",
+        "/Img-Eclairage/Quntis-Monitor-light/img-4.jpg",
+        "/Img-Eclairage/Quntis-Monitor-light/img-5.jpg",
+        "/Img-Eclairage/Quntis-Monitor-light/img-6.jpg",
+        "/Img-Eclairage/Quntis-Monitor-light/img-7.jpg"
       ],
       "price": {
         "amazon": {
-          "current": 29.99,
-          "original": 39.99,
+          "current": 34.99,
+          "original": 49.99,
           "currency": "EUR",
-          "asin": "B0BXSG3T7N",
-          "url": "https://www.amazon.fr/SKYLEO-Lampe-Bureau-LED-Architecte/dp/B0BXSG3T7N"
+          "asin": "B0D5CCGZXL",
+          "url": "https://www.amazon.fr/dp/B0D5CCGZXL?tag=setupteletrav-21"
         },
         "cdiscount": {
-          "current": 34.99,
-          "original": 39.99,
+          "current": 37.99,
+          "original": 49.99,
           "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/skyleo-lampe-bureau-led-80cm/f-117203001-sky8745125464404.html"
+          "url": "https://www.cdiscount.com/maison/luminaire-lampe/quntis-monitor-light-bar-42cm/f-117203001-qun0745125464405.html"
         },
         "fnac": {
-          "current": 37.99,
-          "original": 39.99,
+          "current": 39.99,
+          "original": 49.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/SKYLEO-Lampe-Bureau-LED-80cm/a17892341/w-4"
+          "url": "https://www.fnac.com/Quntis-Monitor-Light-Bar-42cm/a18000000/w-4"
         }
       },
       "features": {
-        "typeLed": "LED 112 perles sans scintillement",
-        "temperature": "3000K - 6000K (5 modes ajustables)",
-        "luminosite": "1300 lumens max",
-        "antiReflet": "Oui - tête orientable anti-éblouissement",
+        "typeLed": "LED anti-scintillement",
+        "temperature": "3000K - 6500K (ajustable)",
+        "luminosite": "Ajustable",
+        "antiReflet": "Oui - éclairage asymétrique devant + rétroéclairage",
         "filtreBleu": "Mode chaud 3000K",
         "capteurAuto": "Non",
-        "controle": "Tactile sur base",
-        "alimentation": "Adaptateur secteur 12V ou USB 5V/2A",
-        "montage": "Pince sur bureau (max 5cm épaisseur)",
-        "dimensions": "80 cm hauteur max, bras articulé",
-        "poids": "850g",
-        "rotation": "Bras pivotant multi-angles + tête rotative 180°"
+        "telecommande": "Oui - télécommande filaire",
+        "alimentation": "USB",
+        "montage": "Clip gravitationnel universel",
+        "dimensions": "42.5 cm",
+        "compatibilite": "Moniteurs 15-35 pouces"
       },
-      "description": "La SKYLEO Lampe de Bureau LED 80cm Architecte est la solution polyvalente idéale pour les télétravailleurs recherchant un éclairage puissant et ajustable sans se ruiner. Ses 112 perles LED délivrent un impressionnant flux lumineux de 1300 lumens, largement suffisant pour éclairer un bureau entier même dans une pièce sombre.\n\nLe bras articulé de 80cm de hauteur maximale offre une flexibilité exceptionnelle : orientez la lumière précisément là où vous en avez besoin, au-dessus de votre clavier, sur vos documents papier, ou en éclairage d'ambiance indirect. La tête de lampe pivote à 180° pour éviter tout éblouissement direct dans les yeux.\n\nAvec 5 modes de température de couleur (3000K à 6000K) et 11 niveaux de luminosité (55 combinaisons possibles), personnalisez votre éclairage selon l'heure et l'activité. La fonction minuterie 45 minutes est parfaite pour les pauses, et la mémoire retient vos réglages préférés. La pince robuste se fixe solidement sur tout bureau jusqu'à 5cm d'épaisseur, libérant de l'espace précieux. Indice de rendu des couleurs CRI≥90 pour des couleurs fidèles.",
+      "description": "La Quntis Monitor Light Bar 42.5cm est une lampe de bureau LED se clipsant directement sur votre moniteur, sans prendre de place sur le bureau. Elle offre une double fonction unique : éclairage asymétrique sur le bureau (sans reflet sur l'écran) et rétroéclairage derrière le moniteur pour réduire le contraste ambiant et soulager les yeux.\n\nLa télécommande filaire permet d'ajuster facilement la luminosité et la température de couleur sans toucher au clavier. La température réglable de 3000K à 6500K couvre tous les usages : lumière chaude apaisante en soirée, lumière froide stimulante pour travailler. Le clip gravitationnel universel s'installe en quelques secondes sur tout moniteur de 15 à 35 pouces.\n\nAlimentée via USB, elle se branche directement sur le port USB de votre moniteur ou hub, sans prise secteur supplémentaire. Un excellent rapport qualité/prix pour améliorer confort visuel et ambiance de bureau.",
       "prosAndCons": {
         "pros": [
-          "Prix imbattable (30€)",
-          "1300 lumens ultra-puissant",
-          "80cm hauteur - couvre grand bureau",
-          "55 combinaisons (5 modes x 11 niveaux)",
-          "Bras articulé très flexible",
-          "Minuterie 45min + fonction mémoire",
-          "CRI≥90 rendu couleur excellent",
-          "Pince robuste jusqu'à 5cm"
+          "Double éclairage : bureau + rétroéclairage moniteur",
+          "Prix très accessible (35€)",
+          "Zéro reflet sur l'écran garanti",
+          "Télécommande filaire pratique",
+          "Installation clip en quelques secondes",
+          "Alimentation USB (pas de prise secteur)",
+          "Compatible écrans 15-35 pouces"
         ],
         "cons": [
-          "Pas de connectivité smart",
-          "Pas de capteur automatique",
-          "Contrôle tactile basique",
-          "Qualité build moyenne",
-          "Pince nécessite bureau avec bord",
-          "Certains rapportent ultrasons gênants",
-          "Pas de port USB intégré"
+          "Pas de capteur auto luminosité",
+          "Télécommande filaire (moins pratique que sans fil)",
+          "Pas de certification TÜV",
+          "Qualité build inférieure à BenQ"
         ]
       },
       "targetAudience": [
         "Budget limité (< 40€)",
-        "Télétravailleurs standards",
-        "Personnes refusant smart home",
-        "Grands bureaux nécessitant portée",
+        "Télétravailleurs cherchant confort visuel",
+        "Gamers voulant rétroéclairage écran",
+        "Premiers pas éclairage moniteur",
         "Étudiants et freelances"
       ],
       "ratings": {
-        "overall": 4.3,
-        "lightQuality": 4.5,
-        "eyeComfort": 4.4,
-        "easeOfUse": 4.5,
+        "overall": 4.4,
+        "lightQuality": 4.4,
+        "eyeComfort": 4.5,
+        "easeOfUse": 4.6,
         "design": 4.2,
         "valueForMoney": 4.8,
-        "reviewCount": 4267
+        "reviewCount": 1854
       },
       "badges": [
-        "Best-seller",
-        "Meilleur rapport Q/P",
-        "Puissante 1300LM",
-        "80cm"
+        "Bon rapport Q/P",
+        "Double éclairage",
+        "USB powered"
       ]
     },
     {
@@ -192,11 +189,11 @@
       ],
       "price": {
         "amazon": {
-          "current": 59.99,
+          "current": 54.99,
           "original": 79.99,
           "currency": "EUR",
-          "asin": "B09TQWQX7K",
-          "url": "https://www.amazon.fr/dp/B09TQWQX7K"
+          "asin": "B0CKQS1V8D",
+          "url": "https://www.amazon.fr/dp/B0CKQS1V8D?tag=setupteletrav-21"
         },
         "cdiscount": {
           "current": 64.99,
@@ -281,20 +278,20 @@
       ],
       "price": {
         "amazon": {
-          "current": 179.99,
+          "current": 70,
           "original": 229.99,
           "currency": "EUR",
-          "asin": "B08CKJWSFS",
-          "url": "https://www.amazon.fr/dp/B08CKJWSFS"
+          "asin": "B0BB6Q459V",
+          "url": "https://www.amazon.fr/dp/B0BB6Q459V?tag=setupteletrav-21"
         },
         "cdiscount": {
-          "current": 189.99,
+          "current": 89.99,
           "original": 229.99,
           "currency": "EUR",
           "url": "https://www.cdiscount.com/maison/luminaire-lampe/philips-hue-play-gradient-lightstrip/f-117203001-phi8718699703424.html"
         },
         "fnac": {
-          "current": 199.99,
+          "current": 99.99,
           "original": 229.99,
           "currency": "EUR",
           "url": "https://www.fnac.com/Philips-Hue-Play-Gradient-Lightstrip/a14987562/w-4"
@@ -372,8 +369,8 @@
           "current": 149.99,
           "original": 199.99,
           "currency": "EUR",
-          "asin": "B09LCKF7YS",
-          "url": "https://www.amazon.fr/dp/B09LCKF7YS"
+          "asin": "B0BJCX1SW4",
+          "url": "https://www.amazon.fr/dp/B0BJCX1SW4?tag=setupteletrav-21"
         },
         "cdiscount": {
           "current": 159.99,
@@ -443,91 +440,86 @@
     },
     {
       "id": "ambiance-003",
-      "name": "LIFX Beam Kit",
+      "name": "Govee Gaming Wall Lamp",
       "category": "Éclairage d'ambiance",
-      "subcategory": "Barres LED connectées modulaires",
+      "subcategory": "Lampes murales LED modulaires gaming",
       "images": [
-        "/Img-Eclairage/Lifx-BeamKit/img-p.jpg",
-        "/Img-Eclairage/Lifx-BeamKit/img-2.jpg",
-        "/Img-Eclairage/Lifx-BeamKit/img-3.jpg",
-        "/Img-Eclairage/Lifx-BeamKit/img-4.jpg",
-        "/Img-Eclairage/Lifx-BeamKit/img-5.jpg",
-        "/Img-Eclairage/Lifx-BeamKit/img-6.jpg",
-        "/Img-Eclairage/Lifx-BeamKit/img-7.jpg"
+        "/Img-Eclairage/Govee-Led-Gaming/img-p.jpg",
+        "/Img-Eclairage/Govee-Led-Gaming/img-2.jpg",
+        "/Img-Eclairage/Govee-Led-Gaming/img-3.jpg",
+        "/Img-Eclairage/Govee-Led-Gaming/img-4.jpg",
+        "/Img-Eclairage/Govee-Led-Gaming/img-5.jpg",
+        "/Img-Eclairage/Govee-Led-Gaming/img-6.jpg"
       ],
       "price": {
         "amazon": {
-          "current": 179.99,
-          "original": 229.99,
+          "current": 59.99,
+          "original": 79.99,
           "currency": "EUR",
-          "asin": "B073168GYG",
-          "url": "https://www.amazon.fr/dp/B073168GYG"
+          "asin": "B0D5431F9G",
+          "url": "https://www.amazon.fr/dp/B0D5431F9G?tag=setupteletrav-21"
         },
         "cdiscount": {
-          "current": 189.99,
-          "original": 229.99,
+          "current": 64.99,
+          "original": 79.99,
           "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/lifx-beam-kit/f-117203001-lif0628905960009.html"
+          "url": "https://www.cdiscount.com/maison/luminaire-lampe/govee-gaming-wall-lamp/f-117203001-gov6974316551547.html"
         },
         "fnac": {
-          "current": 199.99,
-          "original": 229.99,
+          "current": 69.99,
+          "original": 79.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/LIFX-Beam-Kit-Eclairage/a12458736/w-4"
+          "url": "https://www.fnac.com/Govee-Gaming-Wall-Lamp/a18000001/w-4"
         }
       },
       "features": {
-        "nombre": "6 barres + 10 connecteurs d'angle",
-        "typeLed": "LED RGB zones multiples",
+        "nombre": "3 panneaux + 1 connecteur (extensible)",
+        "typeLed": "LED RGBIC multicolore",
         "couleurs": "16 millions de couleurs",
-        "luminosite": "1400 lumens total",
-        "connectivite": "WiFi direct (pas de hub)",
-        "controle": "App LIFX, vocal (Alexa, Google, Siri, HomeKit)",
-        "effets": "Animations fluides multicolores",
-        "sync": "Intégration HomeKit native",
+        "luminosite": "Ajustable par panneau",
+        "connectivite": "WiFi 2.4GHz + Bluetooth",
+        "controle": "App Govee Home, Alexa, Google Assistant, Matter",
+        "effets": "61 modes scènes (Cyberpunk, Gaming...)",
+        "sync": "Sync musique via micro",
         "alimentation": "Adaptateur secteur",
-        "installation": "Adhésif 3M mounting tape",
-        "dimensions": "30 cm par barre",
-        "extensible": "Oui - kits d'extension disponibles"
+        "installation": "Adhésif double-face + vis",
+        "extensible": "Oui - panneaux supplémentaires"
       },
-      "description": "Le LIFX Beam Kit offre un système d'éclairage mural modulaire premium sans nécessiter de hub central. Grâce au WiFi intégré, chaque barre se connecte directement à votre réseau, simplifiant l'installation et réduisant les coûts d'infrastructure.\n\nLes 6 barres de 30 cm se connectent via 10 connecteurs d'angle à 90°, permettant de créer des formes géométriques complexes : lignes droites, angles, cadres, motifs en escalier. Chaque barre contient plusieurs zones LED indépendantes créant des effets de couleur coulants le long des barres.\n\nL'intégration HomeKit native est un atout majeur pour l'écosystème Apple : contrôle via l'app Maison, automatisations, Siri, et synchronisation avec autres accessoires HomeKit. Les effets d'animation sont fluides et peuvent être personnalisés dans l'app LIFX. Idéal pour créer une ambiance dynamique et inspirante derrière votre écran ou bureau.",
+      "description": "La Govee Gaming Wall Lamp est la nouvelle génération de panneaux LED muraux modulaires pour setup gaming et télétravail créatif. Avec ses 61 modes de scènes inspirés du Cyberpunk et de l'univers gaming, elle transforme instantanément votre mur en tableau lumineux dynamique.\n\nChaque panneau RGBIC affiche des couleurs indépendantes pour créer des effets gradient et des animations fluides impossibles avec des LED unicolores. La compatibilité Matter garantit une intégration parfaite avec tous les écosystèmes domotiques : Apple HomeKit, Google Home, Alexa, et Samsung SmartThings — une rareté à ce prix.\n\nL'application Govee Home propose une personnalisation avancée : créez vos propres scènes, synchronisez avec la musique via le micro intégré, ou activez les automations selon l'heure. Installation facile par adhésif double-face ou vissage pour un maintien permanent. Un éclairage d'ambiance gaming premium avec une vraie compatibilité smart home.",
       "prosAndCons": {
         "pros": [
-          "WiFi direct - pas de hub nécessaire",
-          "HomeKit natif (rare)",
-          "Zones LED multiples par barre",
-          "6 barres + 10 connecteurs = flexibilité",
-          "Animations fluides de qualité",
-          "Contrôle vocal complet",
-          "Build quality premium",
-          "Luminosité élevée (1400 lm)"
+          "Compatible Matter (HomeKit, Google, Alexa, Samsung)",
+          "61 modes scènes gaming/créatifs",
+          "RGBIC - couleurs indépendantes par panneau",
+          "Sync musique réactif",
+          "WiFi direct - pas de hub",
+          "Design modulaire extensible",
+          "Prix très compétitif pour du Matter"
         ],
         "cons": [
-          "Prix élevé (180€)",
-          "Installation adhésive délicate",
-          "Seulement 6 barres (peut sembler limité)",
-          "Pas de mode sync musique",
-          "App LIFX moins riche que Hue",
-          "Consommation WiFi réseau"
+          "Seulement 3 panneaux de base (extensible)",
+          "Installation adhésive permanente délicate",
+          "App Govee peut être buggy",
+          "Nécessite WiFi 2.4GHz"
         ]
       },
       "targetAudience": [
-        "Utilisateurs écosystème Apple (HomeKit)",
-        "Personnes refusant les hubs",
-        "Amateurs de design minimaliste",
-        "Professionnels créatifs",
-        "Budget confortable"
+        "Gamers cherchant setup RGB ambiancé",
+        "Télétravailleurs créatifs",
+        "Utilisateurs écosystème Apple (HomeKit via Matter)",
+        "Streamers et créateurs de contenu",
+        "Budget moyen (< 70€)"
       ],
       "ratings": {
         "overall": 4.4,
-        "lightQuality": 4.7,
+        "lightQuality": 4.5,
         "smartFeatures": 4.6,
-        "easeOfUse": 4.5,
-        "design": 4.6,
-        "valueForMoney": 4.0,
-        "reviewCount": 1876
+        "easeOfUse": 4.3,
+        "design": 4.7,
+        "valueForMoney": 4.6,
+        "reviewCount": 743
       },
-      "badges": ["HomeKit natif", "WiFi direct", "Premium", "Modulaire"]
+      "badges": ["Matter compatible", "61 scènes", "RGBIC", "Gaming"]
     },
     {
       "id": "ambiance-004",
@@ -544,14 +536,14 @@
       ],
       "price": {
         "amazon": {
-          "current": 24.99,
+          "current": 25.99,
           "original": 39.99,
           "currency": "EUR",
-          "asin": "B08T6D7M9K",
-          "url": "https://www.amazon.fr/dp/B08T6D7M9K"
+          "asin": "B08BJ4HXJK",
+          "url": "https://amzn.to/4du3LtV"
         },
         "cdiscount": {
-          "current": 27.99,
+          "current": 37.99,
           "original": "39.99",
           "currency": "EUR",
           "url": "https://www.cdiscount.com/maison/luminaire-lampe/lepro-led-strip-10m-rgb/f-117203001-lep0745125464404.html"

@@ -2,9 +2,66 @@
   "chaises_ergonomiques": [
     {
       "id": 1,
+      "nom": "Hbada E3 Pro",
+      "marque": "Hbada",
+      "prix": 599,
+      "promo": null,
+      "image": "/img-chaise/hbada-E3/img-p.jpg",
+      "images": [
+        "/img-chaise/hbada-E3/img-p.jpg",
+        "/img-chaise/hbada-E3/img-2.jpg",
+        "/img-chaise/hbada-E3/img-3.jpg",
+        "/img-chaise/hbada-E3/img-4.jpg",
+        "/img-chaise/hbada-E3/img-5.jpg",
+        "/img-chaise/hbada-E3/img-6.jpg",
+        "/img-chaise/hbada-E3/img-7.jpg",
+        "/img-chaise/hbada-E3/img-8.jpg"
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 599, "url": "https://www.amazon.fr/dp/B0CQXHJCD2?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": "indisponible", "url": "#", "logo": "/logos/cdiscount.svg" }
+      ],
+      "revetement": "Triple couche maille respirante premium",
+      "supportLombaire": "Dynamique 3 zones, 8 réglages (hauteur, profondeur, inclinaison)",
+      "accoudoirs": "6D (hauteur, largeur, profondeur, angle horizontal, vertical, rotation)",
+      "appuiTete": "4D (hauteur, rotation, inclinaison, profondeur)",
+      "reposePieds": true,
+      "inclinaison": "135° avec verrouillage multi-positions",
+      "hauteurAssise": "Réglable 10 cm",
+      "capaciteCharge": "150 kg",
+      "garantie": "3 ans",
+      "description": "La Hbada E3 Pro s'impose comme la référence ergonomique sous 500€ grâce à son système de support lombaire dynamique 3 zones breveté. Contrairement aux supports fixes, ce mécanisme intelligent suit chaque mouvement de votre bassin et colonne vertébrale avec 8 niveaux de réglage précis (hauteur, profondeur, inclinaison) pour un soutien parfait en toutes circonstances. L'appui-tête 4D est l'un des plus complets du marché : hauteur, rotation, inclinaison ET profondeur réglables indépendamment pour soulager cervicales quelle que soit votre morphologie ou position de travail. Les accoudoirs 6D offrent la palette complète de réglages pour éliminer tensions épaules et avant-bras. Le dossier inclinable 135° avec repose-pieds intégré permet alterner entre posture active de travail et détente complète sans quitter la chaise. La maille triple couche respirante garde fraîcheur même en été, tout en offrant un confort moelleux supérieur aux mailles simples. L'assise à profondeur réglable s'adapte aux jambes longues comme courtes. Le mécanisme synchrone coordonne intelligemment dossier et assise. La base aluminium 5 branches et vérin SGS classe 4 garantissent stabilité et longévité. Certifiée IGR, BIFMA, SGS, TÜV — le top des certifications ergonomiques mondiales. Montage complet en 30 minutes avec notice illustrée détaillée. Garantie 3 ans + retour 30 jours gratuit. La Hbada E3 Pro délivre des specs de chaise à 800€ pour moins de 400€ — rapport qualité/prix imbattable dans ce segment.",
+      "pointsForts": [
+        "Support lombaire dynamique 3 zones breveté : suit chaque mouvement",
+        "8 réglages lombaires : hauteur + profondeur + inclinaison",
+        "Accoudoirs 6D : réglages complets épaules/bras",
+        "Appuie-tête 4D : soulagement cervicales toutes positions",
+        "Certifiée IGR, BIFMA, SGS, TÜV : standards mondiaux",
+        "Maille triple couche : confort + respirabilité supérieure",
+        "Repose-pieds intégré : détente complète sur place",
+        "Assise profondeur réglable : adapte toutes morphologies",
+        "Garantie 3 ans + retour 30j gratuit : SAV sérieux",
+        "Rapport qualité/prix : specs 800€ pour ~599€"
+      ],
+      "pointsFaibles": [
+        "Marque moins connue que SIHOO/FlexiSpot en France",
+        "Montage 30 min : plus long que certains concurrents",
+        "Poids élevé : 29 kg (difficile à déplacer seul)",
+        "Garantie 3 ans vs 5-7 ans des marques premium"
+      ],
+      "pourQui": "Télétravailleurs cherchant rapport qualité/prix maximal, professionnels 6-10h/jour, personnes avec douleurs lombaires ou cervicales, budget 500-600€. Veut specs premium sans payer le nom. Investissement intelligent long terme.",
+      "amazonASIN": "B0CQXHJCD2",
+      "amazonURL": "https://www.amazon.fr/dp/B0CQXHJCD2?tag=setupteletrav-21",
+      "cdiscountURL": "",
+      "note": 4.5,
+      "nbAvis": 1240,
+      "badge": "Meilleur Rapport Qualité/Prix"
+    },
+    {
+      "id": 2,
       "nom": "SIHOO Doro C300",
       "marque": "SIHOO",
-      "prix": 350,
+      "prix": 315,
       "promo": null,
       "image": "/Img-Chaise/Sihoo-doro-C300/img-p.jpg",
       "images": [
@@ -16,8 +73,8 @@
         "/Img-Chaise/Sihoo-Doro-C300/img-6.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "SIHOO", "prix": 349, "url": "https://fr.sihoooffice.com/products/doro-c300", "logo": "/logos/sihoo.svg" },
-        { "enseigne": "Amazon", "prix": 369, "url": "https://www.amazon.fr/dp/B0CXXX", "logo": "/logos/amazon.svg" }
+        { "enseigne": "Amazon", "prix": 315, "url": "https://www.amazon.fr/dp/B0C3T865C2?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 369, "url": "#", "logo": "/logos/cdiscount.svg" }
       ],
       "revetement": "Maille respirante premium",
       "supportLombaire": "Dynamique double anti-gravité",
@@ -42,23 +99,78 @@
         "Supporte 150 kg : construction ultra-robuste"
       ],
       "pointsFaibles": [
-        "Prix élevé : ~350€ (justifié par technologie)",
+        "Prix élevé : ~315€ (justifié par technologie)",
         "Encombrant avec repose-pieds déplié",
         "Montage initial 30-40 min (nombreux réglages)"
       ],
       "pourQui": "Professionnels exigeants, télétravail intensif 8h+ par jour, personnes souffrant de douleurs lombaires chroniques, gamers hardcore, créateurs de contenu. Cherche le meilleur confort absolu sans compromis. Investissement santé long terme.",
-      "amazonASIN": "B0CXXXXXX",
-      "amazonURL": "",
+      "amazonASIN": "B0C3T865C2",
+      "amazonURL": "https://www.amazon.fr/dp/B0C3T865C2?tag=setupteletrav-21",
       "cdiscountURL": "",
       "note": 4.7,
       "nbAvis": 2341,
       "badge": "Premium"
     },
     {
-      "id": 2,
+      "id": 3,
+      "nom": "FlexiSpot C7",
+      "marque": "FlexiSpot",
+      "prix": 249,
+      "promo": null,
+      "image": "/Img-Chaise/Flexispot-C7/img-p.avif",
+      "images": [
+        "/Img-Chaise/Flexispot-C7/img-p.avif",
+        "/Img-Chaise/Flexispot-C7/img-2.avif",
+        "/Img-Chaise/Flexispot-C7/img-3.avif",
+        "/Img-Chaise/Flexispot-C7/img-4.avif",
+        "/Img-Chaise/Flexispot-C7/img-5.avif",
+        "/Img-Chaise/Flexispot-C7/img-6.avif"
+      ],
+      "prixEnseignes": [
+        { "enseigne": "Amazon", "prix": 249, "url": "https://www.amazon.fr/dp/B0CN125C7D?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 270, "url": "#", "logo": "/logos/cdiscount.svg" }
+      ],
+      "revetement": "Maille premium DynaFollow™",
+      "supportLombaire": "Gonflable intelligent adaptatif",
+      "accoudoirs": "5D avec coordination intelligente",
+      "appuiTete": "3D avec mémoire de forme",
+      "reposePieds": true,
+      "inclinaison": "145° + inclinaison avant 10°",
+      "hauteurAssise": "Réglable 12 cm",
+      "capaciteCharge": "150 kg",
+      "garantie": "7 ans",
+      "description": "La FlexiSpot C7 représente le futur de l'assise ergonomique avec des innovations technologiques inédites. La technologie DynaFollow™ est révolutionnaire : le dossier suit naturellement TOUS vos mouvements en temps réel, que vous vous penchiez, tourniez ou reculiez. Vous ne sentez jamais de résistance, la chaise devient une extension de votre corps. Le support lombaire gonflable intelligent change la donne : vous ajustez la fermeté en quelques secondes via une pompe pneumatique. Matin tonique ? Gonflez pour un maintien ferme. Après-midi fatigué ? Dégonflez pour plus de souplesse. Cette adaptabilité a éliminé les douleurs lombaires chroniques de milliers d'utilisateurs. L'innovation majeure : l'inclinaison avant de 10° qui corrige naturellement votre posture. Votre dos reste droit sans effort conscient, votre cage thoracique s'ouvre, vous respirez mieux, votre concentration monte en flèche. Les accoudoirs 5D coordonnés bougent intelligemment avec le dossier pour un soutien constant des bras. L'appui-tête 3D avec mousse à mémoire de forme épouse parfaitement votre nuque. Le repose-pieds électrique se déploie en douceur. La maille premium respirante régule température corporelle. L'assise en mousse graphène disperse chaleur corporelle. Mécanisme allemand premium garanti 200 000 cycles. Design futuriste primé. Garantie 7 ans exceptionnelle. La C7 n'est pas une chaise, c'est un système de santé posturale.",
+      "pointsForts": [
+        "DynaFollow™ révolutionnaire : suit mouvements temps réel",
+        "Support lombaire gonflable : adaptez fermeté à l'instant",
+        "Inclinaison avant 10° : posture parfaite automatique",
+        "Accoudoirs 5D coordonnés : soutien constant intelligent",
+        "Mousse graphène assise : dispersion chaleur optimale",
+        "Repose-pieds électrique : déploiement ultra-fluide",
+        "Inclinaison 145° : relaxation maximale possible",
+        "Garantie 7 ans : durabilité exceptionnelle",
+        "Mécanisme 200 000 cycles : robustesse extrême",
+        "Design futuriste primé : esthétique + fonction"
+      ],
+      "pointsFaibles": [
+        "Prix très élevé : ~249€ (justifié par innovations)",
+        "Complexe premier usage : beaucoup de réglages",
+        "Encombrant : nécessite espace généreux",
+        "Pompe gonflage manuelle (pas automatique)"
+      ],
+      "pourQui": "Professionnels haut niveau cherchant meilleur absolu, C-level executives, personnes avec problèmes dos sévères, télétravail 10-12h/jour, budget confortable. Cherche innovation technologique + santé optimale. Investissement premium assumé.",
+      "amazonASIN": "B0CN125C7D",
+      "amazonURL": "https://www.amazon.fr/dp/B0CN125C7D?tag=setupteletrav-21",
+      "cdiscountURL": "",
+      "note": 4.8,
+      "nbAvis": 1543,
+      "badge": "Innovation"
+    },
+    {
+      "id": 4,
       "nom": "SIHOO M57",
       "marque": "SIHOO",
-      "prix": 180,
+      "prix": 199,
       "promo": null,
       "image": "/Img-Chaise/Sihoo-M57/img-p.jpg",
       "images": [
@@ -70,8 +182,8 @@
         "/Img-Chaise/Sihoo-M57/img-6.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 179, "url": "https://www.amazon.fr/dp/B085GDG45B", "logo": "/logos/amazon.svg" },
-        { "enseigne": "SIHOO", "prix": 249, "url": "https://fr.sihoooffice.com/products/m57", "logo": "/logos/sihoo.svg" }
+        { "enseigne": "Amazon", "prix": 199, "url": "https://www.amazon.fr/dp/B085GDG45B?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 199, "url": "#", "logo": "/logos/cdiscount.svg" }
       ],
       "revetement": "Maille respirante intégrale",
       "supportLombaire": "Réglable vertical et horizontal",
@@ -84,7 +196,7 @@
       "garantie": "3 ans pièces mécaniques",
       "description": "La SIHOO M57 est le champion incontesté du rapport qualité/prix dans l'univers des chaises ergonomiques. Avec plus de 7000 avis positifs sur Amazon, elle a conquis le cœur des télétravailleurs du monde entier. Son secret ? Offrir des fonctionnalités dignes de modèles à 400€+ pour un prix défiant toute concurrence. La construction intégralement en maille respirante garantit un confort optimal même après 8-10h de travail, sans transpiration ni points de pression. Le dossier ergonomique en forme de S épouse parfaitement les courbes naturelles de la colonne vertébrale. Le support lombaire ajustable verticalement ET horizontalement permet de trouver le point de maintien parfait pour votre morphologie spécifique. Les accoudoirs 3D se règlent en hauteur, profondeur et angle pour soulager efficacement les épaules et avant-bras. L'appui-tête réglable (hauteur + rotation 45°) soulage les cervicales lors des pauses ou appels vidéo. L'inclinaison jusqu'à 126° avec système de verrouillage permet de basculer entre travail concentré et détente. Le vérin à gaz certifié SGS garantit sécurité et durabilité. La base en aluminium poli apporte stabilité et look premium. Les roulettes double-roue silencieuses glissent sans effort sur tous types de sols. L'assise en forme de W avec mousse haute densité répartit uniformément le poids. Montage simple en 20 minutes. Service client SIHOO exemplaire : remplacement pièces gratuit sous garantie 3 ans. Un best-seller mérité.",
       "pointsForts": [
-        "Rapport qualité/prix imbattable : ~180€ pour ce niveau",
+        "Rapport qualité/prix imbattable : ~199€ pour ce niveau",
         "7000+ avis positifs Amazon : qualité prouvée",
         "Maille intégrale respirante : zéro transpiration",
         "Support lombaire double réglage : vertical + horizontal",
@@ -109,121 +221,10 @@
       "badge": "Top Qualité/Prix"
     },
     {
-      "id": 3,
-      "nom": "FlexiSpot C7 Morpher",
-      "marque": "FlexiSpot",
-      "prix": 450,
-      "promo": null,
-      "image": "/Img-Chaise/Flexispot-C7/img-p.avif",
-      "images": [
-        "/Img-Chaise/Flexispot-C7/img-p.avif",
-        "/Img-Chaise/Flexispot-C7/img-2.avif",
-        "/Img-Chaise/Flexispot-C7/img-3.avif",
-        "/Img-Chaise/Flexispot-C7/img-4.avif",
-        "/Img-Chaise/Flexispot-C7/img-5.avif",
-        "/Img-Chaise/Flexispot-C7/img-6.avif"
-      ],
-      "prixEnseignes": [
-        { "enseigne": "FlexiSpot", "prix": 449, "url": "https://www.flexispot.fr/chaise-c7", "logo": "/logos/flexispot.svg" },
-        { "enseigne": "Amazon", "prix": 469, "url": "https://www.amazon.fr/dp/B0DXXXX", "logo": "/logos/amazon.svg" }
-      ],
-      "revetement": "Maille premium DynaFollow™",
-      "supportLombaire": "Gonflable intelligent adaptatif",
-      "accoudoirs": "5D avec coordination intelligente",
-      "appuiTete": "3D avec mémoire de forme",
-      "reposePieds": true,
-      "inclinaison": "145° + inclinaison avant 10°",
-      "hauteurAssise": "Réglable 12 cm",
-      "capaciteCharge": "150 kg",
-      "garantie": "7 ans",
-      "description": "La FlexiSpot C7 Morpher représente le futur de l'assise ergonomique avec des innovations technologiques inédites. La technologie DynaFollow™ est révolutionnaire : le dossier suit naturellement TOUS vos mouvements en temps réel, que vous vous penchiez, tourniez ou reculiez. Vous ne sentez jamais de résistance, la chaise devient une extension de votre corps. Le support lombaire gonflable intelligent change la donne : vous ajustez la fermeté en quelques secondes via une pompe pneumatique. Matin tonique ? Gonflez pour un maintien ferme. Après-midi fatigué ? Dégonflez pour plus de souplesse. Cette adaptabilité a éliminé les douleurs lombaires chroniques de milliers d'utilisateurs. L'innovation majeure : l'inclinaison avant de 10° qui corrige naturellement votre posture. Votre dos reste droit sans effort conscient, votre cage thoracique s'ouvre, vous respirez mieux, votre concentration monte en flèche. Les accoudoirs 5D coordonnés bougent intelligemment avec le dossier pour un soutien constant des bras. L'appui-tête 3D avec mousse à mémoire de forme épouse parfaitement votre nuque. Le repose-pieds électrique se déploie en douceur. La maille premium respirante régule température corporelle. L'assise en mousse graphène disperse chaleur corporelle. Mécanisme allemand premium garanti 200 000 cycles. Design futuriste primé. Garantie 7 ans exceptionnelle. La C7 n'est pas une chaise, c'est un système de santé posturale.",
-      "pointsForts": [
-        "DynaFollow™ révolutionnaire : suit mouvements temps réel",
-        "Support lombaire gonflable : adaptez fermeté à l'instant",
-        "Inclinaison avant 10° : posture parfaite automatique",
-        "Accoudoirs 5D coordonnés : soutien constant intelligent",
-        "Mousse graphène assise : dispersion chaleur optimale",
-        "Repose-pieds électrique : déploiement ultra-fluide",
-        "Inclinaison 145° : relaxation maximale possible",
-        "Garantie 7 ans : durabilité exceptionnelle",
-        "Mécanisme 200 000 cycles : robustesse extrême",
-        "Design futuriste primé : esthétique + fonction"
-      ],
-      "pointsFaibles": [
-        "Prix très élevé : ~450€ (justifié par innovations)",
-        "Complexe premier usage : beaucoup de réglages",
-        "Encombrant : nécessite espace généreux",
-        "Pompe gonflage manuelle (pas automatique)"
-      ],
-      "pourQui": "Professionnels haut niveau cherchant meilleur absolu, C-level executives, personnes avec problèmes dos sévères, télétravail 10-12h/jour, budget confortable. Cherche innovation technologique + santé optimale. Investissement premium assumé.",
-      "amazonASIN": "B0DXXXXXX",
-      "amazonURL": "",
-      "cdiscountURL": "",
-      "note": 4.8,
-      "nbAvis": 1543,
-      "badge": "Innovation"
-    },
-    {
-      "id": 4,
-      "nom": "KQUEO Terrana",
-      "marque": "KQUEO",
-      "prix": 370,
-      "promo": null,
-      "image": "/Img-Chaise/KQUEO-Terrana/img-p.webp",
-      "images": [
-        "/Img-Chaise/KQUEO-Terrana/img-p.webp",
-        "/Img-Chaise/KQUEO-Terrana/img-2.webp",
-        "/Img-Chaise/KQUEO-Terrana/img-3.webp",
-        "/Img-Chaise/KQUEO-Terrana/img-4.webp",
-        "/Img-Chaise/KQUEO-Terrana/img-5.jpg",
-        "/Img-Chaise/KQUEO-Terrana/img-6.jpg",
-        "/Img-Chaise/KQUEO-Terrana/img-7.jpg"
-      ],
-      "prixEnseignes": [
-        { "enseigne": "KQUEO", "prix": 369, "url": "https://kqueo.com/products/terrana", "logo": "/logos/kqueo.svg" },
-        { "enseigne": "Amazon", "prix": 389, "url": "https://www.amazon.fr/dp/B0EXXXX", "logo": "/logos/amazon.svg" }
-      ],
-      "revetement": "Personnalisable : maille, mousse+maille, cuir, tissu bouclette",
-      "supportLombaire": "Réglable 4D avec tension variable",
-      "accoudoirs": "4D (hauteur, largeur, profondeur, angle)",
-      "appuiTete": "Réglable 3D",
-      "reposePieds": true,
-      "inclinaison": "135° avec système synchrone",
-      "hauteurAssise": "Réglable 10 cm",
-      "capaciteCharge": "150 kg",
-      "garantie": "5 ans",
-      "description": "La KQUEO Terrana se distingue par sa personnalisation poussée unique sur le marché français. Marque française spécialisée ergonomie, KQUEO permet de créer LA chaise parfaite pour vous : choisissez parmi 4 revêtements (maille respirante, mousse+maille confort, cuir reconstitué classe, tissu bouclette cosy), 6 coloris, avec ou sans repose-pieds. Cette personnalisation n'est pas qu'esthétique : chaque matériau offre un ressenti différent adapté à vos préférences. Le support lombaire 4D avec tension variable s'ajuste dans toutes les directions ET en fermeté pour un maintien sur-mesure. Le système synchrone intelligent coordonne dossier et assise : quand vous vous penchez, l'assise avance légèrement pour maintenir angle cuisse-dos optimal. Les accoudoirs 4D larges et rembourrés soutiennent efficacement. L'appui-tête 3D soulage cervicales. Le repose-pieds optionnel se replie discrètement. La construction premium française garantit qualité et durabilité : mécanisme certifié 150 000 cycles, base aluminium massif, vérin classe 4 SGS. Les réglages précis permettent adaptation morphologie exacte. Le design élégant épuré s'intègre partout. Livraison rapide France 3-5 jours. SAV français réactif. Garantie 5 ans pièces et main-d'œuvre. La Terrana incarne l'équilibre parfait : personnalisation, qualité, ergonomie, made in France. Un choix patriotique ET intelligent.",
-      "pointsForts": [
-        "Personnalisation ultime : 4 revêtements x 6 coloris",
-        "Made in France : qualité + SAV réactif français",
-        "Support lombaire 4D tension variable : sur-mesure total",
-        "Système synchrone intelligent : angle optimal auto",
-        "Accoudoirs 4D larges rembourrés : confort supérieur",
-        "Mécanisme 150 000 cycles : robustesse certifiée",
-        "Livraison rapide France : 3-5 jours seulement",
-        "Garantie 5 ans complète : pièces + main-d'œuvre",
-        "Design épuré élégant : s'intègre partout",
-        "Repose-pieds optionnel discret quand replié"
-      ],
-      "pointsFaibles": [
-        "Prix élevé : ~370€ (justifié qualité française)",
-        "Personnalisation complexe : choix difficiles",
-        "Options augmentent prix (repose-pieds +30€)",
-        "Délai si personnalisation poussée"
-      ],
-      "pourQui": "Cherche personnalisation maximale, soutient fabrication française, télétravail 6-8h/jour, professionnels exigeants, personnes morphologies spécifiques. Veut investissement durable qualité française. Budget raisonnable pour du sur-mesure.",
-      "amazonASIN": "B0EXXXXXX",
-      "amazonURL": "",
-      "cdiscountURL": "",
-      "note": 4.6,
-      "nbAvis": 1876,
-      "badge": "Made in France"
-    },
-    {
       "id": 5,
       "nom": "SONGMICS OBN37BK",
       "marque": "SONGMICS",
-      "prix": 90,
+      "prix": 79,
       "promo": null,
       "image": "/Img-Chaise/Songmics-OBN37BK/img-p.jpg",
       "images": [
@@ -236,8 +237,8 @@
         "/Img-Chaise/Songmics-OBN37BK/img-7.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 89, "url": "https://www.amazon.fr/dp/B0FXXXX", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 95, "url": "https://www.cdiscount.com/songmics", "logo": "/logos/cdiscount.svg" }
+        { "enseigne": "Amazon", "prix": 79, "url": "https://www.amazon.fr/dp/B07ZCM9YH1?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
+        { "enseigne": "Cdiscount", "prix": 89, "url": "#", "logo": "/logos/cdiscount.svg" }
       ],
       "revetement": "Maille respirante",
       "supportLombaire": "Fixe intégré au dossier",
@@ -250,7 +251,7 @@
       "garantie": "1 an",
       "description": "La SONGMICS OBN37BK est la porte d'entrée idéale vers l'ergonomie pour les budgets ultra-serrés. À moins de 100€, elle offre l'essentiel d'une chaise ergonomique sans fioritures inutiles. Le dossier en maille respirante épouse légèrement la courbe du dos et limite la transpiration, atout appréciable l'été. L'assise rembourrée offre un confort correct pour usage ponctuel ou modéré (4-5h/jour max). Le support lombaire fixe intégré apporte un maintien basique du bas du dos. Le mécanisme d'inclinaison permet de relâcher pression après plusieurs heures de travail. L'atout majeur à ce prix : les accoudoirs rabattables qui permettent de gagner de la place et de glisser facilement la chaise sous le bureau, idéal pour petits espaces ou bureaux d'appoint. La structure reste solide et stable grâce au piétement métallique et roulettes résistantes, supportant jusqu'à 120 kg. Le montage est simple et rapide : 15 minutes maxi. Design sobre noir s'intègre partout. Limitations évidentes : support lombaire non réglable, accoudoirs basiques non ajustables, confort limité au-delà 5h/jour, finitions plastique moyennes, garantie courte 1 an. Mais pour découvrir ergonomie sans investissement lourd, c'est un excellent point de départ. Parfait pour étudiants, télétravail occasionnel, bureau secondaire enfants. Ne convient PAS usage intensif professionnel.",
       "pointsForts": [
-        "Prix mini imbattable : ~90€ entrée ergonomie",
+        "Prix mini imbattable : ~79€ entrée ergonomie",
         "Accoudoirs rabattables : gain de place malin",
         "Dossier maille respirant : pas de transpiration",
         "Montage ultra-rapide : 15 min chrono",
@@ -269,8 +270,8 @@
         "Assise ferme : pas mousse haute densité"
       ],
       "pourQui": "Budget très serré < 100€, étudiants, télétravail occasionnel 2-4h/jour, bureau secondaire enfants/ados, gaming casual, premier achat ergonomie. Tester concept avant investir plus. Pas pour professionnels usage intensif quotidien.",
-      "amazonASIN": "B0FXXXXXX",
-      "amazonURL": "",
+      "amazonASIN": "B07ZCM9YH1",
+      "amazonURL": "https://www.amazon.fr/dp/B07ZCM9YH1?tag=setupteletrav-21",
       "cdiscountURL": "",
       "note": 4.2,
       "nbAvis": 4532,

@@ -17,11 +17,11 @@
 			],
 			"price": {
 				"amazon": {
-					"current": 99.99,
+					"current": 79.99,
 					"original": 129.99,
 					"currency": "EUR",
 					"asin": "B07W6JCZP1",
-					"url": "https://www.amazon.fr/dp/B07W6JCZP1"
+					"url": "https://amzn.to/4uDn0av"
 				},
 				"cdiscount": {
 					"current": 109.99,
@@ -105,8 +105,8 @@
 					"current": 89.99,
 					"original": 129.99,
 					"currency": "EUR",
-					"asin": "B00CYX26BC",
-					"url": "https://www.amazon.fr/dp/B00CYX26BC"
+					"asin": "B00DPH7RB0",
+					"url": "https://www.amazon.fr/dp/B00DPH7RB0?tag=setupteletrav-21"
 				},
 				"cdiscount": {
 					"current": 94.99,
@@ -182,40 +182,44 @@
 		},
 		{
 			"id": "clavier-003",
-			"name": "Keychron K8 Pro",
+			"name": "Keychron K10 Pro",
 			"category": "Clavier",
-			"subcategory": "Clavier mécanique sans fil compact",
+			"subcategory": "Clavier mécanique sans fil full-size",
 			"images": [
-				"/Img-Clavier-Souris/Keychron-K8-Pro/img-p.jpg",
-				"/Img-Clavier-Souris/Keychron-K8-Pro/img-2.jpg",
-				"/Img-Clavier-Souris/Keychron-K8-Pro/img-3.jpg",
-				"/Img-Clavier-Souris/Keychron-K8-Pro/img-4.jpg"
+				"/Img-Clavier-Souris/Keychron-K10-Pro/img-p.jpg",
+				"/Img-Clavier-Souris/Keychron-K10-Pro/img-2.jpg",
+				"/Img-Clavier-Souris/Keychron-K10-Pro/img-3.jpg",
+				"/Img-Clavier-Souris/Keychron-K10-Pro/img-4.jpg",
+				"/Img-Clavier-Souris/Keychron-K10-Pro/img-5.jpg",
+				"/Img-Clavier-Souris/Keychron-K10-Pro/img-6.jpg",
+				"/Img-Clavier-Souris/Keychron-K10-Pro/img-7.jpg",
+				"/Img-Clavier-Souris/Keychron-K10-Pro/img-8.jpg"
 			],
 			"price": {
 				"amazon": {
-					"current": 109.99,
-					"original": 139.99,
+					"current": 129.99,
+					"original": 149.99,
 					"currency": "EUR",
-					"asin": "B0B5TMHX21",
-					"url": "https://www.amazon.fr/dp/B0B5TMHX21"
+					"asin": "B0G1S26GLJ",
+					"url": "https://www.amazon.fr/dp/B0G1S26GLJ?tag=setupteletrav-21"
 				},
 				"cdiscount": {
-					"current": 119.99,
-					"original": 139.99,
+					"current": 144.99,
+					"original": 149.99,
 					"currency": "EUR",
-					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/keychron-k8-pro/f-10717-key6950763935875.html"
+					"url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/keychron-k10-pro/f-10717-key6950763935876.html"
 				},
 				"fnac": {
-					"current": 129.99,
-					"original": 139.99,
+					"current": 134.99,
+					"original": 149.99,
 					"currency": "EUR",
-					"url": "https://www.fnac.com/Keychron-K8-Pro-Clavier/a17234589/w-4"
+					"url": "https://www.fnac.com/Keychron-K10-Pro-Clavier/a17234590/w-4"
 				}
 			},
 			"features": {
-				"typeSwitch": "Mécanique hot-swap Gateron (Red, Brown, Blue)",
+				"typeSwitch": "Mécanique hot-swap Gateron G Pro (Red, Brown, Blue)",
 				"forceActuation": "Variable selon switch (45-60g)",
-				"format": "TKL (Tenkeyless - sans pavé numérique)",
+				"format": "Full-size 100% avec pavé numérique",
 				"connectivite": "Bluetooth 5.1, USB-C filaire, dongle 2.4GHz",
 				"multiDevices": "Oui - 3 appareils Bluetooth",
 				"retroeclairage": "RGB per-key programmable",
@@ -223,37 +227,34 @@
 				"chargeRapide": "USB-C - batterie 4000mAh",
 				"compatibilite": "Windows, macOS, Linux (touches interchangeables)",
 				"programmation": "QMK/VIA - programmation complète",
-				"dimensions": "359 x 120 x 40 mm",
-				"poids": "765g (aluminium)",
+				"poids": "980g (aluminium)",
 				"layout": "ISO AZERTY/ANSI disponible"
 			},
-			"description": "Le Keychron K8 Pro est le clavier mécanique de référence pour les professionnels qui refusent de sacrifier le plaisir de frappe au profit de la portabilité. Son format TKL (sans pavé numérique) libère de l'espace pour rapprocher la souris tout en conservant toutes les touches essentielles.\n\nLes switches mécaniques Gateron hot-swappables offrent une expérience de frappe tactile et satisfaisante bien supérieure aux claviers à membrane. Vous pouvez choisir entre Red (linéaire silencieux), Brown (tactile polyvalent), ou Blue (clicky audible) selon vos préférences. La possibilité de les remplacer sans soudure permet de tester différents switches.\n\nLa triple connectivité (Bluetooth, 2.4GHz, USB-C filaire) avec Easy-Switch entre 3 appareils en fait un outil parfait pour multi-tasking. Le firmware QMK/VIA open-source permet une personnalisation totale : macros, layers, remapping de touches. Le châssis en aluminium CNC garantit une solidité à toute épreuve. Le RGB per-key ajoute une touche de personnalisation tout en restant professionnel.",
+			"description": "Le Keychron K10 Pro est le clavier mécanique full-size de référence pour ceux qui veulent garder leur pavé numérique sans sacrifier la qualité. Format 100% complet avec toutes les touches fonctions, flèches et pavé numérique intégré — idéal pour les développeurs, comptables ou tout utilisateur habitué au layout standard.\n\nLes switches mécaniques Gateron G Pro hot-swappables offrent une expérience de frappe tactile bien supérieure aux claviers à membrane. Choisissez entre Red (linéaire silencieux), Brown (tactile polyvalent) ou Blue (clicky). La possibilité de les remplacer sans soudure permet d'explorer d'autres switches selon vos préférences.\n\nLa triple connectivité (Bluetooth 5.1, dongle 2.4GHz, USB-C filaire) avec basculement entre 3 appareils en fait un outil redoutable en multi-tasking. Le firmware QMK/VIA open-source permet une personnalisation totale : macros, layers, remapping complet. Le châssis aluminium garantit une solidité à toute épreuve. Livré avec des touches interchangeables Mac et Windows.",
 			"prosAndCons": {
 				"pros": [
-					"Expérience mécanique premium",
-					"Hot-swap - switches remplaçables",
-					"Triple connectivité (BT, 2.4GHz, USB-C)",
-					"QMK/VIA programmable",
-					"Format TKL compact pratique",
-					"Châssis aluminium robuste",
-					"Autonomie 240h excellente",
-					"Compatible Mac/Win (touches interchangeables)"
+					"Format full-size complet avec pavé numérique",
+					"Hot-swap Gateron G Pro - switches remplaçables",
+					"Triple connectivité (BT 5.1, 2.4GHz, USB-C)",
+					"QMK/VIA entièrement programmable",
+					"Châssis aluminium premium robuste",
+					"Autonomie 240h exceptionnelle",
+					"Compatible Mac/Win (touches interchangeables incluses)",
+					"RGB per-key personnalisable"
 				],
 				"cons": [
-					"Switches bruyants (sauf Red)",
-					"Prix élevé (110€)",
-					"Période adaptation mécanique",
-					"Lourd (765g)",
-					"Pas de repose-poignets",
-					"RGB peut sembler gaming",
-					"Courbe apprentissage QMK/VIA"
+					"Encombrant (full-size = grande surface bureau)",
+					"Switches bruyants selon le modèle choisi",
+					"Lourd (980g)",
+					"Pas de repose-poignets inclus",
+					"Courbe d'apprentissage QMK/VIA"
 				]
 			},
 			"targetAudience": [
-				"Développeurs et programmeurs",
+				"Développeurs et programmeurs avec usage pavé numérique",
+				"Comptables et financiers",
 				"Enthusiastes claviers mécaniques",
-				"Personnes typant intensivement",
-				"Gamers professionnels",
+				"Télétravailleurs à bureau fixe",
 				"Utilisateurs Mac + Windows"
 			],
 			"ratings": {
@@ -263,9 +264,9 @@
 				"batteryLife": 4.7,
 				"connectivity": 4.8,
 				"valueForMoney": 4.6,
-				"reviewCount": 6234
+				"reviewCount": 2341
 			},
-			"badges": ["Mécanique Pro", "Hot-swap", "QMK/VIA", "Multi-OS"]
+			"badges": ["Mécanique Pro", "Full-size", "Hot-swap", "QMK/VIA"]
 		},
 		{
 			"id": "clavier-004",
@@ -284,7 +285,7 @@
 					"original": 49.99,
 					"currency": "EUR",
 					"asin": "B0148NPH9I",
-					"url": "https://www.amazon.fr/dp/B0148NPH9I"
+					"url": "https://www.amazon.fr/dp/B0148NPH9I?tag=setupteletrav-21"
 				},
 				"cdiscount": {
 					"current": 37.99,
@@ -375,8 +376,8 @@
 					"current": 99.99,
 					"original": 129.99,
 					"currency": "EUR",
-					"asin": "B09HM94VDS",
-					"url": "https://www.amazon.fr/dp/B09HM94VDS"
+					"asin": "B0FHHV6YR5",
+					"url": "https://www.amazon.fr/dp/B0FHHV6YR5?tag=setupteletrav-21"
 				},
 				"cdiscount": {
 					"current": 109.99,
@@ -452,7 +453,7 @@
 		},
 		{
 			"id": "souris-002",
-			"name": "Logitech MX Ergo",
+			"name": "Logitech MX Ergo S",
 			"category": "Souris",
 			"subcategory": "Trackball ergonomique sans fil",
 			"images": [
@@ -466,11 +467,11 @@
 			],
 			"price": {
 				"amazon": {
-					"current": 89.99,
+					"current": 79.99,
 					"original": 119.99,
 					"currency": "EUR",
-					"asin": "B0753P1GTS",
-					"url": "https://www.amazon.fr/dp/B0753P1GTS"
+					"asin": "B0DB2HLSS9",
+					"url": "https://www.amazon.fr/dp/B0DB2HLSS9?tag=setupteletrav-21"
 				},
 				"cdiscount": {
 					"current": 94.99,
@@ -493,8 +494,8 @@
 				"angle": "0° ou 20° (plaque magnétique)",
 				"boutons": "8 boutons personnalisables",
 				"molette": "Oui - molette de précision",
-				"autonomie": "4 mois",
-				"chargeRapide": "Micro-USB - 1 min = 1 journée",
+				"autonomie": "120 jours (charge complète)",
+				"chargeRapide": "USB-C - 1 min = 24h d'utilisation",
 				"ergonomie": "Droitier, angle réglable",
 				"compatibilite": "Windows, macOS",
 				"dimensions": "132.5 x 99.8 x 51.4 mm",
@@ -508,7 +509,7 @@
 					"Zéro mouvement bras/poignet",
 					"Parfait pour douleurs existantes",
 					"8 boutons personnalisables",
-					"Autonomie 4 mois",
+					"Autonomie 120 jours USB-C",
 					"Curseur de précision",
 					"Gain de place bureau (stationnaire)"
 				],
@@ -518,7 +519,7 @@
 					"Moins précis que souris traditionnelle",
 					"Prix élevé (90€)",
 					"Lourd (259g)",
-					"Micro-USB (pas USB-C)",
+					"Droitier uniquement (pas de version gaucher)",
 					"Pas adapté gaming/design précis"
 				]
 			},
@@ -562,11 +563,11 @@
 			],
 			"price": {
 				"amazon": {
-					"current": 64.99,
+					"current": 39.99,
 					"original": 79.99,
 					"currency": "EUR",
-					"asin": "B09J1TB35S",
-					"url": "https://www.amazon.fr/dp/B09J1TB35S"
+					"asin": "B07W4DGC27",
+					"url": "https://www.amazon.fr/dp/B07W4DGC27?tag=setupteletrav-21"
 				},
 				"cdiscount": {
 					"current": 69.99,
@@ -658,11 +659,11 @@
 			],
 			"price": {
 				"amazon": {
-					"current": 44.99,
+					"current": 35,
 					"original": 59.99,
 					"currency": "EUR",
-					"asin": "B01LF37K80",
-					"url": "https://www.amazon.fr/dp/B01LF37K80"
+					"asin": "B01KZVQB42",
+					"url": "https://www.amazon.fr/dp/B01KZVQB42?tag=setupteletrav-21"
 				},
 				"cdiscount": {
 					"current": 47.99,

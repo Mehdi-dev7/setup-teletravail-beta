@@ -55,6 +55,10 @@ type Hub = {
 	badges: string[];
 };
 
+// Formate un prix en format français : 159.99 → "159,99 €", 219 → "219 €"
+const formatPrix = (prix: number) =>
+	prix.toLocaleString("fr-FR", { style: "currency", currency: "EUR", minimumFractionDigits: 0 });
+
 export default function HubUsbClient({ slug }: { slug: string }) {
 	const id = slug;
 
@@ -294,7 +298,7 @@ export default function HubUsbClient({ slug }: { slug: string }) {
 									>
 										<div className="flex items-center gap-3">
 											<div className="w-24 h-8 flex items-center sm:justify-center">
-												<span className="font-bold text-sm xs:text-base md:text-lg text-gray-700">{item.enseigne}</span>
+												<img src={item.logo} alt={item.enseigne} className="h-7 w-auto object-contain" />
 											</div>
 											{index === 0 && (
 												<span className="bg-green-100 text-green-700 text-[10px] xs:text-xs px-1.5 xs:px-2 py-0.5 xs:py-1 rounded-full font-medium">
@@ -303,7 +307,7 @@ export default function HubUsbClient({ slug }: { slug: string }) {
 											)}
 										</div>
 										<div className="flex items-center gap-3">
-											<span className="text-base xs:text-xl sm:text-2xl font-bold text-(--prim)">{item.prix}€</span>
+											<span className="text-base xs:text-xl sm:text-2xl font-bold text-(--prim)">{formatPrix(item.prix)}</span>
 											<i className="ri-external-link-line text-gray-400 group-hover:text-(--prim) transition-colors"></i>
 										</div>
 									</a>
@@ -465,7 +469,7 @@ export default function HubUsbClient({ slug }: { slug: string }) {
 							<p className="text-gray-700">
 								Le {product.name} se distingue par {product.prosAndCons.pros[0].toLowerCase()}.
 								Avec sa connexion {product.features.connexionPc} et sa garantie de {product.features.garantie},
-								il offre un excellent rapport qualité-prix à {product.price.amazon.current}€
+								il offre un excellent rapport qualité-prix à {formatPrix(product.price.amazon.current)}
 								pour les télétravailleurs qui ont besoin d&apos;une connectique fiable et complète.
 							</p>
 						</div>
@@ -488,7 +492,7 @@ export default function HubUsbClient({ slug }: { slug: string }) {
 							className="bg-(--prim) text-white text-sm xs:text-base px-4 xs:px-8 py-2 xs:py-4 rounded-full font-semibold hover:opacity-90 transition-all flex items-center justify-center gap-2"
 						>
 							<i className="ri-shopping-cart-line"></i>
-							Voir sur {prixEnseignes[0]?.enseigne} - {prixEnseignes[0]?.prix}€
+							Voir sur {prixEnseignes[0]?.enseigne} - {formatPrix(prixEnseignes[0]?.prix ?? 0)}
 						</a>
 						<Link
 							href="/accessoires/hubUsb"
