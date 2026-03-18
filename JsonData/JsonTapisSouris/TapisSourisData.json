@@ -17,20 +17,20 @@
       ],
       "price": {
         "amazon": {
-          "current": 39.99,
+          "current": 59.99,
           "original": 54.99,
           "currency": "EUR",
           "asin": "B08F2TGPB6",
-          "url": "https://www.amazon.fr/dp/B08F2TGPB6"
+          "url": "https://amzn.to/4rCX5Nu"
         },
         "cdiscount": {
-          "current": 42.99,
+          "current": 62.99,
           "original": 54.99,
           "currency": "EUR",
           "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/steelseries-qck-3xl/f-10717-ste5707119047739.html"
         },
         "fnac": {
-          "current": 44.99,
+          "current": 64.99,
           "original": 54.99,
           "currency": "EUR",
           "url": "https://www.fnac.com/SteelSeries-QcK-3XL-Tapis/a14567892/w-4"
@@ -90,7 +90,7 @@
     },
     {
       "id": "tapis-large-002",
-      "name": "Extended Office Desk Mat Cork & Leather",
+      "name": "Nordik Cork Leather Desk Mat",
       "category": "Tapis de souris",
       "subcategory": "Tapis bureau premium liège et cuir",
       "images": [
@@ -103,11 +103,11 @@
       ],
       "price": {
         "amazon": {
-          "current": 49.99,
+          "current": 31.99,
           "original": 69.99,
           "currency": "EUR",
           "asin": "B09HLMN6K7",
-          "url": "https://www.amazon.fr/dp/B09HLMN6K7"
+          "url": "https://amzn.to/4drtNOn"
         },
         "cdiscount": {
           "current": 54.99,
@@ -189,11 +189,11 @@
       ],
       "price": {
         "amazon": {
-          "current": 24.99,
+          "current": 18.99,
           "original": 39.99,
           "currency": "EUR",
           "asin": "B08YWQB5H3",
-          "url": "https://www.amazon.fr/dp/B08YWQB5H3"
+          "url": "https://amzn.to/41b0mc3"
         },
         "cdiscount": {
           "current": 27.99,
@@ -266,7 +266,7 @@
   "tapis_souris_ergonomiques": [
     {
       "id": "souris-ergo-001",
-      "name": "3M Precise Mousing Surface Gel Wrist Rest",
+      "name": "3M MP114-BSD1 tapis de souris Gris",
       "category": "Tapis souris ergonomique",
       "subcategory": "Tapis souris avec repose-poignet gel",
       "images": [
@@ -280,11 +280,11 @@
       ],
       "price": {
         "amazon": {
-          "current": 24.99,
+          "current": 20.99,
           "original": 34.99,
           "currency": "EUR",
           "asin": "B0002J1K2Y",
-          "url": "https://www.amazon.fr/dp/B0002J1K2Y"
+          "url": "https://amzn.to/47VNjir"
         },
         "cdiscount": {
           "current": 27.99,
@@ -366,20 +366,20 @@
       ],
       "price": {
         "amazon": {
-          "current": 12.99,
+          "current": 17.99,
           "original": 19.99,
           "currency": "EUR",
           "asin": "B01MR4II3C",
-          "url": "https://www.amazon.fr/dp/B01MR4II3C"
+          "url": "https://amzn.to/4sRq0OT"
         },
         "cdiscount": {
-          "current": 14.99,
+          "current": 19.99,
           "original": 19.99,
           "currency": "EUR",
           "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/gimars-memory-foam-wrist-rest/f-10717-gim0745125464404.html"
         },
         "fnac": {
-          "current": 16.99,
+          "current": 19.99,
           "original": 19.99,
           "currency": "EUR",
           "url": "https://www.fnac.com/Gimars-Memory-Foam-Wrist-Rest/a16789234/w-4"
@@ -454,20 +454,20 @@
       ],
       "price": {
         "amazon": {
-          "current": 29.99,
+          "current": 83.99,
           "original": 39.99,
           "currency": "EUR",
           "asin": "B000J4HJL4",
-          "url": "https://www.amazon.fr/dp/B000J4HJL4"
+          "url": "https://amzn.to/4lz8bSg"
         },
         "cdiscount": {
-          "current": 32.99,
+          "current": 92.99,
           "original": 39.99,
           "currency": "EUR",
           "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/3m-gel-wrist-rest-keyboards/f-10717-3mm0051141320922.html"
         },
         "fnac": {
-          "current": 34.99,
+          "current": 94.99,
           "original": 39.99,
           "currency": "EUR",
           "url": "https://www.fnac.com/3M-Gel-Wrist-Rest-Keyboards/a10234567/w-4"
@@ -544,7 +544,7 @@
           "original": 29.99,
           "currency": "EUR",
           "asin": "B07PYZFPHP",
-          "url": "https://www.amazon.fr/dp/B07PYZFPHP"
+          "url": "https://amzn.to/3PvWX53"
         },
         "cdiscount": {
           "current": 21.99,
@@ -624,20 +624,20 @@
       ],
       "price": {
         "amazon": {
-          "current": 14.99,
+          "current": 32.99,
           "original": 22.99,
           "currency": "EUR",
           "asin": "B000BQQP9M",
-          "url": "https://www.amazon.fr/dp/B000BQQP9M"
+          "url": "https://amzn.to/47cDwEy"
         },
         "cdiscount": {
-          "current": 16.99,
+          "current": 36.99,
           "original": 22.99,
           "currency": "EUR",
           "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/fellowes-plushtouch-wrist-rest/f-10717-fel0043859490691.html"
         },
         "fnac": {
-          "current": 18.99,
+          "current": 38.99,
           "original": 22.99,
           "currency": "EUR",
           "url": "https://www.fnac.com/Fellowes-PlushTouch-Wrist-Rest/a9876543/w-4"

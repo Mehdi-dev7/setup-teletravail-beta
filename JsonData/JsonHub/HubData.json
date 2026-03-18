@@ -17,14 +17,14 @@
       ],
       "price": {
         "amazon": {
-          "current": 379.99,
+          "current": 808,
           "original": 429.99,
           "currency": "EUR",
           "asin": "B09GK8LBWS",
-          "url": "https://www.amazon.fr/dp/B09GK8LBWS"
+          "url": "https://amzn.to/3PfUUCa"
         },
         "fnac": {
-          "current": 399.99,
+          "current": 899.99,
           "original": 429.99,
           "currency": "EUR",
           "url": "https://www.fnac.com/CalDigit-TS4-Thunderbolt-4-Dock/a16789345/w-4"
@@ -86,79 +86,76 @@
     },
     {
       "id": "hub-002",
-      "name": "Anker 777 Thunderbolt 4 Dock",
+      "name": "Anker 778 Thunderbolt 4 Dock 12-en-1",
       "category": "Station d'accueil",
       "subcategory": "Station Thunderbolt 4 pour MacBook",
       "images": [
-        "/Img-HubUsb/Anker777/img-p.jpg",
-        "/Img-HubUsb/Anker777/img-2.jpg",
-        "/Img-HubUsb/Anker777/img-3.jpg",
-        "/Img-HubUsb/Anker777/img-4.jpg",
-        "/Img-HubUsb/Anker777/img-5.jpg",
-        "/Img-HubUsb/Anker777/img-6.jpg"
+        "/Img-HubUsb/Anker778/img-p.jpg",
+        "/Img-HubUsb/Anker778/img-2.jpg",
+        "/Img-HubUsb/Anker778/img-3.jpg",
+        "/Img-HubUsb/Anker778/img-4.jpg",
+        "/Img-HubUsb/Anker778/img-5.jpg",
+        "/Img-HubUsb/Anker778/img-6.jpg"
       ],
       "price": {
         "amazon": {
-          "current": 269.99,
-          "original": 349.99,
+          "current": 303.99,
+          "original": 0,
           "currency": "EUR",
-          "asin": "B09MDB5GJD",
-          "url": "https://www.amazon.fr/dp/B09MDB5GJD"
+          "asin": "B0BN28ZT84",
+          "url": "https://amzn.to/4bjHk9w"
         },
         "cdiscount": {
-          "current": 279.99,
-          "original": 349.99,
+          "current": 0,
+          "original": 0,
           "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/anker-777-thunderbolt-4-dock/f-10717-ank0194644092696.html"
+          "url": ""
         },
         "fnac": {
-          "current": 289.99,
-          "original": 349.99,
+          "current": 0,
+          "original": 0,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Anker-777-Thunderbolt-4-Dock/a16234891/w-4"
+          "url": ""
         }
       },
       "features": {
-        "connexionPc": "1x Thunderbolt 4 (câble 0.7m inclus)",
-        "sortiesVideo": "2x Thunderbolt 4 (40Gbps) + 1x HDMI 2.0",
-        "resolutionMax": "MacBook M1/M2: 2x 4K@60Hz via DisplayLink",
+        "connexionPc": "1x Thunderbolt 4 (câble inclus)",
+        "sortiesVideo": "2x Thunderbolt 4 (40Gbps) + 1x HDMI 2.1",
+        "resolutionMax": "2x 4K@60Hz ou 1x 8K",
         "compatibiliteMac": "M1/M2/M3 MacBook - 2 écrans externes",
         "portsUsb": "4x USB-A 3.2 (10Gbps), 2x USB-C (10Gbps)",
         "ethernet": "Gigabit Ethernet",
         "audio": "Jack 3.5mm combo",
         "lecteurCartes": "SD & microSD UHS-II",
         "puissance": "90W Power Delivery",
-        "dimensions": "200 x 90 x 32 mm",
-        "poids": "485g",
         "garantie": "2 ans Anker"
       },
-      "description": "L'Anker 777 offre une alternative plus abordable à la CalDigit TS4 tout en conservant l'essentiel pour un setup MacBook double écran. Cette station Thunderbolt 4 certifiée Intel délivre 12 ports depuis une connexion unique à votre MacBook, simplifiant drastiquement votre bureau.\n\nLa technologie DisplayLink intégrée permet de contourner la limitation Apple des MacBook M1/M2 base et de brancher réellement 2 écrans externes en 4K@60Hz. Les 2 ports Thunderbolt 4 aval supportent chacun un écran 4K, tandis que le port HDMI 2.0 offre une troisième sortie pour Windows. La charge 90W maintient votre MacBook Pro 14\" ou Air en charge complète.\n\nLes 4 ports USB-A 10Gbps à l'avant facilitent la connexion rapide de clés USB et disques externes. Le Gigabit Ethernet garantit une connexion réseau stable pour visio. Les lecteurs SD/microSD UHS-II intégrés sont pratiques pour créatifs. Construction aluminium robuste avec surface anti-rayures. Excellent rapport qualité-prix pour un dock Thunderbolt 4 compatible MacBook M.",
+      "description": "L'Anker 778 est le successeur direct du 777, avec une mise à jour clé : le port HDMI passe en version 2.1, offrant une meilleure bande passante et une compatibilité accrue avec les écrans récents. Cette station Thunderbolt 4 certifiée Intel délivre 12 ports depuis une connexion unique à votre MacBook, simplifiant drastiquement votre bureau.\n\nLes 2 ports Thunderbolt 4 aval (40Gbps) supportent chacun un écran 4K@60Hz, tandis que le port HDMI 2.1 offre une troisième sortie vidéo pour Windows ou écrans HDMI dédiés. La charge 90W maintient votre MacBook Pro 14\" ou Air en charge complète pendant toute la journée de travail.\n\nLes 4 ports USB-A 10Gbps à l'avant facilitent la connexion rapide de clés USB et disques externes. Le Gigabit Ethernet garantit une connexion réseau stable pour visio. Les lecteurs SD/microSD UHS-II intégrés sont pratiques pour créatifs. Construction aluminium robuste. Excellent rapport qualité-prix pour un dock Thunderbolt 4 compatible MacBook M.",
       "prosAndCons": {
         "pros": [
-          "2 écrans pour MacBook M1/M2 base",
-          "Prix correct pour Thunderbolt 4 (270€)",
+          "HDMI 2.1 (upgrade vs 777)",
+          "2 écrans pour MacBook M1/M2/M3",
           "90W Power Delivery suffisant",
           "12 ports bien répartis",
           "Lecteurs SD/microSD UHS-II",
           "Build quality Anker fiable",
-          "Compact et léger",
-          "Câble Thunderbolt 4 inclus"
+          "Câble Thunderbolt 4 inclus",
+          "Garantie 2 ans"
         ],
         "cons": [
           "90W limite MacBook Pro 16\"",
           "Pas d'Ethernet 2.5Gb",
-          "Moins de ports USB que CalDigit",
-          "Câble 0.7m court",
+          "Moins de ports que CalDigit TS4",
           "Chauffe sous charge",
-          "DisplayLink parfois laggy (rare)"
+          "Prix élevé vs hub USB-C basique"
         ]
       },
       "targetAudience": [
-        "MacBook M1/M2 Air ou Pro 13/14\"",
+        "MacBook M1/M2/M3 Air ou Pro",
         "Budget moyen dock Thunderbolt (250-300€)",
         "Setup double écran 4K",
-        "Utilisateurs valorisant compacité",
-        "Confiance marque Anker"
+        "Utilisateurs valorisant qualité Anker",
+        "Successeur recherché de l'Anker 777"
       ],
       "ratings": {
         "overall": 4.6,
@@ -166,10 +163,10 @@
         "macCompatibility": 4.7,
         "buildQuality": 4.6,
         "powerDelivery": 4.4,
-        "valueForMoney": 4.7,
-        "reviewCount": 4567
+        "valueForMoney": 4.6,
+        "reviewCount": 0
       },
-      "badges": ["MacBook M1/M2", "Double écran", "Anker Quality", "Bon rapport Q/P"]
+      "badges": ["MacBook M1/M2/M3", "HDMI 2.1", "Thunderbolt 4", "Anker Quality"]
     },
     {
       "id": "hub-003",
@@ -186,11 +183,11 @@
       ],
       "price": {
         "amazon": {
-          "current": 249.99,
+          "current": 229,
           "original": 329.99,
           "currency": "EUR",
           "asin": "B07Y1DX7N6",
-          "url": "https://www.amazon.fr/dp/B07Y1DX7N6"
+          "url": "https://amzn.to/40IgQbx"
         },
         "cdiscount": {
           "current": 259.99,
@@ -260,179 +257,172 @@
     },
     {
       "id": "hub-004",
-      "name": "Plugable UD-ULTC4K",
+      "name": "StarTech.com Station d'Accueil USB 3.0 Double Écran",
       "category": "Station d'accueil",
-      "subcategory": "Dock USB-C universel DisplayLink",
+      "subcategory": "Dock USB-A universel double écran",
       "images": [
-        "/Img-HubUsb/UD-ULTC4K/img-p.jpg",
-        "/Img-HubUsb/UD-ULTC4K/img-2.jpg",
-        "/Img-HubUsb/UD-ULTC4K/img-3.jpg",
-        "/Img-HubUsb/UD-ULTC4K/img-4.jpg",
-        "/Img-HubUsb/UD-ULTC4K/img-5.jpg",
-        "/Img-HubUsb/UD-ULTC4K/img-6.jpg"
+        "/Img-HubUsb/StarTech-USB3SDOCKHD/img-p.jpg",
+        "/Img-HubUsb/StarTech-USB3SDOCKHD/img-2.jpg",
+        "/Img-HubUsb/StarTech-USB3SDOCKHD/img-3.jpg",
+        "/Img-HubUsb/StarTech-USB3SDOCKHD/img-4.jpg",
+        "/Img-HubUsb/StarTech-USB3SDOCKHD/img-5.jpg",
+        "/Img-HubUsb/StarTech-USB3SDOCKHD/img-6.jpg"
       ],
       "price": {
         "amazon": {
-          "current": 179.99,
-          "original": 229.99,
+          "current": 98.99,
+          "original": 0,
           "currency": "EUR",
-          "asin": "B0779K9DG2",
-          "url": "https://www.amazon.fr/dp/B0779K9DG2"
+          "asin": "B008YT59Q4",
+          "url": "https://amzn.to/40Fkjrj"
         },
         "cdiscount": {
-          "current": 189.99,
-          "original": 229.99,
+          "current": 0,
+          "original": 0,
           "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/plugable-ud-ultc4k/f-10717-plu0819927011057.html"
+          "url": ""
         },
         "fnac": {
-          "current": 199.99,
-          "original": 229.99,
+          "current": 0,
+          "original": 0,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Plugable-UD-ULTC4K-USB-C-Dock/a15678943/w-4"
+          "url": ""
         }
       },
       "features": {
-        "connexionPc": "1x USB-C (câble 1m inclus, pas Thunderbolt)",
-        "sortiesVideo": "2x HDMI 2.0 + 1x DVI-I (via DisplayLink)",
-        "resolutionMax": "2x 4K@60Hz ou 3x 1080p@60Hz",
-        "compatibiliteMac": "M1/M2/M3 MacBook - 2 écrans (DisplayLink)",
-        "portsUsb": "5x USB-A 3.0 (5Gbps), 1x USB-C 3.0",
+        "connexionPc": "1x USB 3.0 Type-A",
+        "sortiesVideo": "1x HDMI + 1x DVI/VGA (double écran)",
+        "resolutionMax": "2x 1080p@60Hz",
+        "portsUsb": "6x USB-A hub intégré",
         "ethernet": "Gigabit Ethernet",
         "audio": "Jack 3.5mm In/Out",
-        "puissance": "60W Power Delivery",
-        "technologie": "DisplayLink DL-6950",
-        "compatibilite": "Windows, macOS, ChromeOS, Linux",
-        "dimensions": "175 x 85 x 28 mm",
-        "poids": "340g"
+        "puissance": "Pas de Power Delivery (USB-A)",
+        "technologie": "DisplayLink",
+        "compatibilite": "Windows, macOS, ChromeOS",
+        "modele": "USB3SDOCKHD",
+        "garantie": "3 ans StarTech"
       },
-      "description": "Le Plugable UD-ULTC4K est la solution universelle et abordable pour ajouter 2-3 écrans à N'IMPORTE QUEL laptop équipé d'un port USB-C, même sans Thunderbolt. Grâce à la technologie DisplayLink DL-6950, il transforme le signal USB-C standard en sorties vidéo multiples, contournant toutes les limitations matérielles.\n\nParfait pour les MacBook M1/M2/M3 base qui sont limités à 1 seul écran externe en natif : ce dock ajoute 2 écrans supplémentaires en 4K@60Hz via DisplayLink, pour un total de 3 écrans (laptop inclus). Les utilisateurs Windows/Linux bénéficient de 2-3 écrans additionnels également. Les 2 ports HDMI 2.0 supportent chacun 4K@60Hz.\n\nLes 5 ports USB-A 3.0 permettent de connecter tous vos périphériques. Le port Ethernet Gigabit stabilise la connexion réseau. La charge 60W maintient les laptops légers (Air, ultrabooks) en charge. Installation simple avec pilotes DisplayLink gratuits (Windows/Mac). Pour 180€, c'est l'option la plus économique pour un vrai setup multi-écrans sur MacBook M ou laptop USB-C basique.",
+      "description": "La StarTech.com Station d'Accueil USB 3.0 (USB3SDOCKHD) est la solution universelle pour étendre son setup avec double écran depuis n'importe quel laptop doté d'un port USB-A — sans Thunderbolt, sans USB-C requis. Idéale pour les machines plus anciennes ou les PC fixes manquant de ports.\n\nGrâce à la technologie DisplayLink intégrée, le dock gère deux écrans simultanément via HDMI et DVI/VGA, parfait pour la productivité bureautique. Le hub USB-A 6 ports intégré permet de brancher souris, clavier, imprimante et autres périphériques en un seul bloc. L'Ethernet Gigabit garantit une connexion réseau stable pour les visioconférences et le travail à distance.\n\nCompatible Windows, macOS et ChromeOS avec installation simple via pilotes DisplayLink. La garantie 3 ans StarTech rassure sur la durabilité. Solution idéale pour les setups bureautiques classiques qui n'ont pas besoin de USB-C ou Thunderbolt.",
       "prosAndCons": {
         "pros": [
-          "Compatible TOUT laptop USB-C",
-          "2-3 écrans via DisplayLink",
-          "MacBook M1/M2: 2 écrans additionnels",
-          "Prix abordable (180€)",
-          "Pas de Thunderbolt requis",
-          "Multi-OS (Win/Mac/Linux/ChromeOS)",
-          "2x HDMI 4K@60Hz",
-          "Compact et léger"
+          "Compatible tout laptop USB-A",
+          "Double écran HDMI + DVI/VGA",
+          "6x USB-A hub intégré",
+          "Ethernet Gigabit",
+          "Garantie 3 ans StarTech",
+          "Multi-OS (Win/Mac/ChromeOS)",
+          "Installation simple (pilotes DisplayLink)",
+          "Pas besoin de Thunderbolt"
         ],
         "cons": [
-          "60W PD limite gros laptops",
-          "DisplayLink: latence vidéo légère",
+          "Connexion USB-A (pas USB-C)",
+          "Pas de Power Delivery",
+          "Résolution limitée à 1080p",
           "Nécessite pilotes DisplayLink",
-          "Pas adapté gaming/vidéo intensive",
-          "Pas de Thunderbolt (40Gbps)",
-          "Chauffe sous charge vidéo",
-          "DVI-I obsolète"
+          "Technologie vieillissante",
+          "Pas adapté MacBook récents (M1/M2/M3)"
         ]
       },
       "targetAudience": [
-        "MacBook M1/M2 Air budget limité",
-        "Laptops USB-C sans Thunderbolt",
-        "Setup double/triple écran économique",
-        "Bureautique et productivité",
-        "Refus dépenser 300€+ en dock"
+        "PC portables avec port USB-A uniquement",
+        "Machines plus anciennes sans USB-C",
+        "Setup bureautique double écran 1080p",
+        "Windows principalement",
+        "Budget limité, besoin basique"
       ],
       "ratings": {
-        "overall": 4.3,
-        "portSelection": 4.2,
-        "macCompatibility": 4.5,
-        "buildQuality": 4.0,
-        "powerDelivery": 3.8,
-        "valueForMoney": 4.7,
-        "reviewCount": 5678
+        "overall": 4.2,
+        "portSelection": 4.3,
+        "macCompatibility": 3.5,
+        "buildQuality": 4.2,
+        "powerDelivery": 2.0,
+        "valueForMoney": 4.4,
+        "reviewCount": 0
       },
-      "badges": ["DisplayLink", "Budget-friendly", "MacBook M1/M2", "Universel"]
+      "badges": ["USB-A Universel", "Double écran", "StarTech Pro", "Garantie 3 ans"]
     },
     {
       "id": "hub-005",
-      "name": "Anker PowerExpand Elite 13-in-1",
+      "name": "Anker Nano Station 13-en-1",
       "category": "Hub USB-C",
-      "subcategory": "Hub USB-C premium compact",
+      "subcategory": "Hub USB-C triple écran compact",
       "images": [
-        "/Img-HubUsb/Anker-Elite/img-p.jpg",
-        "/Img-HubUsb/Anker-Elite/img-2.jpg",
-        "/Img-HubUsb/Anker-Elite/img-3.jpg",
-        "/Img-HubUsb/Anker-Elite/img-4.jpg",
-        "/Img-HubUsb/Anker-Elite/img-5.jpg",
-        "/Img-HubUsb/Anker-Elite/img-6.jpg"
+        "/Img-HubUsb/Anker-NanoStation/img-p.jpg",
+        "/Img-HubUsb/Anker-NanoStation/img-2.jpg",
+        "/Img-HubUsb/Anker-NanoStation/img-3.jpg",
+        "/Img-HubUsb/Anker-NanoStation/img-4.jpg",
+        "/Img-HubUsb/Anker-NanoStation/img-5.jpg",
+        "/Img-HubUsb/Anker-NanoStation/img-6.jpg"
       ],
       "price": {
         "amazon": {
-          "current": 119.99,
+          "current": 139.99,
           "original": 149.99,
           "currency": "EUR",
-          "asin": "B087QZVQJX",
-          "url": "https://www.amazon.fr/dp/B087QZVQJX"
+          "asin": "B0FM2PX23T",
+          "url": "https://amzn.to/4siDi7b"
         },
         "cdiscount": {
           "current": 129.99,
           "original": 149.99,
           "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/anker-powerexpand-elite-13-in-1/f-10717-ank0194644039806.html"
+          "url": ""
         },
         "fnac": {
           "current": 139.99,
           "original": 149.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Anker-PowerExpand-Elite-13-in-1/a15234789/w-4"
+          "url": ""
         }
       },
       "features": {
-        "connexionPc": "1x USB-C (câble 0.4m intégré)",
-        "sortiesVideo": "1x HDMI 2.0 + 1x USB-C DisplayPort alt mode",
-        "resolutionMax": "2x 4K@60Hz (MacBook Intel) | 1x 4K@60Hz (MacBook M1/M2)",
-        "portsUsb": "2x USB-A 3.0 (5Gbps), 1x USB-A 2.0, 2x USB-C 3.0 (10Gbps)",
+        "connexionPc": "1x USB-C",
+        "sortiesVideo": "2x HDMI + 1x DisplayPort (triple écran)",
+        "resolutionMax": "Triple display 4K",
+        "portsUsb": "3x USB-A, 1x USB-C 10Gbps",
         "ethernet": "Gigabit Ethernet",
         "audio": "Jack 3.5mm combo",
-        "lecteurCartes": "SD & microSD UHS-I",
-        "puissance": "85W Power Delivery (pass-through)",
+        "lecteurCartes": "SD & microSD (TF)",
+        "puissance": "100W Power Delivery (pass-through)",
         "design": "Compact portable",
-        "dimensions": "180 x 75 x 18 mm",
-        "poids": "220g",
         "garantie": "18 mois Anker"
       },
-      "description": "L'Anker PowerExpand Elite 13-in-1 est le hub USB-C compact ultime pour nomades et télétravailleurs hybrides. Avec seulement 220g et la taille d'un smartphone, il transforme le port USB-C unique de votre laptop en 13 ports exploitables, le tout sans encombrer votre bureau.\n\nLa sortie HDMI 2.0 supporte 4K@60Hz pour un écran externe, tandis que le port USB-C DisplayPort alt mode permet un second écran (sur MacBook Intel uniquement, M1/M2 limités à 1 écran). Les 2 ports USB-C 10Gbps permettent de connecter des SSD externes à pleine vitesse. Le lecteur SD/microSD UHS-I intégré est pratique pour photographes mobiles.\n\nLe port Ethernet Gigabit garantit connexion stable en télétravail. La charge pass-through 85W maintient votre laptop en charge tout en utilisant le hub. Le câble USB-C intégré de 40cm évite d'emporter un câble séparé. Construction aluminium assortie aux MacBook. Pour 120€, c'est le hub portable premium par excellence, parfait pour alterner bureau/maison/café.",
+      "description": "L'Anker Nano Station 13-en-1 est le hub USB-C nouvelle génération conçu pour les télétravailleurs exigeants. Il succède à la gamme PowerExpand Elite avec une connectivité triple écran (2x HDMI + 1x DisplayPort), un Power Delivery monté à 100W et un port USB-C 10Gbps pour les transferts rapides.\n\nLes 3 sorties vidéo permettent de connecter simultanément jusqu'à 3 écrans depuis un seul port USB-C, une avancée majeure par rapport à l'ancienne génération. La charge pass-through 100W est suffisante pour maintenir même les MacBook Pro 16\" à pleine puissance. Les 3 ports USB-A et le lecteur SD/microSD couvrent l'ensemble des besoins en périphériques.\n\nLe port Ethernet Gigabit garantit une connexion réseau stable pour les visioconférences et le travail à distance. Compact et léger, ce hub s'emporte facilement entre bureau, maison et déplacements. La qualité de fabrication Anker et la garantie 18 mois assurent fiabilité sur le long terme.",
       "prosAndCons": {
         "pros": [
-          "Compact et léger (220g) - portable",
-          "13 ports dans petit format",
-          "85W PD pass-through",
-          "Build aluminium premium",
-          "Lecteurs SD/microSD intégrés",
+          "Triple écran (2x HDMI + 1x DisplayPort)",
+          "100W PD pass-through (vs 85W ancienne gen)",
+          "USB-C 10Gbps pour SSD rapides",
+          "13 ports dans format compact",
+          "Lecteur SD/microSD intégré",
           "Ethernet Gigabit",
-          "HDMI 4K@60Hz",
-          "Câble intégré pratique"
+          "Qualité Anker fiable",
+          "Garantie 18 mois"
         ],
         "cons": [
-          "MacBook M1/M2: 1 seul écran",
           "Pas de Thunderbolt",
-          "Lecteur SD UHS-I (pas UHS-II)",
-          "Câble 0.4m court",
-          "Chauffe sous charge complète",
+          "Chauffe sous charge triple écran",
           "Moins de ports qu'un dock fixe",
-          "Pas de DVI/VGA legacy"
+          "Prix élevé pour un hub USB-C"
         ]
       },
       "targetAudience": [
         "Nomades digitaux",
         "Télétravailleurs hybrides bureau/maison",
-        "Utilisateurs MacBook (Intel ou M)",
-        "Valorisant portabilité",
-        "Setup 1 écran externe"
+        "Setup double/triple écran portable",
+        "Utilisateurs MacBook et Windows",
+        "Valorisant portabilité et polyvalence"
       ],
       "ratings": {
         "overall": 4.6,
-        "portSelection": 4.5,
-        "macCompatibility": 4.4,
+        "portSelection": 4.7,
+        "macCompatibility": 4.5,
         "buildQuality": 4.7,
-        "powerDelivery": 4.5,
-        "valueForMoney": 4.6,
-        "reviewCount": 8945
+        "powerDelivery": 4.7,
+        "valueForMoney": 4.5,
+        "reviewCount": 0
       },
-      "badges": ["Portable", "13 ports", "Anker Quality", "Nomade"]
+      "badges": ["Triple écran", "100W PD", "Anker Quality", "13-en-1"]
     },
     {
       "id": "hub-006",
@@ -450,11 +440,11 @@
       ],
       "price": {
         "amazon": {
-          "current": 89.99,
+          "current": 147.99,
           "original": 119.99,
           "currency": "EUR",
           "asin": "B09HLHP5PF",
-          "url": "https://www.amazon.fr/dp/B09HLHP5PF"
+          "url": "https://amzn.to/3NxFk4j"
         },
         "cdiscount": {
           "current": 94.99,
@@ -538,11 +528,11 @@
       ],
       "price": {
         "amazon": {
-          "current": 109.99,
+          "current": 115.99,
           "original": 139.99,
           "currency": "EUR",
           "asin": "B0B6PW6VG7",
-          "url": "https://www.amazon.fr/dp/B0B6PW6VG7"
+          "url": "https://www.amazon.fr/dp/B0B6PW6VG7?tag=setupteletrav-21"
         },
         "cdiscount": {
           "current": 119.99,

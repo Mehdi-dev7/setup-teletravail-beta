@@ -14,20 +14,20 @@
       ],
       "price": {
         "amazon": {
-          "current": 34.99,
+          "current": 50,
           "original": 44.99,
           "currency": "EUR",
           "asin": "B0019T0J9S",
-          "url": "https://www.amazon.fr/dp/B0019T0J9S"
+          "url": "https://www.amazon.fr/dp/B0019T0J9S?tag=setupteletrav-21"
         },
         "cdiscount": {
-          "current": 37.99,
+          "current": 67.99,
           "original": 44.99,
           "currency": "EUR",
           "url": "https://www.cdiscount.com/maison/decoration-accessoires/bluelounge-cablebox/f-117600101-blu0852106003003.html"
         },
         "fnac": {
-          "current": 39.99,
+          "current": 69.99,
           "original": 44.99,
           "currency": "EUR",
           "url": "https://www.fnac.com/Bluelounge-CableBox-Rangement/a6789234/w-4"
@@ -86,7 +86,7 @@
     },
     {
       "id": "cable-002",
-      "name": "JOTO Goulotte Cache-Câbles",
+      "name": "JOTO Cache-Câble Rangement de Câble",
       "category": "Rangement câbles",
       "subcategory": "Goulotte murale/bureau adhésive",
       "images": [
@@ -99,11 +99,11 @@
       ],
       "price": {
         "amazon": {
-          "current": 19.99,
+          "current": 14.99,
           "original": 29.99,
           "currency": "EUR",
           "asin": "B0B2QP7YB8",
-          "url": "https://www.amazon.fr/dp/B0B2QP7YB8"
+          "url": "https://amzn.to/4d1fSP7"
         },
         "cdiscount": {
           "current": 21.99,
@@ -184,20 +184,20 @@
       ],
       "price": {
         "amazon": {
-          "current": 12.99,
+          "current": 24.99,
           "original": 14.99,
           "currency": "EUR",
           "asin": "B07WQXG3VS",
-          "url": "https://www.amazon.fr/dp/B07WQXG3VS"
+          "url": "https://amzn.to/3PhPdDN"
         },
         "cdiscount": {
-          "current": 13.99,
+          "current": 33.99,
           "original": 14.99,
           "currency": "EUR",
           "url": "https://www.cdiscount.com/maison/decoration-accessoires/ikea-signum-chemin-cables/f-117600101-ike8710774312298.html"
         },
         "fnac": {
-          "current": 14.99,
+          "current": 34.99,
           "original": 14.99,
           "currency": "EUR",
           "url": "https://www.fnac.com/IKEA-SIGNUM-Chemin-Cables/a16892456/w-4"
@@ -256,89 +256,82 @@
     },
     {
       "id": "cable-004",
-      "name": "Anker Magnetic Cable Clips",
+      "name": "UGREEN Organisateur de Câbles Bureau",
       "category": "Rangement câbles",
-      "subcategory": "Clips magnétiques organiseurs",
+      "subcategory": "Boîte organisateur câbles et prises",
       "images": [
-        "/Img-GestionCable/Anker-MagneticCable/img-p.jpg",
-        "/Img-GestionCable/Anker-MagneticCable/img-2.jpg",
-        "/Img-GestionCable/Anker-MagneticCable/img-3.jpg",
-        "/Img-GestionCable/Anker-MagneticCable/img-4.jpg",
-        "/Img-GestionCable/Anker-MagneticCable/img-5.jpg",
-        "/Img-GestionCable/Anker-MagneticCable/img-6.jpg",
-        "/Img-GestionCable/Anker-MagneticCable/img-7.jpg"
+        "/Img-GestionCable/Ugreen-Organisateur/img-p.jpg",
+        "/Img-GestionCable/Ugreen-Organisateur/img-2.jpg",
+        "/Img-GestionCable/Ugreen-Organisateur/img-3.jpg",
+        "/Img-GestionCable/Ugreen-Organisateur/img-4.jpg",
+        "/Img-GestionCable/Ugreen-Organisateur/img-5.jpg"
       ],
       "price": {
         "amazon": {
-          "current": 9.99,
-          "original": 14.99,
+          "current": 19.99,
+          "original": 24.99,
           "currency": "EUR",
-          "asin": "B08L3ZQHJJ",
-          "url": "https://www.amazon.fr/dp/B08L3ZQHJJ"
+          "asin": "",
+          "url": "https://amzn.to/4lAgXQ9"
         },
         "cdiscount": {
-          "current": 11.99,
-          "original": 14.99,
+          "current": 22.99,
+          "original": 24.99,
           "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/anker-magnetic-cable-clips/f-10717-ank0194644092696.html"
+          "url": ""
         },
         "fnac": {
-          "current": 12.99,
-          "original": 14.99,
+          "current": 23.99,
+          "original": 24.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Anker-Magnetic-Cable-Clips/a17892345/w-4"
+          "url": ""
         }
       },
       "features": {
-        "type": "Clips magnétiques câbles",
-        "quantite": "3 clips + 3 bases magnétiques",
-        "capacite": "1-3 câbles par clip",
-        "installation": "Adhésif 3M nano sur base",
-        "aimant": "Néodyme puissant",
-        "materiaux": "Silicone + aimant",
-        "dimensions": "30 x 15 x 8 mm par clip",
-        "couleurs": "Noir, gris",
-        "poids": "25g total",
-        "garantie": "18 mois Anker"
+        "type": "Boîte organisateur câbles",
+        "capacite": "Multiprise + câbles + adaptateurs",
+        "installation": "Pose libre sur bureau",
+        "materiaux": "ABS ignifuge",
+        "sorties": "Ouvertures latérales pour câbles",
+        "couleurs": "Noir, blanc",
+        "garantie": "18 mois UGREEN"
       },
-      "description": "Les Anker Magnetic Cable Clips révolutionnent la gestion de câbles sur bureau grâce à leur système magnétique ingénieux. Ces petits clips maintiennent vos câbles à portée de main tout en les gardant organisés et démêlés, éliminant le problème des câbles qui tombent derrière le bureau.\n\nChaque clip silicone peut accueillir 1-3 câbles (USB-C, Lightning, micro-USB) et se détache magnétiquement de sa base pour un accès ultra-rapide. Les 3 bases adhésives 3M nano se collent solidement sur le bord du bureau, mur, ou côté d'écran. Branchez/débranchez vos câbles sans qu'ils ne tombent au sol : le clip magnétique les maintient toujours en place.\n\nIdéal pour câbles de charge smartphone, câbles USB périphériques, ou câbles audio. Le silicone doux ne raye pas les câbles. L'aimant néodyme puissant maintient fermement même avec 3 câbles. Installation en 2 minutes sans outils. Pour 10€, c'est l'accessoire le plus intelligent pour garder vos câbles les plus utilisés à portée de main.",
+      "description": "L'UGREEN Organisateur de Câbles Bureau est la solution pratique et élégante pour ranger proprement votre multiprise, vos câbles et adaptateurs encombrants. Cette boîte design dissimule l'ensemble de vos connectiques tout en offrant un accès facile aux câbles qui en ressortent.\n\nConçu par UGREEN, marque reconnue pour la qualité de ses accessoires tech, cet organisateur s'intègre discrètement sur ou sous votre bureau. Les ouvertures latérales permettent de faire passer les câbles proprement vers vos périphériques. Le matériau ABS ignifuge garantit une utilisation sécurisée même avec une multiprise en charge.\n\nIdéal pour centraliser l'ensemble de vos connectiques en un seul endroit, il transforme un bureau encombré de câbles en un espace de travail ordonné et professionnel. La qualité de fabrication UGREEN assure robustesse et durabilité.",
       "prosAndCons": {
         "pros": [
-          "Prix mini (10€)",
-          "Système magnétique ingénieux",
-          "Câbles toujours à portée",
-          "Empêche chute derrière bureau",
-          "Installation 2 min",
-          "Silicone doux câbles",
-          "Aimant néodyme puissant",
-          "Qualité Anker"
+          "Marque UGREEN reconnue",
+          "Cache multiprise + adaptateurs",
+          "Design épuré et moderne",
+          "Matériau ABS ignifuge sécurisé",
+          "Sorties câbles organisées",
+          "Installation sans outils",
+          "Rapport qualité-prix excellent",
+          "Garantie 18 mois"
         ],
         "cons": [
-          "Seulement 3 clips (insuffisant gros setup)",
-          "Adhésif permanent",
-          "Capacité limitée 3 câbles/clip",
-          "Pas pour gros câbles alimentation",
-          "Esthétique plastique basique",
-          "Aimant peut se desaimanter (rare)"
+          "Taille fixe (vérifier dimensions)",
+          "Pas de fixation murale",
+          "Encombrement sur le bureau",
+          "Capacité limitée aux grandes multiprises"
         ]
       },
       "targetAudience": [
-        "Câbles souvent branchés/débranchés",
-        "Charge smartphone sur bureau",
-        "Petits câbles USB/Lightning",
-        "Budget très limité (10€)",
-        "Complément autres solutions"
+        "Bureaux avec multiprise encombrante",
+        "Minimalistes valorisant l'ordre",
+        "Home office professionnel",
+        "Budget intermédiaire (< 25€)",
+        "Utilisateurs produits UGREEN"
       ],
       "ratings": {
         "overall": 4.5,
-        "design": 4.3,
-        "functionality": 4.7,
-        "buildQuality": 4.4,
-        "easeOfUse": 4.8,
-        "valueForMoney": 4.7,
-        "reviewCount": 6789
+        "design": 4.6,
+        "functionality": 4.5,
+        "buildQuality": 4.5,
+        "easeOfUse": 4.7,
+        "valueForMoney": 4.6,
+        "reviewCount": 3200
       },
-      "badges": ["Magnétique", "Prix mini", "Anker", "Pratique"]
+      "badges": ["UGREEN", "Ignifuge", "Design", "Pratique"]
     },
     {
       "id": "cable-005",
@@ -356,10 +349,10 @@
       "price": {
         "amazon": {
           "current": 8.99,
-          "original": 12.99,
+          "original": 10.99,
           "currency": "EUR",
           "asin": "B07PBKJ91D",
-          "url": "https://www.amazon.fr/dp/B07PBKJ91D"
+          "url": "https://amzn.to/4bzvUx2"
         },
         "cdiscount": {
           "current": 9.99,

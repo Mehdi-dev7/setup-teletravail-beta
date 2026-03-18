@@ -107,7 +107,7 @@
 			],
 			"price": {
 				"amazon": {
-					"current": 189.99,
+					"current": 172.49,
 					"original": 249.99,
 					"currency": "EUR",
 					"asin": "B086M57V71",
@@ -196,7 +196,7 @@
 			],
 			"price": {
 				"amazon": {
-					"current": 279.99,
+					"current": 179.55,
 					"original": 349.95,
 					"currency": "EUR",
 					"asin": "B098FKXT8L",
@@ -283,11 +283,11 @@
 			],
 			"price": {
 				"amazon": {
-					"current": 99.99,
+					"current": 79.99,
 					"original": 129.99,
 					"currency": "EUR",
 					"asin": "B0B8C31YXR",
-					"url": "https://www.amazon.fr/dp/B0B8C31YXR?tag=setupteletrav-21"
+					"url": "https://amzn.to/4bRiY72"
 				},
 				"cdiscount": {
 					"current": 109.99,
@@ -370,11 +370,11 @@
 			],
 			"price": {
 				"amazon": {
-					"current": 69.99,
+					"current": 59.99,
 					"original": 99.99,
 					"currency": "EUR",
 					"asin": "B07QZZS7S1",
-					"url": "https://www.amazon.fr/dp/B07QZZS7S1?tag=setupteletrav-21"
+					"url": "https://amzn.to/3NLtl36"
 				},
 				"cdiscount": {
 					"current": 74.99,
@@ -455,7 +455,7 @@
 			],
 			"price": {
 				"amazon": {
-					"current": 189.99,
+					"current": 129.99,
 					"original": 229.99,
 					"currency": "EUR",
 					"asin": "B01N5UOYC4",
@@ -543,7 +543,7 @@
 			],
 			"price": {
 				"amazon": {
-					"current": 159.99,
+					"current": 141.99,
 					"original": 199.99,
 					"currency": "EUR",
 					"asin": "B08PKBZ428",
