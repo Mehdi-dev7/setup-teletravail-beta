@@ -13,7 +13,6 @@
         "/Img-SupportEcran/ErgotronXl/img-5.jpg",
         "/Img-SupportEcran/ErgotronXl/img-6.jpg",
         "/Img-SupportEcran/ErgotronXl/img-7.jpg"
-        
       ],
       "price": {
         "amazon": {
@@ -22,12 +21,6 @@
           "currency": "EUR",
           "asin": "B00358RIRC",
           "url": "https://www.amazon.fr/dp/B00358RIRC?tag=setupteletrav-21"
-        },
-        "cdiscount": {
-          "current": 199.99,
-          "original": 229.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/ergotron-lx-desk-mount/f-10717-erg0698833000122.html"
         },
         "fnac": {
           "current": 209.99,
@@ -87,7 +80,12 @@
         "valueForMoney": 4.5,
         "reviewCount": 15678
       },
-      "badges": ["Référence du marché", "Garantie 10 ans", "Premium", "Constant Force"]
+      "badges": [
+        "Référence du marché",
+        "Garantie 10 ans",
+        "Premium",
+        "Constant Force"
+      ]
     },
     {
       "id": "support-simple-002",
@@ -108,12 +106,6 @@
           "currency": "EUR",
           "asin": "B00MIBN16O",
           "url": "https://amzn.to/4byYkXY"
-        },
-        "cdiscount": {
-          "current": 94.99,
-          "original": 119.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/amazonbasics-bras-articule/f-10717-ama0841710146929.html"
         },
         "fnac": {
           "current": 99.99,
@@ -174,7 +166,11 @@
         "valueForMoney": 4.8,
         "reviewCount": 34567
       },
-      "badges": ["Budget-friendly", "Bestseller", "Bon rapport Q/P"]
+      "badges": [
+        "Budget-friendly",
+        "Bestseller",
+        "Bon rapport Q/P"
+      ]
     },
     {
       "id": "support-simple-003",
@@ -197,12 +193,6 @@
           "currency": "EUR",
           "asin": "B07XGZG7WR",
           "url": "https://amzn.to/4skBCKw"
-        },
-        "cdiscount": {
-          "current": 42.99,
-          "original": 54.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/huanuo-support-moniteur/f-10717-hua0745125464404.html"
         },
         "fnac": {
           "current": 44.99,
@@ -262,7 +252,12 @@
         "valueForMoney": 4.9,
         "reviewCount": 12345
       },
-      "badges": ["Budget", "Rangement", "Ultra-stable", "20kg"]
+      "badges": [
+        "Budget",
+        "Rangement",
+        "Ultra-stable",
+        "20kg"
+      ]
     }
   ],
   "supports_doubles": [
@@ -286,12 +281,6 @@
           "currency": "EUR",
           "asin": "B07515KSFM",
           "url": "https://amzn.to/4lxo77u"
-        },
-        "cdiscount": {
-          "current": 369.99,
-          "original": 429.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/ergotron-lx-dual-side-by-side/f-10717-erg0698833002812.html"
         },
         "fnac": {
           "current": 389.99,
@@ -352,7 +341,12 @@
         "valueForMoney": 4.4,
         "reviewCount": 6789
       },
-      "badges": ["Premium double", "Garantie 10 ans", "Constant Force x2", "Pro"]
+      "badges": [
+        "Premium double",
+        "Garantie 10 ans",
+        "Constant Force x2",
+        "Pro"
+      ]
     },
     {
       "id": "support-double-002",
@@ -375,12 +369,6 @@
           "currency": "EUR",
           "asin": "B07T5SY43L",
           "url": "https://amzn.to/3NaM3kD"
-        },
-        "cdiscount": {
-          "current": 94.99,
-          "original": 129.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/north-bayou-dual-monitor-arm/f-10717-nor0745125464404.html"
         },
         "fnac": {
           "current": 99.99,
@@ -442,7 +430,11 @@
         "valueForMoney": 4.8,
         "reviewCount": 8945
       },
-      "badges": ["Budget double", "Bon rapport Q/P", "45cm extension"]
+      "badges": [
+        "Budget double",
+        "Bon rapport Q/P",
+        "45cm extension"
+      ]
     },
     {
       "id": "support-double-003",
@@ -465,12 +457,6 @@
           "currency": "EUR",
           "asin": "B07X48X4KM",
           "url": "https://amzn.to/4dtMIbo"
-        },
-        "cdiscount": {
-          "current": 69.99,
-          "original": 89.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/bontec-support-double-ecran-empile/f-10717-bon0745125464404.html"
         },
         "fnac": {
           "current": 74.99,
@@ -532,7 +518,12 @@
         "valueForMoney": 4.7,
         "reviewCount": 3456
       },
-      "badges": ["Vertical", "Budget", "Traders", "Gain place"]
+      "badges": [
+        "Vertical",
+        "Budget",
+        "Traders",
+        "Gain place"
+      ]
     }
   ],
   "supports_triples": [
@@ -557,12 +548,6 @@
           "currency": "EUR",
           "asin": "B0798K58B4",
           "url": "https://amzn.to/4byZbrI"
-        },
-        "cdiscount": {
-          "current": 159.99,
-          "original": 199.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/vivo-triple-monitor-mount/f-10717-viv0848296046867.html"
         },
         "fnac": {
           "current": 169.99,
@@ -625,7 +610,12 @@
         "valueForMoney": 4.7,
         "reviewCount": 4567
       },
-      "badges": ["Triple immersif", "Gaming/Trading", "Arc 180°", "Bon rapport Q/P"]
+      "badges": [
+        "Triple immersif",
+        "Gaming/Trading",
+        "Arc 180°",
+        "Bon rapport Q/P"
+      ]
     }
   ]
 }

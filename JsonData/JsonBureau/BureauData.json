@@ -15,7 +15,6 @@
         "/Img-Bureau/Flexispot-E7/img-4.avif",
         "/Img-Bureau/Flexispot-E7/img-5.avif",
         "/Img-bureau/Flexispot-E7/1028_file_e7b-pro-2026-5.avif"
-
       ],
       "prixEnseignes": [
         {
@@ -23,12 +22,6 @@
           "prix": 569,
           "url": "https://www.amazon.fr/dp/B08FBR68RG?tag=setupteletrav-21",
           "logo": "/logos/amazon.svg"
-        },
-        {
-          "enseigne": "Cdiscount",
-          "prix": 569,
-          "url": "#",
-          "logo": "/logos/cdiscount.svg"
         }
       ],
       "dimensions": "120x60 cm / 140x70 cm / 160x80 cm",
@@ -63,7 +56,6 @@
       "pourQui": "Professionnels exigeants, télétravailleurs intensifs, créateurs de contenu avec setups lourds (multi-écrans, équipement pro), personnes cherchant le meilleur bureau longue durée. Investissement premium mais qui dure 10-15 ans minimum.",
       "amazonASIN": "B08FBR68RG",
       "amazonURL": "https://www.amazon.fr/dp/B08FBR68RG?tag=setupteletrav-21",
-      "cdiscountURL": "#",
       "note": 4.7,
       "nbAvis": 4523,
       "badge": "Premium"
@@ -89,12 +81,6 @@
           "prix": 159.99,
           "url": "https://www.amazon.fr/dp/B0C9JGVG61?tag=setupteletrav-21",
           "logo": "/logos/amazon.svg"
-        },
-        {
-          "enseigne": "Cdiscount",
-          "prix": 239,
-          "url": "#",
-          "logo": "/logos/cdiscount.svg"
         }
       ],
       "dimensions": "140x60 cm",
@@ -129,7 +115,6 @@
       "pourQui": "Budget serré, premier bureau assis-debout, étudiants, télétravail standard, gamers occasionnels, petits espaces. Parfait pour tester le concept sans investissement massif. Setup classique 1-2 écrans.",
       "amazonASIN": "B0C9JGVG61",
       "amazonURL": "https://www.amazon.fr/dp/B0C9JGVG61?tag=setupteletrav-21",
-      "cdiscountURL": "#",
       "note": 4.4,
       "nbAvis": 8932,
       "badge": "Top Qualité/Prix"
@@ -154,12 +139,6 @@
           "prix": 129,
           "url": "https://amzn.to/4uFcr78",
           "logo": "/logos/amazon.svg"
-        },
-        {
-          "enseigne": "Cdiscount",
-          "prix": 199,
-          "url": "#",
-          "logo": "/logos/cdiscount.svg"
         }
       ],
       "dimensions": "110x54 cm / 120x60 cm",
@@ -195,7 +174,6 @@
       "pourQui": "Étudiants, premier emploi, petits budgets, petits espaces (studio, chambre), setup minimaliste laptop + 1 écran, télétravail occasionnel. Pas adapté aux professionnels avec setups lourds.",
       "amazonASIN": "B08CVTTNN4",
       "amazonURL": "https://amzn.to/4uFcr78",
-      "cdiscountURL": "#",
       "note": 4.1,
       "nbAvis": 2156,
       "badge": "Entrée de gamme"
@@ -218,12 +196,6 @@
           "prix": 299,
           "url": "https://amzn.to/4cMRWid",
           "logo": "/logos/amazon.svg"
-        },
-        {
-          "enseigne": "Cdiscount",
-          "prix": 349,
-          "url": "#",
-          "logo": "/logos/cdiscount.svg"
         }
       ],
       "dimensions": "120x60 cm / 140x70 cm",
@@ -258,7 +230,6 @@
       "pourQui": "Professionnels exigeants avec budget raisonnable, freelances, développeurs, designers, créateurs de contenu. Setup complet avec 2-3 écrans. Cherche durabilité sans payer premium. Usage intensif quotidien.",
       "amazonASIN": "B09RSTWVTP",
       "amazonURL": "https://amzn.to/4cMRWid",
-      "cdiscountURL": "#",
       "note": 4.5,
       "nbAvis": 3421,
       "badge": "Bon compromis"
@@ -283,12 +254,6 @@
           "prix": 299,
           "url": "https://www.amazon.fr/dp/B077JPC7PK?tag=setupteletrav-21",
           "logo": "/logos/amazon.svg"
-        },
-        {
-          "enseigne": "Cdiscount",
-          "prix": 399,
-          "url": "#",
-          "logo": "/logos/cdiscount.svg"
         }
       ],
       "dimensions": "120x60 cm / 140x70 cm / 160x80 cm",
@@ -323,7 +288,6 @@
       "pourQui": "Ceux qui veulent qualité FlexiSpot sans prix E7 PRO, professionnels cherchant durabilité long terme, télétravail intensif quotidien, setups lourds jusqu'à 125 kg. Investissement raisonné : 380€ pour 10+ ans d'utilisation.",
       "amazonASIN": "B077JPC7PK",
       "amazonURL": "https://www.amazon.fr/dp/B077JPC7PK?tag=setupteletrav-21",
-      "cdiscountURL": "#",
       "note": 4.6,
       "nbAvis": 6234,
       "badge": "Recommandé"

@@ -139,9 +139,7 @@ export default function MentionsLegales() {
 								écrite préalable de Setup-Teletravail.
 							</p>
 							<p className="text-gray-700 GolosText leading-relaxed">
-								Les marques et logos des partenaires (Amazon, Cdiscount,
-								FlexiSpot, SIHOO, Logitech, etc.) sont la propriété de leurs
-								détenteurs respectifs.
+								Les marques et logos des partenaires (Amazon, FlexiSpot, SIHOO, Logitech, etc.) sont la propriété de leurs détenteurs respectifs.
 							</p>
 						</div>
 					</section>
@@ -156,7 +154,7 @@ export default function MentionsLegales() {
 							<p className="text-gray-700 GolosText leading-relaxed mb-4">
 								Le site Setup-Teletravail contient des liens hypertextes vers
 								d&apos;autres sites internet, notamment vers des sites
-								marchands partenaires (Amazon, Cdiscount, etc.).
+								marchands partenaires (Amazon, etc.).
 							</p>
 							<p className="text-gray-700 GolosText leading-relaxed">
 								Ces liens sont proposés à titre informatif. Setup-Teletravail
@@ -174,11 +172,7 @@ export default function MentionsLegales() {
 						</h2>
 						<div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
 							<p className="text-gray-700 GolosText leading-relaxed mb-4">
-								Setup-Teletravail participe au Programme Partenaires d&apos;Amazon
-								EU et au programme d&apos;affiliation Cdiscount, des programmes
-								d&apos;affiliation conçus pour permettre à des sites de percevoir
-								une rémunération grâce à la création de liens vers leurs
-								plateformes.
+								Setup-Teletravail participe au Programme Partenaires d&apos;Amazon EU, un programme d&apos;affiliation conçu pour permettre à des sites de percevoir une rémunération grâce à la création de liens vers leur plateforme.
 							</p>
 							<p className="text-gray-700 GolosText leading-relaxed">
 								Pour plus d&apos;informations, consultez notre{" "}

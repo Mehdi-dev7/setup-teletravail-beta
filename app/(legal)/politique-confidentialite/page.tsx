@@ -226,7 +226,7 @@ export default function PolitiqueConfidentialite() {
 										<tr className="border-b border-gray-100">
 											<td className="py-3 px-4">Affiliation</td>
 											<td className="py-3 px-4">
-												Suivi des partenaires (Amazon, Cdiscount)
+												Suivi des partenaires (Amazon)
 											</td>
 											<td className="py-3 px-4">30 jours</td>
 										</tr>
@@ -258,10 +258,6 @@ export default function PolitiqueConfidentialite() {
 								</li>
 								<li>
 									<strong className="text-gray-800">Amazon Associates :</strong>{" "}
-									pour le suivi des commissions d&apos;affiliation
-								</li>
-								<li>
-									<strong className="text-gray-800">Cdiscount Affiliation :</strong>{" "}
 									pour le suivi des commissions d&apos;affiliation
 								</li>
 								<li>

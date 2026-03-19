@@ -14,7 +14,6 @@ type Clavier = {
 	images: string[];
 	price: {
 		amazon: { current: number; original: number; currency: string; asin: string; url: string };
-		cdiscount: { current: number; original: number; currency: string; url: string };
 		fnac: { current: number; original: number; currency: string; url: string };
 	};
 	features: {
@@ -60,7 +59,6 @@ type Souris = {
 	images: string[];
 	price: {
 		amazon: { current: number; original: number; currency: string; asin: string; url: string };
-		cdiscount: { current: number; original: number; currency: string; url: string };
 		fnac: { current: number; original: number; currency: string; url: string };
 	};
 	features: {
@@ -159,7 +157,6 @@ export default function ClavierSourisClient({ slug }: { slug: string }) {
 	// Prix enseignes
 	const prixEnseignes = [
 		{ enseigne: "Amazon", prix: item.price.amazon.current, url: item.price.amazon.url, logo: "/logos/amazon.svg", bg: "" },
-		{ enseigne: "Cdiscount", prix: item.price.cdiscount.current, url: item.price.cdiscount.url, logo: "/logos/cdiscount_2.svg", bg: "#3732FF" },
 		{ enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url, logo: "/logos/fnac.svg", bg: "" },
 	];
 

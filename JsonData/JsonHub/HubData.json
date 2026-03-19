@@ -82,7 +82,12 @@
         "valueForMoney": 4.2,
         "reviewCount": 2456
       },
-      "badges": ["MacBook Pro", "Double écran M1/M2/M3", "Thunderbolt 4", "98W PD"]
+      "badges": [
+        "MacBook Pro",
+        "Double écran M1/M2/M3",
+        "Thunderbolt 4",
+        "98W PD"
+      ]
     },
     {
       "id": "hub-002",
@@ -104,12 +109,6 @@
           "currency": "EUR",
           "asin": "B0BN28ZT84",
           "url": "https://amzn.to/4bjHk9w"
-        },
-        "cdiscount": {
-          "current": 0,
-          "original": 0,
-          "currency": "EUR",
-          "url": ""
         },
         "fnac": {
           "current": 0,
@@ -166,7 +165,12 @@
         "valueForMoney": 4.6,
         "reviewCount": 0
       },
-      "badges": ["MacBook M1/M2/M3", "HDMI 2.1", "Thunderbolt 4", "Anker Quality"]
+      "badges": [
+        "MacBook M1/M2/M3",
+        "HDMI 2.1",
+        "Thunderbolt 4",
+        "Anker Quality"
+      ]
     },
     {
       "id": "hub-003",
@@ -188,12 +192,6 @@
           "currency": "EUR",
           "asin": "B07Y1DX7N6",
           "url": "https://amzn.to/40IgQbx"
-        },
-        "cdiscount": {
-          "current": 259.99,
-          "original": 329.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/dell-wd19tbs-thunderbolt-dock/f-10717-del5397184312292.html"
         },
         "fnac": {
           "current": 269.99,
@@ -253,7 +251,12 @@
         "valueForMoney": 4.5,
         "reviewCount": 6234
       },
-      "badges": ["Pro Dell", "130W PD", "Garantie 3 ans", "Enterprise"]
+      "badges": [
+        "Pro Dell",
+        "130W PD",
+        "Garantie 3 ans",
+        "Enterprise"
+      ]
     },
     {
       "id": "hub-004",
@@ -275,12 +278,6 @@
           "currency": "EUR",
           "asin": "B008YT59Q4",
           "url": "https://amzn.to/40Fkjrj"
-        },
-        "cdiscount": {
-          "current": 0,
-          "original": 0,
-          "currency": "EUR",
-          "url": ""
         },
         "fnac": {
           "current": 0,
@@ -339,7 +336,12 @@
         "valueForMoney": 4.4,
         "reviewCount": 0
       },
-      "badges": ["USB-A Universel", "Double écran", "StarTech Pro", "Garantie 3 ans"]
+      "badges": [
+        "USB-A Universel",
+        "Double écran",
+        "StarTech Pro",
+        "Garantie 3 ans"
+      ]
     },
     {
       "id": "hub-005",
@@ -361,12 +363,6 @@
           "currency": "EUR",
           "asin": "B0FM2PX23T",
           "url": "https://amzn.to/4siDi7b"
-        },
-        "cdiscount": {
-          "current": 129.99,
-          "original": 149.99,
-          "currency": "EUR",
-          "url": ""
         },
         "fnac": {
           "current": 139.99,
@@ -422,7 +418,12 @@
         "valueForMoney": 4.5,
         "reviewCount": 0
       },
-      "badges": ["Triple écran", "100W PD", "Anker Quality", "13-en-1"]
+      "badges": [
+        "Triple écran",
+        "100W PD",
+        "Anker Quality",
+        "13-en-1"
+      ]
     },
     {
       "id": "hub-006",
@@ -445,12 +446,6 @@
           "currency": "EUR",
           "asin": "B09HLHP5PF",
           "url": "https://amzn.to/3NxFk4j"
-        },
-        "cdiscount": {
-          "current": 94.99,
-          "original": 119.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/belkin-connect-usb-c-11-in-1/f-10717-bel0745883821587.html"
         },
         "fnac": {
           "current": 99.99,
@@ -510,7 +505,12 @@
         "valueForMoney": 4.6,
         "reviewCount": 6789
       },
-      "badges": ["Certifié Apple", "Compact", "100W PD", "HDMI 2.1"]
+      "badges": [
+        "Certifié Apple",
+        "Compact",
+        "100W PD",
+        "HDMI 2.1"
+      ]
     },
     {
       "id": "hub-007",
@@ -533,12 +533,6 @@
           "currency": "EUR",
           "asin": "B0B6PW6VG7",
           "url": "https://www.amazon.fr/dp/B0B6PW6VG7?tag=setupteletrav-21"
-        },
-        "cdiscount": {
-          "current": 119.99,
-          "original": 139.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/startech-usb-c-multiport-dual-hdmi/f-10717-sta0065030890083.html"
         },
         "fnac": {
           "current": 129.99,
@@ -601,7 +595,12 @@
         "valueForMoney": 4.6,
         "reviewCount": 3456
       },
-      "badges": ["Double HDMI", "MacBook M1/M2/M3", "DisplayLink", "StarTech Pro"]
+      "badges": [
+        "Double HDMI",
+        "MacBook M1/M2/M3",
+        "DisplayLink",
+        "StarTech Pro"
+      ]
     }
   ]
 }

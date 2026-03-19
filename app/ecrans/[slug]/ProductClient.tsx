@@ -35,7 +35,7 @@ type Ecran = {
 	pourQui: string;
 	amazonASIN: string;
 	amazonURL: string;
-	cdiscountURL: string;
+
 	note: number;
 	nbAvis: number;
 	badge: string;
@@ -104,7 +104,6 @@ export default function EcranClient({ slug }: { slug: string }) {
 	// Prix enseignes par défaut si non définis
 	const prixEnseignes = ecran.prixEnseignes || [
 		{ enseigne: "Amazon", prix: ecran.prix, url: `https://www.amazon.fr/dp/${ecran.amazonASIN}`, logo: "/logos/amazon.svg", bg: "" },
-		{ enseigne: "Cdiscount", prix: Math.round(ecran.prix * 1.02), url: "#", logo: "/logos/cdiscount_2.svg", bg: "#3732FF" },
 		{ enseigne: "Fnac", prix: Math.round(ecran.prix * 1.05), url: "#", logo: "/logos/fnac.svg", bg: "" },
 	];
 

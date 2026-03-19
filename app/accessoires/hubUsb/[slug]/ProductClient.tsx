@@ -14,7 +14,6 @@ type Hub = {
 	images: string[];
 	price: {
 		amazon: { current: number; original: number; currency: string; asin: string; url: string };
-		cdiscount?: { current: number; original: number; currency: string; url: string };
 		fnac?: { current: number; original: number; currency: string; url: string };
 	};
 	features: {
@@ -117,7 +116,6 @@ export default function HubUsbClient({ slug }: { slug: string }) {
 	// Prix enseignes
 	const prixEnseignes = [
 		{ enseigne: "Amazon", prix: product.price.amazon.current, url: product.price.amazon.url, logo: "/logos/amazon.svg", bg: "" },
-		...(product.price.cdiscount ? [{ enseigne: "Cdiscount", prix: product.price.cdiscount.current, url: product.price.cdiscount.url, logo: "/logos/cdiscount_2.svg", bg: "#3732FF" }] : []),
 		...(product.price.fnac ? [{ enseigne: "Fnac", prix: product.price.fnac.current, url: product.price.fnac.url, logo: "/logos/fnac.svg", bg: "" }] : []),
 	];
 

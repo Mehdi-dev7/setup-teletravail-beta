@@ -21,12 +21,6 @@
           "asin": "B07GGVNXSW",
           "url": "https://www.amazon.fr/dp/B07GGVNXSW?tag=setupteletrav-21"
         },
-        "cdiscount": {
-          "current": 129.99,
-          "original": 149.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/benq-screenbar-plus/f-117203001-ben4718755072864.html"
-        },
         "fnac": {
           "current": 139.99,
           "original": 149.99,
@@ -84,7 +78,12 @@
         "valueForMoney": 4.3,
         "reviewCount": 5687
       },
-      "badges": ["Référence du marché", "TÜV Certifié", "Gain de place", "Anti-fatigue"]
+      "badges": [
+        "Référence du marché",
+        "TÜV Certifié",
+        "Gain de place",
+        "Anti-fatigue"
+      ]
     },
     {
       "id": "ecran-002",
@@ -107,12 +106,6 @@
           "currency": "EUR",
           "asin": "B0D5CCGZXL",
           "url": "https://www.amazon.fr/dp/B0D5CCGZXL?tag=setupteletrav-21"
-        },
-        "cdiscount": {
-          "current": 37.99,
-          "original": 49.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/quntis-monitor-light-bar-42cm/f-117203001-qun0745125464405.html"
         },
         "fnac": {
           "current": 39.99,
@@ -195,12 +188,6 @@
           "asin": "B0CKQS1V8D",
           "url": "https://www.amazon.fr/dp/B0CKQS1V8D?tag=setupteletrav-21"
         },
-        "cdiscount": {
-          "current": 64.99,
-          "original": 79.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/quntis-screenlinear-pro/f-117203001-qun0745125464404.html"
-        },
         "fnac": {
           "current": 69.99,
           "original": 79.99,
@@ -258,9 +245,12 @@
         "valueForMoney": 4.7,
         "reviewCount": 2847
       },
-      "badges": ["Alternatif BenQ", "Bon rapport Q/P", "USB-C"]
+      "badges": [
+        "Alternatif BenQ",
+        "Bon rapport Q/P",
+        "USB-C"
+      ]
     }
-    
   ],
   "eclairage_ambiance": [
     {
@@ -274,7 +264,6 @@
         "/Img-Eclairage/Philips-HuePlay/img-3.jpg",
         "/Img-Eclairage/Philips-HuePlay/img-4.jpg",
         "/Img-Eclairage/Philips-HuePlay/img-5.jpg"
-        
       ],
       "price": {
         "amazon": {
@@ -283,12 +272,6 @@
           "currency": "EUR",
           "asin": "B0BB6Q459V",
           "url": "https://www.amazon.fr/dp/B0BB6Q459V?tag=setupteletrav-21"
-        },
-        "cdiscount": {
-          "current": 89.99,
-          "original": 229.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/philips-hue-play-gradient-lightstrip/f-117203001-phi8718699703424.html"
         },
         "fnac": {
           "current": 99.99,
@@ -348,7 +331,12 @@
         "valueForMoney": 3.9,
         "reviewCount": 3456
       },
-      "badges": ["Premium", "Gradient 7 zones", "Hue Sync", "Smart Home Pro"]
+      "badges": [
+        "Premium",
+        "Gradient 7 zones",
+        "Hue Sync",
+        "Smart Home Pro"
+      ]
     },
     {
       "id": "ambiance-002",
@@ -359,7 +347,7 @@
         "/Img-Eclairage/Govee-GlideHexa/img-p.jpg",
         "/Img-Eclairage/Govee-GlideHexa/img-2.jpg",
         "/Img-Eclairage/Govee-GlideHexa/img-3.jpg",
-        "/Img-Eclairage/Govee-GlideHexa/img-4.jpg",        
+        "/Img-Eclairage/Govee-GlideHexa/img-4.jpg",
         "/Img-Eclairage/Govee-GlideHexa/img-5.jpg",
         "/Img-Eclairage/Govee-GlideHexa/img-6.jpg",
         "/Img-Eclairage/Govee-GlideHexa/img-7.jpg"
@@ -371,12 +359,6 @@
           "currency": "EUR",
           "asin": "B0BJCX1SW4",
           "url": "https://www.amazon.fr/dp/B0BJCX1SW4?tag=setupteletrav-21"
-        },
-        "cdiscount": {
-          "current": 159.99,
-          "original": 199.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/govee-glide-hexa-light-panels/f-117203001-gov6974316551546.html"
         },
         "fnac": {
           "current": 169.99,
@@ -436,7 +418,12 @@
         "valueForMoney": 4.6,
         "reviewCount": 5672
       },
-      "badges": ["Design modulaire", "RGBIC", "Mode musique", "Créatif"]
+      "badges": [
+        "Design modulaire",
+        "RGBIC",
+        "Mode musique",
+        "Créatif"
+      ]
     },
     {
       "id": "ambiance-003",
@@ -458,12 +445,6 @@
           "currency": "EUR",
           "asin": "B0D5431F9G",
           "url": "https://www.amazon.fr/dp/B0D5431F9G?tag=setupteletrav-21"
-        },
-        "cdiscount": {
-          "current": 64.99,
-          "original": 79.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/govee-gaming-wall-lamp/f-117203001-gov6974316551547.html"
         },
         "fnac": {
           "current": 69.99,
@@ -519,7 +500,12 @@
         "valueForMoney": 4.6,
         "reviewCount": 743
       },
-      "badges": ["Matter compatible", "61 scènes", "RGBIC", "Gaming"]
+      "badges": [
+        "Matter compatible",
+        "61 scènes",
+        "RGBIC",
+        "Gaming"
+      ]
     },
     {
       "id": "ambiance-004",
@@ -541,12 +527,6 @@
           "currency": "EUR",
           "asin": "B08BJ4HXJK",
           "url": "https://amzn.to/4du3LtV"
-        },
-        "cdiscount": {
-          "current": 37.99,
-          "original": "39.99",
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/luminaire-lampe/lepro-led-strip-10m-rgb/f-117203001-lep0745125464404.html"
         },
         "fnac": {
           "current": 29.99,
@@ -607,7 +587,11 @@
         "valueForMoney": 4.8,
         "reviewCount": 15678
       },
-      "badges": ["Entrée de gamme", "Meilleur prix", "10 mètres"]
+      "badges": [
+        "Entrée de gamme",
+        "Meilleur prix",
+        "10 mètres"
+      ]
     }
   ]
 }

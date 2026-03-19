@@ -115,8 +115,7 @@ export default function Footer() {
 						</Link>
 					</p>
 					<p className="text-gray-400 text-sm mt-3 text-center max-w-3xl leading-relaxed">
-						En tant que Partenaires Amazon et Cdiscount, nous réalisons un
-						bénéfice sur les achats remplissant les conditions requises.
+						En tant que Partenaire Amazon, nous réalisons un bénéfice sur les achats remplissant les conditions requises.
 					</p>
 				</div>
 			</div>

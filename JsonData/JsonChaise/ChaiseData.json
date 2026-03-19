@@ -18,8 +18,12 @@
         "/img-chaise/hbada-E3/img-8.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 599, "url": "https://www.amazon.fr/dp/B0CQXHJCD2?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": "indisponible", "url": "#", "logo": "/logos/cdiscount.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 599,
+          "url": "https://www.amazon.fr/dp/B0CQXHJCD2?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        }
       ],
       "revetement": "Triple couche maille respirante premium",
       "supportLombaire": "Dynamique 3 zones, 8 réglages (hauteur, profondeur, inclinaison)",
@@ -52,7 +56,6 @@
       "pourQui": "Télétravailleurs cherchant rapport qualité/prix maximal, professionnels 6-10h/jour, personnes avec douleurs lombaires ou cervicales, budget 500-600€. Veut specs premium sans payer le nom. Investissement intelligent long terme.",
       "amazonASIN": "B0CQXHJCD2",
       "amazonURL": "https://www.amazon.fr/dp/B0CQXHJCD2?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.5,
       "nbAvis": 1240,
       "badge": "Meilleur Rapport Qualité/Prix"
@@ -73,8 +76,12 @@
         "/Img-Chaise/Sihoo-Doro-C300/img-6.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 315, "url": "https://www.amazon.fr/dp/B0C3T865C2?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 369, "url": "#", "logo": "/logos/cdiscount.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 315,
+          "url": "https://www.amazon.fr/dp/B0C3T865C2?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        }
       ],
       "revetement": "Maille respirante premium",
       "supportLombaire": "Dynamique double anti-gravité",
@@ -106,7 +113,6 @@
       "pourQui": "Professionnels exigeants, télétravail intensif 8h+ par jour, personnes souffrant de douleurs lombaires chroniques, gamers hardcore, créateurs de contenu. Cherche le meilleur confort absolu sans compromis. Investissement santé long terme.",
       "amazonASIN": "B0C3T865C2",
       "amazonURL": "https://www.amazon.fr/dp/B0C3T865C2?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.7,
       "nbAvis": 2341,
       "badge": "Premium"
@@ -127,8 +133,12 @@
         "/Img-Chaise/Flexispot-C7/img-6.avif"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 249, "url": "https://www.amazon.fr/dp/B0CN125C7D?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 270, "url": "#", "logo": "/logos/cdiscount.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 249,
+          "url": "https://www.amazon.fr/dp/B0CN125C7D?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        }
       ],
       "revetement": "Maille premium DynaFollow™",
       "supportLombaire": "Gonflable intelligent adaptatif",
@@ -161,7 +171,6 @@
       "pourQui": "Professionnels haut niveau cherchant meilleur absolu, C-level executives, personnes avec problèmes dos sévères, télétravail 10-12h/jour, budget confortable. Cherche innovation technologique + santé optimale. Investissement premium assumé.",
       "amazonASIN": "B0CN125C7D",
       "amazonURL": "https://www.amazon.fr/dp/B0CN125C7D?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.8,
       "nbAvis": 1543,
       "badge": "Innovation"
@@ -182,8 +191,12 @@
         "/Img-Chaise/Sihoo-M57/img-6.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 199, "url": "https://www.amazon.fr/dp/B085GDG45B?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 199, "url": "#", "logo": "/logos/cdiscount.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 199,
+          "url": "https://www.amazon.fr/dp/B085GDG45B?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        }
       ],
       "revetement": "Maille respirante intégrale",
       "supportLombaire": "Réglable vertical et horizontal",
@@ -215,7 +228,6 @@
       "pourQui": "Budget serré, premier achat chaise ergonomique, étudiants, télétravail 4-8h/jour, freelances débutants, gamers occasionnels. Cherche confort sérieux sans se ruiner. Meilleur investissement santé < 200€.",
       "amazonASIN": "B085GDG45B",
       "amazonURL": "",
-      "cdiscountURL": "",
       "note": 4.5,
       "nbAvis": 7234,
       "badge": "Top Qualité/Prix"
@@ -237,8 +249,12 @@
         "/Img-Chaise/Songmics-OBN37BK/img-7.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 79, "url": "https://www.amazon.fr/dp/B07ZCM9YH1?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 89, "url": "#", "logo": "/logos/cdiscount.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 79,
+          "url": "https://www.amazon.fr/dp/B07ZCM9YH1?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        }
       ],
       "revetement": "Maille respirante",
       "supportLombaire": "Fixe intégré au dossier",
@@ -272,7 +288,6 @@
       "pourQui": "Budget très serré < 100€, étudiants, télétravail occasionnel 2-4h/jour, bureau secondaire enfants/ados, gaming casual, premier achat ergonomie. Tester concept avant investir plus. Pas pour professionnels usage intensif quotidien.",
       "amazonASIN": "B07ZCM9YH1",
       "amazonURL": "https://www.amazon.fr/dp/B07ZCM9YH1?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.2,
       "nbAvis": 4532,
       "badge": "Budget"

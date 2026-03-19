@@ -71,7 +71,7 @@ export default function Affiliation() {
 						<div className="bg-white rounded-xl p-6 shadow-sm border border-gray-100">
 							<p className="text-gray-700 GolosText leading-relaxed mb-4">
 								L&apos;affiliation est un partenariat commercial entre notre
-								site et des plateformes marchandes (comme Amazon ou Cdiscount).
+								site et des plateformes marchandes (comme Amazon).
 								Lorsque vous cliquez sur un lien vers un produit et effectuez un
 								achat, nous percevons une petite commission sur cette vente.
 							</p>
@@ -119,8 +119,7 @@ export default function Affiliation() {
 										</h3>
 										<p className="text-gray-600 GolosText">
 											Si un produit vous intéresse, vous cliquez sur le lien
-											qui vous redirige vers le site marchand (Amazon,
-											Cdiscount, etc.).
+											qui vous redirige vers le site marchand (Amazon, etc.).
 										</p>
 									</div>
 								</div>
@@ -171,29 +170,6 @@ export default function Affiliation() {
 							</p>
 
 							<div className="grid md:grid-cols-2 gap-4">
-								<div className="bg-gray-50 rounded-lg p-4">
-									<h3 className="font-semibold text-gray-800 mb-2 flex items-center gap-2">
-										<i className="ri-amazon-fill text-xl text-orange-500"></i>
-										Amazon Associates
-									</h3>
-									<p className="text-gray-600 text-sm GolosText">
-										Programme Partenaires d&apos;Amazon EU. En tant que
-										Partenaire Amazon, nous réalisons un bénéfice sur les
-										achats remplissant les conditions requises.
-									</p>
-								</div>
-
-								<div className="bg-gray-50 rounded-lg p-4">
-									<h3 className="font-semibold text-gray-800 mb-2 flex items-center gap-2">
-										<i className="ri-shopping-cart-line text-xl text-blue-600"></i>
-										Cdiscount Affiliation
-									</h3>
-									<p className="text-gray-600 text-sm GolosText">
-										Programme d&apos;affiliation Cdiscount. Nous percevons une
-										commission sur les ventes réalisées via nos liens.
-									</p>
-								</div>
-							</div>
 						</div>
 					</section>
 

@@ -30,7 +30,7 @@ type Chaise = {
 	pourQui: string;
 	amazonASIN: string;
 	amazonURL: string;
-	cdiscountURL: string;
+
 	note: number;
 	nbAvis: number;
 	badge: string;
@@ -99,7 +99,6 @@ export default function ChaiseClient({ slug }: { slug: string }) {
 	// Prix enseignes par défaut si non définis
 	const prixEnseignes = chaise.prixEnseignes || [
 		{ enseigne: "Amazon", prix: chaise.prix, url: `https://www.amazon.fr/dp/${chaise.amazonASIN}`, logo: "/logos/amazon.svg", bg: "" },
-		{ enseigne: "Cdiscount", prix: Math.round(chaise.prix * 1.02), url: "#", logo: "/logos/cdiscount_2.svg", bg: "#3732FF" },
 		{ enseigne: "Fnac", prix: Math.round(chaise.prix * 1.05), url: "#", logo: "/logos/fnac.svg", bg: "" },
 	];
 

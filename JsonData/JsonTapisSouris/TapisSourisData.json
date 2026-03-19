@@ -13,7 +13,6 @@
         "/Img-TapisSouris/SteelSeries3XL/img-5.jpg",
         "/Img-TapisSouris/SteelSeries3XL/img-6.jpg",
         "/Img-TapisSouris/SteelSeries3XL/img-7.jpg"
-        
       ],
       "price": {
         "amazon": {
@@ -22,12 +21,6 @@
           "currency": "EUR",
           "asin": "B08F2TGPB6",
           "url": "https://amzn.to/4rCX5Nu"
-        },
-        "cdiscount": {
-          "current": 62.99,
-          "original": 54.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/steelseries-qck-3xl/f-10717-ste5707119047739.html"
         },
         "fnac": {
           "current": 64.99,
@@ -86,7 +79,12 @@
         "valueForMoney": 4.6,
         "reviewCount": 12456
       },
-      "badges": ["XXL 122cm", "Gaming Pro", "Lavable", "Bords cousus"]
+      "badges": [
+        "XXL 122cm",
+        "Gaming Pro",
+        "Lavable",
+        "Bords cousus"
+      ]
     },
     {
       "id": "tapis-large-002",
@@ -108,12 +106,6 @@
           "currency": "EUR",
           "asin": "B09HLMN6K7",
           "url": "https://amzn.to/4drtNOn"
-        },
-        "cdiscount": {
-          "current": 54.99,
-          "original": 69.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/decoration-accessoires/extended-office-desk-mat/f-117600101-ext0745125464404.html"
         },
         "fnac": {
           "current": 59.99,
@@ -172,7 +164,12 @@
         "valueForMoney": 4.3,
         "reviewCount": 3456
       },
-      "badges": ["Premium", "Éco-responsable", "Liège naturel", "Design"]
+      "badges": [
+        "Premium",
+        "Éco-responsable",
+        "Liège naturel",
+        "Design"
+      ]
     },
     {
       "id": "tapis-large-003",
@@ -194,12 +191,6 @@
           "currency": "EUR",
           "asin": "B08YWQB5H3",
           "url": "https://amzn.to/41b0mc3"
-        },
-        "cdiscount": {
-          "current": 27.99,
-          "original": 39.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/jialong-extended-gaming-mouse-pad/f-10717-jia0745125464404.html"
         },
         "fnac": {
           "current": 29.99,
@@ -260,7 +251,12 @@
         "valueForMoney": 4.8,
         "reviewCount": 8945
       },
-      "badges": ["RGB 14 modes", "Budget", "Gaming", "XXL"]
+      "badges": [
+        "RGB 14 modes",
+        "Budget",
+        "Gaming",
+        "XXL"
+      ]
     }
   ],
   "tapis_souris_ergonomiques": [
@@ -285,12 +281,6 @@
           "currency": "EUR",
           "asin": "B0002J1K2Y",
           "url": "https://amzn.to/47VNjir"
-        },
-        "cdiscount": {
-          "current": 27.99,
-          "original": 34.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/3m-precise-mousing-surface/f-10717-3mm0051141320953.html"
         },
         "fnac": {
           "current": 29.99,
@@ -349,7 +339,12 @@
         "valueForMoney": 4.3,
         "reviewCount": 6789
       },
-      "badges": ["Référence 3M", "Gel Precise", "Antimicrobien", "Pro Ergo"]
+      "badges": [
+        "Référence 3M",
+        "Gel Precise",
+        "Antimicrobien",
+        "Pro Ergo"
+      ]
     },
     {
       "id": "souris-ergo-002",
@@ -371,12 +366,6 @@
           "currency": "EUR",
           "asin": "B01MR4II3C",
           "url": "https://amzn.to/4sRq0OT"
-        },
-        "cdiscount": {
-          "current": 19.99,
-          "original": 19.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/gimars-memory-foam-wrist-rest/f-10717-gim0745125464404.html"
         },
         "fnac": {
           "current": 19.99,
@@ -435,7 +424,12 @@
         "valueForMoney": 4.8,
         "reviewCount": 12456
       },
-      "badges": ["Budget", "Mémoire de forme", "Lavable", "Découverte"]
+      "badges": [
+        "Budget",
+        "Mémoire de forme",
+        "Lavable",
+        "Découverte"
+      ]
     }
   ],
   "tapis_clavier_ergonomiques": [
@@ -459,12 +453,6 @@
           "currency": "EUR",
           "asin": "B000J4HJL4",
           "url": "https://amzn.to/4lz8bSg"
-        },
-        "cdiscount": {
-          "current": 92.99,
-          "original": 39.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/3m-gel-wrist-rest-keyboards/f-10717-3mm0051141320922.html"
         },
         "fnac": {
           "current": 94.99,
@@ -523,7 +511,12 @@
         "valueForMoney": 4.4,
         "reviewCount": 9876
       },
-      "badges": ["Référence 3M", "Gel Precise", "Antimicrobien", "Médical"]
+      "badges": [
+        "Référence 3M",
+        "Gel Precise",
+        "Antimicrobien",
+        "Médical"
+      ]
     },
     {
       "id": "clavier-ergo-002",
@@ -545,12 +538,6 @@
           "currency": "EUR",
           "asin": "B07PYZFPHP",
           "url": "https://amzn.to/3PvWX53"
-        },
-        "cdiscount": {
-          "current": 21.99,
-          "original": 29.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/hyperx-wrist-rest-keyboard/f-10717-hyp0740617292633.html"
         },
         "fnac": {
           "current": 24.99,
@@ -608,7 +595,12 @@
         "valueForMoney": 4.7,
         "reviewCount": 6543
       },
-      "badges": ["Cool Gel", "Gaming", "HyperX", "Bon rapport Q/P"]
+      "badges": [
+        "Cool Gel",
+        "Gaming",
+        "HyperX",
+        "Bon rapport Q/P"
+      ]
     },
     {
       "id": "clavier-ergo-003",
@@ -629,12 +621,6 @@
           "currency": "EUR",
           "asin": "B000BQQP9M",
           "url": "https://amzn.to/47cDwEy"
-        },
-        "cdiscount": {
-          "current": 36.99,
-          "original": 22.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/informatique/clavier-souris-webcam/fellowes-plushtouch-wrist-rest/f-10717-fel0043859490691.html"
         },
         "fnac": {
           "current": 38.99,
@@ -692,7 +678,12 @@
         "valueForMoney": 4.7,
         "reviewCount": 7890
       },
-      "badges": ["Budget", "FoamFusion", "Fellowes", "Découverte"]
+      "badges": [
+        "Budget",
+        "FoamFusion",
+        "Fellowes",
+        "Découverte"
+      ]
     }
   ]
 }

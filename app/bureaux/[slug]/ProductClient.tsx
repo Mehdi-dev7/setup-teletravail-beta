@@ -32,7 +32,7 @@ type Bureau = {
 	pourQui: string;
 	amazonASIN: string;
 	amazonURL: string;
-	cdiscountURL: string;
+
 	note: number;
 	nbAvis: number;
 	badge: string;
@@ -101,7 +101,6 @@ export default function BureauClient({ slug }: { slug: string }) {
 	// Prix enseignes par défaut si non définis
 	const prixEnseignes = bureau.prixEnseignes || [
 		{ enseigne: "Amazon", prix: bureau.prix, url: `https://www.amazon.fr/dp/${bureau.amazonASIN}`, logo: "/logos/amazon.svg", bg: "" },
-		{ enseigne: "Cdiscount", prix: Math.round(bureau.prix * 1.02), url: "#", logo: "/logos/cdiscount_2.svg", bg: "#3732FF" },
 		{ enseigne: "Fnac", prix: Math.round(bureau.prix * 1.05), url: "#", logo: "/logos/fnac.svg", bg: "" },
 	];
 

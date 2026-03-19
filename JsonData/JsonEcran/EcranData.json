@@ -15,9 +15,18 @@
         "/Img-Ecran/Dell-Ultrasharp/monitor-u2723qe-gallery-6.avif"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 1015, "url": "https://www.amazon.fr/dp/B09RSTWVTP?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 1050, "url": "https://www.cdiscount.com/dell-u2723qe", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 1100, "url": "https://www.fnac.com/dell-u2723qe", "logo": "/logos/fnac.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 1015,
+          "url": "https://www.amazon.fr/dp/B09RSTWVTP?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 1100,
+          "url": "https://www.fnac.com/dell-u2723qe",
+          "logo": "/logos/fnac.svg"
+        }
       ],
       "taille": "27 pouces",
       "resolution": "4K UHD (3840x2160)",
@@ -49,7 +58,6 @@
       "pourQui": "Professionnels exigeants, graphistes, designers, photographes, développeurs, créateurs de contenu qui ont besoin d'une précision des couleurs irréprochable et d'une connectivité USB-C complète.",
       "amazonASIN": "B09RSTWVTP",
       "amazonURL": "https://www.amazon.fr/dp/B09RSTWVTP?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.5,
       "nbAvis": 2847,
       "badge": "Premium"
@@ -74,9 +82,18 @@
         "/Img-Ecran/BENQ-EW3290U/71Vk6t3pJpL._AC_SL1500_.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 499, "url": "https://www.amazon.fr/dp/B0DXJVNHNQ?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 499, "url": "https://www.cdiscount.com/benq-ew3290u", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 509, "url": "https://www.fnac.com/benq-ew3290u", "logo": "/logos/fnac.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 499,
+          "url": "https://www.amazon.fr/dp/B0DXJVNHNQ?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 509,
+          "url": "https://www.fnac.com/benq-ew3290u",
+          "logo": "/logos/fnac.svg"
+        }
       ],
       "taille": "31.5 pouces",
       "resolution": "4K UHD (3840x2160)",
@@ -110,7 +127,6 @@
       "pourQui": "Créateurs de contenu, photographes, vidéastes, télétravailleurs qui veulent un grand écran 4K précis avec un son intégré de qualité. Le meilleur choix pour un usage multimédia polyvalent en 2025.",
       "amazonASIN": "B0DXJVNHNQ",
       "amazonURL": "https://www.amazon.fr/dp/B0DXJVNHNQ?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.4,
       "nbAvis": 312,
       "badge": "Top Qualité/Prix"
@@ -131,9 +147,18 @@
         "/Img-Ecran/Dell-S2722DC/s2722dc_xfp_04_gy.avif"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/dp/B09CGYHJ84?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-dell-s2722dc-27-qhd-argent/f-10732-del5397184567609.html", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-Dell-S2722DC-27-QHD-Argent/a16383041/w-4", "logo": "/logos/fnac.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 749,
+          "url": "https://www.amazon.fr/dp/B09CGYHJ84?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 789,
+          "url": "https://www.fnac.com/Ecran-PC-Dell-S2722DC-27-QHD-Argent/a16383041/w-4",
+          "logo": "/logos/fnac.svg"
+        }
       ],
       "taille": "27 pouces",
       "resolution": "QHD (2560x1440)",
@@ -166,7 +191,6 @@
       "pourQui": "Télétravailleurs nomades avec laptop, étudiants, freelances qui veulent un setup épuré avec un seul câble USB-C. Parfait pour bureautique intensive, développement, design web et multitâche.",
       "amazonASIN": "B09CGYHJ84",
       "amazonURL": "https://www.amazon.fr/dp/B09CGYHJ84?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.4,
       "nbAvis": 3241,
       "badge": "Top Qualité/Prix"
@@ -187,9 +211,18 @@
         "/Img-Ecran/LG-27UP550/DZ-10.avif"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/dp/B09WJB6ZDF?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/LG-27UL550P-W-27-4K", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-LG-27UL550P-W-27-4K-UHD-Blanc-et-Noir/a17866930/w-4", "logo": "/logos/fnac.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 749,
+          "url": "https://www.amazon.fr/dp/B09WJB6ZDF?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 789,
+          "url": "https://www.fnac.com/Ecran-PC-LG-27UL550P-W-27-4K-UHD-Blanc-et-Noir/a17866930/w-4",
+          "logo": "/logos/fnac.svg"
+        }
       ],
       "taille": "27 pouces",
       "resolution": "4K UHD (3840x2160)",
@@ -223,7 +256,6 @@
       "pourQui": "Utilisateurs cherchant du 4K abordable pour setup fixe (PC tour), photographes amateurs, monteurs vidéo, gamers occasionnels. Bon choix pour configuration double écran 4K sans USB-C.",
       "amazonASIN": "B09WJB6ZDF",
       "amazonURL": "https://www.amazon.fr/dp/B09WJB6ZDF?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.2,
       "nbAvis": 987,
       "badge": "Bon compromis"
@@ -241,12 +273,20 @@
         "/Img-Ecran/AOC-U27B3AF/61OwkDPP4mL._AC_SL1500_.jpg",
         "/Img-Ecran/AOC-U27B3AF/51pIPO-yfmL._AC_SL1500_.jpg",
         "/Img-Ecran/AOC-U27B3AF/51GUix4ufZL._AC_SL1500_.jpg"
-        
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 198, "url": "https://www.amazon.fr/dp/B0D7CPG879?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 230, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-27-pouces-full-hd-processeur-rapide-design/f-10732-aoc1719796094756.html", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 250, "url": "https://www.fnac.com/mp50891470/Ecran-PC-AOC-U27B3AF-27-LED-IPS-UltraHD-4K/w-4", "logo": "/logos/fnac.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 198,
+          "url": "https://www.amazon.fr/dp/B0D7CPG879?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 250,
+          "url": "https://www.fnac.com/mp50891470/Ecran-PC-AOC-U27B3AF-27-LED-IPS-UltraHD-4K/w-4",
+          "logo": "/logos/fnac.svg"
+        }
       ],
       "taille": "27 pouces",
       "resolution": "4K UHD (3840x2160)",
@@ -281,13 +321,11 @@
       "pourQui": "Budget serré, premier écran 4K, étudiants, télétravail bureautique simple, navigation web et multimédia. Pas adapté aux professionnels de l'image mais parfait pour débuter en 4K sans se ruiner.",
       "amazonASIN": "B0D7CPG879",
       "amazonURL": "https://www.amazon.fr/dp/B0D7CPG879?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.1,
       "nbAvis": 654,
       "badge": "Entry-level"
     }
   ],
-
   "ultrawide": [
     {
       "id": 6,
@@ -304,9 +342,18 @@
         "/Img-Ecran/Samsung-G9/n-africa-odyssey-g9-g91f-ls49fg910euxen-545896167.avif"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 1300, "url": "https://www.amazon.fr/dp/B0C9YN84Q9?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 1350, "url": "#", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 1380, "url": "#", "logo": "/logos/fnac.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 1300,
+          "url": "https://www.amazon.fr/dp/B0C9YN84Q9?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 1380,
+          "url": "#",
+          "logo": "/logos/fnac.svg"
+        }
       ],
       "taille": "49 pouces",
       "resolution": "DQHD (5120x1440)",
@@ -343,12 +390,10 @@
       "pourQui": "Gamers ultra-exigeants, streamers professionnels, sim racers, créateurs de contenu qui veulent l'expérience visuelle absolue. Setup haut de gamme assumé. L'écran ultime pour ceux qui ne font aucun compromis.",
       "amazonASIN": "B0C9YN84Q9",
       "amazonURL": "https://www.amazon.fr/dp/B0C9YN84Q9?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.7,
       "nbAvis": 1243,
       "badge": "Gaming Ultime"
     },
-  
     {
       "id": 7,
       "nom": "Dell S3423DWC",
@@ -363,12 +408,20 @@
         "/Img-Ecran/Dell-S3423DWC/monitor-s3423dwc-gray-gallery-6.avif",
         "/Img-Ecran/Dell-S3423DWC/monitor-s3423dwc-gray-gallery-7.avif",
         "/Img-Ecran/Dell-S3423DWC/monitor-s3423dwc-gray-gallery-8.avif"
-        
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/dp/B0BQNGV8Z4?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-dell-s3423dwc-34-incurve-wqhd-noir-et-ar/f-10732-del5397184656891.html", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/Ecran-PC-Dell-S3423DWC-34-Incurve-WQHD-Noir-et-argent/a16959809/w-4", "logo": "/logos/fnac.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 749,
+          "url": "https://www.amazon.fr/dp/B0BQNGV8Z4?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 789,
+          "url": "https://www.fnac.com/Ecran-PC-Dell-S3423DWC-34-Incurve-WQHD-Noir-et-argent/a16959809/w-4",
+          "logo": "/logos/fnac.svg"
+        }
       ],
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
@@ -402,7 +455,6 @@
       "pourQui": "Télétravailleurs voulant remplacer 2 écrans par un seul, développeurs, traders, analystes de données, créateurs de contenu. Parfait pour multitâche intensif avec solution USB-C élégante.",
       "amazonASIN": "B0BQNGV8Z4",
       "amazonURL": "https://www.amazon.fr/dp/B0BQNGV8Z4?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.4,
       "nbAvis": 1876,
       "badge": "Polyvalent"
@@ -424,9 +476,18 @@
         "/Img-Ecran/Samsung-Odyssey-G5ST/817OlDnK-AL._AC_SL1500_.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 222, "url": "https://www.amazon.fr/dp/B0BRL8B5L5?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 242, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/ecran-pc-gamer-incurve-samsung-34-uwqhd-1/f-10732-sam8806094796315.html#mpos=1|cd", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 250, "url": "https://www.fnac.com/Ecran-PC-Samsung-Odyssey-G5-G55T-34-Incurve-UWQHD-Noir/a17601761/w-4", "logo": "/logos/fnac.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 222,
+          "url": "https://www.amazon.fr/dp/B0BRL8B5L5?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 250,
+          "url": "https://www.fnac.com/Ecran-PC-Samsung-Odyssey-G5-G55T-34-Incurve-UWQHD-Noir/a17601761/w-4",
+          "logo": "/logos/fnac.svg"
+        }
       ],
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
@@ -461,7 +522,6 @@
       "pourQui": "Gamers à budget maîtrisé, télétravailleurs qui veulent un grand espace de travail immersif en 21:9, streamers débutants. Le choix évident pour découvrir l'ultrawide UWQHD sans vider le portefeuille.",
       "amazonASIN": "B0BRL8B5L5",
       "amazonURL": "https://www.amazon.fr/dp/B0BRL8B5L5?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.4,
       "nbAvis": 1876,
       "badge": "Top Qualité/Prix"
@@ -480,12 +540,20 @@
         "/Img-Ecran/Benq-Mobiuz/61NO8rupvWL._AC_SX679_.jpg",
         "/Img-Ecran/Benq-Mobiuz/61gENwBFWkL._AC_SX679_.jpg",
         "/Img-Ecran/Benq-Mobiuz/816IF93l4CL._AC_SX679_.jpg"
-        
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 749, "url": "https://www.amazon.fr/dp/B09R6W6F8X?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 769, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/benq-mobiuz-ex3210u-moniteur-de-jeu-32-4k-144hz/f-10732-ben4718755077098.html#mpos=1|mp", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 789, "url": "https://www.fnac.com/mp46659244/BenQ-Mobiuz-EX3410R-Ecran-LED-incurve-34-3440-x-1440-UWQHD-144-Hz-VA-350-cd-m-3000-1-DisplayHDR-400-1-ms-2xHDMI-DisplayPort-haut-parleurs-avec-subwoofer/w-4", "logo": "/logos/fnac.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 749,
+          "url": "https://www.amazon.fr/dp/B09R6W6F8X?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 789,
+          "url": "https://www.fnac.com/mp46659244/BenQ-Mobiuz-EX3410R-Ecran-LED-incurve-34-3440-x-1440-UWQHD-144-Hz-VA-350-cd-m-3000-1-DisplayHDR-400-1-ms-2xHDMI-DisplayPort-haut-parleurs-avec-subwoofer/w-4",
+          "logo": "/logos/fnac.svg"
+        }
       ],
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
@@ -520,7 +588,6 @@
       "pourQui": "Gamers exigeants, streamers, créateurs de contenu qui veulent la meilleure expérience audiovisuelle immersive. Idéal pour ceux qui veulent un écran gaming premium sans avoir besoin d'enceintes externes.",
       "amazonASIN": "B09R6W6F8X",
       "amazonURL": "https://www.amazon.fr/dp/B09R6W6F8X?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.6,
       "nbAvis": 743,
       "badge": "Premium"
@@ -543,9 +610,18 @@
         "/Img-Ecran/LG_34WN650-W/71GQigBI8WL._AC_SL1500_.jpg"
       ],
       "prixEnseignes": [
-        { "enseigne": "Amazon", "prix": 280, "url": "https://www.amazon.fr/dp/B08VRJW976?tag=setupteletrav-21", "logo": "/logos/amazon.svg" },
-        { "enseigne": "Cdiscount", "prix": 289, "url": "https://www.cdiscount.com/informatique/ecrans-informatiques/lg-ultrawide-monitor-34wq650-w-34wq650w-34wq650-w/f-10732-lg1750171559982.html", "logo": "/logos/cdiscount.svg" },
-        { "enseigne": "Fnac", "prix": 295, "url": "https://www.fnac.com/Ecran-PC-LG-UltraWide-34WP65CP-B/a17000000/w-4", "logo": "/logos/fnac.svg" }
+        {
+          "enseigne": "Amazon",
+          "prix": 280,
+          "url": "https://www.amazon.fr/dp/B08VRJW976?tag=setupteletrav-21",
+          "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 295,
+          "url": "https://www.fnac.com/Ecran-PC-LG-UltraWide-34WP65CP-B/a17000000/w-4",
+          "logo": "/logos/fnac.svg"
+        }
       ],
       "taille": "34 pouces",
       "resolution": "UWQHD (3440x1440)",
@@ -580,11 +656,9 @@
       "pourQui": "Télétravailleurs qui veulent un vrai ultrawide UWQHD sans exploser le budget, utilisateurs de laptop avec USB-C, multitâche intensif, webdesign. Le meilleur ultrawide entrée de gamme pour ne pas regretter sa résolution.",
       "amazonASIN": "B08VRJW976",
       "amazonURL": "https://www.amazon.fr/dp/B08VRJW976?tag=setupteletrav-21",
-      "cdiscountURL": "",
       "note": 4.3,
       "nbAvis": 987,
       "badge": "Entry-level"
     }
   ]
-
 }

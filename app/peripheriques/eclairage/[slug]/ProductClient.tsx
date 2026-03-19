@@ -72,7 +72,6 @@ export default function EclairageClient({ slug }: { slug: string }) {
 	// Prix enseignes
 	const prixEnseignes = [
 		{ enseigne: "Amazon", prix: item.price.amazon.current, url: item.price.amazon.url, logo: "/logos/amazon.svg", bg: "" },
-		{ enseigne: "Cdiscount", prix: item.price.cdiscount.current, url: item.price.cdiscount.url, logo: "/logos/cdiscount_2.svg", bg: "#3732FF" },
 		{ enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url, logo: "/logos/fnac.svg", bg: "" },
 	].sort((a, b) => a.prix - b.prix);
 

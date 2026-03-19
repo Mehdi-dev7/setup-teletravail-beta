@@ -20,12 +20,6 @@
           "asin": "B0019T0J9S",
           "url": "https://www.amazon.fr/dp/B0019T0J9S?tag=setupteletrav-21"
         },
-        "cdiscount": {
-          "current": 67.99,
-          "original": 44.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/decoration-accessoires/bluelounge-cablebox/f-117600101-blu0852106003003.html"
-        },
         "fnac": {
           "current": 69.99,
           "original": 44.99,
@@ -82,7 +76,12 @@
         "valueForMoney": 4.6,
         "reviewCount": 8945
       },
-      "badges": ["Design", "Ignifuge", "Bestseller", "Sécurisé"]
+      "badges": [
+        "Design",
+        "Ignifuge",
+        "Bestseller",
+        "Sécurisé"
+      ]
     },
     {
       "id": "cable-002",
@@ -104,12 +103,6 @@
           "currency": "EUR",
           "asin": "B0B2QP7YB8",
           "url": "https://amzn.to/4d1fSP7"
-        },
-        "cdiscount": {
-          "current": 21.99,
-          "original": 29.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/decoration-accessoires/joto-goulotte-cache-cables/f-117600101-jot0745125464404.html"
         },
         "fnac": {
           "current": 24.99,
@@ -169,7 +162,12 @@
         "valueForMoney": 4.8,
         "reviewCount": 12456
       },
-      "badges": ["Budget", "160cm", "Adhésif 3M", "Sans perçage"]
+      "badges": [
+        "Budget",
+        "160cm",
+        "Adhésif 3M",
+        "Sans perçage"
+      ]
     },
     {
       "id": "cable-003",
@@ -189,12 +187,6 @@
           "currency": "EUR",
           "asin": "B07WQXG3VS",
           "url": "https://amzn.to/3PhPdDN"
-        },
-        "cdiscount": {
-          "current": 33.99,
-          "original": 14.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/decoration-accessoires/ikea-signum-chemin-cables/f-117600101-ike8710774312298.html"
         },
         "fnac": {
           "current": 34.99,
@@ -252,7 +244,12 @@
         "valueForMoney": 5.0,
         "reviewCount": 23456
       },
-      "badges": ["Bestseller IKEA", "Prix mini", "Invisible", "Robuste"]
+      "badges": [
+        "Bestseller IKEA",
+        "Prix mini",
+        "Invisible",
+        "Robuste"
+      ]
     },
     {
       "id": "cable-004",
@@ -273,12 +270,6 @@
           "currency": "EUR",
           "asin": "",
           "url": "https://amzn.to/4lAgXQ9"
-        },
-        "cdiscount": {
-          "current": 22.99,
-          "original": 24.99,
-          "currency": "EUR",
-          "url": ""
         },
         "fnac": {
           "current": 23.99,
@@ -331,7 +322,12 @@
         "valueForMoney": 4.6,
         "reviewCount": 3200
       },
-      "badges": ["UGREEN", "Ignifuge", "Design", "Pratique"]
+      "badges": [
+        "UGREEN",
+        "Ignifuge",
+        "Design",
+        "Pratique"
+      ]
     },
     {
       "id": "cable-005",
@@ -353,12 +349,6 @@
           "currency": "EUR",
           "asin": "B07PBKJ91D",
           "url": "https://amzn.to/4bzvUx2"
-        },
-        "cdiscount": {
-          "current": 9.99,
-          "original": 12.99,
-          "currency": "EUR",
-          "url": "https://www.cdiscount.com/maison/decoration-accessoires/d-line-micro-cache-cables/f-117600101-dli5055796921508.html"
         },
         "fnac": {
           "current": 10.99,
@@ -415,7 +405,12 @@
         "valueForMoney": 4.6,
         "reviewCount": 4567
       },
-      "badges": ["Prix mini", "8 clips", "Discret", "Basique"]
+      "badges": [
+        "Prix mini",
+        "8 clips",
+        "Discret",
+        "Basique"
+      ]
     }
   ]
 }
