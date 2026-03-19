@@ -158,9 +158,9 @@ export default function ClavierSourisClient({ slug }: { slug: string }) {
 
 	// Prix enseignes
 	const prixEnseignes = [
-		{ enseigne: "Amazon", prix: item.price.amazon.current, url: item.price.amazon.url, logo: "/logos/amazon.svg" },
-		{ enseigne: "Cdiscount", prix: item.price.cdiscount.current, url: item.price.cdiscount.url, logo: "/logos/cdiscount.svg" },
-		{ enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url, logo: "/logos/fnac.svg" },
+		{ enseigne: "Amazon", prix: item.price.amazon.current, url: item.price.amazon.url, logo: "/logos/amazon.svg", bg: "" },
+		{ enseigne: "Cdiscount", prix: item.price.cdiscount.current, url: item.price.cdiscount.url, logo: "/logos/cdiscount_2.svg", bg: "#3732FF" },
+		{ enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url, logo: "/logos/fnac.svg", bg: "" },
 	];
 
 	return (
@@ -375,8 +375,15 @@ export default function ClavierSourisClient({ slug }: { slug: string }) {
 										className="flex items-center justify-between p-3 sm:p-4 bg-white rounded-xl border border-gray-200 hover:border-(--prim) hover:shadow-md transition-all duration-300 group"
 									>
 										<div className="flex items-center gap-3">
-											<div className="w-24 h-8 flex items-center sm:justify-center">
-												<span className="font-bold text-sm xs:text-base md:text-lg text-gray-700">{enseigne.enseigne}</span>
+											{/* Conteneur fixe w-24 pour aligner tous les logos */}
+											<div className="w-24 h-8 flex items-center">
+												{enseigne.bg ? (
+													<div className="h-7 flex items-center justify-center rounded-md px-2" style={{ backgroundColor: enseigne.bg }}>
+														<Image src={enseigne.logo} alt={enseigne.enseigne} width={80} height={32} className="object-contain h-5 w-auto" />
+													</div>
+												) : (
+													<Image src={enseigne.logo} alt={enseigne.enseigne} width={80} height={32} className="object-contain h-8 w-auto" />
+												)}
 											</div>
 											{index === 0 && (
 												<span className="bg-green-100 text-green-700 text-[10px] text-xs xs:text-xs px-1.5 xs:px-2 py-0.5 xs:py-1 rounded-full font-medium">

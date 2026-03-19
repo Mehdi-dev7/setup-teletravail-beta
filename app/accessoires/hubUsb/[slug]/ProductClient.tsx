@@ -116,9 +116,9 @@ export default function HubUsbClient({ slug }: { slug: string }) {
 
 	// Prix enseignes
 	const prixEnseignes = [
-		{ enseigne: "Amazon", prix: product.price.amazon.current, url: product.price.amazon.url, logo: "/logos/amazon.svg" },
-		...(product.price.cdiscount ? [{ enseigne: "Cdiscount", prix: product.price.cdiscount.current, url: product.price.cdiscount.url, logo: "/logos/cdiscount.svg" }] : []),
-		...(product.price.fnac ? [{ enseigne: "Fnac", prix: product.price.fnac.current, url: product.price.fnac.url, logo: "/logos/fnac.svg" }] : []),
+		{ enseigne: "Amazon", prix: product.price.amazon.current, url: product.price.amazon.url, logo: "/logos/amazon.svg", bg: "" },
+		...(product.price.cdiscount ? [{ enseigne: "Cdiscount", prix: product.price.cdiscount.current, url: product.price.cdiscount.url, logo: "/logos/cdiscount_2.svg", bg: "#3732FF" }] : []),
+		...(product.price.fnac ? [{ enseigne: "Fnac", prix: product.price.fnac.current, url: product.price.fnac.url, logo: "/logos/fnac.svg", bg: "" }] : []),
 	];
 
 	return (
@@ -297,9 +297,15 @@ export default function HubUsbClient({ slug }: { slug: string }) {
 										className="flex items-center justify-between p-3 sm:p-4 bg-white rounded-xl border border-gray-200 hover:border-(--prim) hover:shadow-md transition-all duration-300 group"
 									>
 										<div className="flex items-center gap-3">
-											<div className="w-24 h-8 flex items-center sm:justify-center">
-												<img src={item.logo} alt={item.enseigne} className="h-7 w-auto object-contain" />
-											</div>
+											<div className="w-24 h-8 flex items-center">
+											{item.bg ? (
+												<div className="h-7 flex items-center justify-center rounded-md px-2" style={{ backgroundColor: item.bg }}>
+													<img src={item.logo} alt={item.enseigne} className="object-contain h-5 w-auto" />
+												</div>
+											) : (
+												<img src={item.logo} alt={item.enseigne} className="object-contain h-8 w-auto" />
+											)}
+										</div>
 											{index === 0 && (
 												<span className="bg-green-100 text-green-700 text-[10px] xs:text-xs px-1.5 xs:px-2 py-0.5 xs:py-1 rounded-full font-medium">
 													Meilleur prix

@@ -71,9 +71,9 @@ export default function EclairageClient({ slug }: { slug: string }) {
 
 	// Prix enseignes
 	const prixEnseignes = [
-		{ enseigne: "Amazon", prix: item.price.amazon.current, url: item.price.amazon.url },
-		{ enseigne: "Cdiscount", prix: item.price.cdiscount.current, url: item.price.cdiscount.url },
-		{ enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url },
+		{ enseigne: "Amazon", prix: item.price.amazon.current, url: item.price.amazon.url, logo: "/logos/amazon.svg", bg: "" },
+		{ enseigne: "Cdiscount", prix: item.price.cdiscount.current, url: item.price.cdiscount.url, logo: "/logos/cdiscount_2.svg", bg: "#3732FF" },
+		{ enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url, logo: "/logos/fnac.svg", bg: "" },
 	].sort((a, b) => a.prix - b.prix);
 
 	return (
@@ -294,9 +294,15 @@ export default function EclairageClient({ slug }: { slug: string }) {
 										className="flex items-center justify-between p-3 sm:p-4 bg-white rounded-xl border border-gray-200 hover:border-(--prim) hover:shadow-md transition-all duration-300 group"
 									>
 										<div className="flex items-center gap-3">
-											<div className="w-24 h-8 flex items-center sm:justify-center">
-												<span className="font-bold text-sm xs:text-base md:text-lg text-gray-700">{priceItem.enseigne}</span>
-											</div>
+											<div className="w-24 h-8 flex items-center">
+											{priceItem.bg ? (
+												<div className="h-7 flex items-center justify-center rounded-md px-2" style={{ backgroundColor: priceItem.bg }}>
+													<img src={priceItem.logo} alt={priceItem.enseigne} className="object-contain h-5 w-auto" />
+												</div>
+											) : (
+												<img src={priceItem.logo} alt={priceItem.enseigne} className="object-contain h-8 w-auto" />
+											)}
+										</div>
 											{index === 0 && (
 												<span className="bg-green-100 text-green-700 text-[10px] xs:text-xs px-1.5 xs:px-2 py-0.5 xs:py-1 rounded-full font-medium">
 													Meilleur prix
