@@ -14,7 +14,7 @@ type Bureau = {
 	promo: number | null;
 	image: string;
 	images?: string[];
-	prixEnseignes?: { enseigne: string; prix: number; url: string; logo: string }[];
+	prixEnseignes?: { enseigne: string; prix: number; url: string; logo: string; bg?: string }[];
 	dimensions: string;
 	hauteurReglable: string;
 	capaciteCharge: string;

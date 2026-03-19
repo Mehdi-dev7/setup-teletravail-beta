@@ -14,7 +14,7 @@ type Chaise = {
 	promo: number | null;
 	image: string;
 	images?: string[];
-	prixEnseignes?: { enseigne: string; prix: number; url: string; logo: string }[];
+	prixEnseignes?: { enseigne: string; prix: number; url: string; logo: string; bg?: string }[];
 	revetement: string;
 	supportLombaire: string;
 	accoudoirs: string;

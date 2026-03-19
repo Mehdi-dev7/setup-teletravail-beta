@@ -14,7 +14,7 @@ type Ecran = {
 	promo: number | null;
 	image: string;
 	images?: string[];
-	prixEnseignes?: { enseigne: string; prix: number; url: string; logo: string }[];
+	prixEnseignes?: { enseigne: string; prix: number; url: string; logo: string; bg?: string }[];
 	taille: string;
 	resolution: string;
 	ratio?: string;
