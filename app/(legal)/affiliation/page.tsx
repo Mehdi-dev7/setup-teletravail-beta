@@ -171,7 +171,8 @@ export default function Affiliation() {
 
 							<div className="grid md:grid-cols-2 gap-4">
 						</div>
-					</section>
+					</div>
+				</section>
 
 					{/* Notre indépendance */}
 					<section className="mb-12">
