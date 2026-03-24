@@ -85,6 +85,9 @@ export const metadata: Metadata = {
 	alternates: {
 		canonical: "https://www.setup-teletravail.fr",
 	},
+	other: {
+		"p:domain_verify": "db84d65ae975719602792801125ef331",
+	},
 	openGraph: {
 		type: "website",
 		locale: "fr_FR",
