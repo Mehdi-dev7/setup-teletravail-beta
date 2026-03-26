@@ -14,7 +14,7 @@ type SupportEcran = {
 	images: string[];
 	price: {
 		amazon: { current: number; original: number; currency: string; asin: string; url: string };
-		fnac?: { current: number; original: number; currency: string; url: string };
+		fnac?: { current: number; original: number; currency: string; url: string } | null;
 	};
 	features: {
 		typeFixation: string;

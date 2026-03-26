@@ -14,7 +14,7 @@ type GestionCable = {
 	images: string[];
 	price: {
 		amazon: { current: number; original: number; currency: string; asin: string; url: string };
-		fnac?: { current: number; original: number; currency: string; url: string };
+		fnac?: { current: number; original: number; currency: string; url: string } | null;
 	};
 	features: {
 		type: string;
