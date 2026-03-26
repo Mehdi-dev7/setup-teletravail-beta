@@ -6,11 +6,11 @@ import { Metadata } from "next";
 export const metadata: Metadata = {
 	title: "Meilleurs Claviers & Souris Télétravail 2026 | Logitech MX, Ergonomique",
 	description:
-		"Comparatif des meilleurs claviers et souris pour le télétravail. Logitech MX Keys, MX Master 3S, claviers ergonomiques et souris verticales pour une productivité optimale.",
+		"Comparatif des meilleurs claviers et souris pour le télétravail. Logitech MX Keys S, MX Master 3S, claviers ergonomiques et souris verticales pour une productivité optimale.",
 	keywords: [
 		"clavier télétravail",
 		"souris ergonomique",
-		"Logitech MX Keys",
+		"Logitech MX Keys S",
 		"Logitech MX Master 3S",
 		"clavier sans fil",
 		"souris verticale",

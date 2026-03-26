@@ -20,12 +20,6 @@
           "currency": "EUR",
           "asin": "B07GGVNXSW",
           "url": "https://www.amazon.fr/dp/B07GGVNXSW?tag=setupteletrav-21"
-        },
-        "fnac": {
-          "current": 139.99,
-          "original": 149.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/BenQ-ScreenBar-Plus-Lampe-LED/a13254678/w-4"
         }
       },
       "features": {
@@ -106,12 +100,6 @@
           "currency": "EUR",
           "asin": "B0D5CCGZXL",
           "url": "https://www.amazon.fr/dp/B0D5CCGZXL?tag=setupteletrav-21"
-        },
-        "fnac": {
-          "current": 39.99,
-          "original": 49.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Quntis-Monitor-Light-Bar-42cm/a18000000/w-4"
         }
       },
       "features": {
@@ -187,12 +175,6 @@
           "currency": "EUR",
           "asin": "B0CKQS1V8D",
           "url": "https://www.amazon.fr/dp/B0CKQS1V8D?tag=setupteletrav-21"
-        },
-        "fnac": {
-          "current": 69.99,
-          "original": 79.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Quntis-ScreenLinear-Pro-Lampe/a17892341/w-4"
         }
       },
       "features": {
@@ -274,10 +256,10 @@
           "url": "https://www.amazon.fr/dp/B0BB6Q459V?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 99.99,
-          "original": 229.99,
+          "current": 248,
+          "original": 249.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Philips-Hue-Play-Gradient-Lightstrip/a14987562/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FBande-lumineuse-LED-65-Blanc-et-couleur-Lightstrip-Philips-Hue-Play-Gradient-1-6-m-Noir-Boitier-de-synchronisation-requis%2Fa15108652%2Fw-4%3Foref%3D69f97539-6111-9cfd-afbc-118676b31c4f"
         }
       },
       "features": {
@@ -361,10 +343,10 @@
           "url": "https://www.amazon.fr/dp/B0BJCX1SW4?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 169.99,
+          "current": 124.99,
           "original": 199.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Govee-Glide-Hexa-Light-Panels/a16789234/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FRuban-LED-Govee-Glide-Hexa-Light-Panels%2Fa20915385%2Fw-4"
         }
       },
       "features": {
@@ -445,12 +427,6 @@
           "currency": "EUR",
           "asin": "B0D5431F9G",
           "url": "https://www.amazon.fr/dp/B0D5431F9G?tag=setupteletrav-21"
-        },
-        "fnac": {
-          "current": 69.99,
-          "original": 79.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Govee-Gaming-Wall-Lamp/a18000001/w-4"
         }
       },
       "features": {
@@ -527,12 +503,6 @@
           "currency": "EUR",
           "asin": "B08BJ4HXJK",
           "url": "https://amzn.to/4du3LtV"
-        },
-        "fnac": {
-          "current": 29.99,
-          "original": 39.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Lepro-LED-Strip-10M-RGB/a16234789/w-4"
         }
       },
       "features": {

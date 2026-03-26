@@ -2,7 +2,7 @@
   "claviers": [
     {
       "id": "clavier-001",
-      "name": "Logitech MX Keys",
+      "name": "Logitech MX Keys S",
       "category": "Clavier",
       "subcategory": "Clavier sans fil premium",
       "images": [
@@ -24,10 +24,10 @@
           "url": "https://amzn.to/4uDn0av"
         },
         "fnac": {
-          "current": 119.99,
+          "current": 89.99,
           "original": 129.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-MX-Keys-Clavier/a13654782/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FClavier-Sans-Fil-Azerty-Logitech-MX-Keys-S-Graphite%2Fa18218451%2Fw-4"
         }
       },
       "features": {
@@ -44,7 +44,7 @@
         "poids": "810g",
         "layout": "AZERTY français disponible"
       },
-      "description": "Le Logitech MX Keys est le clavier de référence pour les professionnels exigeants en télétravail. Son design sophistiqué combine esthétique minimaliste et ergonomie optimale avec une légère courbure sphérique des touches qui épouse naturellement la forme de vos doigts.\n\nLes touches à ciseaux offrent une frappe précise, silencieuse et confortable même après 8 heures d'utilisation. Le rétroéclairage intelligent détecte vos mains et ajuste automatiquement l'intensité selon la luminosité ambiante, économisant la batterie tout en restant parfait pour travailler dans la pénombre.\n\nLa fonction Easy-Switch permet de basculer instantanément entre 3 appareils (PC, Mac, tablette) d'une simple pression. Le récepteur Logitech Bolt offre une connexion ultra-stable sans latence, tandis que le Bluetooth permet une utilisation nomade. La compatibilité multi-OS détecte automatiquement votre système et adapte les raccourcis. L'autonomie de 10 jours avec rétroéclairage (5 mois sans) élimine les recharges fréquentes.",
+      "description": "Le Logitech MX Keys S est l'évolution du clavier de référence pour les professionnels exigeants en télétravail. Cette version S apporte des touches plus réactives, une efficacité énergétique améliorée et une compatibilité étendue, tout en conservant le design sophistiqué qui allie esthétique minimaliste et ergonomie optimale.\n\nLes touches à ciseaux premium offrent une frappe précise, silencieuse et confortable même après 8 heures d'utilisation. Le rétroéclairage intelligent détecte vos mains et ajuste automatiquement l'intensité selon la luminosité ambiante, pour une autonomie préservée en toute circonstance.\n\nLa fonction Easy-Switch permet de basculer instantanément entre 3 appareils (PC, Mac, tablette) d'une simple pression. Le récepteur Logitech Bolt assure une connexion ultra-stable sans latence, tandis que le Bluetooth offre une flexibilité nomade. La compatibilité multi-OS adapte automatiquement les raccourcis selon votre système. Disponible en Graphite AZERTY.",
       "prosAndCons": {
         "pros": [
           "Qualité de frappe exceptionnelle",
@@ -57,7 +57,7 @@
           "Touches concaves ergonomiques"
         ],
         "cons": [
-          "Prix élevé (100€)",
+          "Prix élevé (90€)",
           "Lourd (810g) pour nomadisme",
           "Pas de repose-poignets inclus",
           "Pas mécanique (pour puristes)",
@@ -108,10 +108,10 @@
           "url": "https://www.amazon.fr/dp/B00DPH7RB0?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 99.99,
+          "current": 76.99,
           "original": 129.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Microsoft-Sculpt-Ergonomic-Desktop/a7089543/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2Fmp21663187%2FMicrosoft-Sculpt-Ergonomic-Keyboard-For-Business-Ensemble-clavier-et-pave-numerique-sans-fil-2-4-GHz-Francais%2Fw-4%3Foref%3D7296c378-99b1-a326-d014-ea0314204c33"
         }
       },
       "features": {
@@ -195,12 +195,6 @@
           "currency": "EUR",
           "asin": "B0G1S26GLJ",
           "url": "https://www.amazon.fr/dp/B0G1S26GLJ?tag=setupteletrav-21"
-        },
-        "fnac": {
-          "current": 134.99,
-          "original": 149.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Keychron-K10-Pro-Clavier/a17234590/w-4"
         }
       },
       "features": {
@@ -262,7 +256,7 @@
     },
     {
       "id": "clavier-004",
-      "name": "Logitech K380",
+      "name": "Logitech Pebble Keys 2 K380s",
       "category": "Clavier",
       "subcategory": "Clavier compact multi-devices portable",
       "images": [
@@ -283,7 +277,7 @@
           "current": 39.99,
           "original": 49.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-K380-Clavier/a8975432/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FClavier-sans-fil-Bluetooth-Azerty-Logitech-Pebble-Keys-2-K380s-Graphite%2Fa18446402%2Fw-4"
         }
       },
       "features": {
@@ -371,10 +365,10 @@
           "url": "https://www.amazon.fr/dp/B0FHHV6YR5?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 119.99,
+          "current": 99.99,
           "original": 129.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-MX-Master-3S-Souris/a16789452/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FSouris-sans-fil-Logitech-MX-Master-3S-Graphite%2Fa22429320%2Fw-4"
         }
       },
       "features": {
@@ -459,10 +453,10 @@
           "url": "https://www.amazon.fr/dp/B0DB2HLSS9?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 99.99,
-          "original": 119.99,
+          "current": 119.99,
+          "original": 129.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-MX-Ergo-Trackball/a11567823/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FSouris-sans-fil-avance-ergonomique-Logitech-Trackball-MX-Ergo-S-Bluetooth-Noir%2Fa20820139%2Fw-4"
         }
       },
       "features": {
@@ -549,10 +543,10 @@
           "url": "https://www.amazon.fr/dp/B07W4DGC27?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 74.99,
+          "current": 72.82,
           "original": 79.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-Lift-Vertical-Souris/a16234892/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FSouris-ergonomique-verticale-sans-fil-Bluetooth-Logitech-Souris-Logitech-Lift-Gris-graphite%2Fa16870370%2Fw-4"
         }
       },
       "features": {
@@ -639,10 +633,10 @@
           "url": "https://www.amazon.fr/dp/B01KZVQB42?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 49.99,
+          "current": 49,
           "original": 59.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-M720-Triathlon-Souris/a10456789/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FLogitech-M720-Triathlon-Souris-pour-droitiers-optique-7-boutons-sans-fil-Bluetooth-2-4-GHz-recepteur-sans-fil-USB%2Fa10019448%2Fw-4%3Foref%3D9653b8cc-5e42-c71c-2030-f5346ddce866"
         }
       },
       "features": {

@@ -24,10 +24,10 @@
           "url": "https://www.amazon.fr/dp/B09XS7JWHH?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 369.99,
+          "current": 279.99,
           "original": 419.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Sony-WH-1000XM5-Casque-Bluetooth-Noir/a17243580/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FCasque-audio-a-reduction-de-bruit-Bluetooth-Sony-WH1000XM5-Noir%2Fa16864769%2Fw-4"
         }
       },
       "features": {
@@ -108,10 +108,10 @@
           "url": "https://www.amazon.fr/dp/B086M57V71?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 209.99,
+          "current": 160.16,
           "original": 249.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Jabra-Evolve2-65-Casque/a14867392/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2Fmp45000987%2FJabra-Evolve2-65-MS-Stereo-Headset-Head-band-Black%2Fw-4%3Foref%3D8c02b7cb-28e5-368e-a7ff-9861b99d069d"
         }
       },
       "features": {
@@ -191,10 +191,10 @@
           "url": "https://www.amazon.fr/dp/B098FKXT8L?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 299.95,
+          "current": 179.55,
           "original": 349.95,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Bose-QuietComfort-45-Casque-Bluetooth/a15709825/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FCasque-a-reduction-de-bruit-sans-fil-Bluetooth-Bose-QuietComfort-45-Noir%2Fa16142754%2Fw-4%3Foref%3Daa09f0af-a51f-0fa0-256d-6a9d8739fe37"
         }
       },
       "features": {
@@ -276,10 +276,10 @@
           "url": "https://amzn.to/4bRiY72"
         },
         "fnac": {
-          "current": 119.99,
+          "current": 84.29,
           "original": 129.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-Zone-Vibe-100-Casque/a17458901/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FCasque-PC-sans-fil-Bluetooth-Logitech-Zone-Vibe-100-Blanc%2Fa17321859%2Fw-4%3Foref%3D2175052c-5db6-b7f0-263a-f56bd4563735"
         }
       },
       "features": {
@@ -364,7 +364,7 @@
           "current": 79.99,
           "original": 99.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-C920-HD-Pro-Webcam/a6948392/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FWebcam-Logitech-C920-HD-Appels-et-Enregistrements-Video-Full-HD-1080p-Gaming-Stream-Deux-Microphones%2Fa9171526%2Fw-4"
         }
       },
       "features": {
@@ -443,12 +443,6 @@
           "currency": "EUR",
           "asin": "B01N5UOYC4",
           "url": "https://www.amazon.fr/dp/B01N5UOYC4?tag=setupteletrav-21"
-        },
-        "fnac": {
-          "current": 209.99,
-          "original": 229.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Logitech-Brio-4K-Stream-Edition/a11357924/w-4"
         }
       },
       "features": {
@@ -532,10 +526,10 @@
           "url": "https://www.amazon.fr/dp/B08PKBZ428?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 179.99,
+          "current": 275,
           "original": 199.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Razer-Kiyo-Pro-Webcam/a15250837/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FWebcam-Razer-Kiyo-Pro-Noir%2Fa15695157%2Fw-4%3Foref%3D1378749e-13b3-d892-62fc-3d93b496eae2"
         }
       },
       "features": {
@@ -601,11 +595,11 @@
       "category": "Webcam",
       "subcategory": "Webcam HD 720p entrée de gamme",
       "images": [
-        "/Img-Audio-Visio/Microsoft-LifeCam/img-p.jpg",
-        "/Img-Audio-Visio/Microsoft-LifeCam/img-2.jpg",
-        "/Img-Audio-Visio/Microsoft-LifeCam/img-3.jpg",
-        "/Img-Audio-Visio/Microsoft-LifeCam/img-4.jpg",
-        "/Img-Audio-Visio/Microsoft-LifeCam/img-5.jpg"
+        "/Img-Audio-Visio/Microsoft-Lifecam/img-p.jpg",
+        "/Img-Audio-Visio/Microsoft-Lifecam/img-2.jpg",
+        "/Img-Audio-Visio/Microsoft-Lifecam/img-3.jpg",
+        "/Img-Audio-Visio/Microsoft-Lifecam/img-4.jpg",
+        "/Img-Audio-Visio/Microsoft-Lifecam/img-5.jpg"
       ],
       "price": {
         "amazon": {
@@ -614,12 +608,6 @@
           "currency": "EUR",
           "asin": "B0096M4QOY",
           "url": "https://www.amazon.fr/dp/B0096M4QOY?tag=setupteletrav-21"
-        },
-        "fnac": {
-          "current": 34.99,
-          "original": 39.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Microsoft-LifeCam-HD-3000-Webcam/a6139745/w-4"
         }
       },
       "features": {
