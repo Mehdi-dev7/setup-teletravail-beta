@@ -157,8 +157,8 @@ export default function ClavierSourisClient({ slug }: { slug: string }) {
 	// Prix enseignes
 	const prixEnseignes = [
 		{ enseigne: "Amazon", prix: item.price.amazon.current, url: item.price.amazon.url, logo: "/logos/amazon.svg", bg: "" },
-		{ enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url, logo: "/logos/fnac.svg", bg: "" },
-	];
+		'fnac' in item.price && item.price.fnac ? { enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url, logo: "/logos/fnac.svg", bg: "" } : null,
+	].filter((x): x is NonNullable<typeof x> => x !== null);
 
 	return (
 		<>
