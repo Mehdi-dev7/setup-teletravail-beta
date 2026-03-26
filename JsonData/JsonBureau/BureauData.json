@@ -81,6 +81,12 @@
           "prix": 159.99,
           "url": "https://www.amazon.fr/dp/B0C9JGVG61?tag=setupteletrav-21",
           "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 145.99,
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2Fmp52247274%2FBureau-electrique-assis-debout-140x70-cm-Hauteur-reglable-Memoire-et-anti-collision-Ports-USB-A-et-Type-C-Coloris-noir%2Fw-4%3Foref%3D0014f1ca-66ae-c06b-1ea0-d763093d6b58",
+          "logo": "/logos/fnac.svg"
         }
       ],
       "dimensions": "140x60 cm",
