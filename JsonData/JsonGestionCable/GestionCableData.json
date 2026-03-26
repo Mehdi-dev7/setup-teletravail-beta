@@ -20,12 +20,7 @@
           "asin": "B0019T0J9S",
           "url": "https://www.amazon.fr/dp/B0019T0J9S?tag=setupteletrav-21"
         },
-        "fnac": {
-          "current": 69.99,
-          "original": 44.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/Bluelounge-CableBox-Rangement/a6789234/w-4"
-        }
+        "fnac": null
       },
       "features": {
         "type": "Boîte cache-multiprise",
@@ -104,12 +99,7 @@
           "asin": "B0B2QP7YB8",
           "url": "https://amzn.to/4d1fSP7"
         },
-        "fnac": {
-          "current": 24.99,
-          "original": 29.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/JOTO-Goulotte-Cache-Cables/a17456892/w-4"
-        }
+        "fnac": null
       },
       "features": {
         "type": "Goulotte adhésive flexible",
@@ -188,12 +178,7 @@
           "asin": "B07WQXG3VS",
           "url": "https://amzn.to/3PhPdDN"
         },
-        "fnac": {
-          "current": 34.99,
-          "original": 14.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/IKEA-SIGNUM-Chemin-Cables/a16892456/w-4"
-        }
+        "fnac": null
       },
       "features": {
         "type": "Chemin de câbles mesh sous bureau",
@@ -271,12 +256,7 @@
           "asin": "",
           "url": "https://amzn.to/4lAgXQ9"
         },
-        "fnac": {
-          "current": 23.99,
-          "original": 24.99,
-          "currency": "EUR",
-          "url": ""
-        }
+        "fnac": null
       },
       "features": {
         "type": "Boîte organisateur câbles",
@@ -350,12 +330,7 @@
           "asin": "B07PBKJ91D",
           "url": "https://amzn.to/4bzvUx2"
         },
-        "fnac": {
-          "current": 10.99,
-          "original": 12.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/D-Line-Micro-Cache-Cables/a17345678/w-4"
-        }
+        "fnac": null
       },
       "features": {
         "type": "Clips adhésifs micro câbles",

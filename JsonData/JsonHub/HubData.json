@@ -23,12 +23,7 @@
           "asin": "B09GK8LBWS",
           "url": "https://amzn.to/3PfUUCa"
         },
-        "fnac": {
-          "current": 899.99,
-          "original": 429.99,
-          "currency": "EUR",
-          "url": "https://www.fnac.com/CalDigit-TS4-Thunderbolt-4-Dock/a16789345/w-4"
-        }
+        "fnac": null
       },
       "features": {
         "connexionPc": "1x Thunderbolt 4 (câble 1m inclus)",
@@ -110,12 +105,7 @@
           "asin": "B0BN28ZT84",
           "url": "https://amzn.to/4bjHk9w"
         },
-        "fnac": {
-          "current": 0,
-          "original": 0,
-          "currency": "EUR",
-          "url": ""
-        }
+        "fnac": null
       },
       "features": {
         "connexionPc": "1x Thunderbolt 4 (câble inclus)",
@@ -194,10 +184,10 @@
           "url": "https://amzn.to/40IgQbx"
         },
         "fnac": {
-          "current": 269.99,
+          "current": 376.11,
           "original": 329.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Dell-WD19TBS-Thunderbolt-Dock/a14567893/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FStation-d-accueil-Dell-Thunderbolt-Dock-WD19TBS-Noir%2Fa15927948%2Fw-4%3Foref%3D835c29b4-5e22-73fe-80f0-54bf4fe5ce75"
         }
       },
       "features": {
@@ -279,12 +269,7 @@
           "asin": "B008YT59Q4",
           "url": "https://amzn.to/40Fkjrj"
         },
-        "fnac": {
-          "current": 0,
-          "original": 0,
-          "currency": "EUR",
-          "url": ""
-        }
+        "fnac": null
       },
       "features": {
         "connexionPc": "1x USB 3.0 Type-A",
@@ -364,12 +349,7 @@
           "asin": "B0FM2PX23T",
           "url": "https://amzn.to/4siDi7b"
         },
-        "fnac": {
-          "current": 139.99,
-          "original": 149.99,
-          "currency": "EUR",
-          "url": ""
-        }
+        "fnac": null
       },
       "features": {
         "connexionPc": "1x USB-C",
@@ -448,10 +428,10 @@
           "url": "https://amzn.to/3NxFk4j"
         },
         "fnac": {
-          "current": 99.99,
+          "current": 138.89,
           "original": 119.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/Belkin-Connect-USB-C-11-in-1/a16345672/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2FBelkin-CONNECT-Universal-USB-C-11-in-1-Pro-Dock-Station-d-accueil-USB-C-VGA-2-x-HDMI-2-5GbE%2Fa20928540%2Fw-4%3Foref%3De61e3957-2a1e-3f19-9041-a07dffc9a448"
         }
       },
       "features": {
@@ -535,10 +515,10 @@
           "url": "https://www.amazon.fr/dp/B0B6PW6VG7?tag=setupteletrav-21"
         },
         "fnac": {
-          "current": 129.99,
+          "current": 127.49,
           "original": 139.99,
           "currency": "EUR",
-          "url": "https://www.fnac.com/StarTech-USB-C-Multiport-Dual-HDMI/a17892456/w-4"
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2Fmp47568329%2FStarTech-com-USB-C-Multiport-Adapter-Dual-HDMI-Video-4K-60Hz-2-Port-10Gbps-USB-A-USB-C-3-1-Hub-100W-USB-Power-Delivery-Charging-GbE-SD-USB-Type-C-Mini-Travel-Dock-12-30cm-Cable-Laptop-Docking-Station-102B-USBC-MULTIPORT-Station-d-accueil%2Fw-4%3Foref%3D7db7b71b-ad0b-4518-1d0c-fa243f45f60d"
         }
       },
       "features": {

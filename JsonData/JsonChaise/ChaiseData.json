@@ -81,6 +81,12 @@
           "prix": 315,
           "url": "https://www.amazon.fr/dp/B0C3T865C2?tag=setupteletrav-21",
           "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 299.99,
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2Fmp52258906%2FSIHOO-Doro-C300-Fauteuil-de-Bureau-Ergonomique-avec-Soutien-Lombaire-Dynamique-Accoudoirs-et-Dossier-Reglables-3D-Noir%2Fw-4%3Foref%3Dbb3ea0a5-f4f1-8e82-ec72-63df12d83b13",
+          "logo": "/logos/fnac.svg"
         }
       ],
       "revetement": "Maille respirante premium",
@@ -196,6 +202,12 @@
           "prix": 199,
           "url": "https://www.amazon.fr/dp/B085GDG45B?tag=setupteletrav-21",
           "logo": "/logos/amazon.svg"
+        },
+        {
+          "enseigne": "Fnac",
+          "prix": 189.99,
+          "url": "https://www.awin1.com/cread.php?awinmid=12665&awinaffid=2816086&ued=https%3A%2F%2Fwww.fnac.com%2Fmp52258904%2FSIHOO-M57-Fauteuil-de-Bureau-Ergonomique-pour-Ordinateur-avec-appuie-tete-reglable-Dossier-et-accoudoirs-en-Maille-Noir%2Fw-4%3Foref%3D96b92a8b-1cd1-ff38-90bc-d78a7aac3865",
+          "logo": "/logos/fnac.svg"
         }
       ],
       "revetement": "Maille respirante intégrale",
