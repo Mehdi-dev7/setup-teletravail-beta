@@ -85,8 +85,8 @@ export default function AudioVisioClient({ slug }: { slug: string }) {
 	// Prix enseignes
 	const prixEnseignes = [
 		{ enseigne: "Amazon", prix: item.price.amazon.current, url: item.price.amazon.url, logo: "/logos/amazon.svg", bg: "" },
-		{ enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url, logo: "/logos/fnac.svg", bg: "" },
-	].sort((a, b) => a.prix - b.prix);
+		item.price.fnac ? { enseigne: "Fnac", prix: item.price.fnac.current, url: item.price.fnac.url, logo: "/logos/fnac.svg", bg: "" } : null,
+	].filter(Boolean).sort((a, b) => a!.prix - b!.prix);
 
 	return (
 		<>
