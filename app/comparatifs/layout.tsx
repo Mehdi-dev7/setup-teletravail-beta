@@ -14,13 +14,13 @@ export const metadata: Metadata = {
 		"comparatif prix",
 	],
 	alternates: {
-		canonical: "https://setup-teletravail.fr/comparatifs",
+		canonical: "https://www.setup-teletravail.fr/comparatifs",
 	},
 	openGraph: {
 		title: "Comparateur Produits Télétravail | Outil Interactif",
 		description:
 			"Comparez facilement les équipements de télétravail. Trouvez le meilleur produit selon vos critères.",
-		url: "https://setup-teletravail.fr/comparatifs",
+		url: "https://www.setup-teletravail.fr/comparatifs",
 		type: "website",
 	},
 };

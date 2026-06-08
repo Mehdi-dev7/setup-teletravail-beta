@@ -18,13 +18,13 @@ export const metadata: Metadata = {
 		"VESA",
 	],
 	alternates: {
-		canonical: "https://setup-teletravail.fr/accessoires/supportEcran",
+		canonical: "https://www.setup-teletravail.fr/accessoires/supportEcran",
 	},
 	openGraph: {
 		title: "Meilleurs Bras & Supports Écran 2026",
 		description:
 			"Trouvez le support d'écran parfait pour votre setup. Bras articulés, supports double écran et rehausseurs.",
-		url: "https://setup-teletravail.fr/accessoires/supportEcran",
+		url: "https://www.setup-teletravail.fr/accessoires/supportEcran",
 		type: "website",
 	},
 };

@@ -18,13 +18,13 @@ export const metadata: Metadata = {
 		"clavier ergonomique",
 	],
 	alternates: {
-		canonical: "https://setup-teletravail.fr/peripheriques/claviers-souris",
+		canonical: "https://www.setup-teletravail.fr/peripheriques/claviers-souris",
 	},
 	openGraph: {
 		title: "Meilleurs Claviers & Souris Télétravail 2026",
 		description:
 			"Trouvez le duo clavier-souris parfait pour votre télétravail. Comparatif Logitech MX, ergonomique et plus.",
-		url: "https://setup-teletravail.fr/peripheriques/claviers-souris",
+		url: "https://www.setup-teletravail.fr/peripheriques/claviers-souris",
 		type: "website",
 	},
 };

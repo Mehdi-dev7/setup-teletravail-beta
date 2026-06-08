@@ -14,13 +14,13 @@ export const metadata: Metadata = {
 		"guide travail à domicile",
 	],
 	alternates: {
-		canonical: "https://setup-teletravail.fr/blog",
+		canonical: "https://www.setup-teletravail.fr/blog",
 	},
 	openGraph: {
 		title: "Blog Télétravail | Conseils & Guides",
 		description:
 			"Articles experts pour optimiser votre espace de télétravail. Ergonomie, productivité et bien-être.",
-		url: "https://setup-teletravail.fr/blog",
+		url: "https://www.setup-teletravail.fr/blog",
 		type: "website",
 	},
 };

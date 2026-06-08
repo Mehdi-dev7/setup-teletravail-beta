@@ -19,13 +19,13 @@ export const metadata: Metadata = {
 		"chaise gaming ergonomique",
 	],
 	alternates: {
-		canonical: "https://setup-teletravail.fr/chaises",
+		canonical: "https://www.setup-teletravail.fr/chaises",
 	},
 	openGraph: {
 		title: "Meilleures Chaises Ergonomiques 2026 | Comparatif Complet",
 		description:
 			"Trouvez la chaise ergonomique parfaite pour votre télétravail. Comparatif détaillé SIHOO, FlexiSpot et plus.",
-		url: "https://setup-teletravail.fr/chaises",
+		url: "https://www.setup-teletravail.fr/chaises",
 		type: "website",
 	},
 };

@@ -16,13 +16,13 @@ export const metadata: Metadata = {
 		"bureau complet télétravail",
 	],
 	alternates: {
-		canonical: "https://setup-teletravail.fr/guides",
+		canonical: "https://www.setup-teletravail.fr/guides",
 	},
 	openGraph: {
 		title: "Setups Télétravail Complets 2026 | Clé en Main",
 		description:
 			"3 configurations complètes pour votre télétravail. Bureau, chaise, écran, périphériques : trouvez le setup adapté à votre budget.",
-		url: "https://setup-teletravail.fr/guides",
+		url: "https://www.setup-teletravail.fr/guides",
 		type: "website",
 	},
 };

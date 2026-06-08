@@ -19,13 +19,13 @@ export const metadata: Metadata = {
 		"moniteur télétravail",
 	],
 	alternates: {
-		canonical: "https://setup-teletravail.fr/ecrans",
+		canonical: "https://www.setup-teletravail.fr/ecrans",
 	},
 	openGraph: {
 		title: "Meilleurs Écrans Télétravail 2026 | Comparatif Complet",
 		description:
 			"Trouvez l'écran parfait pour votre télétravail. Comparatif détaillé des meilleurs moniteurs 4K, USB-C et ultrawide.",
-		url: "https://setup-teletravail.fr/ecrans",
+		url: "https://www.setup-teletravail.fr/ecrans",
 		type: "website",
 	},
 };

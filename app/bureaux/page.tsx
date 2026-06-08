@@ -18,13 +18,13 @@ export const metadata: Metadata = {
 		"standing desk",
 	],
 	alternates: {
-		canonical: "https://setup-teletravail.fr/bureaux",
+		canonical: "https://www.setup-teletravail.fr/bureaux",
 	},
 	openGraph: {
 		title: "Meilleurs Bureaux Assis-Debout 2026 | Comparatif Complet",
 		description:
 			"Trouvez le bureau assis-debout parfait pour votre télétravail. Comparatif détaillé FlexiSpot, SANODESK et plus.",
-		url: "https://setup-teletravail.fr/bureaux",
+		url: "https://www.setup-teletravail.fr/bureaux",
 		type: "website",
 	},
 };
